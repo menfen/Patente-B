@@ -1,0 +1,100 @@
+f7b713f969	True: the disabled parking space is reserved; only vehicles serving disabled people with the proper permit may park there.	صح: مكان ركن ذوي الإعاقة محجوز؛ بس العربيات اللي بتخدمهم ومعاها التصريح المخصوص تركن فيه.
+da93bf6f2b	False: school buses have no right to use a disabled parking space.	غلط: أتوبيسات المدارس مالهاش حق تركن في مكان ذوي الإعاقة.
+28999bc704	False: it indicates a reserved parking space, not a reserved lane.	غلط: معناها مكان ركن محجوز، مش حارة مخصصة.
+c30f82b791	False: it is the opposite: it reserves parking for vehicles serving disabled people.	غلط: بالعكس: بتحجز الركن للعربيات اللي بتخدم ذوي الإعاقة.
+599e6b8707	False: it does not close the road to traffic; it only reserves parking spaces.	غلط: مش بتقفل الطريق على المرور؛ بتحجز أماكن ركن وبس.
+9b1640bcac	False: it concerns parking only; all vehicles may still drive on the road.	غلط: هي عن الركن بس؛ كل العربيات لسه تقدر تمشي في الطريق.
+2d3f99a657	False: mopeds and motorcycles may not park in disabled spaces unless serving a permit holder.	غلط: الموتوبيكان والموتوسيكلات ماينفعش تركن في أماكن ذوي الإعاقة إلا لو بتخدم صاحب تصريح.
+b4fac6dffa	True: this panel regulates parking by time bands, allowing it in some hours and banning it in others.	صح: اللوحة دي بتنظم الركن بالساعات، بتسمح بيه في أوقات وتمنعه في أوقات.
+5c678b2f7c	True: the panel shows parking allowed from 9:00 to 17:00.	صح: اللوحة بتوضح إن الركن مسموح من 9 الصبح لـ 5 العصر.
+99a05599c8	True: from 17:00 to 20:00 parking is forbidden, as shown on the panel.	صح: من 5 العصر لـ 8 بالليل الركن ممنوع، زي ما اللوحة بتوضح.
+0a5694e458	True: it allows parking in some time bands and forbids it in others.	صح: بتسمح بالركن في أوقات وبتمنعه في أوقات تانية.
+21545c5564	True: parking is allowed from 20:00 to 7:00 according to the panel.	صح: الركن مسموح من 8 بالليل لـ 7 الصبح حسب اللوحة.
+d80283eeb5	True: from 7:00 to 9:00 parking is forbidden.	صح: من 7 لـ 9 الصبح الركن ممنوع.
+ec07e159d5	False: according to the panel, parking is allowed from 20:00 only until 7:00, not until 8:00.	غلط: حسب اللوحة، الركن مسموح من 8 بالليل لحد 7 الصبح بس، مش لـ 8.
+af1d671531	False: disc parking is shown by the parking disc symbol; this panel sets permitted and forbidden hours.	غلط: الركن بالقرص ليه رمز القرص؛ اللوحة دي بتحدد ساعات مسموحة وممنوعة.
+5fb62a86ab	False: in the banned hours only parking is forbidden; stopping is still allowed.	غلط: في الساعات الممنوعة الركن بس هو الممنوع؛ الوقوف لسه مسموح.
+ca4e66ad7f	False: from 7:00 to 9:00 parking is forbidden, not allowed.	غلط: من 7 لـ 9 الصبح الركن ممنوع، مش مسموح.
+689f98531b	False: removal applies only where a tow-away panel is shown, which is not the case here.	غلط: السحب بالونش بيبقى بس لو فيه لوحة الونش، ومش موجودة هنا.
+0d5da079b9	True: this is a temporary no parking sign, used for street cleaning on set days and hours.	صح: دي علامة منع ركن مؤقت، بتتحط لتنظيف الشوارع في أيام وساعات محددة.
+8995730f81	True: it is placed on streets where mechanical street cleaning is carried out.	صح: بتتحط في الشوارع اللي بيتعمل فيها تنظيف بالماكينات.
+b7defd8343	True: parking is forbidden during the street cleaning periods shown.	صح: الركن ممنوع في أوقات التنظيف المكتوبة.
+c81e3a2d7e	True: the ban applies only on the days and hours shown.	صح: المنع بس في الأيام والساعات المكتوبة.
+3053f8a75e	False: the vehicle shown is a street sweeper, not a snowplough.	غلط: العربية اللي في الصورة عربية كنس شوارع، مش كاسحة تلج.
+6b25ce1d2f	False: the ban applies to all vehicles; the sweeper drawn only explains the reason for it.	غلط: المنع على كل العربيات؛ عربية الكنس المرسومة بس بتوضح السبب.
+89738eac85	False: it is the other vehicles that may not park, so the cleaning vehicles can work.	غلط: العربيات التانية هي اللي ممنوعة تركن، عشان عربيات التنظيف تشتغل.
+5a9abac7c7	False: it does not mark a depot; it is a temporary parking ban for street cleaning.	غلط: مش بتحدد جراج؛ دي منع ركن مؤقت لتنظيف الشوارع.
+7d74f52ae2	True: this prohibition sign bans transit to road trains and articulated lorries, the vehicles drawn.	صح: علامة المنع دي بتمنع مرور التريلات والمقطورات المفصلية، اللي مرسومة.
+ec7c43855f	True: it bans the vehicle categories shown on the sign.	صح: بتمنع أنواع المركبات اللي مرسومة في العلامة.
+98c7f00ca5	True: it is a transit ban for specific vehicle categories.	صح: دي منع مرور لأنواع معينة من المركبات.
+bb7f97a24e	True: the vehicles drawn may not pass.	صح: المركبات المرسومة ماتعديش.
+4bde042ff7	True: all vehicles except those shown may pass.	صح: كل المركبات تعدي ما عدا المرسومة.
+ff8c18eff4	False: it is a prohibition, not a compulsory route; obligations use round blue signs.	غلط: دي منع مش طريق إجباري؛ الإلزام بيبقى بعلامات دايرية زرقا.
+55e187fd5f	False: it does not announce a lorry park; it bans those vehicles.	غلط: مش بتنبه لمكان ركن عربيات نقل؛ بتمنع المركبات دي.
+2aea8a4980	False: it is the opposite: only the vehicles shown are banned.	غلط: بالعكس: المركبات المرسومة بس هي الممنوعة.
+ec2dd4db2c	False: it bans transit, not parking.	غلط: بتمنع المرور، مش الركن.
+fb637a157f	False: it is not a reserved road; it bans the vehicles shown.	غلط: مش طريق مخصص؛ بتمنع المركبات المرسومة.
+4dc245a84f	False: it is a transit ban, not a parking ban.	غلط: دي منع مرور، مش منع ركن.
+45c9ec1b5f	True: this square blue sign announces that at the next intersection you must turn left, so going straight is not allowed.	صح: العلامة الزرقا المربعة دي بتنبه إنك في التقاطع الجاي لازم تلف شمال، فمش مسموح تكمل على طول.
+f533101e57	True: since only left is allowed, turning right is not permitted.	صح: عشان الشمال بس هو المسموح، اللف يمين ممنوع.
+0d0502e4ab	True: it is placed before an intersection, to announce the compulsory direction.	صح: بتتحط قبل التقاطع، عشان تنبه للاتجاه الإجباري.
+cb59b12323	True: it precedes the round blue 'turn left' mandatory sign placed at the intersection.	صح: بتيجي قبل علامة 'لف شمال' الإجبارية الدايرية الزرقا اللي في التقاطع.
+1f4d0bf80e	True: as an advance notice of a mandatory direction, it belongs to the mandatory signs.	صح: كتنبيه مسبق لاتجاه إجباري، هي من علامات الإلزام.
+374e757294	True: it is advance notice of the obligation to turn left.	صح: دي تنبيه مسبق بإلزام اللف شمال.
+ffad019782	True: at the intersection that follows you may neither go straight nor turn right.	صح: في التقاطع اللي بعدها ماينفعش تكمل على طول ولا تلف يمين.
+afbaf354cb	True: it announces the obligation to turn left at the next intersection.	صح: بتنبه لإلزام اللف شمال في التقاطع الجاي.
+e432366903	True: it precedes an intersection where turning left is compulsory.	صح: بتيجي قبل تقاطع اللف شمال فيه إجباري.
+0312ba8a2d	True: it is an advance warning of a mandatory direction.	صح: دي تنبيه مسبق لاتجاه إجباري.
+1af99615f8	True: it announces the only direction allowed at the next intersection.	صح: بتنبه للاتجاه الوحيد المسموح في التقاطع الجاي.
+de89bc433c	True: a panel may show the distance to the point where the obligation applies.	صح: لوحة ممكن توضح المسافة للمكان اللي الإلزام بيبدأ فيه.
+39dfa00a97	False: one-way streets have their own signs; this one announces a compulsory left turn.	غلط: الشوارع الاتجاه الواحد ليها علامات خاصة؛ دي بتنبه للف شمال إجباري.
+043d1ebe25	False: passing an obstacle on the left uses a round blue sign with a diagonal arrow.	غلط: المرور شمال العائق ليه علامة دايرية زرقا فيها سهم مايل.
+5ce0f66ad0	False: it has nothing to do with slopes; it announces a compulsory left turn.	غلط: مالهاش علاقة بالمنحدرات؛ بتنبه للف شمال إجباري.
+fda68d5b9b	False: it does not require a lane change; it announces a compulsory left turn at the intersection.	غلط: مش بتلزمك تغير حارة؛ بتنبه للف شمال إجباري في التقاطع.
+f618017309	False: a dangerous bend has a triangular warning sign; this is an advance mandatory direction sign.	غلط: المنحنى الخطر ليه علامة تحذير مثلثة؛ دي تنبيه لاتجاه إجباري.
+8183507296	False: it is the opposite: turning left is compulsory.	غلط: بالعكس: اللف شمال إجباري.
+fecfb74374	False: only left is allowed; going straight is not.	غلط: الشمال بس هو المسموح؛ على طول ممنوع.
+e0e93b1d3d	False: you must turn left, not go straight.	غلط: لازم تلف شمال، مش تكمل على طول.
+06d3f5f387	False: it does not announce one-way traffic; it announces a compulsory left turn.	غلط: مش بتنبه لاتجاه واحد؛ بتنبه للف شمال إجباري.
+d23ad67437	False: it is a mandatory (advance) sign, not a prohibition.	غلط: دي علامة إلزام (تنبيه مسبق)، مش منع.
+6afcd22688	False: the direction is compulsory, not recommended.	غلط: الاتجاه إجباري، مش منصوح بيه.
+109e1b4ebe	True: the round blue sign with an upward arrow obliges you to go straight ahead (CdS art. 39).	صح: العلامة الدايرية الزرقا بالسهم لفوق بتلزمك تكمل على طول (CdS art. 39).
+332391422f	True: since you must go straight, turning left is not allowed.	صح: عشان لازم تكمل على طول، اللف شمال ممنوع.
+f9b9e629cb	True: placed before an intersection, it obliges you to go straight on.	صح: لما تتحط قبل تقاطع، بتلزمك تكمل على طول.
+f6c68242fc	True: at the intersection you may turn neither right nor left.	صح: في التقاطع ماينفعش تلف يمين ولا شمال.
+a4bd35539a	True: straight ahead is the only direction allowed.	صح: على طول هو الاتجاه الوحيد المسموح.
+56fb038b7f	True: it is a mandatory direction sign.	صح: دي علامة اتجاه إجباري.
+1a90d6bbe1	True: round blue signs are mandatory signs.	صح: العلامات الدايرية الزرقا علامات إلزام.
+b776921935	True: turning right is not allowed.	صح: اللف يمين ممنوع.
+b34bffd70e	False: you must go straight; turning right or left is forbidden.	غلط: لازم تكمل على طول؛ اللف يمين أو شمال ممنوع.
+190f9ebe01	False: turning at the intersection is not allowed.	غلط: اللف في التقاطع ممنوع.
+83f4b8cf3a	False: one-way streets are shown by square or rectangular signs; this is a mandatory direction.	غلط: الشوارع الاتجاه الواحد ليها علامات مربعة أو مستطيلة؛ دي اتجاه إجباري.
+86578a5705	False: it does not require single-file driving; it obliges you to go straight.	غلط: مش بتلزمك تمشي في صف واحد؛ بتلزمك تكمل على طول.
+b627621322	False: it is a mandatory direction sign, not a lane sign.	غلط: دي علامة اتجاه إجباري، مش علامة حارة.
+c135880362	False: it obliges you to go straight, not to turn.	غلط: بتلزمك تكمل على طول، مش تلف.
+61af6d7888	False: it says nothing about oncoming traffic; the road may still be two-way.	غلط: مش بتقول حاجة عن العربيات الجاية؛ الطريق ممكن يبقى اتجاهين.
+68c211b6df	False: it is not a one-way sign; it obliges you to go straight ahead.	غلط: دي مش علامة اتجاه واحد؛ بتلزمك تكمل على طول.
+9bfa2cfc6b	True: the round blue sign with an arrow bending left obliges you to turn left.	صح: العلامة الدايرية الزرقا بالسهم اللي لافف شمال بتلزمك تلف شمال.
+f5123741a4	True: only left is allowed, so turning right is forbidden.	صح: الشمال بس المسموح، فاللف يمين ممنوع.
+9033cd7863	True: placed before an intersection, it obliges you to turn left.	صح: لما تتحط قبل تقاطع، بتلزمك تلف شمال.
+127389c262	True: at the intersection you may not go straight on.	صح: في التقاطع ماينفعش تكمل على طول.
+9837ff6dc6	True: you may turn only to the left.	صح: تقدر تلف شمال بس.
+cdd9d48b24	True: going straight on is not allowed.	صح: إنك تكمل على طول ممنوع.
+032f772d2b	False: going straight is not allowed; you must turn left.	غلط: على طول ممنوع؛ لازم تلف شمال.
+d58f0856fb	False: turning right is not allowed; only left.	غلط: اللف يمين ممنوع؛ شمال بس.
+81ce5143e5	False: it does not indicate a one-way street; it obliges you to turn left.	غلط: مش معناها اتجاه واحد؛ بتلزمك تلف شمال.
+14bc753d1d	False: it concerns a compulsory left turn, not two-way traffic.	غلط: هي عن لفة شمال إجبارية، مش عن الاتجاهين.
+d1beb06106	False: passing an obstacle on the left uses a sign with a diagonal downward arrow.	غلط: المرور شمال العائق ليه علامة بسهم مايل لتحت.
+967949c82d	False: it does not say the crossroad is one-way; it obliges you to turn left.	غلط: مش بتقول إن الطريق التاني اتجاه واحد؛ بتلزمك تلف شمال.
+1cace1d0ff	False: it is not a one-way sign; it is a compulsory left turn.	غلط: دي مش علامة اتجاه واحد؛ دي لفة شمال إجبارية.
+95c4180b5e	False: it is the opposite: turning left is compulsory.	غلط: بالعكس: اللف شمال إجباري.
+1433fe7e92	False: it has nothing to do with stopping; it obliges you to turn left.	غلط: مالهاش علاقة بالوقوف؛ بتلزمك تلف شمال.
+7cf0bcd899	False: going straight is forbidden; you must turn left.	غلط: على طول ممنوع؛ لازم تلف شمال.
+8ab4aaf3e8	False: passing an obstacle has a different sign; this is a compulsory left turn.	غلط: المرور جنب العائق ليه علامة تانية؛ دي لفة شمال إجبارية.
+ff0ad3bff0	False: a bend is warned of by a triangular sign; this round blue sign is an obligation.	غلط: المنحنى بيتحذر منه بعلامة مثلثة؛ العلامة الدايرية الزرقا دي إلزام.
+f3bbb5e9d3	True: the round blue sign with an arrow bending right obliges you to turn right.	صح: العلامة الدايرية الزرقا بالسهم اللي لافف يمين بتلزمك تلف يمين.
+93d29e508f	True: only right is allowed, so turning left is forbidden.	صح: اليمين بس المسموح، فاللف شمال ممنوع.
+07ecb67d4f	True: at the intersection it obliges you to turn right.	صح: في التقاطع بتلزمك تلف يمين.
+6a2e8f64a7	True: placed before an intersection, it forbids going straight on.	صح: لما تتحط قبل تقاطع، بتمنعك تكمل على طول.
+bdc2886072	True: it indicates a mandatory direction to the right.	صح: معناها اتجاه إجباري لليمين.
+47167870f0	True: you may turn only to the right.	صح: تقدر تلف يمين بس.

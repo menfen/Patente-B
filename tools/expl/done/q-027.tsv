@@ -1,0 +1,100 @@
+01f3c1657c	False: reversible lane lights regulate vehicles in each lane; pedestrians follow their own pedestrian lights.	غلط: إشارات الحارات اللي بتتعكس بتنظم العربيات في كل حارة؛ المشاة ليهم إشارات مشاة خاصة بيهم.
+13f4d33dc6	False: a red X means the lane below is closed to you and you must not use it; it does not mean stop and wait for yellow.	غلط: الـ X الأحمر معناه إن الحارة اللي تحته مقفولة عليك وممنوع تمشي فيها؛ مش معناه اقف واستنى الأصفر.
+ce8d86b17b	False: lane traffic lights apply to all vehicles using the lanes, bicycles included.	غلط: إشارات الحارات بتنطبق على كل المركبات اللي ماشية في الحارات، والعجل كمان.
+0093338e79	False: reversible lane lights show whether each lane is open or closed to your direction, not which lane is for slow vehicles.	غلط: إشارات الحارات اللي بتتعكس بتبيّن كل حارة مفتوحة ولا مقفولة لاتجاهك، مش أنهي حارة للعربيات البطيئة.
+ea7a45e250	False: they do not mark an emergency stopping lane; they show which lanes are open in your direction.	غلط: مش بتحدد حارة وقوف طوارئ؛ بتبيّن أنهي حارات مفتوحة في اتجاهك.
+b5c3354626	False: they do not reserve a lane for overtaking; they open or close each lane to your direction.	غلط: مش بتخصص حارة للتخطي؛ بتفتح أو تقفل كل حارة لاتجاهك.
+456c9bd6d9	False: reversible lanes exist on two-way carriageways, where a central lane can be assigned to one direction or the other.	غلط: الحارات اللي بتتعكس موجودة في نهر طريق اتجاهين، والحارة اللي في النص ممكن تتدّي لاتجاه أو للتاني.
+a1345f3585	True: the green light with the walking figure allows pedestrians to cross.	صح: النور الأخضر اللي فيه صورة واحد ماشي بيسمح للمشاة يعدّوا.
+64b212d88c	True: green on the pedestrian light allows pedestrians to cross the road.	صح: الأخضر في إشارة المشاة بيسمح للمشاة يعدّوا الطريق.
+44396fa0d3	True: with green pedestrians may step onto the carriageway to cross it.	صح: مع الأخضر المشاة يقدروا ينزلوا نهر الطريق ويعدّوه.
+c41d67db46	True: the pedestrian light regulates the crossing of pedestrians at junctions.	صح: إشارة المشاة بتنظم عبور المشاة في التقاطعات.
+81e3b180fc	True: this light, with the pedestrian figure, is a pedestrian traffic light.	صح: الإشارة دي اللي فيها صورة واحد ماشي هي إشارة مشاة.
+09d7c974a6	True: steady yellow on a pedestrian light requires pedestrians already on the crossing to clear it quickly.	صح: الأصفر الثابت في إشارة المشاة بيلزم المشاة اللي على العبور يخلّصوا بسرعة.
+9d25af1f3b	True: red on the pedestrian light forbids pedestrians to cross.	صح: الأحمر في إشارة المشاة بيمنع المشاة يعدّوا.
+b86d643511	False: it is a pedestrian traffic light, not an indicator for an escalator.	غلط: دي إشارة مشاة، مش إشارة لسلم كهربائي.
+1d80498f31	False: the green of the pedestrian light is for pedestrians, not vehicles.	غلط: الأخضر بتاع إشارة المشاة للمشاة، مش للعربيات.
+efcb24a00e	False: with their green, pedestrians have priority over turning vehicles, which must give way to them (CdS art. 191).	غلط: مع الأخضر بتاعهم، المشاة ليهم الأولوية على العربيات اللي بتلف، واللي لازم تدّيهم الأولوية (CdS art. 191).
+845d46b699	False: it regulates pedestrian crossings; it does not indicate a public lift.	غلط: بتنظم عبور المشاة؛ مش بتبيّن أسانسير عام.
+ca59995d8c	False: schools are announced by the CHILDREN warning sign; this is a pedestrian traffic light.	غلط: المدارس بيتعلن عنها بعلامة تحذير الأطفال؛ دي إشارة مشاة.
+446b4cd59e	False: the pedestrian light follows its normal cycle; it is not kept on green when students leave school.	غلط: إشارة المشاة بتمشي على دورتها العادية؛ مش بتفضل خضرا وقت خروج الطلبة من المدرسة.
+c8d2dc8b58	False: it is a pedestrian traffic light, not a sign announcing a school.	غلط: دي إشارة مشاة، مش علامة بتعلن عن مدرسة.
+754bfbe42c	False: it regulates pedestrian crossings, not running races.	غلط: بتنظم عبور المشاة، مش سباقات جري.
+02a8eb6b64	False: it regulates pedestrian crossings on the road; it does not indicate underpasses.	غلط: بتنظم عبور المشاة على الطريق؛ مش بتبيّن أنفاق مشاة.
+f7739490f5	False: it regulates pedestrian crossings, not entrances to the underground.	غلط: بتنظم عبور المشاة، مش مداخل المترو.
+b4a54927cf	False: it regulates pedestrian crossings, not boarding gates in ports.	غلط: بتنظم عبور المشاة، مش بوابات الركوب في الموانئ.
+2f63488f53	False: it regulates pedestrian crossings, not entrances to sports facilities.	غلط: بتنظم عبور المشاة، مش مداخل الملاعب.
+c2d26af0ad	True: the bicycle light is placed where a cycle path meets a road, regulating cyclists crossing it.	صح: إشارة العجل بتتحط في المكان اللي حارة العجل بتقابل فيه الطريق، عشان تنظم عبور راكبي العجل.
+c25d568a24	True: the light with bicycle symbols is reserved for cyclists.	صح: الإشارة اللي فيها رموز العجل مخصوصة لراكبي العجل.
+6c293f0511	True: the red bicycle light requires cyclists to stop.	صح: النور الأحمر بتاع العجل بيلزم راكبي العجل يقفوا.
+1aaee52eb8	True: steady yellow requires cyclists who have already entered the junction to clear it quickly.	صح: الأصفر الثابت بيلزم راكبي العجل اللي دخلوا التقاطع يخرجوا منه بسرعة.
+7a2020dc41	True: the green bicycle light allows only cyclists to cross the junction.	صح: الأخضر بتاع العجل بيسمح لراكبي العجل بس يعدّوا التقاطع.
+afed73b990	False: it regulates bicycles only; mopeds follow the ordinary vehicle lights.	غلط: بتنظم العجل بس؛ الموتوبيكان بيمشي على إشارات العربيات العادية.
+ca2810b738	False: it is a permanent light for cyclists, not an indication of a cycle race.	غلط: دي إشارة دايمة لراكبي العجل، مش بتبيّن سباق عجل.
+0477d6cd4a	False: it regulates cyclists; it does not announce works on a cycle path.	غلط: بتنظم راكبي العجل؛ مش بتعلن عن شغل في حارة عجل.
+24cfbf4bec	False: it is for bicycles, not for motorcycles.	غلط: دي للعجل، مش للموتوسيكلات.
+0abc2d5518	False: it regulates bicycles with red, yellow and green; it is not a permanent ban.	غلط: بتنظم العجل بالأحمر والأصفر والأخضر؛ مش منع دايم.
+d4fc266212	False: it applies only to bicycles, not to all two-wheeled vehicles.	غلط: بتنطبق على العجل بس، مش على كل المركبات اللي بعجلتين.
+9fbc45acfd	True: flashing yellow lights with pedestrian or bicycle symbols are placed next to the vehicle traffic light.	صح: الأنوار الصفرا اللي بترمش ومعاها رمز مشاة أو عجلة بتتحط جنب إشارة العربيات.
+0dbd353745	True: the flashing yellow with a bicycle warns turning drivers that cyclists may be crossing and must be given way.	صح: الأصفر اللي بيرمش بالعجلة بينبه السواقين اللي بيلفوا إن فيه راكبي عجل ممكن يعدّوا ولازم يدّوهم الأولوية.
+3c1c54f239	True: the flashing yellow with a pedestrian warns that, when turning right, you must give way to crossing pedestrians.	صح: الأصفر اللي بيرمش بصورة الماشي بينبهك إنك وإنت بتلف يمين لازم تدّي الأولوية للمشاة اللي بيعدّوا.
+9d652fad24	True: a plain flashing yellow light can be placed at dangerous points of the road as a general warning.	صح: النور الأصفر العادي اللي بيرمش ممكن يتحط في الأماكن الخطيرة من الطريق كتحذير عام.
+e357429e4c	False: it warns of crossing cyclists; it does not indicate a lane for two-wheeled vehicles.	غلط: بينبه من راكبي عجل بيعدّوا؛ مش بيبيّن حارة للمركبات اللي بعجلتين.
+fb6d070330	False: it warns of pedestrians crossing the road you turn into, not of a pedestrian avenue.	غلط: بينبه من مشاة بيعدّوا الطريق اللي داخل عليه، مش من شارع مشاة.
+dceda5eee2	False: it is a general danger warning light, not a traffic light for public transport.	غلط: ده نور تحذير عام، مش إشارة للنقل العام.
+fb9fb93a01	False: it concerns bicycles crossing, not a lane for mopeds.	غلط: بيخص العجل اللي بيعدّي، مش حارة للموتوبيكان.
+9e49b460b9	True: these signals are green-wave lights showing the speed to keep.	صح: الإشارات دي إشارات الموجة الخضرا، بتبيّن السرعة اللي تمشي بيها.
+4a4eed5ed8	True: they recommend the speed to keep so that you find green at the next traffic light.	صح: بتنصحك بالسرعة اللي تمشي بيها عشان تلاقي الإشارة الجاية خضرا.
+7e21a3c378	True: they are placed on roads with several junctions with synchronised (timed) traffic lights.	صح: بتتحط على طرق فيها تقاطعات كتير بإشارات متزامنة (متظبطة على توقيت).
+cfa0a817cd	True: they show the recommended speed for taking advantage of the green wave.	صح: بتبيّن السرعة المنصوح بيها عشان تستفيد من الموجة الخضرا.
+6c19a17a2b	True: only one of the speed values lights up at a time, the others being off.	صح: رقم سرعة واحد بس بينوّر في المرة، والباقي مطفي.
+7ea65f6a33	False: the speed shown is recommended, not compulsory.	غلط: السرعة اللي بتبان منصوح بيها، مش إجبارية.
+a7c618211a	False: it is not a speed limit; it only advises a speed to catch the green wave.	غلط: دي مش حد سرعة؛ بتنصحك بسرعة بس عشان تلحق الموجة الخضرا.
+d6ba9396b5	False: the numbers are speeds in km/h, not following distances.	غلط: الأرقام دي سرعات بالكم/س، مش مسافات بينك وبين اللي قدامك.
+a0d02644bb	False: it does not simply call for caution; it shows the recommended speed to find the next lights green.	غلط: مش بيقولك خد بالك وبس؛ بيبيّن السرعة المنصوح بيها عشان تلاقي الإشارات الجاية خضرا.
+cf9da306bc	False: when off it indicates nothing, and even when lit the speed is only advisory.	غلط: لما يبقى مطفي مش بيبيّن حاجة، وحتى لما ينوّر السرعة مجرد نصيحة.
+bf0215af83	False: motorways have no traffic-light junctions, so green-wave lights are not used there.	غلط: الأوتوستراد مفيهوش تقاطعات بإشارات، فإشارات الموجة الخضرا مش بتتحط عليه.
+bb87ff7d18	False: they show advisory speeds for the green wave, not maximum limits for categories of vehicles.	غلط: بتبيّن سرعات منصوح بيها للموجة الخضرا، مش حدود قصوى لأنواع العربيات.
+36cd0b90c4	False: the speeds are advisory for all vehicles, not compulsory for some.	غلط: السرعات دي نصيحة لكل العربيات، مش إجبارية على بعضها.
+8525d452e0	False: it is a green-wave signal, not a light for roadworks.	غلط: دي إشارة موجة خضرا، مش إشارة شغل في الطريق.
+d10303e065	False: it shows speeds in km/h, not distances to toll booths.	غلط: بتبيّن سرعات بالكم/س، مش مسافات لأكشاك الرسوم.
+ea5d41745c	True: drivers must carry and show, on request, the vehicle registration document (carta di circolazione) (CdS art. 180).	صح: السواق لازم يكون معاه ويوري لما يطلبوا منه رخصة العربية (carta di circolazione) (CdS art. 180).
+b761f09eb9	True: drivers must show their driving licence on request of the police (CdS art. 180).	صح: السواق لازم يوري رخصة السواقة لما الشرطة تطلبها (CdS art. 180).
+def797da11	True: drivers must show the vehicle's insurance certificate on request (CdS art. 180).	صح: السواق لازم يوري شهادة تأمين العربية لما يطلبوها (CdS art. 180).
+9514362eda	True: car drivers must have the warning triangle on board and show it on request (CdS art. 162).	صح: سواق العربية لازم يكون معاه مثلث التحذير في العربية ويوريه لما يطلبوه (CdS art. 162).
+62f98ef72d	False: a first-aid kit is not compulsory equipment for cars and motorcycles in Italy, so it need not be shown.	غلط: شنطة الإسعافات الأولية مش إجبارية في العربيات والموتوسيكلات في إيطاليا، فمش لازم توريها.
+4edfc6de2e	False: the certificate of ownership does not have to be carried; the registration document is enough (CdS art. 180).	غلط: شهادة الملكية مش لازم تبقى معاك؛ رخصة العربية كفاية (CdS art. 180).
+e28b7b6e49	False: the tax code (codice fiscale) is not one of the documents a driver must show.	غلط: الرقم الضريبي (codice fiscale) مش من الورق اللي السواق لازم يوريه.
+f29717b2bb	False: proof of payment of the vehicle tax (bollo) does not have to be carried or shown.	غلط: إيصال دفع ضريبة العربية (bollo) مش لازم يبقى معاك أو توريه.
+ff1a7c788f	True: traffic police officers are recognised by their uniform.	صح: عساكر شرطة المرور بيتعرفوا من الزي بتاعهم.
+a0034c2dd7	True: they are recognised by the red and white signalling disc (paletta).	صح: بيتعرفوا من الـ paletta الحمرا والبيضا.
+93f79d9f5e	True: when not in uniform they are recognised by a distinctive badge.	صح: لما مايبقوش لابسين الزي بيتعرفوا من علامة مميزة.
+db8ac9f9e6	False: the paletta is red and white, not black and white.	غلط: الـ paletta لونها أحمر وأبيض، مش أسود وأبيض.
+3b4127315d	False: they are recognised by uniform, distinctive badge and red-white paletta, not by gloves and reflective strips.	غلط: بيتعرفوا من الزي والعلامة المميزة والـ paletta الحمرا والبيضا، مش من الجوانتي والشرايط العاكسة.
+dcc6920987	True: an officer facing you with arms outstretched forbids passage for your direction, like a red light (CdS art. 43).	صح: العسكري لما يبقى وشه ليك ودراعاته مفرودين بيمنع المرور لاتجاهك، زي الأحمر (CdS art. 43).
+80935fec88	True: in that position you must stop before the transverse stop line.	صح: في الوضع ده لازم تقف قبل خط الوقوف العرضي.
+bcd614d354	True: the position means stop, so you cannot turn left.	صح: الوضع ده معناه اقف، فماتقدرش تدخل شمال.
+e68ea159ca	True: you cannot cross the junction, as the signal equals red.	صح: ماتقدرش تعدّي التقاطع، عشان الإشارة دي زي الأحمر.
+1f438f9c59	True: you cannot turn right either, since all movements are stopped.	صح: ماتقدرش تدخل يمين كمان، عشان كل الحركات واقفة.
+9a7a5a2554	True: arms outstretched facing your direction is equivalent to a red traffic light (CdS art. 43).	صح: الدراعات المفرودة والوش ناحية اتجاهك زي الإشارة الحمرا بالظبط (CdS art. 43).
+77e3a07f04	False: the signal equals red, so you may not pass even when turning right.	غلط: الإشارة دي زي الأحمر، فماتقدرش تعدّي حتى لو داخل يمين.
+f395b64780	False: the driver facing the officer's front must stop; this signal is like red.	غلط: السواق اللي قدام وش العسكري لازم يقف؛ الإشارة دي زي الأحمر.
+ce11bcbda3	False: you must stop; sounding the horn to attract the officer's attention is not allowed (CdS art. 156).	غلط: لازم تقف؛ إنك تضرب كلاكس عشان تلفت نظر العسكري مش مسموح (CdS art. 156).
+817bcada3b	False: it means stop for all movements, including turns.	غلط: معناها اقف لكل الحركات، والدوران كمان.
+424853676d	False: facing you with arms open is equivalent to red, not green.	غلط: وشه ليك ودراعاته مفرودة يعني أحمر، مش أخضر.
+2f661a434a	True: with the officer in profile and arms open, the traffic flows parallel to his arms may pass, like green (CdS art. 43).	صح: لما العسكري يبقى جنبه ليك ودراعاته مفرودة، المرور اللي ماشي موازي لدراعاته يقدر يعدّي، زي الأخضر (CdS art. 43).
+7479980052	True: coming from his right or left you have green, so you may also turn right.	صح: لو جاي من يمينه أو شماله يبقى ليك أخضر، فتقدر كمان تدخل يمين.
+8615daaa1b	True: the parallel flows may cross the junction, using caution.	صح: المرور الموازي يقدر يعدّي التقاطع، بحذر.
+974e1abcbd	True: for flows parallel to the arms the profile position equals a green light.	صح: للمرور الموازي للدراعات، وضع الجنب ده زي الإشارة الخضرا.
+2d6daa6bbc	False: like a green light it allows all permitted directions, not only straight ahead.	غلط: زي الأخضر بيسمح بكل الاتجاهات المسموحة، مش دغري بس.
+a9893f8e16	False: coming from his left you travel parallel to his arms, so you have green and need not stop.	غلط: لو جاي من شماله إنت ماشي موازي لدراعاته، يعني ليك أخضر ومش لازم تقف.
+75040be90c	False: the parallel flows have green; those that must stop do so before the stop line, never after the pedestrian crossing.	غلط: المرور الموازي ليه أخضر؛ واللي لازم يقف بيقف قبل خط الوقوف، عمره ما بيقف بعد عبور المشاة.
+dfe18e08a0	False: for the flows parallel to the arms the profile position equals green, not red.	غلط: للمرور الموازي للدراعات وضع الجنب ده زي الأخضر، مش الأحمر.
+b5e8726315	True: an officer with one arm raised is equivalent to a steady yellow light (CdS art. 43).	صح: العسكري لما يرفع دراع واحد ده زي النور الأصفر الثابت (CdS art. 43).
+49dd0190c6	True: if you have already entered the junction you must clear it quickly.	صح: لو دخلت التقاطع خلاص لازم تخرج منه بسرعة.
+4f106bb5e9	True: you must stop before the junction if you can do so without creating danger.	صح: لازم تقف قبل التقاطع لو تقدر تعملها من غير ما تعمل خطر.
+5d00be1d4a	False: the raised arm applies to all road users, not only to those turning.	غلط: الدراع المرفوع بينطبق على كل اللي في الطريق، مش اللي بيلفوا بس.
+ef81609add	False: like yellow, you must stop only if you can do so safely; otherwise you clear the junction.	غلط: زي الأصفر، بتقف بس لو تقدر بأمان؛ غير كده تخرج من التقاطع.
+47e5dbc0d1	False: the raised arm means stop if possible, like yellow; it does not allow only right turns.	غلط: الدراع المرفوع معناه اقف لو تقدر، زي الأصفر؛ مش بيسمح بالدخول يمين بس.
+f9bd31de76	False: the raised arm applies at every junction, with or without tram tracks.	غلط: الدراع المرفوع بينطبق في كل تقاطع، فيه قضبان ترام أو لأ.
+93a8111b79	False: the raised arm equals yellow; red corresponds to the officer facing you with arms outstretched.	غلط: الدراع المرفوع زي الأصفر؛ الأحمر هو لما العسكري يبقى وشه ليك ودراعاته مفرودة.

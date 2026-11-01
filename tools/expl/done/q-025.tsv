@@ -1,0 +1,100 @@
+a003cef8e9	False: the continuous transverse line is a stop line marking where to stop at a STOP sign or red light; it says nothing about parking bans.	غلط: الخط العرضي المتصل ده خط وقوف بيبيّن فين تقف عند علامة STOP أو الإشارة الحمرا؛ مالوش علاقة بمنع الركن.
+77d157231e	True: on a two-way road a broken centre line may be crossed to overtake, if visibility and traffic make it safe (CdS art. 148).	صح: في طريق اتجاهين، الخط المتقطع اللي في النص ينفع تعدّيه عشان تتخطى، لو الرؤية والمرور يسمحوا بأمان (CdS art. 148).
+b01cfebace	True: you must drive inside your lane; travelling astride the centre line is not allowed (CdS art. 143).	صح: لازم تمشي جوه حارتك؛ المشي راكب على الخط اللي في النص مش مسموح (CdS art. 143).
+07b9bda6ee	True: on a two-way road, to turn left you must move close to the centre of the carriageway, next to the centre line (CdS art. 154).	صح: في طريق اتجاهين، عشان تدخل شمال لازم تقرّب من نص نهر الطريق، جنب الخط اللي في النص (CdS art. 154).
+624b198daf	False: overtaking is allowed only when visibility is good and the opposite lane is free for a sufficient distance, not in any condition (CdS art. 148).	غلط: التخطي مسموح بس لما الرؤية تبقى كويسة والحارة التانية فاضية لمسافة كفاية، مش في أي ظروف (CdS art. 148).
+0f4d1f42f3	False: on two-way roads overtaking on bends with poor visibility is forbidden everywhere, in towns too (CdS art. 148).	غلط: في الطرق اللي اتجاهين التخطي في المنحنيات اللي رؤيتها قليلة ممنوع في كل مكان، وجوه المدن كمان (CdS art. 148).
+e8ccfa2025	False: a U-turn necessarily occupies the other lane; on a two-way road with a broken line it is allowed only when safe and not forbidden.	غلط: الدوران للخلف لازم ياخد الحارة التانية؛ في طريق اتجاهين بخط متقطع بيبقى مسموح بس لما يبقى آمن ومش ممنوع.
+8e0ef789a3	False: on a two-way road the left lane is for oncoming traffic; emergency stops are made off the carriageway or at the far right.	غلط: في طريق اتجاهين الحارة الشمال للعربيات الجاية من قدام؛ الوقوف في الطوارئ بيبقى بره نهر الطريق أو على أقصى اليمين.
+4dba338d54	True: on two-way carriageways the centre line can be continuous (no crossing) or broken (crossing allowed when safe).	صح: في نهر الطريق اللي اتجاهين، الخط اللي في النص ممكن يبقى متصل (ممنوع تعدّيه) أو متقطع (تعدّيه لما يبقى آمن).
+afd5fefbf9	True: a broken centre line may be crossed during overtaking.	صح: الخط المتقطع اللي في النص ينفع تعدّيه وإنت بتتخطى.
+1175c01ecf	True: the centre line may consist of two continuous lines side by side, which must never be crossed.	صح: الخط اللي في النص ممكن يبقى خطين متصلين جنب بعض، وممنوع تعدّيهم خالص.
+a6e6899df1	True: with continuous centre lines you may still overtake if you can do it without crossing them.	صح: مع الخطوط المتصلة اللي في النص تقدر برضه تتخطى لو تقدر تعملها من غير ما تعدّيهم.
+d013d450f3	True: on a two-way carriageway the centre lines separate the two directions of travel.	صح: في نهر الطريق اللي اتجاهين، الخطوط اللي في النص بتفصل بين اتجاهين المرور.
+0d846994d0	False: continuous centre lines may not be crossed even with only the left wheels.	غلط: الخطوط المتصلة اللي في النص ممنوع تعدّيها حتى بالعجل الشمال بس.
+ba3779ba68	False: centre lines divide one carriageway into lanes for the two directions; separate carriageways need a physical median.	غلط: الخطوط اللي في النص بتقسم نهر طريق واحد لحارات للاتجاهين؛ نهرين الطريق المنفصلين محتاجين فاصل حقيقي.
+4fa96afa90	True: the continuous centre line divides the carriageway into two lanes, one per direction.	صح: الخط المتصل اللي في النص بيقسم نهر الطريق لحارتين، حارة لكل اتجاه.
+290ef74543	True: a continuous centre line must not be crossed (CdS art. 40).	صح: الخط المتصل اللي في النص ممنوع تعدّيه (CdS art. 40).
+523bafd039	True: on two-way roads the continuous centre line separates the two directions.	صح: في الطرق اللي اتجاهين الخط المتصل اللي في النص بيفصل بين الاتجاهين.
+8b7ef4e328	True: it is used where visibility is poor, such as on the uphill side of a hump.	صح: بيتحط في الأماكن اللي الرؤية فيها قليلة، زي الطلعة بتاعة المطب العالي.
+c85b17ed5c	True: a continuous centre line can be placed near pedestrian crossings to prevent overtaking there.	صح: الخط المتصل اللي في النص ممكن يتحط جنب عبور المشاة عشان يمنع التخطي هناك.
+a23e474bf4	True: overtaking is possible without crossing the line, e.g. passing a bicycle within your own lane.	صح: التخطي ممكن من غير ما تعدّي الخط، زي إنك تعدّي عجلة وإنت جوه حارتك.
+58008ecb43	False: it divides one carriageway into two lanes with opposite directions, not into two two-way carriageways.	غلط: الخط ده بيقسم نهر طريق واحد لحارتين في اتجاهين عكس بعض، مش لنهرين طريق كل واحد اتجاهين.
+e2fa174f0f	False: you may not drive astride a continuous line.	غلط: ممنوع تمشي راكب على خط متصل.
+06ef446b42	False: a continuous line must not be crossed at all, not even with the left wheels only.	غلط: الخط المتصل ممنوع تعدّيه خالص، حتى بالعجل الشمال بس.
+6c05f5007f	False: a U-turn would mean crossing the continuous line, which is forbidden.	غلط: الدوران للخلف معناه إنك تعدّي الخط المتصل، وده ممنوع.
+0c59d834fa	True: a number painted on the road surface indicates the recommended speed in km/h.	صح: الرقم المكتوب على أرض الطريق بيبيّن السرعة المنصوح بيها بالكم/س.
+e7807f3970	True: the device shown is an artificial hump (dosso artificiale), used to force drivers to slow down.	صح: الحاجة اللي في الصورة دي مطب صناعي (dosso artificiale)، معمول عشان يجبر السواقين يهدّوا.
+180522a8e9	True: it is a speed reducer installed on the road surface.	صح: ده مهدّئ سرعة متركب على أرض الطريق.
+9e4ea69fa3	True: the element shown is a speed reducer (rallentatore di velocità).	صح: الحاجة اللي في الصورة مهدّئ سرعة (rallentatore di velocità).
+5d36e28806	True: yellow lines with the wheelchair symbol mark a parking space reserved for disabled persons.	صح: الخطوط الصفرا مع رمز الكرسي المتحرك بتحدد مكان ركن مخصوص للمعاقين.
+729a876805	True: the diagonal yellow stripes beside the space must be kept free so that disabled people can get in and out of the vehicle.	صح: الخطوط الصفرا المايلة جنب المكان لازم تفضل فاضية عشان المعاق يقدر يركب وينزل من العربية.
+11b48ed8ad	False: the number painted on the road is the recommended speed (50 km/h), not a mass limit in quintals.	غلط: الرقم المكتوب على الأرض هو السرعة المنصوح بيها (50 كم/س)، مش حد للوزن بالقنطار.
+27c112eca9	False: a speed reducer does not imply a parking ban; it only forces vehicles to slow down.	غلط: مهدّئ السرعة مش معناه إن الركن ممنوع؛ هو بس بيجبر العربيات تهدّي.
+fc1074e265	False: a speed reducer is not a cycle crossing, which is marked with broken lines or squares.	غلط: مهدّئ السرعة مش عبور عجل، اللي بيتعلّم بخطوط متقطعة أو مربعات.
+88dfa53ceb	False: a speed reducer is not a pedestrian crossing, which is marked with zebra stripes.	غلط: مهدّئ السرعة مش عبور مشاة، اللي بيتعلّم بخطوط الزيبرا.
+4efb0c83eb	False: these yellow lines mark parking reserved for disabled persons; taxi areas carry the word TAXI.	غلط: الخطوط الصفرا دي بتحدد ركن مخصوص للمعاقين؛ أماكن التاكسي مكتوب عليها TAXI.
+b0650ecaa9	False: they mark a space reserved for disabled persons, not a loading and unloading area.	غلط: دي بتحدد مكان مخصوص للمعاقين، مش منطقة تحميل وتنزيل بضاعة.
+62b2c1b2bd	True: a broken edge line marks the edge of the carriageway where it is open to a lay-by, so you can drive into it.	صح: خط الطرف المتقطع بيبيّن حرف نهر الطريق في المكان المفتوح على مكان وقوف جانبي، فتقدر تدخله.
+71c5f7d79c	True: a broken edge line can separate the carriageway from a driveway, allowing vehicles to enter and exit.	صح: خط الطرف المتقطع ممكن يفصل نهر الطريق عن مدخل عربيات، عشان العربيات تدخل وتطلع.
+7f8ab197e9	True: broken white lines inside the junction are guide lines showing the path to follow.	صح: الخطوط البيضا المتقطعة جوه التقاطع هي خطوط توجيه بتوري المسار.
+0fcc62c601	True: a broken edge line separates the carriageway from an acceleration lane, which vehicles cross to merge.	صح: خط الطرف المتقطع بيفصل نهر الطريق عن حارة التسارع، والعربيات بتعدّيه عشان تندمج.
+0d5d778276	True: at a junction the broken edge line marks the edge of the main road where the side road joins.	صح: في التقاطع خط الطرف المتقطع بيبيّن حرف الطريق الرئيسي في المكان اللي الطريق الفرعي بيدخل عليه.
+a1187271e9	False: a broken edge line may be crossed normally to enter or leave lay-bys, driveways or side roads; it is the continuous edge line that is crossed only in emergencies.	غلط: خط الطرف المتقطع تقدر تعدّيه عادي عشان تدخل أو تطلع من مكان وقوف أو مدخل أو طريق جانبي؛ الخط المتصل هو اللي بيتعدّى في الطوارئ بس.
+4f6b195255	False: a broken edge line does not mean no parking; it shows that the edge can be crossed.	غلط: خط الطرف المتقطع مش معناه ممنوع الركن؛ بيبيّن إن الحرف ينفع يتعدّى.
+0ddbe14840	False: the emergency lane is separated by a continuous edge line, which may be crossed only when necessary.	غلط: حارة الطوارئ بيفصلها خط طرف متصل، مايتعدّاش غير وقت الضرورة.
+bb7e7b4193	False: the verge (banchina) lies beyond the edge line; a broken edge line marks openings such as junctions, lay-bys and driveways.	غلط: الجانب الترابي (banchina) بيبقى بعد خط الطرف؛ الخط المتقطع بيبيّن الفتحات زي التقاطعات وأماكن الوقوف والمداخل.
+b1fcfb4d43	False: guide lines are broken and show the correct path to turn; they do not forbid turning.	غلط: خطوط التوجيه متقطعة وبتوري المسار الصح للدوران؛ مش بتمنع الدوران.
+6ed8c5ef11	False: cycle lanes have their own lines and symbols; this broken edge line marks an opening of the carriageway edge.	غلط: حارة العجل ليها خطوط ورموز خاصة؛ الخط المتقطع ده بيبيّن فتحة في حرف نهر الطريق.
+48fb35658a	False: the broken line separates the carriageway from the lay-by at its entrance; it does not outline the lay-by itself.	غلط: الخط المتقطع بيفصل نهر الطريق عن مكان الوقوف عند مدخله؛ مش بيحدد مكان الوقوف نفسه.
+925165cdc4	True: the St Andrew's cross with the letters P L painted on the road is found near a level crossing.	صح: صليب سانت أندريا مع حروف P L المدهونين على الأرض بتلاقيهم جنب مزلقان.
+ab8417e57d	True: this marking warns that you are near a level crossing, including one without barriers.	صح: الدهان ده بينبهك إنك قربت من مزلقان، حتى لو من غير بوابات.
+5eaf2dad4b	True: it also warns drivers that they are near a level crossing with barriers.	صح: بينبه السواقين كمان إنهم قربوا من مزلقان ببوابات.
+7ac570a133	True: near a level crossing the centre line is continuous, so you may not move into the left half of the road, for example to overtake (CdS art. 148).	صح: جنب المزلقان الخط اللي في النص بيبقى متصل، فممنوع تروح الناحية الشمال من الطريق، مثلاً عشان تتخطى (CdS art. 148).
+ed8d0b1dad	True: drivers must pay attention to trains that may be approaching (CdS art. 147).	صح: السواقين لازم ياخدوا بالهم من القطورات اللي ممكن تكون جاية (CdS art. 147).
+2ba8bf1d0f	False: the marking announces a railway level crossing, not a tram crossing.	غلط: الدهان ده بيعلن عن مزلقان سكة حديد، مش عن عبور ترام.
+b41ed99697	False: it is used near level crossings both with and without barriers.	غلط: بيتحط جنب المزلقانات اللي ببوابات واللي من غير بوابات.
+9dd80ad281	False: it indicates a level crossing, not a junction directed by local police.	غلط: بيبيّن مزلقان، مش تقاطع بتنظمه الشرطة المحلية.
+fba9b750e5	False: it indicates a level crossing; bus stops are marked with a yellow zig-zag line and BUS.	غلط: بيبيّن مزلقان؛ محطات الأتوبيس بتتعلّم بخط أصفر زجزاج وكلمة BUS.
+37ed951196	True: the continuous line separating the emergency lane may be crossed only in case of necessity, such as a breakdown or a passenger feeling ill (CdS art. 176).	صح: الخط المتصل اللي بيفصل حارة الطوارئ مايتعدّاش غير وقت الضرورة، زي عطل في العربية أو حد من الركاب تعبان (CdS art. 176).
+ab738e7ac8	True: a broken-down vehicle may stay in the emergency lane for no more than three hours (CdS art. 176).	صح: العربية العطلانة ممكن تفضل في حارة الطوارئ مدة أقصاها 3 ساعات (CdS art. 176).
+4cbcb2238c	True: the emergency lane must never be used for overtaking (CdS art. 176).	صح: حارة الطوارئ ممنوع خالص تستخدمها في التخطي (CdS art. 176).
+f2f6fd7f10	False: the emergency lane is for emergency stops only, not a time-limited parking area.	غلط: حارة الطوارئ للوقوف في الطوارئ بس، مش مكان ركن لوقت محدد.
+251c72cea3	False: heavy traffic is not a reason to enter the emergency lane; it may be used only in emergencies.	غلط: الزحمة مش سبب إنك تدخل حارة الطوارئ؛ بتستخدم في الطوارئ بس.
+64a976c653	False: the emergency lane is not for turning right; motorways have exit lanes for that.	غلط: حارة الطوارئ مش للدخول يمين؛ الأوتوستراد ليه حارات خروج لده.
+ab3e810014	False: deceleration is done in the deceleration lane before an exit, not in the emergency lane.	غلط: التهدية بتبقى في حارة التباطؤ قبل المخرج، مش في حارة الطوارئ.
+91b8d29f8e	False: driving in the emergency lane is forbidden for all vehicles, motorcycles included.	غلط: المشي في حارة الطوارئ ممنوع على كل العربيات، والموتوسيكلات كمان.
+6923e1ebfb	True: when the traffic light is red you must stop before the continuous transverse line (CdS art. 41).	صح: لما الإشارة تبقى حمرا لازم تقف قبل الخط العرضي المتصل (CdS art. 41).
+060f35985b	True: if a traffic officer orders you to stop, you must stop at the stop line (CdS art. 43).	صح: لو عسكري المرور أمرك تقف، لازم تقف عند خط الوقوف (CdS art. 43).
+7ad0753b73	True: the continuous transverse line marks the point where you must stop.	صح: الخط العرضي المتصل بيبيّن المكان اللي لازم تقف فيه.
+f7eaf74418	False: at an unregulated junction you do not have to stop; the stop line is used with STOP signs, red lights or officers' orders.	غلط: في التقاطع اللي مفيهوش تنظيم مش لازم تقف؛ خط الوقوف بيتحط مع علامة STOP أو الإشارة الحمرا أو أوامر العسكري.
+da51cad56b	False: you must stop at it only when required, e.g. by STOP, a red light or an officer, not always.	غلط: بتقف عنده بس لما يبقى مطلوب، زي STOP أو الإشارة الحمرا أو العسكري، مش دايماً.
+80939a68f2	False: the line only shows where to stop; the duty to give way derives from the sign (e.g. STOP) or the traffic light.	غلط: الخط بيبيّن بس فين تقف؛ إلزام إعطاء الأولوية جاي من العلامة (زي STOP) أو الإشارة.
+bf79f2f035	False: stop lines are placed at junctions regulated by STOP signs or traffic lights, not at exits from private property.	غلط: خطوط الوقوف بتتحط عند التقاطعات اللي فيها STOP أو إشارات، مش عند الخروج من ملك خاص.
+0cd8dda5f2	True: at a red light vehicles must stop and not enter the junction (CdS art. 41).	صح: لما الإشارة تبقى حمرا العربيات لازم تقف وماتدخلش التقاطع (CdS art. 41).
+be4e0e58ab	True: in vertical traffic lights the red is at the top; in horizontal ones it is on the left.	صح: في الإشارات الرأسية الأحمر بيبقى فوق؛ وفي الأفقية بيبقى على الشمال.
+9c7c6a9b28	True: the red light may be bigger than the others to make it more visible.	صح: النور الأحمر ممكن يبقى أكبر من الباقيين عشان يبان أكتر.
+c136685150	True: on red you must stop before the transverse stop line (CdS art. 41).	صح: مع الأحمر لازم تقف قبل خط الوقوف العرضي (CdS art. 41).
+cac6728d59	True: while the red light is on vehicles must not cross the stop line.	صح: طول ما الأحمر منوّر ممنوع العربيات تعدّي خط الوقوف.
+9c374c59a8	False: red means stop for every direction; turning right on red is not allowed in Italy unless a specific green arrow permits it (CdS art. 41).	غلط: الأحمر معناه اقف لكل الاتجاهات؛ الدخول يمين في الأحمر مش مسموح في إيطاليا إلا لو فيه سهم أخضر مخصوص بيسمح (CdS art. 41).
+cd3d577c6b	False: you may move off only when your own light turns green, not when others get yellow.	غلط: تتحرك بس لما إشارتك إنت تبقى خضرا، مش لما الإشارة التانية تبقى صفرا.
+0f01064f8f	False: on red you must stop even if no vehicles or pedestrians are around.	غلط: مع الأحمر لازم تقف حتى لو مفيش عربيات ولا مشاة خالص.
+7274f6436e	False: red forbids entering the junction even when it is clear.	غلط: الأحمر بيمنعك تدخل التقاطع حتى لو فاضي.
+5b93f6ba0a	False: red means stop before the stop line, not hurry through the junction.	غلط: الأحمر معناه اقف قبل خط الوقوف، مش تستعجل وتعدّي التقاطع.
+899b820b48	True: on green you may turn left, but you must give way to vehicles coming from the opposite direction (CdS art. 154).	صح: مع الأخضر تقدر تدخل شمال، بس لازم تدّي الأولوية للعربيات الجاية من الاتجاه العكسي (CdS art. 154).
+27a5d74748	True: a full green light allows you to turn right, giving way to pedestrians crossing the road you enter.	صح: النور الأخضر الكامل بيسمحلك تدخل يمين، وتدّي الأولوية للمشاة اللي بيعدّوا الطريق اللي داخل عليه.
+ef49c60d9e	True: on green you may go straight on.	صح: مع الأخضر تقدر تكمّل دغري.
+fa34f4f0ba	True: even on green you may enter the junction only if you are sure you can clear it before the light turns red (CdS art. 41).	صح: حتى مع الأخضر ماتدخلش التقاطع غير لو متأكد إنك هتخرج منه قبل ما الإشارة تبقى حمرا (CdS art. 41).
+d85ea8a47b	True: green allows you to cross the junction, but you must still use caution.	صح: الأخضر بيسمحلك تعدّي التقاطع، بس لازم برضه تاخد بالك.
+4b43827cfb	True: a green that has been on for a long time may soon turn yellow, so approach carefully and be ready to stop if yellow comes on before you enter.	صح: الأخضر اللي منوّر من بدري ممكن يبقى أصفر قريب، فقرّب بحذر وخليك مستعد تقف لو الأصفر نوّر قبل ما تدخل.
+fe72d1a77e	False: you must never accelerate to beat the light; slow down and keep watching it, ready to stop on yellow.	غلط: عمرك ما تدوس بنزين عشان تلحق الإشارة؛ هدّي وفضل باصص عليها، مستعد تقف لما تبقى صفرا.
+505c205a40	False: on green you may turn left without waiting for yellow, giving way to oncoming vehicles; yellow means stop if you can.	غلط: مع الأخضر تقدر تدخل شمال من غير ما تستنى الأصفر، وتدّي الأولوية للجاي من قدام؛ الأصفر معناه اقف لو تقدر.
+19806d06a5	False: whoever turns left must give way to vehicles coming from the opposite direction (CdS art. 154).	غلط: اللي داخل شمال لازم يدّي الأولوية للعربيات الجاية من الاتجاه العكسي (CdS art. 154).
+793e7b98e0	False: on green you may turn even if the carriageway is not divided into lanes.	غلط: مع الأخضر تقدر تدخل يمين أو شمال حتى لو نهر الطريق مش متقسم حارات.
+90f3d056e1	False: green allows all permitted directions, not only straight ahead.	غلط: الأخضر بيسمح بكل الاتجاهات المسموحة، مش دغري بس.
+42e9c3bca1	False: going straight on green, pedestrians crossing in front of you have red; you must give way to pedestrians mainly when turning into a road they are crossing.	غلط: وإنت ماشي دغري في الأخضر، المشاة اللي قدامك إشارتهم حمرا؛ إعطاء الأولوية للمشاة بيبقى أساساً لما تدخل على طريق هم بيعدّوه.
+44713ff5f5	True: lit green arrows show the directions in which you may proceed.	صح: الأسهم الخضرا المنوّرة بتبيّن الاتجاهات اللي تقدر تمشي فيها.
+49ea65b827	True: lit red arrows mean you may not proceed in the directions shown.	صح: الأسهم الحمرا المنوّرة معناها ممنوع تمشي في الاتجاهات دي.
+29d796c40f	True: a steady yellow arrow means clear the junction if already in it, otherwise stop if you can do so safely.	صح: السهم الأصفر الثابت معناه اخرج من التقاطع لو دخلته، وإلا اقف لو تقدر تقف بأمان.
+013c5acb01	True: flashing yellow arrows mean you may proceed in that direction with particular caution, applying priority rules.	صح: الأسهم الصفرا اللي بترمش معناها تقدر تمشي في الاتجاه ده بحذر زيادة، وتطبق قواعد الأولوية.
+3be51abf2b	True: traffic lights with arrows placed over each lane are lane traffic lights, valid for the lane below.	صح: الإشارات اللي بأسهم فوق كل حارة اسمها إشارات حارات، وبتنطبق على الحارة اللي تحتها.

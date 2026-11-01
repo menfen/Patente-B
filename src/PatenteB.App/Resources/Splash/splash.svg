@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="456" height="456" viewBox="0 0 456 456" xmlns="http://www.w3.org/2000/svg">
+  <!-- Patente B logo letters: Latin B and Arabic ب. No <text>: MAUI's icon generator can't render SVG text. -->
+  <g transform="translate(228 228) scale(0.9) translate(-256 -256)">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(-55 0)" d="M150 140V372M150 140H205a58 58 0 0 1 0 116H150M150 256H215a58 58 0 0 1 0 116H150" stroke="#FFFFFF" stroke-width="44"/>
+    <path transform="translate(-15 0)" d="M432 255C436 300 420 320 385 320H345C315 320 300 305 302 268" stroke="#FFC94A" stroke-width="40"/>
+  </g>
+  <circle cx="352" cy="375" r="22" fill="#FFC94A"/>
+  </g>
+</svg>

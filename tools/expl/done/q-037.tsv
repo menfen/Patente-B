@@ -1,0 +1,100 @@
+bd3d7251e0	True: the snowplough panel is placed under the OTHER DANGERS sign (triangle with an exclamation mark) to specify the type of danger.	صح: لوحة كاسحة التلج بتتحط تحت علامة "أخطار أخرى" (المثلث اللي عليه علامة تعجب) عشان توضح نوع الخطر.
+bf3f9ffe55	True: the panel warns that snowploughs are working, so you must reduce speed.	صح: اللوحة بتحذر إن كاسحات التلج شغالة، فلازم تهدي السرعة.
+8bdf553b58	True: when snowploughs are operating you must keep a distance of at least 20 metres from them.	صح: لما كاسحات التلج تكون شغالة لازم تبعد عنها 20 متر على الأقل.
+271e111464	True: the panel tells drivers to watch out for snowploughs on the road.	صح: اللوحة بتقول للسواقين ياخدوا بالهم من كاسحات التلج على الطريق.
+df9b16e2c4	True: the panel is used on snowy roads to signal snowploughs at work.	صح: اللوحة بتتحط على الطرق اللي عليها تلج عشان تبين إن فيه كاسحات تلج شغالة.
+c9bd91f1bc	False: the panel shows a snowplough at work, not a playground under construction.	غلط: اللوحة بتبين كاسحة تلج شغالة، مش ملعب أطفال بيتبني.
+f546481178	False: the panel warns of snowploughs; it does not ban them, it signals that they are operating.	غلط: اللوحة بتحذر من كاسحات التلج؛ مش بتمنعها، بالعكس بتبين إنها شغالة.
+35beb33820	False: the panel warns of snowploughs; compulsory chains are shown by a round blue sign with a chained tyre.	غلط: اللوحة بتحذر من كاسحات التلج؛ الجنازير الإجبارية بتتبين بعلامة مدورة زرقا عليها كاوتش بجنزير.
+1e0d609f0f	False: the distance to keep from operating snowploughs is at least 20 metres, not 100.	غلط: المسافة اللي لازم تبعدها عن كاسحات التلج الشغالة 20 متر على الأقل، مش 100.
+198254434f	False: the panel only warns of snowploughs at work; it does not say the road is usable only after they pass.	غلط: اللوحة بتحذر بس إن كاسحات التلج شغالة؛ مش بتقول إن الطريق مينفعش يتمشي فيه غير بعد ما تعدّي.
+2f85338df0	False: the vehicle shown is a snowplough, not a rubbish collection truck.	غلط: العربية اللي في الرسمة كاسحة تلج، مش عربية زبالة.
+96c445aae0	True: this panel warns of a road that may flood in heavy rain.	صح: اللوحة دي بتحذر من طريق ممكن يغرق في المطر الجامد.
+7b814adef1	True: the panel indicates you are driving on a stretch that can flood in heavy rain.	صح: اللوحة بتبين إنك ماشي في جزء من الطريق ممكن يغرق في المطر الجامد.
+dc568731b3	True: the warning sign with this panel indicates the road may flood in heavy rain.	صح: علامة الخطر مع اللوحة دي بتبين إن الطريق ممكن يغرق في المطر الجامد.
+7cd1c3ef8d	True: the panel warns of possible flooding of the carriageway from rain or heavy seas.	صح: اللوحة بتحذر إن نهر الطريق ممكن يغرق من المطر أو أمواج البحر العالية.
+ba08491337	False: the panel warns of possible flooding, not a swimming pool.	غلط: اللوحة بتحذر من غرق الطريق، مش حمام سباحة.
+353bac73ce	False: the panel concerns flooding by water, not snow on the road.	غلط: اللوحة خاصة بغرق الطريق بالمية، مش تلج.
+dd42bbb0cf	False: the panel warns of flooding; a soft verge has its own triangular sign.	غلط: اللوحة بتحذر من الغرق؛ الجانب الضعيف ليه علامة مثلثة خاصة.
+67875086a7	False: the panel is a warning of flooding, not a ban on vehicles carrying water-polluting goods, which is a round prohibition sign.	غلط: اللوحة تحذير من الغرق، مش منع للعربيات اللي شايلة مواد بتلوث المية، اللي ليها علامة منع مدورة.
+06655cc846	False: the panel warns of a road that can flood, not of fog.	غلط: اللوحة بتحذر من طريق ممكن يغرق، مش من الشبورة.
+c098b52eb4	False: the panel warns of flooding; speed humps have their own warning sign.	غلط: اللوحة بتحذر من الغرق؛ المطبات الصناعية ليها علامة تحذير خاصة.
+121f3b1b12	True: the queue panel warns of heavy traffic with lines of vehicles forming.	صح: لوحة الطابور بتحذر من زحمة وطوابير عربيات.
+8869967eee	True: the panel warns that you may find vehicles stopped in a queue.	صح: اللوحة بتحذر إنك ممكن تلاقي عربيات واقفة في طابور.
+7a2b631a8f	True: it can be placed at motorway entrances to warn of slow-moving traffic.	صح: ممكن تتحط عند مداخل الأوتوستراد عشان تحذر من عربيات ماشية ببطء.
+a64ea1446c	True: the panel invites caution so as not to run into the back of vehicles stopped in a queue.	صح: اللوحة بتنبهك تاخد بالك عشان متخبطش في ضهر العربيات الواقفة في الزحمة.
+91b8bbacaa	True: on motorways it may advise leaving at an exit to avoid probable queues.	صح: على الأوتوستراد ممكن تنصحك تخرج من مخرج عشان تتفادى الزحمة.
+ff5992bc78	False: the panel warns of queues, not a car park.	غلط: اللوحة بتحذر من طوابير، مش جراج.
+e61b5499a1	False: the panel warns of queues; Telepass lanes are indicated by specific toll signs.	غلط: اللوحة بتحذر من طوابير؛ حارات Telepass ليها علامات خاصة عند الكارتة.
+c141c6b386	False: the panel warns of queues, not a one-way road.	غلط: اللوحة بتحذر من طوابير، مش طريق اتجاه واحد.
+c43cb74c30	False: the panel warns of queues; it does not impose overtaking on the left.	غلط: اللوحة بتحذر من طوابير؛ مش بتفرض التخطي من الشمال.
+0a224419aa	False: with queues ahead you must be ready to stop, keeping an adequate safety distance, not reducing it (CdS art. 149).	غلط: لما يكون فيه طوابير قدامك لازم تكون مستعد توقف وتخلي مسافة أمان كفاية، مش تقللها (CdS art. 149).
+559dd42ce9	False: the panel warns of queues; it does not impose walking pace, though you must adapt speed.	غلط: اللوحة بتحذر من طوابير؛ مش بتفرض سرعة المشي، بس لازم تظبط سرعتك.
+7e731ec89b	True: the panel warns of moving operating machines such as excavators and mechanical shovels.	صح: اللوحة بتحذر من معدات شغالة بتتحرك زي الحفارات واللوادر.
+54aef52bcd	True: it warns that mechanical shovels may be working in the lane.	صح: بتحذر إن ممكن يكون فيه لوادر شغالة في الحارة.
+cc2bd9f3b9	True: it warns that excavators may be moving on the road.	صح: بتحذر إن ممكن يكون فيه حفارات بتتحرك على الطريق.
+bc6affe99e	True: it invites particular caution because of moving mechanical shovels.	صح: بتنبهك تاخد بالك جداً عشان فيه لوادر بتتحرك.
+b74acd4c23	True: it indicates road works with excavators and shovels in operation.	صح: بتبين أعمال طرق فيها حفارات ولوادر شغالة.
+d5d2dc5d91	False: the panel shows operating machines for works, not military vehicles.	غلط: اللوحة بتبين معدات شغل، مش عربيات جيش.
+a7d18cdd55	False: the panel shows works machines in action, not a rubbish dumping area.	غلط: اللوحة بتبين معدات شغل شغالة، مش مكان رمي زبالة.
+28df8d4a0d	False: the panel warns of operating machines; it does not ban them before a bridge.	غلط: اللوحة بتحذر من معدات شغالة؛ مش بتمنعها قبل كوبري.
+8f54eb3fbf	False: the panel warns of works machines; it does not reserve the road for them.	غلط: اللوحة بتحذر من معدات شغل؛ مش بتخصص الطريق ليها.
+6023ab82e0	False: the panel is a warning, not a ban on tracked vehicles.	غلط: اللوحة تحذير، مش منع للعربيات اللي بجنازير.
+49a0479696	False: the panel warns of works machines, not a parking area reserved for them.	غلط: اللوحة بتحذر من معدات شغل، مش مكان ركن ليها.
+6f86bb8b1a	True: the slippery road sign with the ice panel warns of a stretch slippery because of ice.	صح: علامة الطريق الزلق مع لوحة التلج بتحذر من جزء زلق بسبب التلج المتجمد.
+d30f73a0e0	True: the snowflake panel indicates you may find icy stretches.	صح: لوحة ندفة التلج بتبين إنك ممكن تلاقي أجزاء متجمدة.
+db7ecdbd13	True: in low temperatures the panel warns of stretches dangerous because of ice.	صح: في البرد اللوحة بتحذر من أجزاء خطر بسبب التلج.
+721af0f3a1	True: on snow-covered roads it warns of the danger of ice forming.	صح: على الطرق اللي عليها تلج بتحذر من إن التلج يتجمد.
+bf183b47f5	True: the panel invites particular caution because the road may be icy: lower speed, gentle braking and greater distance.	صح: اللوحة بتنبهك تاخد بالك جداً لأن الطريق ممكن يكون متجمد: سرعة أقل، فرامل بهدوء، ومسافة أكبر.
+be556f451b	True: together, the sign and panel mean a road slippery because of ice in low temperatures.	صح: العلامة واللوحة مع بعض معناهم طريق زلق بسبب التلج في البرد.
+58c53449f6	False: the snowflake panel warns of ice, not ski lifts.	غلط: لوحة ندفة التلج بتحذر من التلج المتجمد، مش تلفريك.
+c3c790407d	False: the panel warns of ice on the road, not the way to the Alps.	غلط: اللوحة بتحذر من تلج على الطريق، مش الطريق لجبال الألب.
+9bbce24125	False: the panel warns of ice, not a ski resort.	غلط: اللوحة بتحذر من التلج المتجمد، مش منتجع تزحلق.
+0ff7d328e2	False: the panel warns of ice; it says nothing about hazard lights when parked.	غلط: اللوحة بتحذر من التلج؛ مبتقولش حاجة عن الفلاشر وانت راكن.
+0cf07eafab	False: the panel warns of ice on the road; it is not about main beam headlights.	غلط: اللوحة بتحذر من التلج على الطريق؛ ملهاش علاقة بالنور العالي.
+badd9897f9	False: the panel warns of possible ice on the road, not an area where it often snows.	غلط: اللوحة بتحذر من تلج ممكن يتجمد على الطريق، مش منطقة بينزل فيها تلج كتير.
+062c2edc01	True: the rain panel indicates a stretch that is dangerous in case of rain.	صح: لوحة المطر بتبين جزء من الطريق بيبقى خطر لما تمطر.
+afd3c06db7	True: in rain braking distances increase, so you should increase the safety distance (CdS art. 149).	صح: في المطر مسافة الفرملة بتزيد، فلازم تزوّد مسافة الأمان (CdS art. 149).
+f8be00e6e7	True: the panel indicates the road may become slippery when it rains.	صح: اللوحة بتبين إن الطريق ممكن يبقى زلق لما تمطر.
+c9d2b78e21	True: in rain mud may be found on the road, making it slippery.	صح: في المطر ممكن يبقى فيه طين على الطريق ويخليه زلق.
+d15092fb8d	True: the panel signals a stretch slippery in case of rain.	صح: اللوحة بتبين جزء زلق لما تمطر.
+cc5d88d690	True: with this panel you must reduce speed in rain because the road becomes slippery.	صح: مع اللوحة دي لازم تهدي في المطر لأن الطريق بيبقى زلق.
+cc27cfa0d1	False: the panel warns of danger in rain, not a car wash.	غلط: اللوحة بتحذر من خطر في المطر، مش مغسلة عربيات.
+11eff9e2b8	False: the panel warns of danger in rain, not a weather station.	غلط: اللوحة بتحذر من خطر في المطر، مش محطة أرصاد.
+feb8086145	False: the panel concerns rain making the road slippery, not lorries losing their load.	غلط: اللوحة خاصة بالمطر اللي بيخلي الطريق زلق، مش عربيات نقل بتوقّع حمولتها.
+11b31513ec	False: the panel concerns rain, not dust clouds.	غلط: اللوحة خاصة بالمطر، مش سحب التراب.
+63eb005d33	False: the panel means the danger exists in case of rain, not that it often rains there.	غلط: اللوحة معناها إن الخطر بيكون وقت المطر، مش إن المكان بيمطر كتير.
+05619d11b5	False: the panel concerns rain; falling rocks have their own triangular sign.	غلط: اللوحة خاصة بالمطر؛ وقوع الحجارة ليه علامة مثلثة خاصة.
+d75968bd36	True: the panel indicates an uphill stretch where you will likely find slow lorries.	صح: اللوحة بتبين طلعة غالباً هتلاقي فيها عربيات نقل ماشية ببطء.
+60ca4f7d46	True: the panel indicates a steep climb that forces lorries to slow down.	صح: اللوحة بتبين طلعة جامدة بتخلي عربيات النقل تهدي.
+5a8f5ebac3	True: it invites care because of slow-moving heavy vehicles.	صح: بتنبهك تاخد بالك عشان فيه عربيات تقيلة ماشية ببطء.
+50dc53387f	True: you must moderate speed because slow lorries may be ahead.	صح: لازم تهدي سرعتك عشان ممكن يكون قدامك عربيات نقل ماشية ببطء.
+c6e8f25c30	True: drive at a prudent speed to avoid running into slow lorries ahead.	صح: سوق بسرعة معقولة عشان متخبطش في عربيات النقل البطيئة اللي قدامك.
+fb34721ae9	False: the panel warns of slow lorries on a climb, not a road closed by a collision.	غلط: اللوحة بتحذر من عربيات نقل بطيئة في طلعة، مش طريق مقفول بسبب حادثة.
+de3681c8f3	False: the panel is a warning; overtaking lorries is banned only by a specific no-overtaking sign.	غلط: اللوحة تحذير؛ تخطي عربيات النقل بيتمنع بس بعلامة ممنوع التخطي المخصوصة.
+8c05823db8	False: the panel is used on steep climbs, not on ferry ramps.	غلط: اللوحة بتتحط على الطلعات الجامدة، مش على رصيف المعدية.
+31f473c873	False: the panel warns of slow lorries; it is not an instruction to drive with lights on.	غلط: اللوحة بتحذر من عربيات نقل بطيئة؛ مش أمر إنك تمشي والنور والع.
+aaf0832fca	False: the panel does not require using the horn; the horn should be used only when needed for safety (CdS art. 156).	غلط: اللوحة مش بتلزمك تضرب كلاكس؛ الكلاكس يتستعمل بس لما الأمان يحتاجه (CdS art. 156).
+9e5479e962	False: the panel warns of slow lorries, not that vehicles may be towed.	غلط: اللوحة بتحذر من عربيات نقل بطيئة، مش إن العربيات ممكن تتسحب.
+13925c12e6	True: the tow-truck panel means a vehicle left parked there may be removed by a tow truck.	صح: لوحة الونش معناها إن العربية اللي تتركن هنا ممكن الونش يشيلها.
+6d59266658	True: the removed vehicle may be taken to a municipal vehicle pound.	صح: العربية اللي بتتشال ممكن تتودّى حجز البلدية.
+c459565b4a	True: vehicles serving disabled persons, displaying the proper permit, may not be towed to the pound or clamped.	صح: العربيات اللي بتخدم ناس من ذوي الاحتياجات الخاصة وعليها التصريح، ممنوع تتشال للحجز أو يتحط لها كلبش.
+7a298a49d7	True: the panel indicates a no-parking zone with removal of the vehicle.	صح: اللوحة بتبين منطقة ممنوع الركن فيها والعربية بتتشال.
+f35771076e	True: the sign allows removal of the vehicle or immobilisation with wheel clamps.	صح: العلامة بتسمح بشيل العربية أو تثبيتها بالكلبش.
+129da4b536	False: the tow-truck panel concerns removal of illegally parked vehicles, not breakdown workshops.	غلط: لوحة الونش خاصة بشيل العربيات المركونة غلط، مش ورش الإنقاذ.
+fec180edcf	False: the panel concerns towing illegally parked vehicles, not loading cars on trains.	غلط: اللوحة خاصة بسحب العربيات المركونة غلط، مش تحميل العربيات على القطر.
+f45b5b568d	False: the panel concerns vehicle removal, not an oil-change workshop.	غلط: اللوحة خاصة بشيل العربيات، مش ورشة تغيير زيت.
+f4b5eae08c	False: the panel does not reserve parking for breakdown vehicles; it warns that illegally parked vehicles will be towed.	غلط: اللوحة مش بتخصص ركن لعربيات الإنقاذ؛ بتحذر إن العربيات المركونة غلط هتتسحب.
+bc67feb70f	False: the panel gives no three-hour period; illegally parked vehicles may be removed or clamped at any time.	غلط: اللوحة مفيهاش مدة 3 ساعات؛ العربيات المركونة غلط ممكن تتشال أو يتحط لها كلبش في أي وقت.
+58ba51f04d	False: the panel concerns vehicle removal, not a road closed for an accident.	غلط: اللوحة خاصة بشيل العربيات، مش طريق مقفول بسبب حادثة.
+6dc3331736	True: placed above the carriageway with a destination sign, the arrow panel shows which lane to take for that place.	صح: لما تتحط فوق نهر الطريق مع علامة اسم مكان، لوحة السهم بتبين تاخد أنهي حارة عشان توصل للمكان ده.
+ac92d61a97	True: placed above the carriageway with a sign, the panel specifies which lane the sign refers to.	صح: لما تتحط فوق نهر الطريق مع علامة، اللوحة بتحدد العلامة دي خاصة بأنهي حارة.
+59e92f8353	True: the sign above applies only to the lane indicated by the downward arrow.	صح: العلامة اللي فوق سارية على الحارة اللي السهم اللي لتحت بيشاور عليها بس.
+8b1630c8db	False: the arrow panel shows which lane a sign refers to, not a bus stop.	غلط: لوحة السهم بتبين العلامة خاصة بأنهي حارة، مش موقف أوتوبيس.
+3ce592ae91	False: the panel shows the lane concerned; it says nothing about priority for oncoming traffic.	غلط: اللوحة بتبين الحارة المعنية؛ مبتقولش حاجة عن أولوية اللي جاي عكسك.
+3bd5894dfb	False: the panel indicates the lane the sign applies to, not the end of a rule.	غلط: اللوحة بتبين الحارة اللي العلامة سارية عليها، مش نهاية قاعدة.
+f632c79f13	False: the panel indicates which lane a sign refers to; the end of a speed limit is shown by the speed sign crossed out.	غلط: اللوحة بتبين العلامة خاصة بأنهي حارة؛ نهاية حد السرعة بتتبين بعلامة السرعة وعليها شطب.
+7bae9bb50c	True: panel A (tornante) under a bend sign indicates one or more sharp hairpin bends ahead.	صح: اللوحة A (tornante) تحت علامة المنحنى بتبين إن قدامك كوع أو أكتر ضيق.
+0995e03cf1	True: panel B (3 tornanti) indicates several particularly dangerous hairpin bends ahead.	صح: اللوحة B (3 tornanti) بتبين إن قدامك كذا كوع خطر جداً.
+5c7762c8ca	True: panel A can refer to one or more hairpin bends.	صح: اللوحة A ممكن تكون عن كوع واحد أو أكتر.
+e71853cd70	True: panel B can be placed under the BEND or DOUBLE BEND warning signs.	صح: اللوحة B ممكن تتحط تحت علامة المنحنى أو المنحنى المزدوج.

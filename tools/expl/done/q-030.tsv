@@ -1,0 +1,100 @@
+e57e3a60eb	True: the small level crossing symbol on the right-hand arrow warns that, turning right, you will meet a level crossing.	صح: رمز المزلقان الصغير اللي على سهم اليمين بينبهك إنك لو دخلت يمين هتقابل مزلقان.
+10791bc7f4	True: the sign announces that you go straight on to reach Porto Torres.	صح: العلامة بتقولك كمّل دغري عشان توصل Porto Torres.
+d62805eb0a	True: the brown panel on the left indicates a tourist destination reached by turning left.	صح: اللوحة البني اللي على الشمال بتبيّن مكان سياحي توصله لو دخلت شمال.
+80bcf1377f	True: it announces turning right for S. Giovanni.	صح: بتقولك تدخل يمين عشان S. Giovanni.
+b04d24cf35	True: the level crossing symbol warns those turning right of the danger of trains crossing.	صح: رمز المزلقان بينبه اللي داخل يمين من خطر القطورات اللي بتعدّي.
+d2177f45ef	False: advance direction signs are placed before the junction, not after it.	غلط: علامات الإنذار المسبق للاتجاهات بتتحط قبل التقاطع، مش بعده.
+bab18ee4cc	False: the brown panel shows a tourist/cultural site, not a seaside resort.	غلط: اللوحة البني بتبيّن مكان سياحي أو أثري، مش مصيف على البحر.
+8f256b287b	False: it is a direction (information) sign, not a mandatory sign.	غلط: دي علامة اتجاهات (إرشاد)، مش علامة إلزام.
+3fb39f6c38	False: S. Giovanni can be reached by turning right.	غلط: S. Giovanni توصلها لو دخلت يمين.
+c10a72d1a3	False: the blue background indicates an extra-urban junction, not an urban one with a residential area.	غلط: الأرضية الزرقا بتبيّن تقاطع بره المدن، مش تقاطع جوه المدينة فيه منطقة سكنية.
+f058f38e41	True: this blue lane-selection sign is used on extra-urban roads with two lanes in the same direction.	صح: علامة اختيار الحارة الزرقا دي بتتحط على الطرق بره المدن اللي فيها حارتين في نفس الاتجاه.
+94a01e7dab	True: it announces a pre-selection zone with two destinations.	صح: بتعلن عن منطقة اختيار حارة فيها اتجاهين.
+208e5b0cbf	True: drivers heading for Bari must move into the left lane.	صح: اللي رايح Bari لازم يروح على الحارة الشمال.
+e0d1ca36b9	True: drivers heading for Pescara must move into the right lane.	صح: اللي رايح Pescara لازم يروح على الحارة اليمين.
+92f5625fc1	True: it is placed where you can still change lane, before the lines become continuous.	صح: بتتحط في المكان اللي لسه تقدر تغيّر فيه الحارة، قبل ما الخطوط تبقى متصلة.
+67f7c569ac	False: it assigns lanes to destinations; it does not oblige overtaking on the right.	غلط: بتوزّع الحارات على الاتجاهات؛ مش بتلزمك تتخطى من اليمين.
+0d604f965c	False: the road to Bari is open; you reach it from the left lane.	غلط: الطريق لـ Bari مفتوح؛ بتوصله من الحارة الشمال.
+9e4c982a88	False: it shows lane destinations, not a long straight.	غلط: بتبيّن اتجاهات الحارات، مش طريق مستقيم طويل.
+fac3757391	False: it shows the lane for Bari, not a dangerous bend.	غلط: بتبيّن حارة Bari، مش منحنى خطير.
+2be62688d8	False: it does not announce any obligation to make a U-turn.	غلط: مش بتعلن عن أي إلزام بالدوران للخلف.
+bdbd45cb81	False: it indicates lane destinations, not an overpass.	غلط: بتبيّن اتجاهات الحارات، مش كوبري.
+42362fed50	True: the white background shows that this lane-selection sign is placed on urban roads.	صح: الأرضية البيضا بتبيّن إن علامة اختيار الحارة دي متحطة على طرق جوه المدينة.
+3ad4f31d97	True: on multi-lane urban roads it lets you move into the channelling lanes for your destination.	صح: في الطرق اللي جوه المدينة وفيها حارات كتير بتخليك تدخل حارة التوجيه اللي على اتجاهك.
+3e2d037de0	True: drivers heading for the tourist destination must use the middle lane.	صح: اللي رايح المكان السياحي لازم يمشي في الحارة اللي في النص.
+0e2c207b73	True: drivers heading for Terni must use the left lane.	صح: اللي رايح Terni لازم يمشي في الحارة الشمال.
+83c39624ef	True: drivers going to the town centre must use the right lane.	صح: اللي رايح وسط البلد لازم يمشي في الحارة اليمين.
+94f85a96a5	False: the white background indicates an urban road, not a motorway junction.	غلط: الأرضية البيضا بتبيّن طريق جوه المدينة، مش تقاطع أوتوستراد.
+7690ba6c82	False: it shows lanes for destinations, not how to reach a car park.	غلط: بتبيّن حارات للاتجاهات، مش إزاي توصل لجراج.
+30e230e2b7	False: any distance shown refers to where the lanes or junction begin, not to the town of Terni after the turn.	غلط: أي مسافة مكتوبة بتخص بداية الحارات أو التقاطع، مش مدينة Terni بعد الدخلة.
+1f4c768cb9	False: it does not order U-turns in the side lanes; each lane leads to a destination.	غلط: مش بتأمر بالدوران للخلف في الحارات الجانبية؛ كل حارة رايحة لاتجاه.
+6b1fa1a8e8	False: the road to Terni is open, reached from the left lane.	غلط: الطريق لـ Terni مفتوح، وبتوصله من الحارة الشمال.
+b4a61b43dd	False: it is placed where you can still change lane.	غلط: بتتحط في المكان اللي لسه تقدر تغيّر فيه الحارة.
+7fdcb3e466	True: the H sign with arrow indicates the entrance of a hospital.	صح: علامة H مع السهم بتبيّن مدخل مستشفى.
+e90d55b85e	True: near a hospital you must avoid unnecessary noise, such as using the horn (CdS art. 156).	صح: جنب المستشفى لازم تتجنب الدوشة اللي مالهاش لازمة، زي الكلاكس (CdS art. 156).
+3128e6fd71	True: it shows the direction to enter the hospital.	صح: بتبيّن الاتجاه اللي تدخل منه المستشفى.
+3108efbc81	True: it is placed at a hospital.	صح: بتتحط عند مستشفى.
+1aef595a74	False: a hotel has a bed symbol; H with a cross means hospital.	غلط: الفندق ليه رمز سرير؛ H أو الصليب معناه مستشفى.
+202fd58eb5	False: it indicates a hospital, not a railway station.	غلط: بتبيّن مستشفى، مش محطة قطر.
+6aab8a8056	False: it indicates a hospital, not parking reserved for doctors.	غلط: بتبيّن مستشفى، مش ركن مخصوص للدكاترة.
+a5fee0ef7a	False: it indicates a hospital, not a public dormitory.	غلط: بتبيّن مستشفى، مش مبيت عام.
+e30b055340	True: the sign shows Bologna straight ahead.	صح: العلامة بتبيّن Bologna دغري.
+c570886ba1	True: it announces two specific destinations.	صح: بتعلن عن اتجاهين محددين.
+b07a962aae	True: it announces a junction with a left exit for Linate airport.	صح: بتعلن عن تفريعة فيها خروج شمال لمطار Linate.
+3756147764	True: the green background shows it announces a motorway junction.	صح: الأرضية الخضرا بتبيّن إنها بتعلن عن تفريعة أوتوستراد.
+02ae58a8af	True: at the junction you go straight on for Bologna.	صح: في التفريعة بتكمّل دغري عشان Bologna.
+b46f9be897	False: any distance on the sign refers to the junction, not to Bologna.	غلط: أي مسافة على العلامة بتخص التفريعة، مش Bologna.
+e7aa9c2b55	False: for Bologna you continue straight on; no lane change is required.	غلط: عشان Bologna بتكمّل دغري؛ مش لازم تغيّر الحارة.
+61a5a052a8	False: it announces the junction for the airport; it is not placed at the airport entrance.	غلط: بتعلن عن التفريعة للمطار؛ مش متحطة عند مدخل المطار.
+4379138b8c	False: the aeroplane symbol indicates an airport, not a playground.	غلط: رمز الطيارة بيبيّن مطار، مش ملاهي أطفال.
+f283c567e3	True: the sign shows Milano straight ahead.	صح: العلامة بتبيّن Milano دغري.
+7716a5ba87	True: it indicates two specific destinations.	صح: بتبيّن اتجاهين محددين.
+ac34bdab18	True: it announces a junction with a right turn for the town centre.	صح: بتعلن عن تقاطع فيه دخلة يمين لوسط البلد.
+e66e3db502	True: direction signs of this kind can be found on urban roads.	صح: علامات الاتجاهات من النوع ده ممكن تلاقيها في طرق جوه المدينة.
+0dabba39ae	True: at the junction you go straight on to reach Milano.	صح: في التقاطع بتكمّل دغري عشان توصل Milano.
+0c7c373c36	False: direction signs are used on all roads, not only one-way roads.	غلط: علامات الاتجاهات بتتحط على كل الطرق، مش الاتجاه الواحد بس.
+9557dc588b	False: it announces destinations (Milano and the centre), not a shooting range.	غلط: بتعلن عن أماكن (Milano ووسط البلد)، مش ميدان رماية.
+bdb43b97a3	False: turning right leads to the town centre; the sign says nothing about a secondary road.	غلط: الدخول يمين بيوديك لوسط البلد؛ العلامة مش بتقول حاجة عن طريق فرعي.
+018c67a161	False: it shows destinations, not the start of a one-way road.	غلط: بتبيّن أماكن، مش بداية شارع اتجاه واحد.
+812a73121e	False: turning right leads to the town centre, not to a shopping centre.	غلط: الدخول يمين بيوديك لوسط البلد، مش لمول.
+857a560d5b	True: this exit advance sign is used on main extra-urban roads.	صح: علامة إنذار المخرج دي بتتحط على الطرق الرئيسية بره المدن.
+65f821980f	True: it indicates that the Frosinone exit is 500 m ahead.	صح: بتبيّن إن مخرج Frosinone بعد 500 متر.
+6378d7427b	True: it lists the places reachable by leaving the main extra-urban road at that exit.	صح: فيها الأماكن اللي توصلها لو خرجت من الطريق الرئيسي من المخرج ده.
+a1995f3ec7	True: names on a brown background indicate tourist destinations.	صح: الأسامي اللي على أرضية بني بتبيّن أماكن سياحية.
+9003d4fa3c	True: it shows the distance between the sign and the next exit junction.	صح: بتبيّن المسافة بين العلامة والمخرج الجاي.
+0faf140ea7	False: it is placed before the Frosinone exit, not on leaving the town of Frosinone.	غلط: بتتحط قبل مخرج Frosinone، مش وإنت خارج من بلد Frosinone.
+3205a75e55	False: the 500 m refers to the exit, not to the town of Frosinone.	غلط: الـ 500 متر بتخص المخرج، مش بلد Frosinone.
+ffbe8d8a5a	False: only the exit is 500 m away; the destinations are further.	غلط: المخرج بس اللي بعد 500 متر؛ الأماكن نفسها أبعد.
+e9cac1c22b	False: it announces the next exit, not the end of the road.	غلط: بتعلن عن المخرج الجاي، مش نهاية الطريق.
+90332681f6	True: the town name crossed by a red bar marks the end of the built-up area.	صح: اسم البلد اللي عليه شَرطة حمرا بيبيّن نهاية المنطقة السكنية.
+82d022fe2c	True: the first line of the blue panel shows the next built-up area.	صح: أول سطر في اللوحة الزرقا بيبيّن المنطقة السكنية الجاية.
+5b11de0a25	True: it indicates the end of the built-up area and the following destinations.	صح: بتبيّن نهاية المنطقة السكنية والأماكن اللي بعدها.
+f57dfd265b	True: the blue panel shows the distance in kilometres for each destination.	صح: اللوحة الزرقا بتبيّن المسافة بالكيلومتر لكل مكان.
+561d14dce1	True: it indicates that Napoli is 190 km away.	صح: بتبيّن إن Napoli فاضلها 190 كيلو.
+4df2b934d1	True: it indicates that S. Cesareo is 7 km away.	صح: بتبيّن إن S. Cesareo فاضلها 7 كيلو.
+7185cacb9d	False: it marks the end of the built-up area of Montecompatri, not an uphill road.	غلط: بتبيّن نهاية المنطقة السكنية بتاعة Montecompatri، مش طلعة.
+246aa5ea03	False: you are leaving Montecompatri; the sign does not say it cannot be reached.	غلط: إنت خارج من Montecompatri؛ العلامة مش بتقول إنها ماينفعش توصلها.
+88543f1df6	False: 190 is the distance in km to Napoli, not a road number.	غلط: 190 المسافة بالكيلو لـ Napoli، مش رقم طريق.
+9ee280c8f1	False: it marks the end of a built-up area, not a road closed to traffic.	غلط: بتبيّن نهاية منطقة سكنية، مش طريق مقفول.
+8fcfb75ec6	False: it is placed where a built-up area ends, on ordinary roads crossing towns; main extra-urban roads do not cross built-up areas.	غلط: بتتحط في المكان اللي المنطقة السكنية بتخلص فيه، على الطرق العادية اللي بتعدّي بالبلاد؛ الطرق الرئيسية بره المدن مش بتعدّي جوه المناطق السكنية.
+c1fb82899c	False: the red diagonal bar means end, not start, of the built-up area.	غلط: الشَرطة الحمرا المايلة معناها نهاية المنطقة السكنية، مش بدايتها.
+b0fb7efb0f	True: the sign with pedestrians marks the start of a pedestrian area.	صح: العلامة اللي فيها مشاة بتبيّن بداية منطقة مشاة.
+cf84c07efd	True: the additional panel lists the vehicles allowed to enter.	صح: اللوحة الإضافية فيها العربيات المسموحلها تدخل.
+6dd1e8fcda	True: the panel allows vehicles for loading and unloading goods to circulate.	صح: اللوحة بتسمح لعربيات تحميل وتنزيل البضاعة تمشي.
+45d038a244	True: it allows vehicles serving disabled persons to circulate.	صح: بتسمح للعربيات اللي بتخدم المعاقين تمشي.
+0e26699e8e	False: it marks a pedestrian area, not a police station.	غلط: بتبيّن منطقة مشاة، مش قسم شرطة.
+fac423f6be	False: the area is for pedestrians in general; disabled persons' vehicles are only one of the exceptions.	غلط: المنطقة للمشاة عموماً؛ عربيات المعاقين مجرد استثناء من الاستثناءات.
+f606d97d1d	False: it marks a pedestrian area, not police on foot.	غلط: بتبيّن منطقة مشاة، مش شرطة ماشية على رجليها.
+4ed1f16315	False: it marks a pedestrian area, not street vendors.	غلط: بتبيّن منطقة مشاة، مش بياعين متجولين.
+49ee617089	True: this sign marks the start of a limited traffic zone (ZTL).	صح: العلامة دي بتبيّن بداية منطقة مرور محدود (ZTL).
+ab53840bd0	True: in a ZTL only certain categories of vehicles may circulate.	صح: في الـ ZTL أنواع معينة بس من العربيات مسموحلها تمشي.
+c0dfa852aa	True: the sign shows which vehicles may enter.	صح: العلامة بتبيّن أنهي عربيات تقدر تدخل.
+6a6a4862a3	True: it lists the categories of vehicles admitted.	صح: فيها أنواع العربيات المسموحلها تعدّي.
+f3a57d5574	False: it marks a limited traffic zone, not a one-way road.	غلط: بتبيّن منطقة مرور محدود، مش شارع اتجاه واحد.
+577c4678e8	False: it does not ban all vehicles; the authorised categories may enter.	غلط: مش بتمنع كل العربيات؛ الأنواع المسموحلها تقدر تدخل.
+a44226d195	False: it marks a limited traffic zone, not a military zone.	غلط: بتبيّن منطقة مرور محدود، مش منطقة عسكرية.
+08fa4b7f79	False: a ZTL is a permanent restriction to certain vehicles, not a closure due to heavy traffic.	غلط: الـ ZTL قيد دايم على عربيات معينة، مش قفل بسبب الزحمة.
+4b1b7d651b	False: admission depends on the categories on the panel, not only on being a resident.	غلط: الدخول بيعتمد على الأنواع اللي في اللوحة، مش إنك ساكن هناك وبس.
+0c5e729e44	False: this is the limited traffic zone sign; pedestrian areas have their own sign with pedestrians.	غلط: دي علامة منطقة المرور المحدود؛ منطقة المشاة ليها علامة خاصة فيها مشاة.
+59d4c093e3	True: this sign shows whether the Stelvio pass is open and in what conditions it can be travelled.	صح: العلامة دي بتبيّن ممر Stelvio مفتوح ولا لأ وظروف المرور فيه إيه.
+5b049ed3b6	True: the sign indicates that you may travel only with snow chains or winter tyres.	صح: العلامة بتبيّن إنك تعدّي بس بالجنازير أو الكاوتش الشتوي.

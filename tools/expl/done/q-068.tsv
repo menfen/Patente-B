@@ -1,0 +1,100 @@
+63ca34ca38	False: tyres inflated with nitrogen must be kept at the same pressure recommended by the manufacturer as tyres with air; nitrogen only loses pressure more slowly.	غلط: الكاوتش اللي متنفخ نيتروجين لازم يفضل على نفس الضغط اللي الشركة كاتباه زي الهوا العادي؛ النيتروجين بس بيقل ضغطه أبطأ.
+4f98d5e44e	True: studded tyres may be used only in the winter period set by the rules, because they damage the road surface.	صح: الكاوتش أبو مسامير مسموح بس في فترة الشتا اللي القانون بيحددها، لأنه بيبوّظ الأسفلت.
+dce694a84b	True: winter tyres should be fitted on all four wheels to keep grip balanced between the axles.	صح: الكاوتش الشتوي الأحسن يتركب على العجل الأربعة عشان المسك يفضل متوازن بين المحورين.
+9f9543a060	True: snow chains must be of an approved type; using non-approved chains is punished as if the vehicle had no winter equipment.	صح: جنازير التلج لازم تبقى من نوع معتمد؛ ولو استعملت جنازير مش معتمدة بتتعاقب كأن العربية مفيهاش تجهيزات شتوية خالص.
+d853427307	False: studded tyres must be fitted on all wheels, so that grip is balanced.	غلط: الكاوتش أبو مسامير لازم يتركب على كل العجل، عشان المسك يبقى متوازن.
+4f50062fae	False: on 4x4 vehicles chains are fitted on the wheels indicated in the vehicle's manual, usually the front ones, not necessarily the rear.	غلط: في عربيات الدفع الرباعي الجنازير بتتركب على العجل اللي مكتوب في الكتالوج، وغالباً القدام، مش لازم الورانيين.
+7d6ab64422	False: using chains on roads without snow damages the chains, tyres, road and also suspension components; they must be removed when the snow ends.	غلط: استعمال الجنازير في طريق مفيهوش تلج بيبوّظ الجنازير والكاوتش والطريق وكمان أجزاء العفشة؛ لازم تتشال لما التلج يخلص.
+628b9bc4b8	False: vehicles with winter tyres follow the normal speed limits; they must only respect the maximum speed of the tyre's speed code.	غلط: العربيات اللي عليها كاوتش شتوي بتمشي بحدود السرعة العادية؛ بس لازم ماتعديش أقصى سرعة مكتوبة في كود سرعة الكاوتش.
+b5ecaaa4e5	True: changing a wheel on level, firm ground keeps the vehicle stable on the jack and prevents it from falling.	صح: تغيير العجلة على أرض مستوية وثابتة بيخلي العربية ثابتة على الكوريك ومش هتقع.
+b21fc9281d	True: before changing a wheel apply the parking brake and engage first or reverse gear so the vehicle cannot move.	صح: قبل ما تغيّر العجلة شد فرامل اليد وحط أول سرعة أو الريوس عشان العربية ماتتحركش.
+d509f0d0a7	True: the bolts should be slightly loosened while the wheel is still on the ground, otherwise the raised wheel would turn.	صح: الصواميل لازم تتفك شوية والعجلة لسه على الأرض، لأنها لو مرفوعة هتلف معاك.
+638374cd5d	True: a vehicle on a jack can fall, so you must never put any part of your body underneath it.	صح: العربية اللي على الكوريك ممكن تقع، فعمرك ماتدخل أي حتة من جسمك تحتها.
+bf643ab2b5	True: tighten the bolts lightly with the vehicle raised, then lower it and complete the tightening with the wheel on the ground.	صح: اربط الصواميل خفيف والعربية مرفوعة، وبعدين نزّلها وكمّل الربط والعجلة على الأرض.
+ca7304808f	True: passengers should get out and wait off the carriageway, in a safe place, while the wheel is changed.	صح: الركاب لازم ينزلوا ويستنوا بره نهر الطريق في مكان آمن وانت بتغيّر العجلة.
+03d95e3258	False: the bolts are only loosened before lifting; they are removed after the vehicle has been raised.	غلط: الصواميل بتتفك شوية بس قبل الرفع؛ وبتتشال خالص بعد ما العربية تترفع.
+a3fd807435	False: the jack must be placed only at the lifting points indicated by the manufacturer, near the wheel, not at any point.	غلط: الكوريك لازم يتحط بس في أماكن الرفع اللي الشركة محدداها، قريب من العجلة، مش في أي حتة.
+6350b6bd79	False: the jack must be placed at the lifting point closest to the wheel being replaced.	غلط: الكوريك لازم يتحط في مكان الرفع الأقرب للعجلة اللي بتغيّرها.
+9c80c16f83	False: a temporary (space-saver) spare wheel allows only a limited speed, usually 80 km/h, as shown on the wheel itself.	غلط: الاستبن المؤقت (الصغير) بيسمح بسرعة محدودة بس، غالباً 80 كم/س، زي ما مكتوب عليه.
+76a986f913	False: with a temporary spare wheel you may carry passengers; you must only respect its speed limit and replace it soon.	غلط: بالاستبن المؤقت تقدر تركّب ركاب عادي؛ بس لازم تلتزم بحد السرعة بتاعه وتغيّره بسرعة.
+60869348ad	True: when ABS intervenes (pedal vibration), keep pressing the brake firmly; ABS itself regulates the pressure.	صح: لما الـ ABS يشتغل (الدواسة بتترعش)، فضّل دايس على الفرامل جامد؛ الـ ABS هو اللي بيظبط الضغط.
+39d737e640	True: engine braking is strongest in first gear, because the engine turns fastest relative to the wheels.	صح: فرملة الموتور بتبقى أقوى في أول سرعة، لأن الموتور بيلف أسرع بالنسبة للعجل.
+4485ae3a0d	True: overheated brakes lose effectiveness (fading), so prolonged or repeated braking reduces braking power.	صح: الفرامل لما تسخن زيادة بتفقد قوتها (fading)، فالفرملة الطويلة أو المتكررة بتضعف الفرملة.
+31f91e8b6b	True: on long, steep descents a low gear uses engine braking and prevents the brakes from overheating.	صح: في النزلات الطويلة والحادة السرعة (gear) الواطية بتستعمل فرملة الموتور وبتمنع الفرامل تسخن.
+69786debd3	True: after washing, brakes may be wet and less effective, so a gentle braking test is advisable.	صح: بعد غسيل العربية الفرامل ممكن تبقى مبلولة وأضعف، فالأحسن تجرّبها بفرملة خفيفة.
+39b3c1ba13	False: when ABS intervenes you must keep pressing the pedal firmly; releasing pressure lengthens the stopping distance.	غلط: لما الـ ABS يشتغل لازم تفضل دايس جامد؛ لو خففت الضغط مسافة الوقوف هتطول.
+24ae6ed020	False: the parking brake is not always manual; many vehicles have an electric parking brake with a button.	غلط: فرامل اليد مش دايماً يدوي؛ عربيات كتير فيها فرامل ركن كهربا بزرار.
+984c266f2c	False: the parking brake keeps the vehicle still when parked; for braking while driving the service brake (pedal) is used.	غلط: فرامل اليد بتثبت العربية وهي راكنة؛ عشان تفرمل وانت ماشي بتستعمل الفرامل العادية (الدواسة).
+b84ea59951	False: in neutral you lose engine braking and overheat the brakes; on steep descents engage a low gear.	غلط: على الفاضي بتفقد فرملة الموتور والفرامل بتسخن؛ في النزلات الحادة حط سرعة واطية.
+486c5f471b	True: if there is a fire risk after an accident, turn off the ignition to cut the electrical system and stop the engine, reducing the risk of sparks.	صح: لو في خطر حريقة بعد الحادثة، اقفل المفتاح عشان تفصل الكهربا وتطفي الموتور، فخطر الشرار يقل.
+1b2811cabd	True: without an extinguisher, sand or earth thrown at the base of the flames can smother a small fire.	صح: لو مفيش طفاية، الرملة أو التراب على أساس النار ممكن يطفوا حريقة صغيرة.
+4d968d6b0d	True: a wet blanket can smother small flames by cutting off air, if no extinguisher is available.	صح: البطانية المبلولة ممكن تطفي النار الصغيرة بإنها تقطع عنها الهوا، لو مفيش طفاية.
+10af6a10e2	False: emptying the fuel tank during a fire is impossible and dangerous; switch off the ignition, move people away and use an extinguisher.	غلط: تفضية تانك البنزين وقت الحريقة مستحيل وخطر؛ اقفل المفتاح وبعّد الناس واستعمل الطفاية.
+5e87b09ef7	False: the inertia switch cuts the fuel supply after a crash, so it reduces the risk of fire.	غلط: مفتاح القصور الذاتي (inertia switch) بيقطع البنزين بعد الخبطة، فبيقلل خطر الحريقة.
+dee5705130	False: removing an LPG tank during a fire is impossible and extremely dangerous; move away from the vehicle and call the fire brigade.	غلط: شيل تانك الغاز (LPG) وقت الحريقة مستحيل وخطر جداً؛ ابعد عن العربية وكلم المطافي.
+8564a3d910	True: objects under the driver's seat can slide under the pedals and block them, so they should not be placed there.	صح: الحاجات اللي تحت كرسي السواق ممكن تتزحلق تحت الدواسات وتقفلها، فماتحطش حاجة هناك.
+7b52e6da77	True: using a phone while driving is allowed only with hands-free or an earpiece; hand-held use is forbidden (CdS art. 173).	صح: الموبايل وانت سايق مسموح بس بالـ hands-free أو السماعة؛ إنك تمسكه في إيدك ممنوع (CdS art. 173).
+c806bf99a1	True: the child safety lock prevents children from opening the rear doors from inside while travelling.	صح: قفل الأطفال بيمنع العيال يفتحوا الأبواب الورانية من جوه والعربية ماشية.
+165eba8954	True: the air conditioner dries the air, so in winter it helps demist and defrost the windscreen quickly.	صح: التكييف بينشّف الهوا، فبيساعد في الشتا يشيل الشبورة من على الزجاج بسرعة.
+bdd4030ac2	False: typing messages on a phone while driving is forbidden: it takes eyes, hands and mind off the road (CdS art. 173).	غلط: كتابة رسايل على الموبايل وانت سايق ممنوعة: بتبعد عينك وإيدك ودماغك عن الطريق (CdS art. 173).
+aeb1364cbf	False: the navigator must be programmed before departing or while stopped, not while moving.	غلط: الـ GPS لازم يتظبط قبل ما تتحرك أو وانت واقف، مش والعربية ماشية.
+cf81b156c8	False: variable message signs can also show prescriptive messages such as speed limits, bans or obligations, which must be obeyed.	غلط: اللوحات الإلكترونية اللي رسايلها بتتغير ممكن تعرض كمان أوامر زي حدود السرعة أو المنع أو الإلزام، ولازم تتنفذ.
+ee858d701b	False: if spray from the vehicle ahead dirties your windscreen, increase the distance and use the wipers and washer; overtake only if conditions allow it safely (CdS art. 148).	غلط: لو المية من العربية اللي قدامك بتوسّخ زجاجك، زوّد المسافة واستعمل المساحات والمية؛ وماتتخطاش غير لو الظروف تسمح بأمان (CdS art. 148).
+310dfd85af	True: stickers and hanging objects on windows can block the driver's view, so they must be avoided.	صح: الاستيكرز والحاجات المتعلقة على الزجاج ممكن تحجب رؤية السواق، فلازم تتجنبها.
+3d4eedc436	True: clean, transparent windows give the driver the best possible view outside.	صح: الزجاج النضيف والشفاف بيدّي السواق أحسن رؤية لبره.
+de8279236a	True: worn wiper blades leave streaks and reduce visibility, so they must be checked and replaced.	صح: مساحات الزجاج الدايبة بتسيب خطوط وبتقلل الرؤية، فلازم تتشاف وتتغير.
+ae76d0c28d	True: the washer reservoir must always contain fluid so the windscreen can be cleaned while driving.	صح: خزان مية المساحات لازم يفضل فيه مية دايماً عشان تقدر تنضف الزجاج وانت ماشي.
+60b886d46a	False: a damaged windscreen must be repaired or replaced by a specialist; adhesive tape reduces visibility and is not a repair.	غلط: الزجاج الأمامي المكسور لازم يتصلح أو يتغير عند متخصص؛ الشريط اللاصق بيقلل الرؤية ومش تصليح.
+0e8c5c23fa	False: dust on the windscreen is removed with the washer and wipers; the demister removes condensation, not dust.	غلط: التراب على الزجاج بيتشال بمية المساحات والمساحات؛ مزيل الشبورة بيشيل البخار مش التراب.
+76f988cf38	True: only tyres of the sizes stated in the vehicle's approval documents may be used, for safety (CdS art. 78).	صح: لازم تستعمل بس كاوتش بالمقاسات المكتوبة في ورق اعتماد العربية، عشان الأمان (CdS art. 78).
+1a38c4b0f1	True: wheels on the same axle must have identical tyres so that grip and braking are balanced.	صح: العجل اللي على نفس المحور لازم يبقى عليه كاوتش زي بعض عشان المسك والفرملة يبقوا متوازنين.
+c6fe6a3a87	True: cuts or bulges on the sidewalls can cause sudden blowouts, so the sides must be checked too.	صح: القطوع أو النفخات في جناب الكاوتش ممكن تعمل فرقعة مفاجئة، فلازم تبص على الجناب كمان.
+16d0e18d28	True: correct pressure, as recommended by the manufacturer, ensures grip and stability.	صح: الضغط الصح اللي الشركة كاتباه بيضمن المسك وثبات العربية.
+ae372ebafa	True: an under-inflated tyre rests mainly on its edges, so they wear abnormally.	صح: الكاوتش اللي هواه قليل بيرتكز على جنابه أكتر، فالحواف بتدوب بشكل مش طبيعي.
+87b61ae2ed	False: rotating tyres between positions, as advised by the manufacturer, helps them wear evenly.	غلط: تبديل أماكن الكاوتش، زي ما الشركة بتنصح، بيساعده يدوب بالتساوي.
+1ef3ffa15d	False: the pressure of all tyres must be checked, not only those on the driving wheels.	غلط: ضغط كل الكاوتش لازم يتشاف، مش عجل الجر بس.
+90fc6d8a0d	False: low pressure makes the tyre flex more and overheat; it must be kept at the recommended pressure.	غلط: الضغط القليل بيخلي الكاوتش ينثني أكتر ويسخن؛ لازم يفضل على الضغط المطلوب.
+7f3e1356c9	False: low pressure wears the edges of the tread; wear in the centre is caused by excessive pressure.	غلط: الضغط القليل بيدوّب حواف الكاوتش؛ الدوبان في النص سببه الضغط الزيادة.
+c6f5927354	True: light vehicles usually have a brake servo, which multiplies the force applied to the pedal.	صح: العربيات الخفيفة غالباً فيها سيرفو فرامل بيضاعف القوة اللي بتدوس بيها على الدواسة.
+d3bac2c682	True: brakes convert the vehicle's kinetic energy into heat through friction between linings and discs or drums.	صح: الفرامل بتحوّل طاقة حركة العربية لحرارة عن طريق الاحتكاك بين التيل والطنابير أو الديسكات.
+0da7ed5620	True: the friction linings (pads and shoes) are the parts most stressed by the high temperatures of braking.	صح: التيل (pads و shoes) هو أكتر جزء بيتعب من الحرارة العالية وقت الفرملة.
+bf42058904	True: the parking brake keeps the vehicle still when parked and can be used in an emergency if the service brake fails.	صح: فرامل اليد بتثبت العربية وهي راكنة، وممكن تتستعمل في الطوارئ لو الفرامل العادية باظت.
+430ef7724c	True: brake fluid level must be checked periodically, because a low level can indicate leaks or worn pads.	صح: مستوى زيت الفرامل لازم يتشاف كل فترة، لأن لو قليل ممكن يكون في تسريب أو التيل دايب.
+0f5b8d10c2	True: the parking brake must hold the vehicle still even on slopes.	صح: فرامل اليد لازم تثبت العربية حتى في الطلعات والنزلات.
+bb34f0b7ed	True: a vacuum brake servo uses vacuum from the running engine, so with the engine off it stops assisting.	صح: سيرفو الفرامل بيشتغل بالشفط اللي الموتور بيعمله وهو داير، فلما الموتور يطفي بيبطل يساعد.
+f05d90d369	True: the parking brake must not be used to brake while driving; it can lock the rear wheels and is not designed for that.	صح: فرامل اليد ماتتستعملش عشان تفرمل وانت ماشي؛ ممكن تقفل العجل الوراني ومش معمولة لكده.
+41fc15020c	False: brake fluid level must be checked periodically; it can drop through wear of the pads or leaks.	غلط: مستوى زيت الفرامل لازم يتشاف كل فترة؛ ممكن يقل بسبب دوبان التيل أو التسريب.
+c120d59755	False: on steep roads use a low gear for engine braking; the parking brake must not be used for service braking.	غلط: في الطرق الحادة استعمل سرعة واطية لفرملة الموتور؛ فرامل اليد ماتتستعملش للفرملة العادية.
+20e0f2a6b8	False: the vacuum servo needs the engine running; with the engine off it does not work, even with the key inserted.	غلط: السيرفو محتاج الموتور داير؛ لو الموتور طافي مابيشتغلش حتى لو المفتاح في مكانه.
+06175663ce	False: engaging reverse while moving forward would damage the gearbox and cause loss of control; in emergencies brake firmly.	غلط: إنك تحط الريوس والعربية ماشية لقدام هيبوّظ الفتيس ويفقدك السيطرة؛ في الطوارئ فرمل جامد.
+20326af15f	True: air or vapour bubbles in the hydraulic circuit compress, making the pedal spongy and braking weak or uneven.	صح: فقاعات الهوا أو البخار في دايرة الفرامل بتنضغط، فالدواسة بتبقى طرية والفرملة ضعيفة أو مش متوازنة.
+3e67d95d10	True: excessively worn linings brake less, and unevenly if wear differs between wheels.	صح: التيل الدايب جداً بيفرمل أقل، ومش متوازن لو الدوبان مختلف بين العجل.
+9efce99e76	True: uneven wear of discs or drums reduces braking and makes it uneven.	صح: الدوبان المش متساوي في الديسكات أو الطنابير بيقلل الفرملة ويخليها مش متوازنة.
+e24f863cd9	True: different tyre pressures on the same axle give different grip, so the vehicle pulls to one side when braking.	صح: ضغط كاوتش مختلف على نفس المحور بيدّي مسك مختلف، فالعربية بتشد لناحية وانت بتفرمل.
+520cbc5314	True: overheated linings lose friction (fading), so braking becomes weak.	صح: التيل لما يسخن زيادة بيفقد الاحتكاك (fading)، فالفرملة بتضعف.
+7acfae14fa	True: excessive or badly distributed load makes braking less effective and unbalanced (CdS art. 164).	صح: الحمولة الزيادة أو المتوزعة غلط بتخلي الفرملة أضعف ومش متوازنة (CdS art. 164).
+ae56fa9cca	True: excessive, repeated braking overheats the brakes and reduces their effectiveness.	صح: الفرملة الكتير والمتكررة بتسخّن الفرامل وبتضعفها.
+7ccd1b131d	True: with unbalanced brakes the wheels on one side may lock before the others.	صح: مع الفرامل المش متوازنة العجل اللي على ناحية واحدة ممكن يقفل قبل التاني.
+57a264bc8f	True: with unbalanced brakes the vehicle swerves towards the side of the wheel that locks first.	صح: مع الفرامل المش متوازنة العربية بتلف ناحية العجلة اللي بتقفل الأول.
+a9fb8ccdd3	True: unbalanced brakes cause irregular, uneven tyre wear.	صح: الفرامل المش متوازنة بتخلي الكاوتش يدوب بشكل مش منتظم.
+df15a8cce8	False: the parking brake does not take part in service braking, so its wear does not cause weak or unbalanced braking while driving.	غلط: فرامل اليد مالهاش دخل في الفرملة العادية، فدوبانها مابيعملش فرملة ضعيفة أو مش متوازنة وانت ماشي.
+f60e6fe6e5	False: discs and drums must not be lubricated; oil or grease on them would actually reduce braking.	غلط: الديسكات والطنابير ماتتشحمش؛ الزيت أو الشحم عليهم بالعكس بيقلل الفرملة.
+d41d99077c	False: clutch pedal play has nothing to do with braking.	غلط: لعب دواسة الدبرياج مالوش علاقة بالفرملة.
+ce245293c2	False: power steering does not affect braking.	غلط: الدريكسيون الباور مالوش علاقة بالفرملة.
+73326a4f13	False: rear disc brakes are a normal, efficient system and do not cause poor braking.	غلط: الفرامل الديسك على المحور الوراني نظام عادي وكويس ومابيعملش فرملة ضعيفة.
+b880798037	False: winter tyres on all four wheels are the correct fitting and give balanced braking.	غلط: الكاوتش الشتوي على العجل الأربعة هو التركيب الصح وبيدّي فرملة متوازنة.
+d91ac16106	False: winter tyres can be used on roads without snow; they do not cause unbalanced braking.	غلط: الكاوتش الشتوي ممكن يتستعمل في طرق مفيهاش تلج؛ ومابيعملش فرملة مش متوازنة.
+7a3970c90d	False: the fuel type (methane) has no effect on braking.	غلط: نوع الوقود (الغاز الطبيعي) مالوش أي تأثير على الفرملة.
+bd84ed4049	False: unbalanced brakes affect braking and tyre wear, not the engine coolant temperature.	غلط: الفرامل المش متوازنة بتأثر على الفرملة ودوبان الكاوتش، مش على حرارة مية الموتور.
+d2de466ba2	False: on steep descents use a low gear for engine braking; driving with the handbrake partly on overheats and damages the brakes.	غلط: في النزلات الحادة استعمل سرعة واطية لفرملة الموتور؛ السواقة وفرامل اليد متشدودة شوية بتسخّن وتبوّظ الفرامل.
+02898ede89	False: replacing brake pads affects safety and must be done by a qualified workshop.	غلط: تغيير تيل الفرامل بيأثر على الأمان ولازم يتعمل في ورشة متخصصة.
+13fa23f307	True: the suspension connects the wheels to the chassis (body), sitting between them.	صح: العفشة (المساعدين والسوست) بتوصّل العجل بالشاسيه، وموجودة بينهم.
+34190a80db	True: the suspension absorbs road unevenness and gives passengers a comfortable ride.	صح: العفشة بتمتص المطبات وبتخلي الركاب مرتاحين.
+7933a4b475	True: the suspension keeps the wheels in contact with the road, which is essential for grip, steering and braking.	صح: العفشة بتخلي العجل لازق في الأرض، وده أساسي للمسك واللف والفرملة.
+e08e1c5cb4	True: springs and shock absorbers absorb the shocks caused by bumps and holes in the road.	صح: السوست والمساعدين بيمتصوا الخبطات اللي بتيجي من المطبات والحفر.
+f108e5c03e	True: by absorbing shocks and keeping the wheels on the ground, the suspension makes driving both more comfortable and safer.	صح: العفشة لما تمتص الخبطات وتخلي العجل على الأرض بتخلي السواقة مريحة وأأمن.
+ac203c1086	False: holding the vehicle still on a slope is the job of the parking brake, not of the suspension.	غلط: تثبيت العربية في الطلعة أو النزلة شغل فرامل اليد، مش العفشة.
+98687c8a90	False: the suspension is fitted on all wheels, front and rear.	غلط: العفشة موجودة على كل العجل، القدام والورا.
+3c1c4b85d1	False: the suspension absorbs bumps to make the ride smoother, not to make the vehicle rigid.	غلط: العفشة بتمتص المطبات عشان الركوب يبقى ناعم، مش عشان العربية تبقى ناشفة.
+74b7c1aec2	False: the suspension works on straight roads too, absorbing every unevenness of the surface.	غلط: العفشة شغالة في الطريق المستقيم كمان، بتمتص أي عدم استواء في الأرض.
+a13d6b1ebe	True: shock absorbers and springs wear out over time or can be damaged by strong impacts, losing effectiveness.	صح: المساعدين والسوست بيدوبوا مع الوقت أو ممكن يتبوظوا من الخبطات الجامدة، فبيضعفوا.

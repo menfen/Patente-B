@@ -1,0 +1,100 @@
+aafb7eddee	True: the round blue sign with an arrow bending right is a mandatory direction sign: you must turn right.	صح: العلامة الدايرية الزرقا بالسهم اللي لافف يمين علامة اتجاه إجباري: لازم تلف يمين.
+3be8c4adf8	False: it does not warn of danger; it is an obligation to turn right. Dangers are shown by triangular signs.	غلط: مش بتحذر من خطر؛ دي إلزام باللف يمين. المخاطر ليها علامات مثلثة.
+804a572b51	False: going straight is not allowed; you must turn right.	غلط: على طول ممنوع؛ لازم تلف يمين.
+e466b6df3e	False: it does not indicate a one-way street; it obliges you to turn right.	غلط: مش معناها اتجاه واحد؛ بتلزمك تلف يمين.
+c9ddbb6bad	False: it concerns a compulsory right turn, not two-way traffic.	غلط: هي عن لفة يمين إجبارية، مش عن الاتجاهين.
+505a5f3cca	False: it does not say the crossroad is one-way; it obliges you to turn right.	غلط: مش بتقول إن الطريق التاني اتجاه واحد؛ بتلزمك تلف يمين.
+126565d339	False: it is the opposite: turning right is compulsory.	غلط: بالعكس: اللف يمين إجباري.
+2f7d16d286	False: parking is shown by the blue P sign; this one obliges you to turn right.	غلط: الركن ليه علامة P زرقا؛ دي بتلزمك تلف يمين.
+23959c2ea5	False: passing to the right of an obstacle uses a sign with a diagonal downward arrow.	غلط: المرور يمين العائق ليه علامة بسهم مايل لتحت.
+8c03979e9c	False: bends are warned of by triangular signs; this round blue sign is an obligation.	غلط: المنحنيات بيتحذر منها بعلامات مثلثة؛ العلامة الدايرية الزرقا دي إلزام.
+39f62e578b	True: this square blue sign is an advance notice that you will have to turn right at the next intersection.	صح: العلامة الزرقا المربعة دي تنبيه مسبق إنك هتضطر تلف يمين في التقاطع الجاي.
+6c0b0eaee9	True: since only right will be allowed, you may neither go straight nor turn left.	صح: عشان اليمين بس اللي هيبقى مسموح، ماينفعش تكمل على طول ولا تلف شمال.
+6099758ec9	True: it precedes an intersection where turning right is compulsory.	صح: بتيجي قبل تقاطع اللف يمين فيه إجباري.
+2d5b99ab70	True: at the next intersection going straight on is not allowed.	صح: في التقاطع الجاي ماينفعش تكمل على طول.
+15a0620bd6	True: turning left will not be allowed.	صح: اللف شمال مش هيبقى مسموح.
+9baeb3021b	True: a panel may show the distance to the point of the obligation.	صح: لوحة ممكن توضح المسافة لمكان الإلزام.
+22b2f82910	True: it precedes the round blue 'turn right' sign placed at the intersection.	صح: بتيجي قبل علامة 'لف يمين' الدايرية الزرقا اللي في التقاطع.
+1b083e7c9d	True: turning left is not permitted at the intersection ahead.	صح: اللف شمال مش مسموح في التقاطع اللي قدام.
+d78a89ed6f	False: it is the opposite: turning right is compulsory.	غلط: بالعكس: اللف يمين إجباري.
+0e69bb04b9	False: only right is allowed; going straight is not.	غلط: اليمين بس المسموح؛ على طول ممنوع.
+f4432714c2	False: passing an obstacle on the right uses the round sign with a diagonal arrow.	غلط: المرور يمين العائق ليه العلامة الدايرية بالسهم المايل.
+4cf5dc9221	False: a dangerous bend has a triangular warning sign; this is an advance mandatory direction.	غلط: المنحنى الخطر ليه علامة تحذير مثلثة؛ دي تنبيه لاتجاه إجباري.
+25d70b0780	False: a merging road has a triangular warning sign; this one announces a compulsory right turn.	غلط: الطريق اللي بيدخل عليك ليه علامة تحذير مثلثة؛ دي بتنبه للف يمين إجباري.
+2100f0a949	False: it does not concern lorries or lanes; it announces a compulsory right turn for everyone.	غلط: مالهاش علاقة بعربيات النقل أو الحارات؛ بتنبه للف يمين إجباري للكل.
+f138a0b8f0	False: it is an advance notice of an obligation, not a danger sign.	غلط: دي تنبيه مسبق لإلزام، مش علامة خطر.
+6ce36d45f6	False: it does not announce a deceleration lane; it announces a compulsory right turn.	غلط: مش بتنبه لحارة تهدئة؛ بتنبه للف يمين إجباري.
+6c3e00b40e	False: the turn is compulsory at the next intersection, not immediately.	غلط: اللفة إجبارية في التقاطع الجاي، مش حالًا.
+240f5faa56	False: right is the only direction allowed.	غلط: اليمين هو الاتجاه الوحيد المسموح.
+0e74ba12b0	False: it concerns turning at an intersection, not passing an obstacle.	غلط: هي عن اللف في تقاطع، مش المرور جنب عائق.
+f27ccd8c0e	False: it announces a compulsory right turn, not left.	غلط: بتنبه للف يمين إجباري، مش شمال.
+cddcb376f0	True: this round blue sign shows the only allowed directions: right and left.	صح: العلامة الدايرية الزرقا دي بتوضح الاتجاهين المسموحين بس: يمين وشمال.
+b9451258e4	True: at the next intersection you must turn either right or left.	صح: في التقاطع الجاي لازم تلف يا يمين يا شمال.
+3b868f4a96	True: going straight on at the intersection is not allowed.	صح: إنك تكمل على طول في التقاطع ممنوع.
+2f31ae6700	True: you cannot continue straight ahead.	صح: ماتقدرش تكمل على طول.
+0f68cef2f8	True: right and left are the only directions allowed.	صح: اليمين والشمال هما الاتجاهين المسموحين بس.
+b120b8b870	True: turning right is one of the allowed directions.	صح: اللف يمين من الاتجاهات المسموحة.
+e5b83029ce	True: turning left is one of the allowed directions.	صح: اللف شمال من الاتجاهات المسموحة.
+cd195dd423	True: you may choose either of the two allowed directions.	صح: تقدر تختار أي اتجاه من الاتنين المسموحين.
+1d9570c9c8	False: going straight is forbidden, and the sign does not concern lanes.	غلط: على طول ممنوع، والعلامة مالهاش علاقة بالحارات.
+9142a61509	False: it has nothing to do with overtaking; it shows the compulsory directions at an intersection.	غلط: مالهاش علاقة بالتخطي؛ بتوضح الاتجاهات الإجبارية في تقاطع.
+d5e64eab27	False: two-way traffic has a triangular warning sign; this one is a mandatory direction.	غلط: الطريق الاتجاهين ليه علامة تحذير مثلثة؛ دي اتجاه إجباري.
+92c5e88bcb	False: passing either side of an island uses the sign with two diagonal downward arrows.	غلط: المرور من أي ناحية للجزيرة ليه علامة فيها سهمين مايلين لتحت.
+18e2bc878e	False: that is the 'passaggi consentiti' sign with diagonal arrows; this one obliges a turn right or left.	غلط: دي علامة 'passaggi consentiti' بأسهم مايلة؛ دي بتلزمك تلف يمين أو شمال.
+eed66c19da	False: it does not concern parallel lanes; it is a compulsory turn.	غلط: مالهاش علاقة بالحارات المتوازية؛ دي لفة إجبارية.
+f1d3c8f7ba	False: it is not a danger warning; it is a mandatory direction sign.	غلط: دي مش تحذير خطر؛ دي علامة اتجاه إجباري.
+a160eab44b	False: you may not go straight at all; you must turn right or left.	غلط: ماينفعش تكمل على طول أصلًا؛ لازم تلف يمين أو شمال.
+2b3b3f5408	False: it does not concern road markings; a continuous line may never be crossed.	غلط: مالهاش علاقة بالخطوط؛ الخط المتصل ماينفعش يتعدى أبدًا.
+b6fd802eab	False: it is not a one-way sign; it indicates compulsory directions.	غلط: دي مش علامة اتجاه واحد؛ بتوضح اتجاهات إجبارية.
+874e9aa59b	True: this sign obliges you at the intersection to go straight on or turn right.	صح: العلامة دي بتلزمك في التقاطع تكمل على طول أو تلف يمين.
+4ffff425d6	True: only straight ahead or right are allowed.	صح: على طول أو يمين بس هما المسموحين.
+ecb2fd7a9a	True: turning left at the intersection is not allowed.	صح: اللف شمال في التقاطع ممنوع.
+efcb302113	True: you may not turn left.	صح: ماينفعش تلف شمال.
+6bc1d4cafe	True: turning left is forbidden.	صح: اللف شمال ممنوع.
+d800c0466c	True: going straight on is one of the allowed directions.	صح: إنك تكمل على طول من الاتجاهات المسموحة.
+6c305a303a	False: turning right is also allowed.	غلط: اللف يمين مسموح كمان.
+b514df2087	False: going straight is also allowed.	غلط: إنك تكمل على طول مسموح كمان.
+7f323d2c0a	False: passing to the right of an obstacle uses the diagonal arrow sign.	غلط: المرور يمين العائق ليه علامة السهم المايل.
+582e86dbc2	False: it does not announce a slow-vehicle lane; it shows compulsory directions.	غلط: مش بتنبه لحارة العربيات البطيئة؛ بتوضح اتجاهات إجبارية.
+79d1248be9	False: going straight is allowed too, not only right.	غلط: على طول مسموح كمان، مش يمين بس.
+cb45c42208	False: turning right is allowed too, not only straight.	غلط: اللف يمين مسموح كمان، مش على طول بس.
+dd38188bc5	False: it concerns directions, not right of way.	غلط: هي عن الاتجاهات، مش الأولوية.
+9541d9ae3d	False: it shows the allowed directions; it does not require keeping to the right edge.	غلط: بتوضح الاتجاهات المسموحة؛ مش بتلزمك تلزق في الحافة اليمين.
+ac08706994	False: it is a mandatory sign, not a danger warning.	غلط: دي علامة إلزام، مش تحذير خطر.
+151eb9eee0	True: this sign allows only going straight on or turning left.	صح: العلامة دي بتسمح بس إنك تكمل على طول أو تلف شمال.
+891456bd65	True: it obliges you to turn left or go straight.	صح: بتلزمك تلف شمال أو تكمل على طول.
+1174ba89fa	True: turning right is not allowed.	صح: اللف يمين ممنوع.
+b31e7df33d	True: mandatory direction signs can be found outside built-up areas too.	صح: علامات الاتجاه الإجباري ممكن تلاقيها بره المدن كمان.
+8d71f8d937	False: going straight is also allowed.	غلط: إنك تكمل على طول مسموح كمان.
+20d911d756	False: passing to the left of an obstacle uses the diagonal arrow sign.	غلط: المرور شمال العائق ليه علامة السهم المايل.
+1722993b58	False: it has nothing to do with overtaking or traffic islands.	غلط: مالهاش علاقة بالتخطي أو الجزر.
+f10c2e3e77	False: it concerns compulsory directions, not right of way.	غلط: هي عن الاتجاهات الإجبارية، مش الأولوية.
+ee9394086a	False: going straight is allowed too, not only left.	غلط: على طول مسموح كمان، مش شمال بس.
+b478c68a14	False: it is not a danger sign; it is a mandatory direction.	غلط: دي مش علامة خطر؛ دي اتجاه إجباري.
+5505867c33	False: it shows allowed directions; positioning for a left turn is needed only if you actually turn left.	غلط: بتوضح الاتجاهات المسموحة؛ إنك تقرب من النص بيبقى بس لو هتلف شمال فعلًا.
+1fc1871204	False: it says nothing about the number of lanes.	غلط: مش بتقول حاجة عن عدد الحارات.
+a10f5a57ab	True: the round blue sign with an arrow pointing down-left obliges you to pass to the left of an obstacle.	صح: العلامة الدايرية الزرقا بالسهم المايل لتحت شمال بتلزمك تعدي شمال العائق.
+922227e0f1	True: placed on a traffic island, it obliges you to pass on its left.	صح: لما تتحط على جزيرة مرور، بتلزمك تعدي على شمالها.
+6d25426934	True: on a pedestrian refuge it obliges drivers to pass on its left.	صح: على جزيرة المشاة بتلزم السواقين يعدّوا على شمالها.
+d26e878750	True: at roadworks it obliges you to pass on the left of the works.	صح: عند الأشغال بتلزمك تعدي على شمال الأشغال.
+82baae3792	True: placed on a traffic divider, it obliges you to pass on the left.	صح: لما تتحط على فاصل مرور، بتلزمك تعدي على الشمال.
+d0acd4244a	True: it indicates compulsory passage on the left.	صح: معناها مرور إجباري على الشمال.
+e09c9dd921	True: you may not pass the obstacle on its right side.	صح: ماينفعش تعدي العائق من ناحيته اليمين.
+0da6d02538	True: it obliges you to pass roadworks on the left.	صح: بتلزمك تعدي الأشغال من الشمال.
+9f91209b92	True: passing on the left means leaving the obstacle on your right.	صح: المرور شمال معناه إنك تسيب العائق على يمينك.
+b753acfb81	False: it is used at obstacles such as roadworks or islands, not as part of the roundabout sequence.	غلط: بتتحط عند عوائق زي الأشغال أو الجزر، مش كجزء من علامات الدوران.
+07c49b5696	False: slopes have triangular warning signs; this one obliges passing on the left.	غلط: المنحدرات ليها علامات تحذير مثلثة؛ دي بتلزمك تعدي شمال.
+be01e59926	False: it does not require a left turn, only passing to the left of an obstacle.	غلط: مش بتلزمك تلف شمال، بس تعدي شمال العائق.
+5d479fc643	False: it does not concern turning right; you must pass the obstacle on the left.	غلط: مالهاش علاقة باللف يمين؛ لازم تعدي العائق من الشمال.
+1c8ebc07fb	False: it is not a turn obligation; it obliges passing on the left of an obstacle.	غلط: دي مش إلزام بلفة؛ بتلزمك تعدي شمال العائق.
+5816af41e7	False: passing on the left means keeping the refuge on your right, not on your left.	غلط: المرور شمال معناه إن الجزيرة تبقى على يمينك، مش شمالك.
+fdb58ebb5b	False: the mandatory direction left has a curved arrow; this one is compulsory passage on the left.	غلط: الاتجاه الإجباري شمال فيه سهم لافف؛ دي مرور إجباري على الشمال.
+0b9d4c9e32	False: it does not indicate an intersection; it marks an obstacle to pass on the left.	غلط: مش معناها تقاطع؛ بتحدد عائق لازم تعديه من الشمال.
+94ebe9e441	False: you may continue, passing the obstacle on the left.	غلط: تقدر تكمل، وتعدي العائق من الشمال.
+af80fce436	True: the round blue sign with an arrow pointing down-right obliges you to pass to the right of an obstacle.	صح: العلامة الدايرية الزرقا بالسهم المايل لتحت يمين بتلزمك تعدي يمين العائق.
+d4e43c7d38	True: on a traffic island it obliges drivers to pass on its right.	صح: على جزيرة المرور بتلزم السواقين يعدّوا على يمينها.
+5db47cdb9a	True: on a pedestrian refuge it obliges drivers to pass on the right.	صح: على جزيرة المشاة بتلزم السواقين يعدّوا على اليمين.
+36ac95c364	True: at roadworks it obliges you to pass on the right.	صح: عند الأشغال بتلزمك تعدي على اليمين.
+3d5bc77998	True: on a traffic divider it obliges you to pass on its right.	صح: على فاصل المرور بتلزمك تعدي على يمينه.
+f67b242f76	True: it indicates compulsory passage on the right.	صح: معناها مرور إجباري على اليمين.
+46660c8068	True: you may not pass the obstacle on the left.	صح: ماينفعش تعدي العائق من الشمال.

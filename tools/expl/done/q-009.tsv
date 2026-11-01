@@ -1,0 +1,100 @@
+8d9c53a93a	False: this sign announces a tramway; lanes reserved for trolleybuses or buses are shown by reserved-lane signs and markings.	غلط: العلامة دي بتنبهك لخط ترام؛ الحارات المخصصة للتروللي أو الأتوبيس بتتعلّم بعلامات وخطوط الحارة المخصصة.
+a5f2a72c25	True: this warning sign (a pedestrian on stripes in a triangle) announces a pedestrian crossing ahead (CdS art. 39).	صح: علامة الخطر دي (ماشي على خطوط جوه مثلث) بتنبهك لعبور مشاة قدام (CdS art. 39).
+42cd87eba9	True: at the pedestrian crossing the driver must give way to pedestrians crossing on the stripes (CdS art. 191).	صح: عند عبور المشاة السواق لازم يدّي الأولوية للمشاة اللي بيعدّوا على الخطوط (CdS art. 191).
+7ddc6e7fad	True: on extra-urban roads warning signs, including this one, are normally placed 150 metres before the hazard.	صح: في الطرق اللي بره المدن علامات الخطر، ومنها دي، بتتحط عادةً 150 متر قبل الخطر.
+ec71f937d0	True: the pedestrian crossing warning sign can also be used in built-up areas, where it is placed at a shorter distance.	صح: علامة خطر عبور المشاة ممكن تتحط كمان جوه المنطقة السكنية، وبتبقى على مسافة أقل.
+d3bdc3d700	True: overtaking a vehicle that has stopped to let pedestrians cross is forbidden, because it hides the pedestrians from you (CdS art. 148).	صح: ممنوع تتخطى عربية واقفة عشان تسيب المشاة يعدّوا، عشان هي مخبية المشاة عنك (CdS art. 148).
+fd8ff8a33b	True: you must not overtake vehicles slowing down or stopping to let pedestrians cross (CdS art. 148).	صح: ممنوع تتخطى العربيات اللي بتهدّي أو بتقف عشان تسيب المشاة يعدّوا (CdS art. 148).
+dc7336361f	True: approaching a pedestrian crossing you must slow down to be ready to stop for pedestrians crossing (CdS art. 191).	صح: وانت قرّبت من عبور المشاة لازم تهدّي عشان تبقى مستعد تقف للمشاة اللي بيعدّوا (CdS art. 191).
+99d9913cc9	True: the vehicle in front may stop suddenly to give way to pedestrians, so keep a safe distance to avoid hitting it from behind (CdS art. 149).	صح: العربية اللي قدامك ممكن تقف فجأة عشان تدّي الأولوية للمشاة، فسيب مسافة أمان عشان ماتخبطهاش من ورا (CdS art. 149).
+56298b0965	True: stopping and parking on pedestrian crossings are forbidden (CdS art. 158).	صح: الوقوف والركن على عبور المشاة ممنوعين (CdS art. 158).
+5480f32b2f	True: failing to give way to pedestrians on crossings is punished with a fine and the deduction of points from the licence (CdS art. 191 and art. 126-bis).	صح: لو مادّيتش الأولوية للمشاة على عبور المشاة عليك غرامة وبيتخصم نقط من رخصة السواقة (CdS art. 191 و art. 126-bis).
+062825076a	False: a place frequented by children is announced by the "children" sign (two children walking); this sign announces a pedestrian crossing.	غلط: المكان اللي فيه عيال كتير ليه علامة "أطفال" (عيلين ماشيين)؛ العلامة دي بتنبهك لعبور مشاة.
+94373b48a3	False: the sign announces a pedestrian crossing on the carriageway, not a pedestrian avenue or path.	غلط: العلامة بتنبهك لعبور مشاة على نهر الطريق، مش لممشى مشاة.
+4d399e2c61	False: the sign does not require using the horn; you must slow down and give way to pedestrians (CdS art. 191).	غلط: العلامة مش بتطلب إنك تضرب كلاكس؛ لازم تهدّي وتدّي الأولوية للمشاة (CdS art. 191).
+c388c81b09	False: stopping on pedestrian crossings is always forbidden (CdS art. 158).	غلط: الوقوف على عبور المشاة ممنوع دايماً (CdS art. 158).
+1aa1e93579	False: the warning sign for a pedestrian crossing does not prohibit pedestrians; the ban on pedestrians is a round sign with a red border.	غلط: علامة خطر عبور المشاة مش بتمنع المشاة؛ منع المشاة علامة مدورة بحافة حمرا.
+e69c7f4fc0	False: the sign announces a pedestrian crossing, not a pedestrian area, which has its own rectangular sign.	غلط: العلامة بتنبهك لعبور مشاة، مش لمنطقة مشاة، اللي ليها علامة مستطيلة لوحدها.
+befdb043d1	False: you must not use the horn to hurry pedestrians; you must slow down and stop to give way (CdS art. 191).	غلط: ممنوع تستخدم الكلاكس عشان تستعجل المشاة؛ لازم تهدّي وتقف وتدّيهم الأولوية (CdS art. 191).
+ad5dc61bf1	False: you must slow down for every pedestrian crossing, ready to give way to any pedestrian, not only children (CdS art. 191).	غلط: لازم تهدّي عند كل عبور مشاة، ومستعد تدّي الأولوية لأي ماشي، مش للعيال بس (CdS art. 191).
+583f01fec9	False: on pedestrian crossings drivers must give way to pedestrians, not the other way round (CdS art. 191).	غلط: على عبور المشاة السواقين هما اللي لازم يدّوا الأولوية للمشاة، مش العكس (CdS art. 191).
+2b4a3841e0	False: giving way to pedestrians crossing on the stripes is compulsory (CdS art. 191).	غلط: إنك تدّي الأولوية للمشاة اللي بيعدّوا على الخطوط إجباري (CdS art. 191).
+950a6e4dfb	False: you must give way to pedestrians crossing from either side (CdS art. 191).	غلط: لازم تدّي الأولوية للمشاة اللي بيعدّوا من أي ناحية (CdS art. 191).
+d2822e7de9	False: the sign announces a crossing at road level; a pedestrian overpass is above the road and needs no warning sign for drivers.	غلط: العلامة بتنبهك لعبور على مستوى الطريق؛ كوبري المشاة فوق الطريق ومش محتاج علامة خطر للسواقين.
+00700b9970	False: the sign announces a pedestrian crossing on the carriageway, not an underpass.	غلط: العلامة بتنبهك لعبور مشاة على نهر الطريق، مش لنفق مشاة.
+431dad6324	False: this warning sign is placed before the crossing (about 150 m outside built-up areas); at the crossing itself there is the blue square pedestrian crossing sign.	غلط: علامة الخطر دي بتتحط قبل العبور (تقريباً 150 متر بره المنطقة السكنية)؛ عند العبور نفسه بتبقى علامة عبور المشاة الزرقا المربعة.
+0e93f54c76	True: this warning sign (a bicycle in a triangle) announces a cycle crossing ahead.	صح: علامة الخطر دي (عجلة جوه مثلث) بتنبهك لعبور عجل قدام.
+96abb72404	True: the sign announces a cyclists' crossing, marked on the carriageway with special markings (white squares or broken lines).	صح: العلامة بتنبهك لعبور راكبين العجل، متعلّم على نهر الطريق بعلامات مخصوصة (مربعات بيضا أو خطوط متقطعة).
+4a409faab9	True: the sign warns that you are approaching a place from which cyclists may come out or cross.	صح: العلامة بتنبهك إنك بتقرّب من مكان ممكن يطلع منه أو يعدّي منه راكبين عجل.
+7f5ce67ce0	True: like other warning signs outside built-up areas, it is normally placed 150 metres before the cycle crossing.	صح: زي باقي علامات الخطر بره المنطقة السكنية، بتتحط عادةً 150 متر قبل عبور العجل.
+46afec1fa6	True: you must moderate speed so as not to endanger cyclists who may be crossing (CdS art. 141).	صح: لازم تهدّي سرعتك عشان ماتعرّضش راكبين العجل اللي ممكن يعدّوا للخطر (CdS art. 141).
+e5c8a5f1f6	True: near a cycle crossing you must behave so as not to endanger or obstruct cyclists (CdS art. 140).	صح: جنب عبور العجل لازم تتصرف بشكل مايعرّضش راكبين العجل للخطر ولا يعطّلهم (CdS art. 140).
+b70a5e0826	True: you must slow down and be ready to stop to give way to cyclists crossing on the cycle crossing.	صح: لازم تهدّي وتبقى مستعد تقف عشان تدّي الأولوية لراكبين العجل اللي بيعدّوا على عبور العجل.
+36070c78ee	True: overtaking a vehicle that has stopped to let cyclists cross is forbidden, because it hides them from view (CdS art. 148).	صح: ممنوع تتخطى عربية واقفة عشان تسيب راكبين العجل يعدّوا، عشان مخبياهم عنك (CdS art. 148).
+282a05f14c	False: this warning sign is placed before the cycle crossing (normally 150 m outside built-up areas), not right at it.	غلط: علامة الخطر دي بتتحط قبل عبور العجل (عادةً 150 متر بره المنطقة السكنية)، مش عنده على طول.
+0f74bedc84	False: it is a warning sign, not a prohibition; the ban on cyclists is a round sign with a red border showing a bicycle.	غلط: دي علامة خطر، مش منع؛ منع العجل علامة مدورة بحافة حمرا عليها عجلة.
+83fb0d854b	False: the start of a cycle path is shown by a round blue sign with a bicycle; this triangle warns of a cycle crossing.	غلط: بداية حارة العجل ليها علامة زرقا مدورة عليها عجلة؛ المثلث ده بينبهك لعبور عجل.
+572903ff46	False: the sign warns of a place where cyclists cross or enter, not of a cycle race.	غلط: العلامة بتنبهك لمكان راكبين العجل بيعدّوا أو بيدخلوا منه، مش لسباق عجل.
+848f1c75f8	False: the sign concerns cyclists crossing, not an area reserved for mopeds.	غلط: العلامة عن راكبين العجل اللي بيعدّوا، مش منطقة مخصصة للموتوبيكان.
+790457c8b5	False: you must not use the horn to hurry cyclists; slow down and give way to those crossing.	غلط: ممنوع تستخدم الكلاكس عشان تستعجل راكبين العجل؛ هدّي وادّي الأولوية للي بيعدّوا.
+b36dc23675	False: on a cycle crossing it is drivers who must give way to cyclists crossing.	غلط: على عبور العجل السواقين هما اللي لازم يدّوا الأولوية لراكبين العجل اللي بيعدّوا.
+779b7285b7	False: you must give way to cyclists crossing from either side.	غلط: لازم تدّي الأولوية لراكبين العجل اللي بيعدّوا من أي ناحية.
+076583494a	True: this sign (a slope with a percentage) is placed before a dangerous descent.	صح: العلامة دي (منحدر عليه نسبة مئوية) بتتحط قبل نزلة خطرة.
+8e32aa6f80	True: the sign announces a particularly steep and dangerous descent; the percentage shows the gradient (here 10%).	صح: العلامة بتنبهك لنزلة شديدة وخطرة؛ النسبة بتوضح الميل (هنا 10%).
+b5cf9d5f8e	True: going downhill, gravity adds to the vehicle's motion, so braking distance increases.	صح: في النزلة الجاذبية بتزوّد حركة العربية، فمسافة الفرامل بتزيد.
+b647029091	True: the sign announces a descent and shows its gradient as a percentage (10% means 10 m drop per 100 m).	صح: العلامة بتنبهك لنزلة وبتوضح ميلها بنسبة مئوية (10% يعني بتنزل 10 متر كل 100 متر).
+1e274f2b81	True: on a steep descent you must moderate your speed, because the vehicle tends to accelerate and braking distances grow (CdS art. 141).	صح: في النزلة الشديدة لازم تهدّي، عشان العربية بتميل تسرّع ومسافات الفرامل بتزيد (CdS art. 141).
+bfd5f5807b	True: on a steep descent you should engage a suitably low gear, to use engine braking.	صح: في النزلة الشديدة لازم تحط فتيس واطي مناسب، عشان تستخدم فرامل الموتور.
+e9a5033040	True: a low gear lets the engine brake the vehicle, so the brakes are used less and do not overheat.	صح: الفتيس الواطي بيخلّي الموتور يفرمل العربية، فالفرامل بتشتغل أقل ومش بتسخن.
+568b6d91e3	True: on descents you tend to catch up with slower vehicles, so moderate speed to avoid rear-end collisions.	صح: في النزلات بتلحق العربيات الأبطأ بسرعة، فهدّي عشان ماتخبطش حد من ورا.
+f408a6b219	True: prolonged braking overheats the brakes and reduces their efficiency (fading), so avoid it on long descents.	صح: الفرامل المستمرة بتسخّن الفرامل وبتضعفها، فتجنّبها في النزلات الطويلة.
+d33ff99673	True: on descents regulate speed with a low gear and avoid excessive use of the brakes.	صح: في النزلات ظبّط السرعة بفتيس واطي وماتكترش من استخدام الفرامل.
+5130d70d45	True: on a wet descent grip decreases and braking distances grow further, so be very prudent.	صح: في نزلة مبلولة التماسك بيقل ومسافات الفرامل بتزيد أكتر، فخليك حذر جداً.
+096529877a	False: the sign shows a descent, not an ascent; the steep ascent sign has the slope going upward.	غلط: العلامة عليها نزلة مش طلعة؛ علامة الطلعة الشديدة المنحدر فيها طالع لفوق.
+76c4d3200e	False: the sign announces a dangerous descent, not a damaged road surface, which has the uneven road sign.	غلط: العلامة بتنبهك لنزلة خطرة، مش لسطح طريق بايظ، اللي ليه علامة الطريق المش مستوي.
+1af00df9b0	False: this sign specifies the gradient of a descent, not of an ascent.	غلط: العلامة دي بتوضح ميل نزلة، مش طلعة.
+59aedf6c27	False: driving with the clutch pressed (coasting) on a descent is dangerous because you lose engine braking; keep a low gear engaged.	غلط: إنك تسوق والدبرياج مدوس (على الفاضي) في النزلة خطر عشان بتخسر فرامل الموتور؛ خلّي فتيس واطي معشّق.
+d07ab5e159	False: the sign announces a dangerous descent, not an ascent.	غلط: العلامة بتنبهك لنزلة خطرة، مش طلعة.
+965c875fc5	False: 10% is the gradient of the descent, not a speed limit; speed limits are shown on round signs with a red border.	غلط: الـ10% دي ميل النزلة، مش حد سرعة؛ حدود السرعة بتبقى على علامات مدورة بحافة حمرا.
+290032aea0	False: rain makes a descent more dangerous, because grip is lower and braking distances longer.	غلط: المطر بيخلّي النزلة أخطر، عشان التماسك بيقل ومسافات الفرامل بتطول.
+9781cbd8ab	False: continuous braking overheats the brakes; on descents use a low gear and engine braking, which does not damage the gearbox.	غلط: الفرامل المستمرة بتسخّن الفرامل؛ في النزلات استخدم فتيس واطي وفرامل الموتور، ودي مش بتبوّظ الفتيس.
+3d3c127bed	False: on a descent you must engage a low gear, not the highest, and avoid relying only on the brakes.	غلط: في النزلة لازم تحط فتيس واطي مش أعلى فتيس، وماتعتمدش على الفرامل بس.
+04a71d69ce	False: keeping the clutch pressed on a descent removes engine braking and is dangerous; keep a low gear engaged.	غلط: إنك تفضل دايس الدبرياج في النزلة بيلغي فرامل الموتور وده خطر؛ خلّي فتيس واطي معشّق.
+86e760a798	False: on a descent braking distances are longer, so you must increase, not reduce, the safety distance (CdS art. 149).	غلط: في النزلة مسافات الفرامل أطول، فلازم تزوّد مسافة الأمان مش تقللها (CdS art. 149).
+e57379a835	True: this sign (a slope going up with a percentage) is placed before a steep ascent.	صح: العلامة دي (منحدر طالع لفوق عليه نسبة مئوية) بتتحط قبل طلعة شديدة.
+48160a82d7	True: the sign announces a steep ascent to be driven with prudence, as slow vehicles may be ahead and visibility at the top may be limited.	صح: العلامة بتنبهك لطلعة شديدة لازم تطلعها بحذر، عشان ممكن يبقى قدامك عربيات بطيئة والرؤية فوق ممكن تبقى محدودة.
+2ef810212f	True: on a steep ascent you should use a suitably low gear to keep enough engine power.	صح: في الطلعة الشديدة لازم تستخدم فتيس واطي مناسب عشان الموتور يفضل عنده قوة كفاية.
+4bde8d69e6	True: the percentage on the sign shows the gradient of the ascent.	صح: النسبة اللي على العلامة بتوضح ميل الطلعة.
+99ddf4d398	False: driving with the clutch pressed is never correct; on an ascent you need a low gear engaged to have power.	غلط: إنك تسوق والدبرياج مدوس عمره ما بيبقى صح؛ في الطلعة محتاج فتيس واطي معشّق عشان يبقى فيه قوة.
+c3d195a190	False: going uphill gravity helps slow the vehicle, so braking distance decreases rather than increases.	غلط: في الطلعة الجاذبية بتساعد تهدّي العربية، فمسافة الفرامل بتقل مش بتزيد.
+560b972a06	False: this sign announces a steep ascent; tight bends have their own bend signs.	غلط: العلامة دي بتنبهك لطلعة شديدة؛ المنحنيات الحادة ليها علامات المنحنى بتاعتها.
+50d8f0318b	False: this sign shows the gradient of an ascent, not a descent.	غلط: العلامة دي بتوضح ميل طلعة، مش نزلة.
+5c4ca4e7bc	True: this warning sign announces a narrowing of the carriageway, so slow down and watch for oncoming vehicles.	صح: علامة الخطر دي بتنبهك لتضييق في نهر الطريق، فهدّي وخد بالك من العربيات الجاية عكسك.
+03d777a193	True: the narrowing may make it difficult to pass vehicles coming the other way; you may have to slow down or stop.	صح: التضييق ممكن يصعّب إنك تعدّي جنب العربيات الجاية عكسك؛ ممكن تضطر تهدّي أو تقف.
+5d64174c09	True: this sign announces a narrowing on both sides of the carriageway.	صح: العلامة دي بتنبهك لتضييق من الناحيتين في نهر الطريق.
+439cae5708	True: it is a warning (danger) sign: a red-bordered triangle announcing a narrowing (CdS art. 39).	صح: دي علامة خطر: مثلث بحافة حمرا بينبهك لتضييق (CdS art. 39).
+16341e8771	True: after the narrowing sign (A) you may find the sign (B) requiring you to give way to oncoming vehicles in the narrow passage (CdS art. 150).	صح: بعد علامة التضييق (A) ممكن تلاقي العلامة (B) اللي بتلزمك تدّي الأولوية للعربيات الجاية عكسك في المكان الضيق (CdS art. 150).
+b8059122b0	True: on a yellow background the sign is temporary, used at roadworks that reduce the width of the carriageway.	صح: لو خلفيتها صفرا تبقى العلامة مؤقتة، بتتحط عند أعمال طرق بتقلل عرض نهر الطريق.
+dbd814e558	False: the narrowing sign only warns of danger; the obligation to give way to oncoming vehicles is imposed by a separate sign (CdS art. 150).	غلط: علامة التضييق بتنبهك للخطر بس؛ إلزامك إنك تدّي الأولوية للجاي عكسك ليه علامة لوحدها (CdS art. 150).
+913b4f8d12	False: the narrowing sign does not give you priority; priority in narrow passages is set by specific signs (CdS art. 150).	غلط: علامة التضييق مش بتديك الأولوية؛ الأولوية في الأماكن الضيقة بتتحدد بعلامات مخصوصة (CdS art. 150).
+f5a32edc9b	False: it is a warning sign for a narrowing; it does not ban buses.	غلط: دي علامة خطر لتضييق؛ مش بتمنع الأتوبيسات.
+d340462a9b	False: the sign announces a narrowing of the carriageway, not a long straight.	غلط: العلامة بتنبهك لتضييق في نهر الطريق، مش لطريق مستقيم طويل.
+d5a0c05781	False: the sign announces a narrowing; tunnels have their own sign.	غلط: العلامة بتنبهك لتضييق؛ الأنفاق ليها علامة لوحدها.
+cd4c9d5cf4	False: the sign announces a narrowing; a one-way road is shown by a blue rectangular sign with a white arrow.	غلط: العلامة بتنبهك لتضييق؛ الطريق الاتجاه الواحد بيتعلّم بعلامة زرقا مستطيلة عليها سهم أبيض.
+522a6abecf	False: the sign shown does not announce an acceleration lane; acceleration lanes are indicated by lane markings and specific lane signs.	غلط: العلامة اللي في الصورة مش بتنبهك لحارة تسارع؛ حارات التسارع بتتعلّم بخطوط الحارات وعلامات حارات مخصوصة.
+66dc58ae05	True: this sign announces a narrowing on the left side of the carriageway.	صح: العلامة دي بتنبهك لتضييق على الناحية الشمال من نهر الطريق.
+61a492b535	True: the sign warns of a dangerous narrowing on the left of the carriageway.	صح: العلامة بتنبهك لتضييق خطر على شمال نهر الطريق.
+25b6759024	True: in the narrow section it may be difficult to pass oncoming vehicles, so slow down and keep right.	صح: في الجزء الضيق ممكن يبقى صعب تعدّي جنب العربيات الجاية عكسك، فهدّي والزم اليمين.
+01ca67ed55	True: in narrow passages you must moderate speed and, if necessary, stop to let oncoming vehicles pass (CdS art. 150).	صح: في الأماكن الضيقة لازم تهدّي، ولو لزم تقف عشان تسيب العربيات الجاية عكسك تعدّي (CdS art. 150).
+0671f19d77	False: the sign announces a narrowing; a road merging from the left has a different sign.	غلط: العلامة بتنبهك لتضييق؛ الطريق الداخل من الشمال ليه علامة تانية.
+86ce8f95b7	False: the sign announces a narrowing, not a series of bends.	غلط: العلامة بتنبهك لتضييق، مش لمنحنيات متتالية.
+46a06d3ddc	False: the sign announces a narrowing of the carriageway, not an overpass.	غلط: العلامة بتنبهك لتضييق في نهر الطريق، مش لكوبري.
+02b4c294d5	False: the sign announces a narrowing, not a pedestrian underpass.	غلط: العلامة بتنبهك لتضييق، مش لنفق مشاة.
+f2acbb4893	False: the sign shows the narrowing on the left side; a narrowing on the right has the mirror-image sign.	غلط: العلامة عليها التضييق على الشمال؛ التضييق على اليمين ليه العلامة المعكوسة.
+f0415fd780	False: the sign announces a narrowing of the carriageway, not a raised kerb separating lanes.	غلط: العلامة بتنبهك لتضييق في نهر الطريق، مش لبردورة عالية بتفصل الحارات.
+b1b73afa1a	False: the sign shown does not announce a slippery road, which has its own sign with a skidding car.	غلط: العلامة اللي في الصورة مش بتنبهك لطريق بيزحلق، اللي ليه علامة لوحده عليها عربية بتتزحلق.
+903e8112d6	True: this sign announces a narrowing on the right side of the carriageway.	صح: العلامة دي بتنبهك لتضييق على الناحية اليمين من نهر الطريق.
+a9e8acde56	True: the narrowing on the right may be caused by a fixed obstacle on that side, such as a wall or a bridge pier.	صح: التضييق على اليمين ممكن يبقى بسبب عائق ثابت على الناحية دي، زي حيطة أو عامود كوبري.
+7f5c16c61f	True: the sign warns of a dangerous narrowing on the right of the carriageway.	صح: العلامة بتنبهك لتضييق خطر على يمين نهر الطريق.
+5a79a9ffa4	True: the narrowing on the right can be caused by low walls or other obstacles on that side.	صح: التضييق على اليمين ممكن يبقى بسبب حيطان واطية أو عوائق تانية على الناحية دي.
+f52b77ce7b	True: the narrowing sign can be used on two-way roads too, where meeting oncoming vehicles in the narrow passage requires care.	صح: علامة التضييق ممكن تتحط كمان في طرق الاتجاهين، ولما تقابل عربيات جاية عكسك في المكان الضيق لازم تاخد بالك.

@@ -1,0 +1,100 @@
+9eb057bc5f	True: a directional traffic light with arrows applies only to vehicles that want to go in the direction of its arrow.	صح: الإشارة اللي بأسهم بتنطبق بس على العربيات اللي عايزة تروح في اتجاه السهم بتاعها.
+20c547a445	True: a green arrow lets you proceed only in the direction it shows.	صح: السهم الأخضر بيسمحلك تمشي بس في الاتجاه اللي بيشاور عليه.
+9d0b802210	True: when traffic lights are off you may pass with particular caution, applying the normal priority rules and signs.	صح: لما الإشارات تبقى مطفية تقدر تعدّي بحذر زيادة، وتطبق قواعد الأولوية والعلامات العادية.
+6065d1a136	True: a lit red arrow requires vehicles going in that direction to stop.	صح: السهم الأحمر المنوّر بيلزم العربيات اللي رايحة في الاتجاه ده إنها تقف.
+ca6d9d3fbe	True: a steady yellow arrow means clear the junction quickly if you have already entered it (otherwise stop if safe).	صح: السهم الأصفر الثابت معناه اخرج من التقاطع بسرعة لو دخلته (وإلا اقف لو آمن).
+bafc07f036	True: vehicle traffic lights apply to all vehicles, bicycles included, unless there are special cycle lights.	صح: إشارات العربيات بتنطبق على كل المركبات، والعجل كمان، إلا لو فيه إشارات مخصوصة للعجل.
+eb3f5580f2	False: a green arrow pointing upwards allows only going straight ahead, not all directions.	غلط: السهم الأخضر اللي لفوق بيسمح بالمشي دغري بس، مش كل الاتجاهات.
+2f216da9b1	False: red arrows mean you must stop and not proceed in that direction.	غلط: الأسهم الحمرا معناها لازم تقف وماتمشيش في الاتجاه ده.
+f139429fbe	False: lights for public transport use white bars and a yellow triangle; these arrow lights are for all vehicles.	غلط: إشارات النقل العام بتستخدم شَرَط بيضا ومثلث أصفر؛ الإشارات اللي بأسهم دي لكل العربيات.
+fd692c8ff9	False: these arrow lights regulate road vehicles; trams have special lights with white bars.	غلط: الإشارات اللي بأسهم دي بتنظم عربيات الطريق؛ الترام ليه إشارات خاصة بشَرَط بيضا.
+6b9ad71cf6	False: they are placed at junctions to regulate directions, not specifically at tunnel entrances.	غلط: بتتحط في التقاطعات عشان تنظم الاتجاهات، مش مخصوصة لمداخل الأنفاق.
+a742dbebc5	False: moving bridges are protected by flashing red lights, not by directional arrow lights.	غلط: الكباري المتحركة بتتأمّن بأنوار حمرا بترمش، مش بإشارات بأسهم.
+442d029b15	False: ferry piers are protected by flashing red lights, not by directional arrow lights.	غلط: أرصفة ركوب العبّارات بتتأمّن بأنوار حمرا بترمش، مش بإشارات بأسهم.
+9cac9e9f6a	False: level crossings use alternating flashing red lights, not directional arrow lights.	غلط: المزلقانات بتستخدم أنوار حمرا بترمش بالتبادل، مش إشارات بأسهم.
+753bf12d32	False: these are directional lane lights; reversible lane lights show a red X, a green arrow pointing down and a flashing yellow arrow.	غلط: دي إشارات حارات بالاتجاهات؛ إشارات الحارات اللي بتتعكس فيها X أحمر وسهم أخضر لتحت وسهم أصفر بيرمش.
+2deb99044d	True: the steady yellow light comes on as soon as the green goes off.	صح: النور الأصفر الثابت بينوّر أول ما الأخضر يطفي.
+9ef3dae925	True: the steady yellow goes off just before the red comes on.	صح: الأصفر الثابت بيطفي قبل ما الأحمر ينوّر على طول.
+8377c07369	True: whoever has already entered the junction on yellow must clear it as quickly as possible (CdS art. 41).	صح: اللي دخل التقاطع وهو أصفر لازم يخرج منه بأسرع وقت (CdS art. 41).
+bbeb7a764a	True: steady yellow requires you to stop before the stop line, provided you can do so without danger (CdS art. 41).	صح: الأصفر الثابت بيلزمك تقف قبل خط الوقوف، بشرط تقدر تقف من غير خطر (CdS art. 41).
+4fe75d56fa	True: in the normal sequence the steady yellow is lit alone, with green and red off.	صح: في الترتيب العادي الأصفر الثابت بينوّر لوحده، والأخضر والأحمر مطفيين.
+7d41acdf3e	False: steady yellow means stop if you can do it safely; you may continue only if you cannot stop safely or are already in the junction.	غلط: الأصفر الثابت معناه اقف لو تقدر بأمان؛ تكمّل بس لو ماتقدرش تقف بأمان أو إنت دخلت التقاطع خلاص.
+36b4caf31e	False: if you have already passed the stop line you must clear the junction, never reverse.	غلط: لو عدّيت خط الوقوف خلاص لازم تخرج من التقاطع، عمرك ما ترجع لورا.
+91a8988dc1	False: yellow obliges you to stop only if you can do so safely; otherwise you may proceed.	غلط: الأصفر بيلزمك تقف بس لو تقدر تقف بأمان؛ غير كده تقدر تكمّل.
+d2e91203a1	False: in Italy the steady yellow follows the green and is never lit together with red.	غلط: في إيطاليا الأصفر الثابت بييجي بعد الأخضر وعمره ما بينوّر مع الأحمر.
+b56d967ebd	False: the yellow comes on when the green goes off; they do not switch off together.	غلط: الأصفر بينوّر لما الأخضر يطفي؛ مش بيطفوا مع بعض.
+1d33ddb1ce	False: the yellow goes off when the red comes on; they are not lit together.	غلط: الأصفر بيطفي لما الأحمر ينوّر؛ مش بينوّروا مع بعض.
+f9ed5ab871	True: a traffic light can work with only the flashing yellow lit and the others off, e.g. at night.	صح: الإشارة ممكن تشتغل بالأصفر اللي بيرمش بس والباقي مطفي، مثلاً بالليل.
+27166e5f59	True: a flashing yellow circular light is a general danger warning.	صح: النور الأصفر الدايري اللي بيرمش علامة خطر عامة.
+36d23c5046	True: it invites you to moderate speed.	صح: بيقولك هدّي السرعة.
+fc0edad084	True: it invites you to proceed with particular caution, respecting the priority rules.	صح: بيقولك امشي بحذر زيادة، واحترم قواعد الأولوية.
+a98294e55c	False: flashing yellow does not require stopping; you proceed with caution applying the normal priority rules.	غلط: الأصفر اللي بيرمش مش بيطلب إنك تقف؛ بتكمّل بحذر وبتطبق قواعد الأولوية العادية.
+93a690f19c	False: moving bridges are protected by flashing red lights, which require you to stop.	غلط: الكباري المتحركة بتتأمّن بأنوار حمرا بترمش، بتلزمك تقف.
+865b426949	False: ferry boarding piers are protected by flashing red lights, not flashing yellow.	غلط: أرصفة ركوب العبّارات بتتأمّن بأنوار حمرا بترمش، مش صفرا.
+840c34ba1b	False: in Italian traffic lights yellow and red are not lit together to signal danger; a flashing yellow alone is the general danger signal.	غلط: في الإشارات الإيطالية الأصفر والأحمر مش بينوّروا مع بعض عشان يبيّنوا خطر؛ الأصفر اللي بيرمش لوحده هو إشارة الخطر العامة.
+4aa220aaf7	True: alternating flashing red lights require you to stop at a level crossing without barriers when a train is coming (CdS art. 147).	صح: الأنوار الحمرا اللي بترمش بالتبادل بتلزمك تقف عند مزلقان من غير بوابات لما يكون فيه قطر جاي (CdS art. 147).
+21a97ace50	True: at level crossings with half-barriers flashing red lights also oblige you to stop.	صح: عند المزلقانات اللي بنص بوابات الأنوار الحمرا اللي بترمش بتلزمك تقف برضه.
+87c88d6c89	True: flashing red lights are used at the entrance to ferry boarding piers and require you to stop.	صح: الأنوار الحمرا اللي بترمش بتتحط عند مدخل أرصفة ركوب العبّارات وبتلزمك تقف.
+66b428fcbd	True: flashing red lights are used at the entrance to moving bridges and require you to stop.	صح: الأنوار الحمرا اللي بترمش بتتحط عند مدخل الكباري المتحركة وبتلزمك تقف.
+297df49618	True: when they flash you must not cross the transverse stop line.	صح: لما بترمش ممنوع تعدّي خط الوقوف العرضي.
+ea12e66164	False: they are used at level crossings, moving bridges and ferry piers, not police checkpoints.	غلط: بتتحط عند المزلقانات والكباري المتحركة وأرصفة العبّارات، مش عند كماين الشرطة.
+af195b4bfa	False: a narrow bridge is announced by a warning sign; flashing red lights are for level crossings, moving bridges and ferry piers.	غلط: الكوبري الضيق ليه علامة تحذير؛ الأنوار الحمرا اللي بترمش للمزلقانات والكباري المتحركة وأرصفة العبّارات.
+0c70932d8c	False: compulsory motorway exits are shown by signs, not by flashing red lights.	غلط: المخرج الإجباري من الأوتوستراد بيتبيّن بعلامات، مش بأنوار حمرا بترمش.
+dc24cc0996	False: they are not placed before state borders; they protect level crossings, moving bridges and ferry piers.	غلط: مش بتتحط قبل الحدود؛ بتأمّن المزلقانات والكباري المتحركة وأرصفة العبّارات.
+575af23989	False: flashing red lights mean stop; they do not announce a green light.	غلط: الأنوار الحمرا اللي بترمش معناها اقف؛ مش بتعلن إن الأخضر جاي.
+4882334b15	True: the public transport light can show a horizontal white bar, which means stop.	صح: إشارة النقل العام ممكن تنوّر شَرطة بيضا أفقية، ومعناها اقف.
+e5ce9ec481	True: it can show a vertical white bar, which means go straight ahead.	صح: ممكن تنوّر شَرطة بيضا رأسية، ومعناها امشي دغري.
+3c68ca245c	True: this light with white bars is reserved for public transport vehicles.	صح: الإشارة دي اللي بشَرَط بيضا مخصوصة لعربيات النقل العام.
+a9cd438f1e	True: it applies to scheduled public passenger transport vehicles (buses, trams).	صح: بتنطبق على عربيات النقل العام للركاب اللي ليها خط سير (أتوبيسات وترام).
+f3882c3d6d	True: the horizontal white bar at the top means public transport vehicles must stop.	صح: الشَرطة البيضا الأفقية اللي فوق معناها إن عربيات النقل العام لازم تقف.
+9e80fa693a	True: the vertical white bar lit at the bottom allows public transport vehicles to proceed.	صح: الشَرطة البيضا الرأسية اللي تحت لما تنوّر بتسمح لعربيات النقل العام تمشي.
+c4ef4cb69e	False: pedestrian lights show a pedestrian figure; this one is for public transport vehicles.	غلط: إشارات المشاة فيها صورة واحد ماشي؛ دي لعربيات النقل العام.
+d2a7021d02	False: it is a traffic light for public transport, not a roadworks warning.	غلط: دي إشارة للنقل العام، مش تحذير من شغل في الطريق.
+1eb6299340	False: it regulates the movement of public transport vehicles, not tram track switches.	غلط: بتنظم حركة عربيات النقل العام، مش تحويلات سكة الترام.
+026daee753	False: it does not apply to motorcycles; the yellow triangle tells public transport vehicles to stop if they can, like an amber light.	غلط: مش بتنطبق على الموتوسيكلات؛ المثلث الأصفر بيقول لعربيات النقل العام تقف لو تقدر، زي النور الأصفر.
+a4848b29eb	False: it applies to scheduled public passenger transport, not to military vehicles.	غلط: بتنطبق على النقل العام للركاب، مش العربيات العسكرية.
+f5f1d6c3b2	False: it applies to all scheduled public passenger transport vehicles, buses included, not only rail vehicles.	غلط: بتنطبق على كل عربيات النقل العام للركاب، والأتوبيسات كمان، مش اللي ماشية على قضبان بس.
+3f63b70006	False: it regulates public transport vehicles, not pedestrians.	غلط: بتنظم عربيات النقل العام، مش المشاة.
+295dfd3f6a	False: it is a public transport light, not a level-crossing signal.	غلط: دي إشارة نقل عام، مش إشارة مزلقان.
+4f76e49e78	False: ferry piers are protected by flashing red lights, not by this light.	غلط: أرصفة العبّارات بتتأمّن بأنوار حمرا بترمش، مش بالإشارة دي.
+8f4de1665b	False: traffic lights regulate traffic; they do not announce railway stations.	غلط: الإشارات بتنظم المرور؛ مش بتعلن عن محطات قطر.
+345c07f3c7	False: the yellow triangle tells public transport vehicles to stop if they can; it does not announce roadworks.	غلط: المثلث الأصفر بيقول لعربيات النقل العام تقف لو تقدر؛ مش بيعلن عن شغل في الطريق.
+20110c23a2	True: on green you may pass.	صح: مع الأخضر تقدر تعدّي.
+c1cd62b113	True: on steady yellow you may pass only if you cannot stop safely before the junction (CdS art. 41).	صح: مع الأصفر الثابت تعدّي بس لو ماتقدرش تقف بأمان قبل التقاطع (CdS art. 41).
+d3d7f498fd	True: with flashing yellow you may pass, slowing down and using maximum caution.	صح: مع الأصفر اللي بيرمش تقدر تعدّي، بس هدّي وخد بالك جداً.
+d8ac29b9f5	True: when the light is off you may pass with maximum caution, following signs and priority rules.	صح: لما الإشارة مطفية تقدر تعدّي بحذر شديد، وتمشي على العلامات وقواعد الأولوية.
+86831f639c	True: if the traffic light is broken you may pass with maximum caution, applying normal priority rules.	صح: لو الإشارة عطلانة تقدر تعدّي بحذر شديد، وتطبق قواعد الأولوية العادية.
+bd88f3fae3	True: the three-light signal is a traffic light for vehicles.	صح: الإشارة دي اللي بتلات ألوان إشارة للعربيات.
+555c462018	True: it is normally placed at a junction.	صح: عادة بتتحط في تقاطع.
+b5eef27c3e	True: it normally regulates the passage of vehicles through a junction.	صح: عادة بتنظم مرور العربيات في التقاطع.
+4b300fae6f	True: with steady yellow those who have already entered the junction must cross it and clear it.	صح: مع الأصفر الثابت اللي دخل التقاطع خلاص لازم يعدّيه ويخرج منه.
+5e50ff15bd	False: you may pass only when your light is green, not just before it turns green.	غلط: تعدّي بس لما إشارتك تبقى خضرا، مش قبلها بشوية.
+aa03a057d1	False: red means stop; you may not pass, however careful you are.	غلط: الأحمر معناه اقف؛ ماتعدّيش مهما كنت حريص.
+2af4995c8b	False: on red you must stop even if no vehicles are coming from other directions.	غلط: مع الأحمر لازم تقف حتى لو مفيش عربيات جاية من أي اتجاه.
+54b9a2f2e9	False: the normal traffic light applies to all vehicles, public buses included, unless they have special lights.	غلط: الإشارة العادية بتنطبق على كل العربيات، والأتوبيسات العامة كمان، إلا لو ليها إشارات خاصة.
+38aa601655	False: the vehicle traffic light applies to bicycles too.	غلط: إشارة العربيات بتنطبق على العجل كمان.
+bc11ad35ff	False: this light regulates junctions; it is not found at all motorway toll booths.	غلط: الإشارة دي بتنظم التقاطعات؛ مش موجودة في كل أكشاك الرسوم على الأوتوستراد.
+e22d5c96d4	False: it regulates junctions; level crossings are protected by alternating flashing red lights.	غلط: بتنظم التقاطعات؛ المزلقانات بتتأمّن بأنوار حمرا بترمش بالتبادل.
+036feaeaa9	False: with flashing yellow vehicles may pass, with caution.	غلط: مع الأصفر اللي بيرمش العربيات تقدر تعدّي، بحذر.
+c2902b542f	True: alternating flashing red lights can be found at level crossings with half-barriers.	صح: الأنوار الحمرا اللي بترمش بالتبادل ممكن تلاقيها عند مزلقانات بنص بوابات.
+d5646df814	True: at level crossings without barriers they flash alternately to signal an approaching train.	صح: عند المزلقانات اللي من غير بوابات بترمش بالتبادل عشان تبيّن إن فيه قطر جاي.
+7a124fe964	True: when they are lit both vehicles and pedestrians are forbidden to cross (CdS art. 147).	صح: لما بتنوّر العربيات والمشاة الاتنين ممنوع يعدّوا (CdS art. 147).
+9ab3996654	True: they are normally placed on the right-hand side of the road.	صح: عادة بتتحط على الجنب اليمين من الطريق.
+854e9e2494	True: they come on shortly before the train arrives and stay on until it has passed.	صح: بتنوّر قبل ما القطر يوصل بشوية وبتفضل منوّرة لحد ما يعدّي.
+ab6975fd17	True: they come on just before the half-barriers start to lower.	صح: بتنوّر قبل ما نص البوابات تبتدي تنزل على طول.
+951e2b6546	True: they are accompanied by an acoustic signalling device (bell).	صح: بيبقى معاها جهاز صوت (جرس).
+6d6eeb7778	True: if the lights are flashing you must stop even if the half-barrier is still up, because it is about to come down.	صح: لو الأنوار بترمش لازم تقف حتى لو نص البوابة لسه فوق، عشان هتنزل دلوقتي.
+8e48811dc0	False: with flashing red lights you must stop even if no train is visible; crossing quickly is forbidden.	غلط: مع الأنوار الحمرا اللي بترمش لازم تقف حتى لو مش شايف قطر؛ إنك تعدّي بسرعة ممنوع.
+4c4e182a7e	False: they are road signals for road users, not for train drivers.	غلط: دي إشارات للي ماشيين على الطريق، مش لسواقين القطر.
+e27331053b	False: when flashing they forbid entering the level crossing.	غلط: لما بترمش بتمنعك تدخل المزلقان.
+782d53566c	False: they are placed at the level crossing itself, not 150 m before it.	غلط: بتتحط عند المزلقان نفسه، مش قبله بـ 150 متر.
+291a2781b5	False: they are placed at the crossing, not on the first countdown marker posts (pannelli distanziometrici).	غلط: بتتحط عند المزلقان، مش على أول لوحة من لوحات المسافة (pannelli distanziometrici).
+64277d6d33	False: they light up before and during the lowering of the half-barriers, not during their raising.	غلط: بتنوّر قبل وأثناء نزول نص البوابات، مش وقت ما تطلع.
+f460e75493	True: these overhead lights with red X and green arrows are reversible lane traffic lights.	صح: الإشارات دي اللي فوق الحارات بـ X أحمر وأسهم خضرا هي إشارات الحارات اللي بتتعكس.
+c7b4d4a310	True: a red X means you may not use that lane.	صح: الـ X الأحمر معناه ممنوع تمشي في الحارة دي.
+dd56da7511	True: a green arrow means you may use the lane below it.	صح: السهم الأخضر معناه تقدر تمشي في الحارة اللي تحته.
+ed719a185a	True: a flashing yellow arrow obliges you to move into the lane it points to.	صح: السهم الأصفر اللي بيرمش بيلزمك تنقل للحارة اللي بيشاور عليها.
+a78bcc0d33	True: reversible lane lights are used on carriageways with at least three lanes.	صح: إشارات الحارات اللي بتتعكس بتتحط على نهر طريق فيه 3 حارات على الأقل.
+13b9ed8ccc	True: you may drive in the lane marked by the green arrow.	صح: تقدر تمشي في الحارة اللي عليها السهم الأخضر.
+2f5401b79e	True: a flashing yellow arrow requires you to leave that lane and move to the one indicated.	صح: السهم الأصفر اللي بيرمش بيلزمك تسيب الحارة دي وتروح على الحارة اللي بيشاور عليها.
+a4de464545	False: green arrows allow you to use the lanes below them.	غلط: الأسهم الخضرا بتسمحلك تمشي في الحارات اللي تحتها.

@@ -1,0 +1,100 @@
+5f0821f5e2	False: speed limit discs are required on heavier vehicles (e.g. goods vehicles over 3.5 t, buses); goods vehicles up to 3.5 t follow car limits and do not carry them.	غلط: أقراص حدود السرعة إجبارية على العربيات الأتقل (زي عربيات النقل فوق 3,5 طن والأوتوبيسات)؛ عربيات النقل لحد 3,5 طن بتمشي بحدود الملاكي ومش بتحطها.
+05a669902d	False: motor caravans up to 3.5 t follow car speed limits, so they do not carry speed limit discs.	غلط: الكرافانات بموتور لحد 3,5 طن بتمشي بحدود سرعة الملاكي، فمش بتحط أقراص حدود السرعة.
+0085cbf9a3	False: motorcycles do not carry speed limit discs; these are applied to heavy vehicles and some buses.	غلط: الموتوسيكلات مش بتحط أقراص حدود السرعة؛ دي بتتحط على العربيات التقيلة وبعض الأوتوبيسات.
+80baad2d01	True: speed must be particularly moderate near intersections (CdS art. 141).	صح: السرعة لازم تكون هادية جداً قرب التقاطعات (CdS art. 141).
+fddd3b2ecf	True: speed must be particularly moderate in narrow passages (CdS art. 141).	صح: السرعة لازم تكون هادية جداً في الأماكن الضيقة (CdS art. 141).
+ecd0b2b9be	True: speed must be particularly moderate when passing other vehicles is difficult (CdS art. 141).	صح: السرعة لازم تكون هادية جداً لما يكون صعب تعدّي جنب العربيات التانية (CdS art. 141).
+27f138f971	True: on stretches with limited visibility, such as bends and hump crests, speed must be particularly moderate (CdS art. 141).	صح: في الأجزاء اللي الرؤية فيها قليلة، زي المنحنيات وقمم المطالع، السرعة لازم تكون هادية جداً (CdS art. 141).
+deb774f6e1	True: where there are no pavements and pedestrians walk on the carriageway, speed must be particularly moderate.	صح: لما مفيش رصيف والمشاة ماشيين على نهر الطريق، السرعة لازم تكون هادية جداً.
+2133269163	True: on a slippery road (water, snow, ice, leaves, mud) grip is reduced, so you must slow down (CdS art. 141).	صح: على الطريق الزلق (مية، تلج، جليد، ورق شجر، طين) الكاوتش بيمسك أقل، فلازم تهدي (CdS art. 141).
+7f45a3a129	False: sunset is not in itself a case requiring particularly moderate speed; what matters is actual visibility and night conditions.	غلط: غروب الشمس مش في حد ذاته سبب يلزمك تهدي جداً؛ المهم الرؤية الفعلية وظروف الليل.
+e52ffb23e0	False: speed must be particularly moderate near and approaching an intersection, not immediately after it.	غلط: السرعة لازم تكون هادية جداً قرب التقاطع وانت داخل عليه، مش بعده على طول.
+630189ca2e	False: being in a hurry never justifies a speed; speed must be set by safety conditions (CdS art. 141).	غلط: الاستعجال عمره ما يبرر السرعة؛ السرعة بتتحدد حسب ظروف الأمان (CdS art. 141).
+df7dbb06fa	False: speed must suit your condition but also the road, traffic, weather and vehicle, not only your health (CdS art. 141).	غلط: السرعة لازم تناسب حالتك وكمان الطريق والمرور والجو والعربية، مش صحتك بس (CdS art. 141).
+5da61079d6	False: there is no general minimum of 30 km/h; you must adapt speed and even stop when necessary.	غلط: مفيش حد أدنى عام 30 كم/س؛ لازم تظبط سرعتك ولو محتاج توقف.
+4c34b2df72	False: being followed by a bus is not a reason to slow down; speed depends on road and traffic conditions.	غلط: إن أوتوبيس ماشي وراك مش سبب إنك تهدي؛ السرعة بتعتمد على ظروف الطريق والمرور.
+7b642e53b1	True: speed must be adapted to the state of maintenance and cleanliness of the road (CdS art. 141).	صح: السرعة لازم تتظبط حسب حالة صيانة الطريق ونضافته (CdS art. 141).
+c4a74980fb	True: strong side winds can push the vehicle off course, so speed must be reduced.	صح: الهوا الجانبي الجامد ممكن يزق العربية من مسارها، فلازم تهدي.
+10389dc570	True: when dazzled by the sun you cannot see well, so you must slow down.	صح: لما الشمس تزغللك مش هتشوف كويس، فلازم تهدي.
+1baa257b3d	True: on motorways and main extra-urban roads, in thick fog with visibility under 100 m, temporary limits of no more than 50 km/h may be imposed (CdS art. 142).	صح: على الأوتوستراد والطرق بره المدن الرئيسية، في الشبورة الكثيفة والرؤية أقل من 100 متر، ممكن يتفرض حد مؤقت ميعديش 50 كم/س (CdS art. 142).
+9d133976f1	False: unless signs say otherwise, the limit on main extra-urban roads is 110 km/h (CdS art. 142).	غلط: لو مفيش علامات بتقول غير كده، حد الطرق بره المدن الرئيسية 110 كم/س (CdS art. 142).
+fb73347541	False: the urban limit is 50 km/h and it ends at the end of the built-up area sign (CdS art. 142).	غلط: حد المدن 50 كم/س وبيخلص عند علامة نهاية المنطقة السكنية (CdS art. 142).
+802c5fb433	False: information signs only give information; they do not require you to slow down.	غلط: علامات المعلومات بتديك معلومة بس؛ مش بتلزمك تهدي.
+34e1f7607f	True: a car towing a trailer (e.g. a horse trailer) is limited to 80 km/h on motorways (CdS art. 142).	صح: العربية اللي بتجر مقطورة (زي مقطورة خيول) حدها 80 كم/س على الأوتوستراد (CdS art. 142).
+bbd051f81d	True: a car towing a trailer (e.g. for motorcycles) is limited to 70 km/h on extra-urban roads (CdS art. 142).	صح: العربية اللي بتجر مقطورة (زي مقطورة موتوسيكلات) حدها 70 كم/س على الطرق بره المدن (CdS art. 142).
+d7a1bfa6e4	True: near road works you must adapt your speed, as there may be workers, machinery and narrowings.	صح: قرب أعمال الطرق لازم تظبط سرعتك، لأن ممكن يكون فيه عمال ومعدات وتضييق.
+7adb8b4e3a	True: a warning triangle signals a stopped vehicle ahead, so you must slow down and be ready to stop (CdS art. 162).	صح: مثلث التحذير معناه إن فيه عربية واقفة قدامك، فلازم تهدي وتستعد توقف (CdS art. 162).
+8f39852512	True: when traffic moves in parallel lines, vehicles in the right lane may go faster than those in the left; this is not considered overtaking on the right.	صح: لما المرور ماشي في صفوف متوازية، العربيات في الحارة اليمين ممكن تمشي أسرع من الشمال؛ وده مش بيتحسب تخطي من اليمين.
+7be2c6d947	True: along channelling lanes each lane flows independently, so the right lane may move faster than the left.	صح: في حارات التوجيه كل حارة ماشية لوحدها، فالحارة اليمين ممكن تمشي أسرع من الشمال.
+6cb4ebe2f3	True: with channelled traffic, the right lane may move faster than the left without this being an irregular overtake.	صح: لما المرور يكون متوجه في حارات، الحارة اليمين ممكن تمشي أسرع من الشمال من غير ما يبقى تخطي مخالف.
+61c03b747b	False: no Italian motorway allows 170 km/h; the maximum is 130 km/h, or 150 km/h on signed sections (CdS art. 142).	غلط: مفيش أوتوستراد في إيطاليا بيسمح بـ 170 كم/س؛ الحد الأقصى 130 كم/س، أو 150 كم/س في أجزاء فيها علامات (CdS art. 142).
+a6f08e3fcb	False: using main beam headlights never allows you to exceed the speed limit, by day or night (CdS art. 142).	غلط: النور العالي عمره ما بيسمحلك تعدّي حد السرعة، بالنهار أو بالليل (CdS art. 142).
+545143cef2	False: the overtaking lane has no special 110 km/h limit; the ordinary motorway limit (130 km/h) applies.	غلط: حارة التخطي ملهاش حد خاص 110 كم/س؛ الحد العادي للأوتوستراد (130 كم/س) هو اللي ساري.
+e43a14fb68	False: motorway limits do not depend on day or night; the ordinary limit is 130 km/h, 150 only where signed (CdS art. 142).	غلط: حدود الأوتوستراد مش مرتبطة بالليل والنهار؛ الحد العادي 130 كم/س، و150 بس لو فيه علامات (CdS art. 142).
+9143387645	False: on main extra-urban roads the maximum is 110 km/h; only motorways may reach 130-150 km/h (CdS art. 142).	غلط: على الطرق بره المدن الرئيسية الحد الأقصى 110 كم/س؛ الأوتوستراد بس اللي ممكن يوصل 130-150 كم/س (CdS art. 142).
+e5f04672a2	False: limits apply everywhere, including downhill; on descents you must actually be more careful with speed (CdS art. 141).	غلط: الحدود سارية في كل مكان، حتى في النزلات؛ وفي النزلات لازم تاخد بالك من السرعة أكتر (CdS art. 141).
+d3148e0079	False: a car towing a trailer (for boats, gliders, etc.) is limited to 70 km/h on extra-urban roads, not 90 (CdS art. 142).	غلط: العربية اللي بتجر مقطورة (لمراكب أو طيارات شراعية إلخ) حدها 70 كم/س على الطرق بره المدن، مش 90 (CdS art. 142).
+903c71a9d4	False: wheeled agricultural and operating machines are limited to 40 km/h; the flashing yellow light does not raise this limit (CdS art. 142).	غلط: الماكينات الزراعية وماكينات الشغل اللي بكاوتش حدها 40 كم/س؛ والنور الأصفر اللي بيرمش مش بيرفع الحد ده (CdS art. 142).
+0ee959848a	True: even with right of way you must approach an intersection at a prudent speed; if you go too fast, you may share the blame for an accident (CdS art. 141).	صح: حتى لو ليك الأولوية لازم تدخل التقاطع بسرعة معقولة؛ لو كنت مسرع ممكن تشيل جزء من الغلط في الحادثة (CdS art. 141).
+61946c6916	True: speed limits differ between European countries, so check local rules when driving abroad.	صح: حدود السرعة بتختلف بين دول أوروبا، فاعرف قواعد البلد لما تسوق بره.
+d9ae55e34a	False: having right of way does not excuse excessive speed; you may be found partly responsible (CdS art. 141).	غلط: إن ليك الأولوية مش بيبرر السرعة الزيادة؛ ممكن تتحسب مسؤول جزئياً (CdS art. 141).
+7628e7f2eb	False: responsibility is not automatically only the other driver's; your excessive speed may make you jointly responsible.	غلط: المسؤولية مش أوتوماتيك على السواق التاني بس؛ سرعتك الزيادة ممكن تخليك مسؤول معاه.
+ffbb5060b1	False: even with right of way you must moderate speed near intersections (CdS art. 141).	غلط: حتى لو ليك الأولوية لازم تهدي قرب التقاطعات (CdS art. 141).
+af9e023c39	False: responsibility does not depend on who entered first; it depends on right of way and on each driver's conduct, including speed.	غلط: المسؤولية مش مرتبطة بمين دخل الأول؛ مرتبطة بالأولوية وتصرف كل سواق، ومنه السرعة.
+7fc109b12a	True: if the vehicle stops on the tracks, you must get it off them as quickly as possible, even by pushing it (CdS art. 147).	صح: لو العربية وقفت على القضبان، لازم تشيلها من عليها بأسرع وقت، حتى لو بالزق (CdS art. 147).
+124614d933	True: if you cannot move it at once, get everyone out immediately and alert the railway station.	صح: لو مش قادر تحركها على طول، نزّل كل اللي في العربية فوراً وبلّغ محطة السكة الحديد.
+6035239668	True: you must make sure train drivers are warned of the danger in time (CdS art. 147).	صح: لازم تتأكد إن سواقين القطر اتبلغوا بالخطر في الوقت المناسب (CdS art. 147).
+64c80bff3a	True: with the engine off, power steering stops assisting, so steering becomes heavy and difficult.	صح: والموتور مطفي، الباور ستيرنج بيبطل يساعد، فالدريكسيون بيبقى تقيل وصعب.
+476bc1581b	True: with the engine off, the brake servo loses assistance, so braking needs much more force.	صح: والموتور مطفي، مساعد الفرامل بيبطل، فالفرملة محتاجة قوة أكبر بكتير.
+89ccd9fb80	True: without servo assistance braking is less effective, increasing the risk of accidents.	صح: من غير مساعد الفرامل الفرملة بتبقى أضعف، فخطر الحوادث بيزيد.
+c9211baef4	True: without power steering it is hard to steer quickly to avoid an obstacle.	صح: من غير الباور ستيرنج صعب تلف الدريكسيون بسرعة عشان تتفادى عائق.
+b531b04229	True: without brake servo assistance, braking distance increases dangerously.	صح: من غير مساعد الفرامل، مسافة الفرملة بتزيد بشكل خطر.
+9d34719670	True: as the servo's reserve runs out, stopping the vehicle becomes more and more difficult.	صح: لما احتياطي مساعد الفرامل يخلص، توقيف العربية بيبقى أصعب وأصعب.
+8623e88a5e	False: coasting with the engine off does not overload the electrical system; the real danger is losing brake and steering assistance.	غلط: النزول والموتور مطفي مش بيعمل ضغط زيادة على الكهربا؛ الخطر الحقيقي إنك بتخسر مساعد الفرامل والدريكسيون.
+9f18a2e093	False: the danger is the loss of brake and steering assistance, not a differential fault.	غلط: الخطر هو إنك بتخسر مساعد الفرامل والدريكسيون، مش عطل في الدفرنس.
+d107447e00	False: descending in neutral with the engine off is dangerous: you lose engine braking and brake/steering assistance; use a low gear instead.	غلط: النزول على الفاضي والموتور مطفي خطر: بتخسر فرملة الموتور ومساعد الفرامل والدريكسيون؛ انزل على فتيس تقيل بدل كده.
+bceaab88dc	False: removing the key can lock the steering, making the situation even more dangerous.	غلط: إنك تشيل المفتاح ممكن يقفل الدريكسيون، فالموقف يبقى أخطر.
+a0b3b1cd11	False: with the engine off the vacuum servo is not recharged, so braking force is much lower than with the engine running.	غلط: والموتور مطفي مساعد الفرامل الفاكيوم مش بيتشحن، فقوة الفرملة بتبقى أقل بكتير من والموتور شغال.
+6fa92bbb22	True: a ball rolling onto the road may be followed by a child, so you must slow down immediately.	صح: الكورة اللي بتتدحرج في الطريق ممكن يجري وراها طفل، فلازم تهدي فوراً.
+08be7ffd99	True: slow down so that you can stop if a child runs into the road.	صح: هدّي عشان تقدر توقف لو طفل جري في الطريق.
+b942ca2b06	True: you must anticipate that a child may run out after the ball.	صح: لازم تتوقع إن طفل ممكن يطلع جري ورا الكورة.
+3aa0d273e9	True: slow down progressively, so the vehicle behind is not taken by surprise and does not hit you.	صح: هدّي بالتدريج، عشان العربية اللي وراك متتفاجئش وتخبطك.
+2b032a8f1c	False: steering sharply can make you lose control or hit others; you should slow down and be ready to stop.	غلط: إنك تلف الدريكسيون فجأة ممكن يخليك تفقد السيطرة أو تخبط حد؛ المفروض تهدي وتستعد توقف.
+22ccd2f67c	False: swerving into the opposite lane risks a head-on collision; slow down and be ready to stop instead.	غلط: إنك تدخل في الحارة العكسية ممكن يعمل حادثة وش في وش؛ بدل كده هدّي واستعد توقف.
+2d0e412ebf	False: you must slow down, progressively, because a child may follow the ball.	غلط: لازم تهدي، بالتدريج، لأن ممكن طفل يجري ورا الكورة.
+fe4c30df33	False: the right reaction is to slow down and be ready to stop, not to switch on the hazard lights.	غلط: التصرف الصح إنك تهدي وتستعد توقف، مش إنك تولع الفلاشر.
+19d59c9831	True: people inside a parked car may suddenly open a door, so do not pass too close.	صح: اللي جوه عربية مركونة ممكن يفتحوا الباب فجأة، فمتعدّيش قريب أوي.
+afb775cb73	True: parked cars can hide a wheelchair user or a person with a pram about to cross.	صح: العربيات المركونة ممكن تخبي حد على كرسي متحرك أو حد بيزق عربية أطفال وهيعدّي.
+91d088a590	False: a door opening suddenly is dangerous even at low speed, so keep a suitable lateral distance.	غلط: الباب اللي بيتفتح فجأة خطر حتى في السرعة البطيئة، فخلي مسافة جانبية مناسبة.
+7367f7c95b	False: the danger is that a door may open suddenly, not only when one is already open.	غلط: الخطر إن الباب ممكن يتفتح فجأة، مش بس لما يكون مفتوح.
+d9f184c0ad	False: the danger exists whenever people are on board and might open a door, not only after some have got out.	غلط: الخطر موجود طول ما فيه ناس جوه ممكن يفتحوا الباب، مش بس بعد ما حد نزل.
+b7e96846c0	False: passing too close is dangerous at any speed, not only at high speed.	غلط: إنك تعدّي قريب أوي خطر بأي سرعة، مش في السرعة العالية بس.
+7ab7ad8854	True: if the barriers start to close while you are on the tracks, stay calm and clear the railway at all costs (CdS art. 147).	صح: لو البوابات ابتدت تقفل وانت على القضبان، خليك هادي واخرج من على السكة بأي طريقة (CdS art. 147).
+0885ae86e8	True: you must clear the tracks by any means, even breaking through the barriers if necessary.	صح: لازم تخرج من على القضبان بأي طريقة، حتى لو اضطريت تكسر البوابات.
+53d1498c2a	True: if your vehicle breaks down on the tracks, remove it as soon as possible, e.g. by getting it towed by others.	صح: لو عربيتك عطلت على القضبان، شيلها بأسرع وقت، زي إن حد يسحبها.
+4fc211505f	True: you can ask other road users to help push the vehicle off the railway line.	صح: تقدر تطلب من الناس اللي على الطريق يساعدوك تزق العربية بره السكة.
+7bf6f44fef	True: at level crossings use maximum care and moderate speed, so as not to damage equipment.	صح: عند المزلقان خد بالك جداً وهدّي، عشان متبوظش المعدات.
+153031f2dc	True: moderating speed at level crossings avoids colliding with the barriers.	صح: إنك تهدي عند المزلقان بيخليك متخبطش في البوابات.
+043c0b365e	True: breaking level crossing rules can endanger the many people travelling on a passing train.	صح: مخالفة قواعد المزلقان ممكن تعرّض ناس كتير راكبين القطر للخطر.
+e6e10a50b0	True: a risky manoeuvre to save time at a level crossing endangers many people, not just the driver.	صح: الحركة المتهورة عشان تكسب وقت عند المزلقان بتعرّض ناس كتير للخطر، مش السواق بس.
+2e02b6f0c2	True: if a vehicle is stuck between closed barriers, you must do everything to warn approaching trains of the danger.	صح: لو عربية وقفت بين البوابات المقفولة، لازم تعمل كل حاجة عشان تنبه القطر الجاي للخطر.
+914003145f	False: you must try to clear the tracks by any means, even breaking the barriers, not simply abandon the vehicle.	غلط: لازم تحاول تخرج من على القضبان بأي طريقة، حتى لو كسرت البوابات، مش تسيب العربية وتمشي.
+0713a91bcb	False: leaving a trailer on the tracks would still cause a collision with the train; the whole vehicle must clear the tracks.	غلط: لو سبت المقطورة على القضبان القطر برضه هيخبطها؛ لازم العربية كلها تخرج من على السكة.
+ba77cd7237	False: the priority is removing the vehicle and warning the train, not saving the load.	غلط: الأولوية إنك تشيل العربية وتنبه القطر، مش إنك تنقذ الحمولة.
+6534bb9ca3	False: emptying the fuel tank is not the right action; remove the vehicle and warn the train.	غلط: تفضية تانك البنزين مش التصرف الصح؛ شيل العربية ونبّه القطر.
+f5c9b29adc	False: level crossings must be approached with care and moderate speed, not at high speed (CdS art. 147).	غلط: المزلقان لازم يتعدّى بحذر وبسرعة هادية، مش بسرعة عالية (CdS art. 147).
+c8c3054717	False: you must approach slowly so you can stop when the barriers are down; breaking through is only a last resort if trapped on the tracks.	غلط: لازم تقرب ببطء عشان تقدر توقف لما البوابات تنزل؛ تكسير البوابات آخر حل بس لو اتحبست على القضبان.
+4df89a44d9	False: breaking level crossing rules is very dangerous for many people, not a harmless minor offence.	غلط: مخالفة قواعد المزلقان خطر جداً على ناس كتير، مش مخالفة بسيطة ملهاش ضرر.
+1412182d1d	False: a risky manoeuvre at a level crossing is dangerous at any hour, day or night.	غلط: الحركة المتهورة عند المزلقان خطر في أي وقت، بالليل أو بالنهار.
+959d7bfdfd	False: the driver must also try to remove the vehicle and warn approaching trains, not only switch off and let passengers out.	غلط: السواق لازم كمان يحاول يشيل العربية وينبه القطر الجاي، مش بس يطفي الموتور وينزّل الركاب.
+9378af7390	False: you must try to remove the vehicle and warn the trains, not just walk 100 m away.	غلط: لازم تحاول تشيل العربية وتنبه القطر، مش تبعد 100 متر وبس.
+f0ccca1f70	False: vehicles must be cleared from the tracks even if there are injured people, because a train could cause a far worse accident.	غلط: العربيات لازم تتشال من على القضبان حتى لو فيه مصابين، لأن القطر ممكن يعمل حادثة أسوأ بكتير.
+afbf009bbc	True: keeping a safety distance lets you stop in time and avoid hitting the vehicle in front (CdS art. 149).	صح: مسافة الأمان بتخليك توقف في الوقت المناسب ومتخبطش العربية اللي قدامك (CdS art. 149).
+f5544f1bd4	True: the safety distance must grow with your vehicle's speed (CdS art. 149).	صح: مسافة الأمان لازم تزيد كل ما سرعة عربيتك تزيد (CdS art. 149).
+85545b16ac	True: the safety distance must take account of your reaction readiness, e.g. tiredness lengthens reaction time.	صح: مسافة الأمان لازم تحسب رد فعلك، زي التعب اللي بيطوّل وقت رد الفعل.
+bb9b7b9a22	True: the safety distance depends on traffic conditions (CdS art. 149).	صح: مسافة الأمان بتعتمد على حالة المرور (CdS art. 149).
+4375a9cd88	True: the road's layout (bends, ascents, descents) affects the safety distance needed.	صح: شكل الطريق (منحنيات، طلعات، نزلات) بيأثر على مسافة الأمان المطلوبة.
+5c004bd607	True: in rain, fog, snow or ice you need a greater safety distance (CdS art. 149).	صح: في المطر أو الشبورة أو التلج أو الجليد محتاج مسافة أمان أكبر (CdS art. 149).
+97019094b0	True: the type of vehicle you drive affects braking and so the safety distance.	صح: نوع العربية اللي سايقها بيأثر على الفرملة وبالتالي على مسافة الأمان.
+5d1a277f0a	True: the vehicle's efficiency, e.g. brakes and tyres, affects the safety distance needed.	صح: حالة العربية، زي الفرامل والكاوتش، بتأثر على مسافة الأمان المطلوبة.
+9f2fcb7cca	True: a heavier load lengthens braking distance, so the safety distance must increase.	صح: الحمولة التقيلة بتطوّل مسافة الفرملة، فلازم تزوّد مسافة الأمان.

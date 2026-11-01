@@ -1,0 +1,100 @@
+e379e45abe	VERO	Safety conditions	valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 20 metri	The safe distance to be kept from a snowplough while it is operating is 20 metres.	
+960eee2777	VERO	Safety conditions	valore della distanza di sicurezza da mantenere da una macchina spanditrice di sale in azione è di 20 metri	The safe distance to be kept from a salt-spreading vehicle while it is operating is 20 metres.	
+58b2f5e2f3	VERO	Safety conditions	conducente deve valutare la distanza di sicurezza con riferimento anche alla velocità del veicolo che lo precede	The driver must assess the safe following distance with reference also to the speed of the vehicle ahead.	
+18e8e7a616	VERO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base all’efficienza dei freni	The safe following distance must also be determined based on the efficiency of the brakes.	
+a41808972f	VERO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base alla condizione dei pneumatici	The safe following distance must also be determined based on the condition of the tyres.	
+83017bef23	VERO	Safety conditions	strada extraurbana a una corsia per senso di marcia, la distanza fra veicoli adibiti al trasporto di merci di massa complessiva superiore a 3,5 tonnellate, cui sia stato imposto il divieto di sorpasso, deve essere di almeno 100 metri	On rural roads with one lane in each direction, the distance between vehicles used for transporting goods with a total mass exceeding 3.5 tonnes, to which an overtaking ban has been imposed, must be at least 100 metres.	
+b575e85507	FALSO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base al tipo di alimentazione del motore	The safe following distance must also be determined based on the engine's fuel type.	
+156e684a91	FALSO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base alla cilindrata del veicolo	The safe following distance must also be determined based on the vehicle's engine capacity.	
+663b76a23e	FALSO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base alla potenza del motore	The safe following distance must also be determined based on the engine power.	
+d6f46f3cc4	FALSO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base all’ampiezza della carreggiata	The safe following distance must also be determined based on the width of the carriageway.	
+b515c6505d	FALSO	Safety conditions	conducente deve stabilire il valore della distanza di sicurezza anche in base alla larghezza del veicolo di cui è alla guida	The driver must determine the safe following distance also based on the width of the vehicle he or she is driving.	
+fe9cf2642b	FALSO	Safety conditions	conducente ha l’obbligo di controllare che il veicolo che lo segue rispetti la distanza di sicurezza	The driver has the obligation to check that the vehicle following him or her respects the safe following distance.	
+59fe63ac8e	FALSO	Safety conditions	valore della distanza di sicurezza da mantenere da una macchina sgombraneve in azione è di 10 metri	The safe distance to be kept from a snowplough while it is operating is 10 metres.	
+2f375088f1	FALSO	Safety conditions	valore della distanza di sicurezza da mantenere da una macchina spanditrice di sale in azione è di 15 metri	The safe distance to be kept from a salt-spreading vehicle while it is operating is 15 metres.	
+c65ec3dc35	FALSO	Safety conditions	distanza fra autotreni, in presenza di segnali di divieto di sorpasso fra di loro, deve essere pari ad almeno 10 metri	The distance between road trains, in the presence of no-overtaking signs applying to them, must be at least 10 metres.	
+a143b93840	FALSO	Safety conditions	strade extraurbane, il valore della distanza di sicurezza è sempre pari a 70 metri	On rural roads, the safe following distance is always equal to 70 metres.	
+9662a4ef7b	FALSO	Safety conditions	valore della distanza di sicurezza deve essere almeno pari a quello della distanza di frenatura	The safe following distance must be at least equal to the braking distance.	
+9041d3f95b	FALSO	Safety conditions	valore della distanza di sicurezza deve essere almeno pari a quello della distanza di visibilità	The safe following distance must be at least equal to the visibility distance.	
+a6593124cc	FALSO	Safety conditions	distanza di sicurezza non deve essere rispettata a velocità di marcia inferiori ai 50 km/h	The safe following distance does not have to be respected at speeds below 50 km/h.	
+ed35683070	FALSO	Safety conditions	valore della distanza di sicurezza deve essere stabilito anche in base alla marcia innestata	The safe following distance must also be determined based on the gear engaged.	
+87d8a5e6cb	VERO	Safe following distance	La distanza di sicurezza è commisurata anche alle condizioni psicofisiche del conducente	The safe following distance is also proportionate to the driver's physical and mental condition.	
+1d9a32f89e	VERO	Safe following distance	La distanza di sicurezza va rispettata per non tamponare il veicolo che ci precede	The safe following distance must be respected in order not to rear-end the vehicle in front of us.	
+cdab81863c	FALSO	Safe following distance	La distanza di sicurezza deve essere determinata in relazione alla larghezza del veicolo che precede	The safe following distance must be determined in relation to the width of the vehicle in front.	
+64a1802d13	FALSO	Safe following distance	La distanza di sicurezza è commisurata anche al numero di corsie della strada	The safe following distance is also proportionate to the number of lanes on the road.	
+08ef1f62b4	FALSO	Safe following distance	La distanza di sicurezza è commisurata anche alla presenza del servosterzo	The safe following distance is also proportionate to the presence of power steering.	
+7a8be1c25f	FALSO	Safe following distance	La distanza di sicurezza è commisurata anche al tipo di veicolo che segue	The safe following distance is also proportionate to the type of vehicle following behind.	
+a2853defd0	FALSO	Safe following distance	La distanza di sicurezza è commisurata anche al limite di velocità riportato sul retro del veicolo che ci precede	The safe following distance is also proportionate to the speed limit shown on the rear of the vehicle in front of us.	
+c976517aa0	FALSO	Safe following distance	La distanza di sicurezza è una distanza fissa	The safe following distance is a fixed distance.	
+20ca03cd30	FALSO	Safe following distance	La distanza di sicurezza si deve rispettare al di sopra di una certa velocità	The safe following distance must be respected above a certain speed.	
+0cb27365d3	VERO	Distance in different situations	La distanza di sicurezza è commisurata anche all'aderenza degli pneumatici	The safe following distance is also proportionate to tyre grip.	
+d2c387c42e	VERO	Distance in different situations	La distanza di sicurezza dipende dallo spazio percorso nel tempo di reazione	The safe following distance depends on the distance covered during reaction time.	
+8b799ae76d	FALSO	Distance in different situations	La distanza di sicurezza deve essere di almeno 100 metri nelle forti discese	The safe following distance must be at least 100 metres on steep downhill stretches.	
+da876eefa9	FALSO	Distance in different situations	La distanza di sicurezza deve essere di almeno 100 metri in caso di nevicata in atto	The safe following distance must be at least 100 metres in the event of snowfall in progress.	
+b9d4b11b68	FALSO	Distance in different situations	La distanza di sicurezza dipende dall'efficienza del freno di stazionamento	The safe following distance depends on the efficiency of the parking brake.	
+1f7bea67e4	FALSO	Distance in different situations	La distanza di sicurezza deve essere maggiore se si percorre la corsia d'emergenza	The safe following distance must be greater if you are travelling in the emergency lane.	
+79bd3da1b6	FALSO	Distance in different situations	La distanza di sicurezza deve essere uguale allo spazio di frenatura aumentato di 20 metri	The safe following distance must be equal to the braking distance plus 20 metres.	
+39e9e13ad9	VERO	Reaction distance	Lo spazio percorso nel tempo di reazione è quello percorso dal momento della percezione di una situazione di pericolo a quello di inizio della frenata	The distance covered during reaction time is the distance travelled from the moment a dangerous situation is perceived to the moment braking begins.	
+133fc36b75	VERO	Reaction distance	La distanza di sicurezza deve essere mantenuta per evitare il tamponamento	A safe following distance must be maintained to avoid rear-end collisions.	
+e76c0130df	VERO	Reaction distance	La distanza di sicurezza può essere maggiore dello spazio percorso nel tempo di reazione	The safe following distance may be greater than the distance travelled during reaction time.	
+5a9d40dbc1	FALSO	Reaction distance	La distanza di sicurezza deve essere mantenuta per evitare lo scontro frontale	A safe following distance must be maintained to avoid a head-on collision.	
+152e0d9e1d	FALSO	Reaction distance	La distanza di sicurezza deve essere mantenuta per evitare lo scontro laterale	A safe following distance must be maintained to avoid a side collision.	
+b7a39be8e6	FALSO	Reaction distance	La distanza di sicurezza può essere inferiore allo spazio percorso nel tempo di reazione	The safe following distance may be less than the distance travelled during reaction time.	
+315fdaebdd	VERO	Minimum distance	La distanza minima di sicurezza se si viaggia a 30 km/h è di circa 9 metri	The minimum safe distance, if travelling at 30 km/h, is about 9 metres.	
+594115e99c	VERO	Minimum distance	La distanza minima di sicurezza se si viaggia a 50 km/h deve essere di circa 14 metri	The minimum safe distance, if travelling at 50 km/h, must be about 14 metres.	
+52e70287c4	VERO	Minimum distance	La distanza minima di sicurezza se si viaggia a 100 km/h deve essere di circa 28 metri	The minimum safe distance, if travelling at 100 km/h, must be about 28 metres.	
+4bf029fe3e	VERO	Minimum distance	La distanza minima di sicurezza se si viaggia a 150 km/h deve essere di circa 42 metri	The minimum safe distance, if travelling at 150 km/h, must be about 42 metres.	
+c9c6c7fa53	VERO	Minimum distance	La distanza minima di sicurezza se si viaggia a 130 km/h deve essere di circa 36 metri	The minimum safe distance, if travelling at 130 km/h, must be about 36 metres.	
+813c8d30f5	FALSO	Minimum distance	La distanza minima di sicurezza se si viaggia a 30 km/h deve essere di circa 2 metri	The minimum safe distance, if travelling at 30 km/h, must be about 2 metres.	
+cc4982d89b	FALSO	Minimum distance	La distanza minima di sicurezza se si viaggia a 50 km/h deve essere di circa 5 metri	The minimum safe distance, if travelling at 50 km/h, must be about 5 metres.	
+164e0252d8	FALSO	Minimum distance	La distanza minima di sicurezza se si viaggia a 100 km/h deve essere di circa 15 metri	The minimum safe distance, if travelling at 100 km/h, must be about 15 metres.	
+c87e4e6358	FALSO	Minimum distance	La distanza minima di sicurezza se si viaggia a 130 km/h deve essere di circa 20 metri	The minimum safe distance, if travelling at 130 km/h, must be about 20 metres.	
+a995cb730f	FALSO	Minimum distance	La distanza minima di sicurezza se si viaggia a 150 km/h deve essere di circa 25 metri	The minimum safe distance, if travelling at 150 km/h, must be about 25 metres.	
+b809088365	VERO	Driver distraction	La distrazione del conducente può essere causa di incidenti	Driver distraction can be a cause of accidents.	
+2dac04a353	VERO	Driver distraction	La distrazione del conducente può essere causata dall'accensione del cellulare	Driver distraction can be caused by switching on a mobile phone.	
+acb8f2fb5a	VERO	Driver distraction	La distrazione del conducente può essere causata dalla accensione di una sigaretta	Driver distraction can be caused by lighting a cigarette.	
+5020889362	VERO	Driver distraction	La distrazione del conducente può essere causata dalla ricerca dei comandi della radio o di altri apparecchi elettronici	Driver distraction can be caused by searching for the controls of the radio or other electronic devices.	
+fea9c8c34c	FALSO	Driver distraction	La distrazione del conducente non è determinata dall'uso del "cellulare"	Driver distraction is not caused by the use of a mobile phone.	
+c0aacac9d3	FALSO	Driver distraction	La distrazione del conducente non rappresenta un pericolo se si limita a pochi secondi	Driver distraction does not represent a danger if it lasts only a few seconds.	
+7cf629cc34	VERO	Distance per second	In un secondo, si percorrono circa m 14 se si viaggia a 50 km/h	In one second, you travel about 14 metres if you are driving at 50 km/h.	
+16873cc6da	VERO	Distance per second	In un secondo, si percorrono circa m 28 se si viaggia a 100 km/h	In one second, you travel about 28 metres if you are driving at 100 km/h.	
+ec1769a00f	VERO	Distance per second	In un secondo, si percorrono circa m 36 se si viaggia a 130 km/h	In one second, you travel about 36 metres if you are driving at 130 km/h.	
+cefc8f32d5	VERO	Distance per second	In un secondo, si percorrono circa m 42 se si viaggia a 150 km/h	In one second, you travel about 42 metres if you are driving at 150 km/h.	
+bd49d6c3ac	FALSO	Distance per second	In un secondo, si percorrono circa m 20 se si viaggia a 150 km/h	In one second, you travel about 20 metres if you are driving at 150 km/h.	
+3d8da6d3c6	FALSO	Distance per second	In un secondo, si percorrono circa m 4 se si viaggia a 50 km/h	In one second, you travel about 4 metres if you are driving at 50 km/h.	
+da245463ab	FALSO	Distance per second	In un secondo, si percorrono circa m 10 se si viaggia a 100 km/h	In one second, you travel about 10 metres if you are driving at 100 km/h.	
+25398ee626	FALSO	Distance per second	In un secondo, si percorrono circa m 15 se si viaggia a 130 km/h	In one second, you travel about 15 metres if you are driving at 130 km/h.	
+af17d512c7	VERO	Braking distance	Lo spazio di frenatura è quello percorso dall'inizio della frenata all'arresto del veicolo	Braking distance is the distance travelled from the start of braking until the vehicle stops.	
+a6ec723f25	VERO	Braking distance	Lo spazio di frenatura si quadruplica se la velocità si raddoppia	Braking distance becomes four times greater if the speed doubles.	
+44d7514059	VERO	Braking distance	Lo spazio di frenatura diventa nove volte maggiore se la velocità si triplica	Braking distance becomes nine times greater if the speed triples.	
+5aa69c263f	VERO	Braking distance	Lo spazio di frenatura diventa sedici volte maggiore se la velocità si quadruplica	Braking distance becomes sixteen times greater if the speed quadruples.	
+0c09624d20	FALSO	Braking distance	Lo spazio di frenatura è indipendente dalla velocità	Braking distance is independent of speed.	
+da0f302d79	FALSO	Braking distance	Lo spazio di frenatura si raddoppia se la velocità si raddoppia	Braking distance doubles if the speed doubles.	
+d87eed91f9	VERO	What changes braking distance	Lo spazio di frenatura aumenta se l'aderenza tra pneumatico e asfalto è bassa	Braking distance increases if the grip between the tyre and the road surface is low.	
+f0560f112f	VERO	What changes braking distance	Lo spazio di frenatura aumenta se la strada è innevata	Braking distance increases if the road is snow-covered.	
+0a59e793ae	VERO	What changes braking distance	Lo spazio di frenatura aumenta se la strada è bagnata	Braking distance increases if the road is wet.	
+44a2f11394	VERO	What changes braking distance	Lo spazio di frenatura aumenta se la strada è in discesa	Braking distance increases if the road is downhill.	
+83da912a9f	VERO	What changes braking distance	Lo spazio di frenatura diminuisce se la strada è in salita	Braking distance decreases if the road is uphill.	
+939ecd584f	FALSO	What changes braking distance	Lo spazio di frenatura diminuisce Se il conducente ha i riflessi pronti	The braking distance decreases if the driver has quick reflexes.	
+415da8c221	FALSO	What changes braking distance	Lo spazio di frenatura diminuisce se le ruote si bloccano	The braking distance decreases if the wheels lock.	
+2c7b779406	FALSO	What changes braking distance	Lo spazio di frenatura diminuisce sul tratto in discesa di un dosso	The braking distance decreases on the downhill section of a hump.	
+6170e9987e	FALSO	What changes braking distance	Lo spazio di frenatura aumenta se la strada è in salita	The braking distance increases if the road is uphill.	
+d57a1cad52	FALSO	What changes braking distance	Lo spazio di frenatura diminuisce se la strada è in discesa	The braking distance decreases if the road is downhill.	
+06a267192c	VERO	Stopping distance	Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione più quello percorso durante la frenata	The total stopping distance is equal to the distance travelled during the reaction time plus the distance travelled during braking.	
+00ee76eea8	VERO	Stopping distance	Lo spazio totale di arresto dipende dalla velocità	The total stopping distance depends on speed.	
+c322ac105c	VERO	Stopping distance	Lo spazio totale di arresto dipende dall'usura dei pneumatici	The total stopping distance depends on tyre wear.	
+2982853f5d	VERO	Stopping distance	Lo spazio totale di arresto dipende dalle condizioni dell'asfalto	The total stopping distance depends on the condition of the road surface.	
+d773953e7c	FALSO	Stopping distance	Lo spazio totale di arresto è indipendente dall'usura dei pneumatici	The total stopping distance is independent of tyre wear.	
+1b8dc19394	FALSO	Stopping distance	Lo spazio totale di arresto è indipendente dalle condizioni dell'asfalto	The total stopping distance is independent of the condition of the road surface.	
+63b37ba9b0	FALSO	Stopping distance	Lo spazio totale di arresto è pari allo spazio percorso nel tempo di reazione	The total stopping distance is equal to the distance travelled during the reaction time.	
+da008b9a44	FALSO	Stopping distance	Lo spazio totale di arresto è pari allo spazio percorso durante la frenata	The total stopping distance is equal to the distance travelled during braking.	
+e4041019b7	FALSO	Stopping distance	Lo spazio totale di arresto non dipende dalla velocità	The total stopping distance does not depend on speed.	
+45b4bdd266	VERO	What increases stopping distance	Lo spazio totale di arresto aumenta se aumenta la velocità	The total stopping distance increases if speed increases.	
+6f74d8c997	VERO	What increases stopping distance	Lo spazio totale di arresto aumenta se la strada è innevata	The total stopping distance increases if the road is snowy.	
+277328b6e7	VERO	What increases stopping distance	Lo spazio totale di arresto aumenta se la strada è coperta di fango	The total stopping distance increases if the road is covered with mud.	
+55a7a3f102	VERO	What increases stopping distance	Lo spazio totale di arresto aumenta se i pneumatici sono usurati	The total stopping distance increases if the tyres are worn.	
+aac01bf629	FALSO	What increases stopping distance	Lo spazio totale di arresto aumenta se i pneumatici non sono usurati	The total stopping distance increases if the tyres are not worn.	
+f385b59a74	FALSO	What increases stopping distance	Lo spazio totale di arresto aumenta se diminuisce la velocità	The total stopping distance increases if speed decreases.	
+9e4293e7b8	FALSO	What increases stopping distance	Lo spazio totale di arresto aumenta se l'asfalto è ruvido	The total stopping distance increases if the asphalt is rough.	
+b0b924810e	VERO	Conditions affecting safety distance	Sulla distanza di sicurezza influisce la concentrazione del conducente	The safety distance is affected by the driver's concentration.	
+8de8cdb292	VERO	Conditions affecting safety distance	Sulla distanza di sicurezza influisce la velocità a cui si viaggia	The safety distance is affected by the speed at which one is travelling.	

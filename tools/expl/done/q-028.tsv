@@ -1,0 +1,100 @@
+3a94387989	True: when the officer holds his arms at a right angle, only vehicles coming from his left may move, in every direction, so they may also turn left.	صح: لما العسكري يحط دراعاته على شكل زاوية قايمة، العربيات اللي جاية من شماله بس هي اللي تتحرك، في أي اتجاه، فتقدر كمان تدخل شمال.
+f879158fba	True: in this position vehicles arriving from the officer's right are stopped.	صح: في الوضع ده العربيات اللي جاية من يمين العسكري واقفة.
+0cb1ef9035	True: vehicles coming from behind the officer are not allowed to go straight on.	صح: العربيات اللي جاية من ورا ضهر العسكري ممنوع تكمّل دغري.
+b86c2ba388	True: vehicles coming from his left may go straight on.	صح: العربيات اللي جاية من شماله تقدر تكمّل دغري.
+4bdbc41947	True: vehicles coming from his left may also turn right.	صح: العربيات اللي جاية من شماله تقدر كمان تدخل يمين.
+a124c717b3	False: vehicles coming from the officer's right are stopped and cannot turn right.	غلط: العربيات اللي جاية من يمين العسكري واقفة وماتقدرش تدخل يمين.
+a12c3b3d83	False: vehicles coming from behind him are stopped, so they cannot turn right.	غلط: العربيات اللي جاية من ورا ضهره واقفة، فماتقدرش تدخل يمين.
+e42278341c	False: vehicles coming from his right are stopped, so they cannot turn left.	غلط: العربيات اللي جاية من يمينه واقفة، فماتقدرش تدخل شمال.
+416ea84119	False: vehicles coming from his right are stopped and cannot go straight on.	غلط: العربيات اللي جاية من يمينه واقفة وماتقدرش تكمّل دغري.
+8a8e0e8010	False: vehicles coming from his left are precisely the ones allowed to pass.	غلط: العربيات اللي جاية من شماله هي بالظبط اللي مسموحلها تعدّي.
+f54d019e8b	True: a long whistle blast from the traffic officer means all vehicles must stop, provided they can do so safely.	صح: الصفارة الطويلة من عسكري المرور معناها كل العربيات لازم تقف، بشرط تقدر تقف بأمان.
+af543c4064	True: it is used to let emergency vehicles on duty pass.	صح: بتستخدم عشان عربيات الإسعاف والطوارئ اللي في مهمة تعدّي.
+03d71f70a9	True: whoever is already in the junction must clear it and, if needed, stop just after it.	صح: اللي دخل التقاطع خلاص لازم يخرج منه، ولو لازم يقف بعده على طول.
+4040ad60a0	True: if you have not yet entered the junction you must stop.	صح: لو لسه مادخلتش التقاطع لازم تقف.
+a4673f2a20	False: the long whistle means stop, not reverse or turn back.	غلط: الصفارة الطويلة معناها اقف، مش ارجع لورا.
+ae1817a901	False: the long whistle concerns all vehicles, from every direction.	غلط: الصفارة الطويلة بتخص كل العربيات، من كل الاتجاهات.
+2e7f36a6b4	False: the long whistle means stop, not that stationary vehicles should move off.	غلط: الصفارة الطويلة معناها اقف، مش إن العربيات الواقفة تتحرك.
+52c0316bbb	False: it requires all vehicles to stop, not only heavy ones.	غلط: بتلزم كل العربيات تقف، مش التقيلة بس.
+4986a58629	True: with red lights flashing you must stop at the stop line even if the half-barrier is still up (CdS art. 147).	صح: مع الأنوار الحمرا اللي بترمش لازم تقف عند خط الوقوف حتى لو نص البوابة لسه فوق (CdS art. 147).
+5ca3af8dfb	True: you must never accelerate to cross before the half-barrier comes down.	صح: عمرك ما تدوس بنزين عشان تعدّي قبل ما نص البوابة تنزل.
+256a4e4d6f	False: you must stop when the red lights are on, even if no train is visible.	غلط: لازم تقف لما الأنوار الحمرا تنوّر، حتى لو مش شايف قطر.
+8f7be4dfad	False: you must stop, not accelerate to get across.	غلط: لازم تقف، مش تسرّع عشان تعدّي.
+b4fba78d53	False: you stop at the stop line at the crossing, not at the third countdown marker, which is about 150 m before.	غلط: بتقف عند خط الوقوف عند المزلقان، مش عند لوحة المسافة التالتة اللي قبله بحوالي 150 متر.
+6461435e77	False: you must stop whatever the number of tracks.	غلط: لازم تقف مهما كان عدد القضبان.
+c8222b3697	False: you must stop as soon as the red lights are on, whether or not you hear the train.	غلط: لازم تقف أول ما الأنوار الحمرا تنوّر، سمعت صفارة القطر أو لأ.
+27f29364da	False: you must stop even if no other vehicles are waiting.	غلط: لازم تقف حتى لو مفيش عربيات تانية مستنية.
+543111b3a3	True: this is a motorway confirmation sign, confirming the route with the distances of the destinations.	صح: دي علامة تأكيد على الأوتوستراد، بتأكد الطريق وبتقول مسافات الأماكن.
+8ce46ff4c8	True: it lists destinations with their distances in kilometres.	صح: فيها أسماء أماكن ومسافاتها بالكيلومتر.
+6d56a55066	True: with a blue background the same sign is used on extra-urban roads; green is for motorways.	صح: لو أرضيتها زرقا نفس العلامة بتتحط على الطرق اللي بره المدن؛ الأخضر للأوتوستراد.
+30844840d4	True: the green background shows that it is placed on a motorway.	صح: الأرضية الخضرا بتبيّن إنها متحطة على أوتوستراد.
+12d69c0807	True: it indicates that Florence (Firenze) is 180 km away.	صح: بتقول إن فلورنسا (Firenze) فاضلها 180 كيلو.
+04ff251283	True: on motorways it indicates the distance to the destinations that can be reached.	صح: على الأوتوستراد بتبيّن المسافة للأماكن اللي تقدر توصلها.
+78f6cae65a	False: it shows distances along the motorway; the destinations are reached at different exits, not all from the first toll booth.	غلط: بتبيّن المسافات على طول الأوتوستراد؛ الأماكن دي بتوصلها من مخارج مختلفة، مش كلها من أول كشك.
+c5e39c56ed	False: the numbers on the sign are distances in kilometres, not road numbers.	غلط: الأرقام اللي على العلامة مسافات بالكيلومتر، مش أرقام طرق.
+a5649f48b9	False: 180 km is the distance to the town of Florence, not to a service area.	غلط: الـ 180 كيلو دي المسافة لمدينة فلورنسا، مش لمنطقة خدمة.
+ee8d703588	False: next to each destination it shows the distance, not the road number.	غلط: جنب كل مكان بتكتب المسافة، مش رقم الطريق.
+c7b252e96f	False: it shows the kilometres still to travel, not those already covered.	غلط: بتبيّن الكيلومترات اللي لسه قدامك، مش اللي مشيتها.
+f49060005f	False: the green sign shown is a motorway sign; on extra-urban roads it would be blue.	غلط: العلامة الخضرا اللي في الصورة علامة أوتوستراد؛ على الطرق بره المدن بتبقى زرقا.
+bb0c5d70cc	True: the green sign with E and a number identifies a European international route.	صح: العلامة الخضرا اللي فيها حرف E ورقم بتبيّن طريق أوروبي دولي.
+4404687a87	True: it shows the international classification number of the road.	صح: بتبيّن رقم التصنيف الدولي للطريق.
+9226f8dffc	True: it is placed on roads of international importance.	صح: بتتحط على طرق ليها أهمية دولية.
+1a8b601cc4	True: it indicates international route number 55 (E55).	صح: بتبيّن الطريق الدولي رقم 55 (E55).
+5058c90229	True: route number signs can be included inside advance direction signs for a fork.	صح: علامات أرقام الطرق ممكن تتحط جوه علامات الإنذار المسبق للتفريعة.
+431d302f1f	False: it identifies an international European route, not extra-urban roads in general.	غلط: بتبيّن طريق أوروبي دولي، مش الطرق اللي بره المدن عموماً.
+bfaea80b7f	False: E55 is the number of the international route, not a motorway exit.	غلط: E55 رقم الطريق الدولي، مش رقم مخرج أوتوستراد.
+f5a847101f	False: 55 is the route number, not a distance to the border.	غلط: 55 رقم الطريق، مش مسافة للحدود.
+8fce6d3484	False: it is a route number, not a speed limit.	غلط: ده رقم طريق، مش حد سرعة.
+fad74fab18	False: it identifies the road, not an overpass number.	غلط: بتبيّن الطريق، مش رقم كوبري.
+73c980cb24	False: it is the route number, not the kilometres travelled.	غلط: ده رقم الطريق، مش الكيلومترات اللي اتمشت.
+e68aa89a51	True: the route sign shows the type of road (SS = strada statale) and its number.	صح: علامة الطريق بتبيّن نوع الطريق (SS يعني strada statale) ورقمه.
+2d5286bf56	True: it can be included inside direction or fork signs.	صح: ممكن تتحط جوه علامات الاتجاه أو التفريعة.
+0b11091c45	True: the letters SS indicate a state road (strada statale).	صح: حروف SS معناها طريق حكومي (strada statale).
+1f4e08e24e	True: it indicates that you are travelling on state road no. 2.	صح: بتبيّن إنك ماشي على الطريق الحكومي رقم 2.
+1cbf8eaaab	False: the number identifies the road, not the number of lay-bys.	غلط: الرقم بيبيّن الطريق، مش عدد أماكن الوقوف.
+396e47c2d5	False: it is a road identification sign; slippery roads have a danger sign.	غلط: دي علامة بتعرّف الطريق؛ الطريق الزلق ليه علامة خطر.
+c8a463918b	False: it identifies the road; narrow roads are shown by danger signs.	غلط: بتعرّف الطريق؛ الطريق الضيق ليه علامات خطر.
+d71a585e05	False: it identifies state road 2; a dead end has its own sign.	غلط: بتعرّف الطريق الحكومي 2؛ الطريق المقفول ليه علامة خاصة.
+3af613ade5	False: it identifies the road, it says nothing about missing signs.	غلط: بتعرّف الطريق، مش بتقول حاجة عن عدم وجود علامات.
+48cb83959b	False: it identifies a state road, not an unpaved road.	غلط: بتعرّف طريق حكومي، مش طريق ترابي.
+96fecb01d5	True: this route sign identifies a municipal road and can be placed at its beginning.	صح: علامة الطريق دي بتعرّف طريق تابع للبلدية وممكن تتحط في أوله.
+8a6741dbaa	True: it can complete direction signs by showing the road number.	صح: ممكن تكمّل علامات الاتجاه بإنها تبيّن رقم الطريق.
+382387f8be	True: it identifies a municipal road (strada comunale).	صح: بتعرّف طريق تابع للبلدية (strada comunale).
+af318eac87	True: it can be found along municipal road no. 19.	صح: ممكن تلاقيها على طول الطريق البلدي رقم 19.
+9a86805604	False: 19 is the road number, not a distance from a Carabinieri station.	غلط: 19 رقم الطريق، مش مسافة من نقطة الكارابينيري.
+bad0d1d909	False: it identifies a municipal road, not a country lane.	غلط: بتعرّف طريق بلدي، مش طريق غيطان.
+f06d237ab6	False: it is a route number; snow chains are required by a specific sign.	غلط: ده رقم طريق؛ الجنازير الإجبارية ليها علامة خاصة.
+e9a9c395b4	False: 19 is the road number, not a time for parking.	غلط: 19 رقم الطريق، مش ميعاد للركن.
+631d19fbd2	False: it identifies the municipal road, not an overpass number.	غلط: بتعرّف الطريق البلدي، مش رقم كوبري.
+e59cfce47a	True: this sign indicates a camping area nearby.	صح: العلامة دي بتبيّن إن فيه مكان تخييم قريب.
+bbfab4fea2	True: it indicates a camping area for tents and for parking caravans and motor caravans.	صح: بتبيّن مكان تخييم للخيام ولركن الكرافانات وعربيات الكامبر.
+d8618ad6d7	True: it indicates an area for camping and for parking caravans and motor caravans.	صح: بتبيّن منطقة للتخييم ولركن الكرافانات وعربيات الكامبر.
+1be201a393	True: it indicates that camping and parking caravans and motor caravans are allowed there.	صح: بتبيّن إن التخييم وركن الكرافانات وعربيات الكامبر مسموح هناك.
+f44b65fe07	False: it is a blue information sign permitting camping, not a parking ban.	غلط: دي علامة إرشاد زرقا بتسمح بالتخييم، مش منع ركن.
+db17522439	False: a scenic viewpoint has a different sign; this indicates a campsite.	غلط: المكان اللي فيه منظر حلو ليه علامة تانية؛ دي بتبيّن مكان تخييم.
+462e60b321	False: it indicates a campsite, not a repair workshop.	غلط: بتبيّن مكان تخييم، مش ورشة تصليح.
+c8e4155f77	False: it indicates a campsite, not a mobile police station.	غلط: بتبيّن مكان تخييم، مش نقطة شرطة متنقلة.
+b4f3dfded4	False: it indicates a campsite, not a first-aid post.	غلط: بتبيّن مكان تخييم، مش نقطة إسعاف.
+4c681897ea	True: this sign gives the address and telephone numbers of the nearest traffic police station.	صح: العلامة دي فيها عنوان وأرقام تليفونات أقرب مركز لشرطة المرور.
+c598a513e3	True: it shows the town and telephone numbers of the nearest traffic police station.	صح: بتبيّن البلد وأرقام التليفون لأقرب مركز شرطة مرور.
+dc157d582e	True: it shows the location and telephone number of the nearest traffic police station.	صح: بتبيّن مكان ورقم تليفون أقرب مركز شرطة مرور.
+0922a659e3	True: it gives some data (town, street, telephones) of the nearest traffic police station.	صح: فيها شوية بيانات (البلد، الشارع، التليفونات) عن أقرب مركز شرطة مرور.
+4ba830448e	False: it is an information sign, not a police checkpoint.	غلط: دي علامة إرشاد، مش كمين شرطة.
+d432cea7a1	False: it gives police contact details, not a road closed by an accident.	غلط: بتدّي بيانات الاتصال بالشرطة، مش بتقول إن الطريق مقفول بسبب حادثة.
+65cb43076d	False: it does not reserve parking for police vehicles; it gives the station's details.	غلط: مش بتخصص ركن لعربيات الشرطة؛ بتدّي بيانات المركز.
+02c7600691	False: it does not warn of a police convoy; it is an information sign.	غلط: مش بتحذر من موكب شرطة؛ دي علامة إرشاد.
+1383011203	False: it does not reserve a stretch of road for the police.	غلط: مش بتخصص حتة من الطريق للشرطة.
+6876a0de6e	True: the sign with a white upward arrow indicates one-way traffic straight ahead.	صح: العلامة اللي فيها سهم أبيض لفوق بتبيّن اتجاه واحد دغري.
+c1141554ff	True: it means traffic on that stretch is one-way.	صح: معناها إن المرور في الحتة دي اتجاه واحد.
+6c9390675e	True: on a one-way road U-turns are forbidden, as you would drive against traffic.	صح: في الشارع الاتجاه الواحد الدوران للخلف ممنوع، عشان هتمشي عكس المرور.
+37843f0824	True: it marks the beginning of a one-way road.	صح: بتبيّن بداية شارع اتجاه واحد.
+3257cfc973	False: it does not forbid turns; it indicates that the road is one-way.	غلط: مش بتمنع الدوران؛ بتبيّن إن الطريق اتجاه واحد.
+4e6b518774	False: a one-way road can have several lanes; the sign does not impose a single lane.	غلط: الشارع الاتجاه الواحد ممكن يبقى فيه حارات كتير؛ العلامة مش بتفرض حارة واحدة.
+464cf33638	False: it indicates one-way traffic, not a narrowing of the carriageway.	غلط: بتبيّن اتجاه واحد، مش تضييق في نهر الطريق.
+89e1606262	False: it indicates one-way traffic; it says nothing about parallel rows.	غلط: بتبيّن اتجاه واحد؛ مش بتقول حاجة عن الصفوف الموازية.
+42bce05054	True: this sign indicates that the road on which it is placed is one-way.	صح: العلامة دي بتبيّن إن الطريق اللي هي عليه اتجاه واحد.
+2841689958	True: sign A indicates that the road you enter by turning left is one-way.	صح: العلامة A بتبيّن إن الطريق اللي هتدخله شمال اتجاه واحد.
+ac04dd5719	True: turning in the direction of the arrow you enter a one-way road, so you will not meet oncoming vehicles.	صح: لما تدخل في اتجاه السهم هتبقى في شارع اتجاه واحد، فمش هتقابل عربيات جاية من قدام.
+12dc22685f	True: once you have turned into the one-way road, U-turns are forbidden.	صح: بعد ما تدخل الشارع الاتجاه الواحد، الدوران للخلف ممنوع.
+5a4a1f237e	False: it indicates a one-way road; it does not oblige you to overtake on the right.	غلط: بتبيّن شارع اتجاه واحد؛ مش بتلزمك تتخطى من اليمين.
+d791345707	False: sign A only tells you the road on the left is one-way; it does not make turning left compulsory.	غلط: العلامة A بتقولك بس إن الطريق اللي على الشمال اتجاه واحد؛ مش بتخلّي الدخول شمال إجباري.

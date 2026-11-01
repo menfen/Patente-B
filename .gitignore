@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Visual Studio and local tooling
+.vs/
+*.user
+.claude/
+
+# Signing keys never belong in the repository (they live in %USERPROFILE%\.android-keys)
+*.keystore
+*.jks
+*.pfx
+*.p12
+password.txt
+
+# Duplicate of _downloads/ed_zip
+_downloads/ed.zip
+
+# MSIX bundle build leftovers
+BundleArtifacts/

@@ -1,0 +1,100 @@
+bf611ba294	True: inefficient suspension does not keep the wheels firmly on the road, so road holding gets worse, especially on bends and bumps.	صح: العفشة الضعيفة مابتخليش العجل لازق في الأرض كويس، فثبات العربية على الطريق بيقل، خصوصاً في المنحنيات والمطبات.
+87144919ee	True: overloading puts excessive stress on springs and suspension parts, which can break (CdS art. 167).	صح: الحمولة الزيادة بتحط ضغط كبير على السوست وأجزاء العفشة، وممكن تتكسر (CdS art. 167).
+c3526639ed	True: with an overload the springs are compressed too much and the suspension cannot absorb bumps properly.	صح: مع الحمولة الزيادة السوست بتتضغط زيادة والعفشة مش بتقدر تمتص المطبات كويس.
+236566078c	True: repeated overloading wears the suspension out quickly.	صح: الحمولة الزيادة المتكررة بتدوّب العفشة بسرعة.
+0171f4f3fe	True: inefficient suspension transmits more bumps to the body, reducing comfort.	صح: العفشة الضعيفة بتنقل خبطات أكتر للعربية، فالراحة بتقل.
+48364a9b5e	True: with poor suspension the driver feels more vibrations and must correct the vehicle more, so he gets tired sooner.	صح: مع العفشة الوحشة السواق بيحس بهز أكتر ولازم يعدل العربية أكتر، فبيتعب أسرع.
+35c1323afa	True: worn suspension changes the attitude of the body, so the dipped beam may point too high and dazzle others or too low.	صح: العفشة الدايبة بتغيّر وضع العربية، فالنور الواطي ممكن يعلى ويبهر الناس أو يوطى زيادة.
+eafc2bc807	False: overloading damages the suspension, causing rapid wear or breakage (CdS art. 167).	غلط: الحمولة الزيادة بتبوّظ العفشة، وبتدوّبها بسرعة أو تكسرها (CdS art. 167).
+6bb06ad1cd	False: raising tyre pressure does not protect the suspension; the vehicle must not exceed its maximum authorised mass (CdS art. 167).	غلط: زيادة ضغط الكاوتش مابتحميش العفشة؛ العربية لازم ماتعديش الوزن الأقصى المسموح (CdS art. 167).
+1f0f476fce	False: there is no fixed replacement interval; the suspension is replaced when checks show it is worn or damaged.	غلط: مفيش ميعاد ثابت لتغيير العفشة؛ بتتغير لما الكشف يبين إنها دايبة أو بايظة.
+ecc8d7884d	False: overloading both makes driving harder and damages the suspension.	غلط: الحمولة الزيادة بتصعّب السواقة وكمان بتبوّظ العفشة.
+3d6b720e8d	False: the suspension can be damaged by strong impacts such as holes and kerbs, despite its elastic parts.	غلط: العفشة ممكن تتبوظ من الخبطات الجامدة زي الحفر والرصيف، رغم إن فيها أجزاء مرنة.
+23a00164fa	False: the suspension needs regular checks and maintenance, warranty or not.	غلط: العفشة محتاجة كشف وصيانة بانتظام، سواء في ضمان أو لأ.
+f19ddd8446	False: the suspension keeps the wheels on the road, which is essential for the vehicle to respond to the steering.	غلط: العفشة بتخلي العجل على الأرض، وده أساسي عشان العربية تستجيب للدريكسيون.
+044dc5a3d0	False: if even one suspension fails, the vehicle becomes unbalanced and unstable, especially when braking or cornering.	غلط: لو عفشة عجلة واحدة باظت العربية بتبقى مش متوازنة ومش ثابتة، خصوصاً في الفرملة والمنحنيات.
+ca2e2addfe	True: shock absorbers damp the springs' oscillations so the vehicle does not keep bouncing.	صح: المساعدين بيهدّوا اهتزاز السوست عشان العربية ماتفضلش تنط.
+f45cd5a66e	True: by damping oscillations, shock absorbers keep the tyres in contact with the road, improving road holding.	صح: المساعدين لما يهدّوا الاهتزاز بيخلوا الكاوتش لازق في الأرض، فثبات العربية بيتحسن.
+88a35e4332	True: one of the main functions of shock absorbers is to ensure good road holding.	صح: من أهم وظايف المساعدين إنهم يضمنوا ثبات العربية على الطريق.
+ba42e85e2a	True: with an overload the shock absorbers work beyond their limits and can no longer damp oscillations.	صح: مع الحمولة الزيادة المساعدين بيشتغلوا فوق طاقتهم ومابيقدروش يهدّوا الاهتزاز.
+cd8638843b	True: overloading stresses the shock absorbers and wears them out prematurely.	صح: الحمولة الزيادة بتتعب المساعدين وبتدوّبهم بدري.
+df671eb352	False: shock absorbers need regular checks, even during the warranty.	غلط: المساعدين محتاجين كشف بانتظام، حتى في فترة الضمان.
+75a1b1ac75	False: overloading damages shock absorbers whatever the driving style; the maximum authorised mass must be respected (CdS art. 167).	غلط: الحمولة الزيادة بتبوّظ المساعدين مهما كانت طريقة سواقتك؛ لازم تلتزم بالوزن الأقصى المسموح (CdS art. 167).
+b9dd9463a8	False: raising tyre pressure does not protect the shock absorbers; the vehicle must not be overloaded (CdS art. 167).	غلط: زيادة ضغط الكاوتش مابتحميش المساعدين؛ العربية لازم ماتتحملش زيادة (CdS art. 167).
+4422abdc20	False: on most vehicles the driver cannot adjust shock absorber stiffness; only some vehicles have adjustable dampers.	غلط: في أغلب العربيات السواق مايقدرش يغيّر قساوة المساعدين؛ بس عربيات معينة فيها مساعدين بيتظبطوا.
+16700e42e8	False: shock absorber efficiency must be checked by a specialised workshop with suitable equipment.	غلط: كفاءة المساعدين لازم تتكشف في ورشة متخصصة بأجهزة مناسبة.
+0ecadff34b	True: worn shock absorbers let the wheels bounce and lose grip when braking, so the vehicle behaves abnormally and stopping distances grow.	صح: المساعدين الدايبين بيخلوا العجل ينط ويفقد المسك وانت بتفرمل، فالعربية بتتصرف غريب ومسافة الوقوف بتطول.
+3320831d3c	True: on bends worn shock absorbers make the body roll and sway, reducing stability.	صح: في المنحنيات المساعدين الدايبين بيخلوا العربية تميل وتتمرجح، فالثبات بيقل.
+9f67f51731	True: with worn shock absorbers the wheels bounce and the tread wears unevenly.	صح: مع المساعدين الدايبين العجل بينط والكاوتش بيدوب مش بالتساوي.
+ab838676ab	True: worn shock absorbers leave the springs to oscillate freely, increasing stress and the risk of breakage.	صح: المساعدين الدايبين بيسيبوا السوست تهتز براحتها، فالضغط عليها وخطر كسرها بيزيدوا.
+06b1a8723c	True: worn shock absorbers transmit more bouncing to the passengers, reducing comfort.	صح: المساعدين الدايبين بينقلوا نط أكتر للركاب، فالراحة بتقل.
+de087a29c8	True: worn shock absorbers reduce tyre contact with the road and worsen road holding.	صح: المساعدين الدايبين بيقللوا تلامس الكاوتش مع الأرض وبيضعفوا الثبات.
+fe3039530c	False: shock absorbers have nothing to do with the engine, so their wear does not affect its operation.	غلط: المساعدين مالهمش علاقة بالموتور، فدوبانهم مابيأثرش على شغله.
+c79cb42015	False: shock absorbers do not affect engine oil consumption.	غلط: المساعدين مابيأثروش على استهلاك زيت الموتور.
+1692eb0f45	False: worn shock absorbers worsen road holding, especially on bends; they do not improve it.	غلط: المساعدين الدايبين بيضعفوا الثبات، خصوصاً في المنحنيات؛ مابيحسنوهوش.
+59ecf2f3b9	False: shock absorbers and springs have different functions; shock absorbers cannot be replaced by stiffer suspension.	غلط: المساعدين والسوست ليهم وظايف مختلفة؛ مينفعش تستبدل المساعدين بعفشة أقوى.
+42c7a3b817	False: vehicles have both springs and shock absorbers, working together in the suspension.	غلط: العربيات فيها سوست ومساعدين الاتنين، وبيشتغلوا مع بعض في العفشة.
+735e716a27	False: even sealed shock absorbers wear out and must be checked and replaced when no longer efficient.	غلط: حتى المساعدين المقفولين بيدوبوا ولازم يتكشف عليهم ويتغيروا لما يضعفوا.
+d09fa26a1a	True: when power steering fails, the steering wheel becomes heavy and needs much more effort.	صح: لما الدريكسيون الباور يبوظ، الدريكسيون بيبقى تقيل ومحتاج مجهود أكبر بكتير.
+025f6a7124	True: a punctured tyre creates more resistance, so the vehicle pulls towards the side of the punctured wheel.	صح: الكاوتش المفرقع بيعمل مقاومة أكبر، فالعربية بتشد ناحية العجلة اللي اتخرمت.
+18d742bc6f	True: abnormal play in the steering makes control imprecise, so it must be checked periodically.	صح: اللعب الزيادة في الدريكسيون بيخلي التحكم مش مظبوط، فلازم يتكشف عليه كل فترة.
+d7582d972d	True: under-inflated tyres increase friction with the road, making the steering heavy.	صح: الكاوتش اللي هواه قليل بيزوّد الاحتكاك مع الأرض، فالدريكسيون بيتقل.
+da62fa60cf	True: hydraulic power steering uses a pump driven by the engine, so it does not work with the engine off.	صح: الدريكسيون الباور الهيدروليك بيشتغل بطلمبة الموتور بيلفها، فمش بيشتغل والموتور طافي.
+8151fde88a	True: excessive steering play means the wheels do not follow the steering wheel exactly, making the path imprecise.	صح: اللعب الزيادة في الدريكسيون معناه إن العجل مش بيمشي بالظبط مع الدريكسيون، فخط السير مش مظبوط.
+615cd47dce	True: correct wheel alignment ensures precise steering and even tyre wear.	صح: ظبط زوايا العجل (الترصيص) بيضمن دريكسيون مظبوط ودوبان كاوتش متساوي.
+4246c6b864	True: steering vibrations are usually caused by unbalanced front wheels, so their balancing must be checked.	صح: رعشة الدريكسيون غالباً سببها إن العجل القدام مش متوزن، فلازم يتعمله ترصيص (balance).
+0a0db39f8f	True: power steering makes it easier to hold the vehicle on course when a tyre punctures.	صح: الدريكسيون الباور بيسهّل إنك تمسك العربية في خط سيرها لما الكاوتش يفرقع.
+3b01722beb	False: power steering only makes steering lighter; it does not affect braking.	غلط: الدريكسيون الباور بيخلي اللف أخف بس؛ مالوش علاقة بالفرملة.
+3bb735157f	False: with a puncture the vehicle pulls towards the side of the punctured wheel, not the opposite side.	غلط: لما الكاوتش يفرقع العربية بتشد ناحية العجلة المفرقعة، مش الناحية التانية.
+8544a97583	False: steering vibrations usually come from the front wheels, so their balance must be checked.	غلط: رعشة الدريكسيون غالباً من العجل القدام، فلازم يتوزنوا هما.
+58ee7aa526	False: power steering failure makes steering heavy, not too easy.	غلط: عطل الدريكسيون الباور بيخلي اللف تقيل، مش سهل زيادة.
+ee95751235	False: the steering wheel should be held with both hands on the rim at about the "quarter to three" position, not at the bottom.	غلط: الدريكسيون لازم يتمسك بالإيدين الاتنين على الطارة في وضع زي الساعة "3 إلا ربع"، مش من تحت.
+4b7552e760	False: on many vehicles the steering wheel can be adjusted in height (and often in depth) to suit the driver.	غلط: في عربيات كتير الدريكسيون بيتظبط في الارتفاع (وساعات القرب والبعد) على حسب السواق.
+6446123ef3	False: worn suspension and shock absorbers reduce steering precision, because the wheels do not stay firmly on the road.	غلط: العفشة والمساعدين الدايبين بيقللوا دقة الدريكسيون، لأن العجل مش بيفضل لازق في الأرض.
+8a6d846947	False: engine oil pressure concerns lubrication, not the steering.	غلط: ضغط زيت الموتور بيخص التزييت، مش الدريكسيون.
+ff0326c3c1	False: coolant temperature concerns the engine, not steering precision.	غلط: حرارة مية التبريد بتخص الموتور، مش دقة الدريكسيون.
+fd5242bf23	True: a damaged muffler no longer silences the exhaust properly, so the vehicle becomes noisier (CdS art. 155).	صح: الشكمان البايظ مابيقللش صوت العادم كويس، فالعربية بتبقى دوشتها أعلى (CdS art. 155).
+efcbc64c34	True: a damaged muffler must be replaced with an approved one for that vehicle type.	صح: الشكمان البايظ لازم يتغير بواحد معتمد لنوع العربية دي.
+d2fb72b055	True: the exhaust system, with the catalytic converter, reduces the toxicity of gases before releasing them outside.	صح: جهاز العادم، مع الشكمان الحفاز، بيقلل سُمّية الغازات قبل ما يطلّعها بره.
+757966123c	True: the exhaust system reduces the pressure of exhaust gases before releasing them.	صح: جهاز العادم بيقلل ضغط غازات العادم قبل ما يطلّعها.
+00fd75ac1b	True: the exhaust system lowers the temperature of exhaust gases before they come out.	صح: جهاز العادم بيقلل حرارة غازات العادم قبل ما تطلع.
+091d8afd0a	True: the muffler in the exhaust system reduces the noise produced by the engine.	صح: الشكمان في جهاز العادم بيقلل صوت الموتور.
+4ad2aca50c	True: through the catalytic converter the exhaust system reduces air pollution from exhaust gases.	صح: جهاز العادم بالشكمان الحفاز بيقلل تلوث الهوا من غازات العادم.
+3688306f90	False: the exhaust system is not replaced at oil changes; it is replaced only when worn or damaged.	غلط: جهاز العادم مابيتغيرش مع تغيير الزيت؛ بيتغير بس لما يدوب أو يبوظ.
+c2b9b4fd32	False: electric vehicles have no combustion engine, so they have no exhaust system to maintain.	غلط: العربيات الكهربا مفيهاش موتور احتراق، فمفيهاش جهاز عادم أصلاً.
+c927ab297c	False: a muffler is compulsory everywhere, inside and outside built-up areas (CdS art. 155).	غلط: الشكمان إجباري في كل حتة، جوه وبره المناطق السكنية (CdS art. 155).
+8fd484624b	False: a holed exhaust must be properly repaired or replaced with an approved part; makeshift fixes are not acceptable.	غلط: الشكمان المخروم لازم يتصلح صح أو يتغير بقطعة معتمدة؛ الترقيع مش مقبول.
+d4295d9c89	False: the exhaust must be replaced with an approved part fitted correctly, which is a job for an authorised workshop.	غلط: الشكمان لازم يتغير بقطعة معتمدة متركبة صح، وده شغل ورشة معتمدة.
+ac8f5757a5	False: the exhaust system may not be modified on the basis of a self-declaration; changes to approved parts require approval (CdS art. 78).	غلط: جهاز العادم مينفعش يتعدل بإقرار منك؛ أي تغيير في الأجزاء المعتمدة محتاج موافقة (CdS art. 78).
+ee1cc6d8fd	False: tampering with the exhaust is punished everywhere, including in urban areas (CdS art. 155).	غلط: التلاعب في جهاز العادم ليه عقوبة في كل حتة، ومنها المدن (CdS art. 155).
+3bae2a95af	True: on motorcycles the engine can also be stopped with the emergency switch (kill switch) on the handlebar.	صح: في الموتوسيكلات الموتور ممكن يتطفي كمان بمفتاح الطوارئ (kill switch) اللي على الجادون.
+a1a95d3e7e	True: the engine starts only if the emergency switch on the handlebar is set to ON/Run.	صح: الموتور مش هيدوّر غير لو مفتاح الطوارئ اللي على الجادون على وضع ON/Run.
+574f5b8852	True: the emergency switch lets the rider stop the engine without taking his hands off the handlebar.	صح: مفتاح الطوارئ بيخلي الراكب يطفي الموتور من غير ما يشيل إيده من الجادون.
+f7990e31fa	True: when stopped on a steep road with hands on the brake levers, the emergency switch lets you stop the engine without letting go.	صح: لو واقف في طلعة حادة وإيديك على الفرامل، مفتاح الطوارئ بيخليك تطفي الموتور من غير ما تسيب.
+ee7a80cc18	True: the emergency switch is a safety device, so if faulty it must be repaired as soon as possible.	صح: مفتاح الطوارئ جهاز أمان، فلو باظ لازم يتصلح في أسرع وقت.
+ff52fd2c44	True: in normal situations the engine should be switched off with the ignition key, keeping the emergency switch for emergencies.	صح: في الأحوال العادية الموتور يتطفي بالمفتاح، ومفتاح الطوارئ يفضل للطوارئ.
+a8683f3bfe	False: the emergency switch does not replace the ignition key; both are needed and the key still controls ignition.	غلط: مفتاح الطوارئ مش بديل لمفتاح الكونتاكت؛ الاتنين موجودين والمفتاح هو اللي بيشغّل.
+7e7e320214	False: the emergency switch is on the handlebar, not on the gear lever.	غلط: مفتاح الطوارئ على الجادون، مش على دواسة الفتيس.
+252122b5e6	False: the emergency switch only stops the engine; it does not lock the wheels.	غلط: مفتاح الطوارئ بيطفي الموتور بس؛ مابيقفلش العجل.
+fe760c60e3	False: the emergency switch is on the handlebar; the side stand may have a safety switch that prevents riding with the stand down, which is a different device.	غلط: مفتاح الطوارئ على الجادون؛ الحامل الجانبي ممكن يبقى فيه حساس بيمنع إنك تمشي وهو نازل، وده جهاز تاني.
+a28fb48e92	False: the emergency switch is operated by hand on the handlebar, not with the foot.	غلط: مفتاح الطوارئ بيتشغل بالإيد على الجادون، مش بالرجل.
+ee443c12e0	False: the emergency switch stops the engine; it does not act as a parking brake.	غلط: مفتاح الطوارئ بيطفي الموتور؛ مش فرامل ركن.
+3d4606e847	False: the emergency switch only cuts the engine and is not connected to the anti-theft system.	غلط: مفتاح الطوارئ بيقطع الموتور بس ومالوش علاقة بجهاز ضد السرقة.
+7228e0a2f1	True: a worn chain can jump off or break, so its wear must be checked periodically.	صح: الجنزير الدايب ممكن يطلع من مكانه أو يتقطع، فلازم يتشاف دوبانه كل فترة.
+b173888a12	True: an unlubricated chain wears quickly and may break.	صح: الجنزير اللي مش متزيت بيدوب بسرعة وممكن يتقطع.
+4459780490	True: the chain transmits the engine's power by linking the engine (front) sprocket to the rear wheel sprocket.	صح: الجنزير بينقل قوة الموتور بإنه بيربط الترس القدامي بتاع الموتور بترس العجلة الورانية.
+e2f9b8bd25	True: a well-lubricated chain lasts longer and works safely, so lubrication must be checked periodically.	صح: الجنزير المتزيت كويس بيعيش أكتر وبيشتغل بأمان، فلازم تتأكد من تزييته كل فترة.
+e26b29e400	True: a chain that is too slack can jump off, and one too tight wears quickly, so tension must be checked periodically.	صح: الجنزير المرخي زيادة ممكن يطلع، والمشدود زيادة بيدوب بسرعة، فلازم تتأكد من شدّه كل فترة.
+6071fffc6b	True: a broken chain can wrap around the sprocket and lock the rear wheel, causing loss of control.	صح: الجنزير المقطوع ممكن يلف على الترس ويقفل العجلة الورانية، فتفقد السيطرة.
+6ca065ac7c	True: a worn chain must be replaced to avoid the risk of it breaking.	صح: الجنزير الدايب لازم يتغير عشان مايتقطعش.
+2a6e6da97b	False: the chain must be lubricated regularly; it is not self-lubricating.	غلط: الجنزير لازم يتزيت بانتظام؛ مش بيزيت نفسه.
+2677fa551b	False: a broken chain can lock the rear wheel and cause loss of control, so it is a safety risk.	غلط: الجنزير المقطوع ممكن يقفل العجلة الورانية ويفقدك السيطرة، فده خطر على الأمان.
+40e62cf817	False: a worn chain must be replaced; reinforcing it with wire is useless and dangerous.	غلط: الجنزير الدايب لازم يتغير؛ إنك تقويه بسلك ملوش لازمة وخطر.
+93cc2f6839	False: chain and sprockets wear together, so the sprockets often need replacing along with the chain.	غلط: الجنزير والتروس بيدوبوا مع بعض، فالتروس غالباً محتاجة تتغير مع الجنزير.
+68e2cd791a	False: most motorcycle chains have no automatic tensioner, so tension must be checked periodically.	غلط: أغلب جنازير الموتوسيكلات مفيهاش شداد أوتوماتيك، فلازم الشد يتشاف كل فترة.
+ff97d8e191	False: the chain must be cleaned and then lubricated; lubrication does not affect the gearbox.	غلط: الجنزير لازم يتنضف وبعدين يتزيت؛ والتزييت مالوش علاقة بالفتيس.
+949b67ba14	False: changing sprockets to alter the transmission ratio modifies the approved characteristics of the vehicle and is not allowed (CdS art. 78).	غلط: تغيير التروس عشان تغيّر نسبة النقل بيغيّر مواصفات الموتوسيكل المعتمدة، وده ممنوع (CdS art. 78).
+b10f3dfdeb	True: the oil level must be checked with the motorcycle upright and level, wheels on the ground, not on the side stand.	صح: مستوى الزيت لازم يتشاف والموتوسيكل معدول ومستوي على عجله، مش على الحامل الجانبي.
+fb94aeee7b	True: engine oil and brake fluid levels must be checked periodically for safety and engine life.	صح: مستوى زيت الموتور وزيت الفرامل لازم يتشافوا كل فترة عشان الأمان وعمر الموتور.
+05fea659d3	True: on motorcycles brake fluid level is checked through the transparent reservoir, usually on the handlebar.	صح: في الموتوسيكلات مستوى زيت الفرامل بيتشاف من الخزان الشفاف، وغالباً بيبقى على الجادون.
+0118dee3cb	True: some engines have a small sight window on the crankcase that shows the oil level.	صح: في موتورات بيبقى فيها شباك صغير على الكرتيرة بيبين مستوى الزيت.

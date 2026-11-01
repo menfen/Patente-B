@@ -1,0 +1,215 @@
+{
+  "definizioni-generali-doveri-strada": {
+    "carreggiata-doppio-senso": "Two-way carriageway", "strada-sei-corsie": "Six-lane road", "strada-tre-carreggiate": "Road with three carriageways",
+    "attraversamento-pedonale": "Pedestrian crossing", "strade-extraurbane-principali": "Main extra-urban roads", "isola-traffico": "Traffic island",
+    "intersezione-livelli-sfalsati": "Grade-separated junction (flyover)", "intersezione-raso": "At-grade intersection", "zona-traffico-limitato": "Limited traffic zone (ZTL)",
+    "passaggio-livello": "Level crossing", "aree-pedonali": "Pedestrian areas", "strada-definizione": "What a 'road' is", "autostrada": "Motorway",
+    "carreggiata": "Carriageway", "parti-carreggiata": "Parts of the carriageway", "corsia": "Lane", "corsia-accelerazione": "Acceleration lane",
+    "corsia-decelerazione": "Deceleration lane", "banchina": "Hard shoulder / verge (banchina)", "marciapiede": "Pavement (sidewalk)", "salvagente": "Pedestrian refuge island",
+    "passo-carrabile": "Driveway entrance", "ciclomotori": "Mopeds", "tricicli-motore": "Motor tricycles", "quadricicli": "Quadricycles",
+    "macchine-agricole": "Agricultural machines", "caravan": "Caravans", "autocaravan-camper": "Motorhomes (campers)", "strisce-pannelli-retroriflettenti": "Reflective strips and panels",
+    "motocicli": "Motorcycles", "autoveicoli": "Motor vehicles", "autovetture": "Cars", "rimorchi": "Trailers", "traffico-intenso": "Heavy traffic",
+    "file-veicoli": "Queues / rows of vehicles", "centro-abitato": "Built-up area", "segnaletica-stradale": "Road signage in general", "gare-velocita": "Speed races",
+    "inquinamento-strade": "Polluting the road", "comportamento-conducente": "Driver behaviour", "attenzion-conducente": "Driver attention", "prudenza-conducente": "Driver caution",
+    "persone-anziane": "Elderly people", "conducente-precedenze": "Driver and right of way", "vicinanza-pedonale": "Near pedestrians", "bambini-semaforo": "Children and traffic lights",
+    "piazzole": "Lay-bys", "taxi-conducente": "Taxi drivers", "ciclisti-pedoni": "Cyclists and pedestrians", "gravidanza-carrozzine": "Pregnant women and pushchairs"
+  },
+  "segnali-pericolo": {
+    "strada-dissestata": "Uneven road", "dosso": "Hump / crest", "cunetta": "Dip", "curva-pericolosa-destra": "Dangerous bend to the right", "curva-pericolosa-sinistra": "Dangerous bend to the left",
+    "doppia-curva-destra": "Double bend, first to the right", "doppia-curva-sinistra": "Double bend, first to the left", "passaggio-livello-barriere": "Level crossing with barriers",
+    "ferrovia-senza-barriere": "Level crossing without barriers", "croce-sant-andrea": "St Andrew's cross (single track)", "doppia-croce-sant-andrea": "Double St Andrew's cross (multiple tracks)",
+    "pannelli-passaggio-livello": "Level crossing countdown panels", "attraversamento-tram": "Tram crossing", "attraversamento-pedoni": "Pedestrian crossing ahead",
+    "attraversamento-ciclabile": "Cycle crossing ahead", "discesa-pericolosa": "Steep descent", "salita-ripida": "Steep climb", "restringimento-carreggiata": "Road narrows on both sides",
+    "restringimento-sinistra": "Road narrows on the left", "restringimento-destra": "Road narrows on the right", "ponte-mobile": "Swing / lift bridge", "strada-sdrucciolevole": "Slippery road",
+    "attenzione-bambini": "Children", "animali-domestici": "Domestic animals", "animali-selvatici": "Wild animals", "doppio-senso-circolazione": "Two-way traffic ahead",
+    "banchina-portuale": "Quayside / riverbank", "pietrisco": "Loose chippings", "caduta-massi-sinistra": "Falling rocks from the left", "caduta-massi-destra": "Falling rocks from the right",
+    "semaforo-verticale": "Traffic lights ahead (vertical)", "aeroplani": "Low-flying aircraft", "raffiche-vento": "Side winds", "pericolo-incendio": "Fire risk",
+    "circolazione-rotatoria": "Roundabout ahead", "pericolo-generico": "Other danger", "banchina-cedevole": "Soft verge", "semaforo-orizzontale": "Traffic lights ahead (horizontal)"
+  },
+  "segnali-divieto": {
+    "divieto-transito": "No vehicles in both directions", "senso-vietato": "No entry", "divieto-sorpasso": "No overtaking", "obbligo-distanza": "Minimum distance between vehicles",
+    "limite-80": "Speed limit (e.g. 80)", "divieto-clacson": "No horn", "divieto-sorpasso-camion": "No overtaking for lorries", "veicoli-trazione-animale": "No animal-drawn vehicles",
+    "divieto-transito-pedoni": "No pedestrians", "transito-biciclette": "No bicycles", "divieto-transito-motocicli": "No motorcycles", "veicoli-braccia": "No handcarts",
+    "divieto-transito-autoveicoli": "No motor vehicles", "divieto-transito-autobus": "No buses", "transito-mezzi-pesanti": "No goods vehicles over 3.5 t", "mezzi-molto-pesanti": "No very heavy vehicles",
+    "transito-veicoli-rimorchio": "No vehicles towing trailers", "transito-macchine-agricole": "No agricultural machines", "merci-pericolose": "No dangerous goods",
+    "trasporto-esplosivi": "No explosives / flammables", "veicoli-acqua": "No water-polluting loads", "divieto-veicoli-larghi": "No vehicles wider than…", "transito-veicoli-alti": "No vehicles higher than…",
+    "veicoli-superiori-10metri": "No vehicles longer than 10 m", "sette-tonnellate": "No vehicles over 7 t", "massa-per-asse": "Maximum mass per axle", "fine-prescrizione": "End of all restrictions",
+    "fine-prescrizione-velocita": "End of speed limit", "fine-divieto-sorpasso": "End of no overtaking", "fine-divieto-sorpasso-mezzi-pesanti": "End of no overtaking for lorries",
+    "divieto-sosta": "No parking", "divieto-fermata": "No stopping", "segnale-parcheggio": "Parking sign", "preannuncio-area-parcheggio": "Parking area ahead",
+    "segnale-passo-carrabile": "Driveway: no parking", "divieto-sosta-contrassegno-persone-invalide": "Disabled parking only", "regolazione-sosta": "Parking regulations (alternate sides etc.)",
+    "divieto-sosta-temporaneo": "Temporary no parking", "autotreni-autoarticolati": "No articulated lorries / road trains"
+  },
+  "segnali-obbligo": {
+    "preavviso-direzione-sinistra": "Turn left ahead", "direzione-dritto": "Ahead only", "direzione-sinistra": "Turn left", "direzione-destra": "Turn right", "preavviso-direzione-destra": "Turn right ahead",
+    "obbligo-destra-sinistra": "Turn right or left", "dritto-destra": "Ahead or right", "dritto-sinistra": "Ahead or left", "passaggio-sinistra": "Keep left", "passaggio-destra": "Keep right",
+    "passaggio-destra-sinistra": "Pass either side", "rotatoria": "Roundabout (mandatory)", "limite-minimo-velocita": "Minimum speed", "fine-limite-minimo-velocita": "End of minimum speed",
+    "obbligo-catene": "Snow chains compulsory", "percorso-pedonale": "Pedestrian path", "fine-percorso-pedonale": "End of pedestrian path", "percorso-biciclette": "Cycle path",
+    "fine-percorso-biciclette": "End of cycle path", "pista-ciclabile-marciapiede": "Cycle path on the pavement", "pedoni-ciclisti": "Shared path for pedestrians and cyclists",
+    "fine-pista-marciapiede": "End of cycle path on the pavement", "fine-percorso-ciclisti-pedoni": "End of shared path", "animali-sella-soma": "Path for horses / pack animals",
+    "fine-percorso-sella-soma": "End of horse path", "alt-dogana": "Stop: customs", "alt-polizia": "Stop: police", "alt-stazione": "Stop: toll station", "svolta-veicoli-pesanti": "Heavy vehicles must turn"
+  },
+  "segnali-precedenza": {
+    "dare-precedenza": "Give way", "segnale-stop": "STOP", "preavviso-precedenza": "Give way ahead", "preavviso-stop": "STOP ahead", "incrocio-precedenza-destra": "Crossroads: give way to the right",
+    "sensi-unici-alternati": "Give way to oncoming traffic (narrow passage)", "fine-diritto-precedenza": "End of priority road", "incrocio-con-precedenza": "Crossroads where you have priority",
+    "intersezione-T-destra": "Side road on the right (you have priority)", "intersezione-T-sinistra": "Side road on the left (you have priority)", "confluenza-destra": "Merging traffic from the right",
+    "confluenza-sinistra": "Merging traffic from the left", "strada-diritto-precedenza": "Priority road", "diritto-precedenza-sensi-unici": "Priority over oncoming traffic"
+  },
+  "segnaletica-orizzontale-ostacoli": {
+    "striscia-discontinua": "Broken line", "strisce-strada": "Road markings in general", "doppia-striscia-continua": "Double continuous line", "strisce-curve-discontinue": "Broken lines on bends",
+    "frecce-direzionali": "Direction arrows on the road", "isole-traffico": "Painted traffic islands", "striscia-continua": "Continuous line", "striscia-discontinua-centrale": "Broken centre line",
+    "segni-gialli-neri": "Yellow-black obstacle markings", "fermata-autobus": "Bus stop markings", "strisce-guida": "Guide lines in intersections", "corsie-arresto": "Stopping lanes",
+    "corsie-preselezione": "Lane selection before junctions", "corsie-preselezione-strada-doppio-senso": "Lane selection on two-way roads", "bordo-marciapiede": "Kerb markings",
+    "regolamenti-segnaletica": "Rules for markings", "striscia-bianca-discontinua-strada-senso-unico": "Broken white line on one-way road", "strisce-pedonali": "Zebra crossing",
+    "striscia-arresto": "Stop line", "striscia-bianca-discontinua-strade-doppio-senso": "Broken white line on two-way road", "carreggiata-doppio-senso-circolazione": "Two-way carriageway markings",
+    "striscia-bianca-continua": "Continuous white line", "dispositivi-strada": "Road studs and devices", "striscia-bianca-laterale": "Edge line", "segnaletica-passaggio-livello": "Level crossing markings",
+    "corsia-emergenza": "Emergency lane", "striscia-trasversale-continua": "Continuous transverse (stop) line"
+  },
+  "semafori-vigili": {
+    "semaforo-rosso": "Red light", "semaforo-verde": "Green light", "semafori-corsia": "Lane traffic lights", "semaforo-giallo": "Amber (yellow) light", "luce-lampeggiante": "Flashing light",
+    "luci-rosse-lampeggianti": "Flashing red lights", "semaforo-trasporto-pubblico": "Public transport lights", "regole-semaforo": "Traffic light rules", "luci-passaggio-livello": "Level crossing lights",
+    "semafori-corsie-reversibili": "Reversible lane lights", "semaforo-pedoni": "Pedestrian lights", "semaforo-biciclette": "Bicycle lights", "luci-lampeggianti": "Flashing amber lights",
+    "semafori-onda-verde": "Green wave", "agenti-traffico": "Traffic officers", "addetti-polizia-postale": "Officers' signals", "vigile-luce-rossa": "Officer: equivalent of red",
+    "vigile-verde": "Officer: equivalent of green", "vigile-luce-gialla": "Officer: equivalent of amber", "vigile-angolo-retto": "Officer with arms at right angles", "fischeitto": "Officer's whistle",
+    "vicinanze-passaggio-livello": "Near a level crossing"
+  },
+  "segnali-indicazione": {
+    "conferma-autostradale": "Motorway confirmation sign", "itinerario-internazionale": "International route (E-road)", "strada-statale": "State road number", "strada-comunale": "Municipal road",
+    "area-campeggio": "Camping area", "comando-polizia": "Police station", "senso-unico-frontale": "One-way street (facing)", "senso-unico": "One-way street (side)", "progressiva-autostradale": "Motorway kilometre marker",
+    "sosta-taxi": "Taxi rank", "telefono-pubblico": "Public telephone", "rifornimento-carburante": "Fuel station", "preavviso-deviazione-temporanea": "Temporary diversion ahead",
+    "preavviso-incrocio": "Junction ahead (direction sign)", "incroci-ravvicinati-urbani": "Closely spaced urban junctions", "incrocio-circolazione-rotatoria": "Roundabout direction sign",
+    "incrocio-limitazione-traffico-autocarri": "Junction with lorry restrictions", "incrocio-extraurbano": "Extra-urban junction sign", "preselezione-extraurbana": "Lane selection sign (extra-urban)",
+    "preselezione-urbana": "Lane selection sign (urban)", "ospedale": "Hospital", "diramazione-autostradale": "Motorway exit / split", "diramazione-urbana": "Urban direction sign",
+    "itinerario-extraurbano": "Extra-urban route sign", "fine-centro-abitato": "End of built-up area", "inizio-area-pedonale": "Start of pedestrian area", "inizio-traffico-limitato": "Start of limited traffic zone",
+    "transitabilita": "Road open (mountain pass)", "intransitabilita": "Road closed (mountain pass)", "inizio-strada-extraurbana": "Start of main extra-urban road", "limiti-generali": "General speed limits in Italy",
+    "identificazione-autostrada": "Motorway identification", "inizio-centro-abitato": "Start of built-up area", "pronto-soccorso": "First aid / A&E", "localizzazione-territoriale": "Place name / region sign",
+    "info-turistiche": "Tourist information", "attraversamento-pedonale-non-regolato": "Unregulated pedestrian crossing", "scuolabus": "School bus stop", "segnale-sos": "SOS column",
+    "strada-senza-uscita": "Dead end", "preavviso-strada-senza-uscita": "Dead end ahead", "velocita-consigliata": "Recommended speed", "strada-veicoli-motore": "Road for motor vehicles",
+    "inizio-galleria": "Tunnel", "presenza-ponte": "Bridge", "cartello-attraversamento-ciclabile": "Cycle crossing", "svolta-sinistra": "Indirect left turn", "inversione-marcia": "U-turn point",
+    "piazzola-sosta": "Lay-by", "utilizzo-corsie": "Lane use", "velocita-minima-corsie": "Minimum speed per lane", "corsia-autobus": "Bus lane", "aumento-corsie": "Extra lane begins",
+    "diminuzione-corsie": "Lane ends", "deviazione-autocarri": "Lorry diversion", "cartello-autobus": "Bus stop sign", "scambio-autobus": "Bus interchange", "auto-seguito": "Car on train / ferry",
+    "impianti-scarico": "Waste disposal for campers", "officina-meccanica": "Mechanic / breakdown service", "confine-stato-ue": "EU border", "preavviso-confine": "Border ahead",
+    "direzione-obbligatoria": "Compulsory direction sign"
+  },
+  "segnali-complementari-cantiere": {
+    "tornante": "Hairpin bend marker", "direzione-autocarri": "Lorry direction", "lavori-corso": "Roadworks", "barriera-normale": "Roadwork barrier", "cono-delimitazione": "Traffic cones",
+    "passaggio-veicoli": "Passage for vehicles", "cantiere-mobile": "Mobile roadworks", "deviazione-mezzi-pesanti": "Heavy vehicle diversion", "corsia-chiusa": "Lane closed",
+    "corsie-disponibili": "Available lanes", "delineatori-senso-unico": "Delineators on one-way roads", "delineatori-margine": "Edge delineators (posts)", "delineatori-gallerie": "Tunnel delineators",
+    "delineatore-montagna": "Mountain road snow poles", "delinatore-curva-stretta": "Sharp bend chevrons", "delineatore-incrocio-T": "T-junction chevrons", "delinatore-modulare": "Modular chevrons",
+    "preavviso-semaforo": "Temporary lights ahead", "delineatore-ostacolo": "Obstacle marker"
+  },
+  "pannelli-integrativi": {
+    "pannelli-distanza": "Distance panels", "pannelli-estensione": "Extent panels (length)", "fascia-oraria": "Time panels", "fascia-oraria-giorni-festivi": "Time panels: holidays",
+    "fascia-oraria-giorni-lavorativi": "Time panels: working days", "pannelli-limitazione": "Restriction panels (which vehicles)", "inizio-prescrizione": "Start of restriction",
+    "continuazione-prescrizione": "Restriction continues", "termine-prescrizione": "End of restriction", "segni-in-rifacimento": "Markings being redone", "presenza-incidente": "Accident ahead",
+    "attraversamento-binari": "Tracks crossing", "sgombraneve": "Snow plough", "zona-allagamento": "Flooding zone", "presenza-code": "Queues ahead", "mezzi-lavoro": "Works vehicles",
+    "strada-ghiacciata": "Icy road", "strada-pioggia": "Slippery when wet", "autocarri-rallentamento": "Slow lorries", "zona-rimozione": "Tow-away zone", "segnale-corsia": "Lane panel",
+    "presenza-tornanti": "Hairpin bends", "pulizia-strade": "Street cleaning", "andamento-strada": "Priority road layout panel", "pannelli-eccezione": "Exception panels"
+  },
+  "limiti-di-velocita": {
+    "regolazione-conducente-velocita": "Adjusting your speed", "obbligo-regolazione": "Duty to adapt speed", "riduzione-velocita": "When to reduce speed", "limite-velocita-generali": "General speed limits",
+    "limiti-velocita-eta": "Limits for new drivers", "limiti-strade-extraurbane-velocita": "Limits on extra-urban roads", "regolazione-velocita": "Speed control", "doveri-velocita": "Speed duties",
+    "norme-velocita": "Speed rules", "strade-extraurbane-secondarie": "Secondary extra-urban roads", "contrassegni-velocita": "Speed limit discs on vehicles", "moderazione-velocita": "Moderating speed",
+    "diminuzione-velocita": "Slowing down", "limiti-particolari": "Special limits", "velocita-incroci": "Speed at junctions", "pericolo-velocita": "Dangers of speed",
+    "pallone-carreggiata": "Ball rolling into the road", "macchine-parcheggiate": "Near parked cars", "Comportamenti-passaggio-livello": "Behaviour at level crossings"
+  },
+  "distanza-di-sicurezza": {
+    "condizioni-sicurezza": "Safety conditions", "distanza-sicurezza": "Safe following distance", "distanza-situazioni": "Distance in different situations", "distanza-reazione": "Reaction distance",
+    "distanza-minima": "Minimum distance", "distrazione-conducente": "Driver distraction", "spazio-secondo": "Distance per second", "spazio-frenatura": "Braking distance",
+    "diminuzione-aumento-frenatura": "What changes braking distance", "spazio-arresto": "Stopping distance", "aumento-spazio-arresto": "What increases stopping distance",
+    "condizioni-influenza-sicurezza": "Conditions affecting safety distance", "sicurezza-dipendenza": "What safety distance depends on", "metri-distanza-sicurezza": "Distance in metres",
+    "distanza-sicurezza-veicoli": "Distance from other vehicles"
+  },
+  "norme-di-circolazione": {
+    "manovra-retromarcia": "Reversing", "pericolo-intralcio": "Danger and obstruction", "guida-veicolo": "Driving the vehicle", "carico-veicoli": "Vehicle loading", "uso-corretto-strada": "Correct use of the road",
+    "prossimita-incrocio": "Near an intersection", "centro-abitato-pedone": "Pedestrians in built-up areas", "corteo-centro-abitato": "Processions in town", "incrocio-urbano": "Urban intersection",
+    "strada-extraurbana-notte": "Extra-urban road at night", "evitare-pericolo": "Avoiding danger", "condizioni-traffico-intenso": "Heavy traffic", "svolta-destra": "Turning right",
+    "impegno-delle-corsie": "Lane use", "cambio-corsia": "Changing lanes", "svolta-carreggiata-doppio-senso": "Turning on a two-way road", "utilizzo-corsie-file-parallele": "Driving in parallel rows",
+    "attenzione-cambio-corsia": "Care when changing lanes", "svolte-cambi-direzioni": "Turns and changes of direction", "strada-doppio-senso-marcia": "Two-way road driving", "durante-marcia": "While driving",
+    "obbligo-precedenza": "Duty to give way", "vicinanza-incrocio": "Approaching an intersection", "corrispondenza-incroci": "At intersections", "proprieta-privata": "Exiting private property",
+    "svolta-destra-autotreno": "Lorry turning right", "inversione-marcia-conducente": "U-turns", "manovre-consentite": "Allowed manoeuvres", "incroci-circolazione-rotatoria": "Roundabouts",
+    "arresto-veicolo": "Stopping the vehicle", "auto-della-polizia": "Police cars", "immissione-flusso-della-circolazione": "Joining traffic", "partenza-margine-della-carreggiata": "Pulling away from the kerb",
+    "retromarcia-immissione": "Reversing into traffic", "arresto-margine-destro-della-carreggiata": "Stopping at the right edge", "mancato-rispetto-delle-norme": "Breaking the rules",
+    "utilizzo-specchi-retrovisori": "Using mirrors", "Posizione-degli-specchi-retrovisori": "Adjusting mirrors"
+  },
+  "sorpasso": {
+    "conducente-intende-sorpassare": "Before overtaking", "manovra-sorpasso": "The overtaking manoeuvre", "tram-sorpassi": "Overtaking trams", "spazio-necessario-sorpasso": "Space needed to overtake",
+    "sorpasso-vietato": "When overtaking is forbidden", "sorpasso-prossimita-dosso": "Near hills and crests", "pericolosita-sorpasso": "Dangers of overtaking", "conducente-veicolo-sorpassare": "Being overtaken",
+    "norme-generiche-sorpasso": "General overtaking rules", "sorpasso-autostrada": "Overtaking on the motorway"
+  },
+  "fermata-sosta-arresto": {
+    "disco-orario-parchimetro": "Parking disc and meters", "conducente-autoveicolo-sosta": "Parking a car", "prima-iniziare-guidare": "Before you start driving", "fermata-veicolo": "Stopping (fermata)",
+    "durante-fermata": "During a stop", "fermata-fuori-centri-abitati": "Stopping outside built-up areas", "fermata-vietata": "Where stopping is forbidden", "fermate-cartelli-intersezione": "Stopping near signs and junctions",
+    "divieto-sosta-fermata": "No parking vs no stopping", "cautele-durante-sosta": "Precautions when parked", "sosta-fuori-centri-abitati": "Parking outside built-up areas", "zone-spazi-sosta": "Parking spaces",
+    "zone-vietata-sosta": "Where parking is forbidden", "zone-divieto-fermata": "No-stopping zones", "zone-sosta-fermata-autobus": "Bus stops", "soste-veicoli-persone-invalide": "Disabled parking",
+    "sosta-cassonetti-rifiuti-urbani": "Near rubbish bins", "sosta-codice-strada-distributori": "Near fuel pumps", "sosta-sottrazione-punti": "Parking and points", "sosta-emergenza": "Emergency stop",
+    "discesa-veicolo": "Getting out of the vehicle"
+  },
+  "norme-varie-autostrade-pannelli": {
+    "ingombro-carreggiata-caduta-carico": "Fallen load on the road", "ingombro-avaria": "Breakdown blocking the road", "caduta-spargimento-materie-pericolose": "Spilled dangerous material",
+    "segnale-mobile-triangolare": "Warning triangle", "posizione-triangolo": "Where to place the triangle", "giubbotto-alta-visibilita": "High-visibility vest", "divieto-circolazione": "Who may not use motorways",
+    "traino-veicoli-avaria": "Towing a broken-down vehicle", "aree-servizio": "Service areas", "proiettori-anabbaglianti": "Dipped headlights on motorways", "retromarcia-inversione-marcia": "No reversing or U-turns",
+    "ingorgo-uscita-immissione": "Queues at entries and exits", "rampe-svincoli-autostradali": "Motorway ramps", "automobilista-fermo-autostrada": "Stopped on the motorway",
+    "trasporto-animali-persone": "Carrying animals and people", "trasporto-traino-motocicli": "Motorcycles carrying and towing", "sistemazione-carico-veicoli": "Securing the load",
+    "sporgenza-carico": "Overhanging load", "sporgenza-longitudinale": "Load overhang front/back", "pannelli-gialli-arancioni": "Orange/yellow panels on vehicles", "regole-traino-veicoli": "Towing rules",
+    "ciclisti-velocipedi": "Cyclists", "conducente-autovettura-autoveicolo": "Car driver duties", "rischi-strade-extraurbane": "Risks on extra-urban roads", "massa-veicoli": "Vehicle mass",
+    "conducente-fuoristrada": "Off-road vehicles", "valutazioni-pericolo": "Assessing danger", "campo-visibilita": "Field of vision", "circolazione-autocarri": "Lorries in traffic",
+    "giubbotto-retroriflettente": "Reflective vest", "circolazione-dietro-veicolo": "Driving behind a vehicle", "traino-rimorchio": "Towing a trailer", "numero-persone-trasportabili": "How many passengers",
+    "pannello-carichi-sporgenti": "Overhanging load panel", "Comportamenti-guida-caravan": "Driving with a caravan", "Dotazione-rimorchio": "Trailer equipment", "Conduzione-veicoli-rimorchio": "Handling with a trailer",
+    "Guida-veicoli-rimorchio": "Driving with a trailer", "Carichi-organi-traino": "Tow bar loads", "utilizzo-rimorchio": "Using a trailer"
+  },
+  "luci-dispositivi-acustici": {
+    "luci-anabbaglianti": "Dipped headlights", "dispositivi-utilizzare-durante-marcia": "Lights to use while driving", "obbligo-anabbaglianti": "When dipped lights are compulsory",
+    "uso-luci-anabbaglianti": "Using dipped lights", "catadiottri": "Reflectors", "funzione-catadiottri": "What reflectors do", "targa-posteriore-veicolo": "Rear number plate light",
+    "spie-auto": "Dashboard warning lights", "simbolo-abbaglianti": "High beam symbol", "simbolo-fari-anabbaglianti": "Dipped beam symbol", "simbolo-indicatori-direzione": "Indicator symbol",
+    "simbolo-quattro-frecce": "Hazard lights symbol", "utilizzo-degli-indicatori-direzione": "Using indicators", "necessita-utilizzo-indicatori-direzione": "When to indicate",
+    "uso-abbaglianti": "Using high beams", "uso-intermittente-proiettori-profondita": "Flashing high beams", "uso-proiettori-fuori-centri-abitati": "Lights outside built-up areas",
+    "spia-temperatura-liquido-raffreddamento": "Coolant temperature warning", "spia-della-batteria": "Battery warning", "spia-pressione-olio": "Oil pressure warning", "spia-impianto-frenante": "Brake system warning",
+    "Simbolo-cinture-sicurezza": "Seat belt warning"
+  },
+  "cinture-casco-sicurezza": {
+    "cintura-sicurezza": "Seat belts", "veicoli-airbag": "Airbags", "poggiatesta": "Head restraints", "situazioni-particolari-sicurezza": "Special cases (exemptions)", "casco-obbligatorio": "Helmet compulsory",
+    "Scopo-utilizzo-cinture-sicurezza": "Why wear seat belts", "sistemi-trasporto-bambini": "Child seats", "caratteristiche-airbag": "How airbags work", "utilizzo-casco": "Wearing a helmet",
+    "stivali-uso-motociclistico": "Motorcycle boots", "guanti-uso-motociclistico": "Motorcycle gloves", "giacche-indumenti-motociclistico": "Motorcycle clothing"
+  },
+  "patente-punti-documenti": {
+    "veicoli-strade-pubbliche": "Vehicles on public roads", "documenti-circolazione": "Documents to carry", "targhe-veicoli": "Number plates", "Abilitazioni-patente-AM": "Licence AM",
+    "Patente-categoria-a1": "Licence A1", "Patente-categoria-a2": "Licence A2", "Patente-categoria-A": "Licence A", "Patente-categoria-B1": "Licence B1", "Patente-categoria-B": "Licence B",
+    "Codice-armonizzato-96": "Code 96 (heavier trailers)", "Patente-categoria-BE": "Licence BE", "Ritiro-patente-guida": "Licence withdrawal", "revisione-patente-guida": "Licence re-examination",
+    "revoca-patente-guida": "Licence revocation", "sospensione-patente-guida": "Licence suspension", "violazioni-decurtazione-punti-patente": "Offences that cost points",
+    "perdita-punti-patente": "Losing points", "Validita-delle-patenti-guida": "Licence validity"
+  },
+  "incidenti-stradali-comportamenti": {
+    "causa-probabile-incidenti": "Main causes of accidents", "caso-pioggia": "Driving in rain", "aquaplanning": "Aquaplaning", "strade-coperte-neve": "Snow-covered roads", "tratti-strada-ghiacciati": "Icy stretches",
+    "nebbia-fitta": "Thick fog", "obblighi-dopo-incidente-stradale": "Duties after an accident", "salita-discesa-passeggero": "Passengers getting in and out", "infossamento": "Stuck in a ditch / soft ground",
+    "tamponamenti-stradali": "Rear-end collisions", "pannelli-galleria": "Tunnel panels and emergencies"
+  },
+  "alcool-droga-primo-soccorso": {
+    "segni-stanchezza": "Signs of tiredness", "eccesso-bevande-alcoliche": "Too much alcohol", "idoneita-alla-guida": "Fitness to drive", "assunzione-droghe": "Drugs", "guida-alimentazione": "Food and driving",
+    "guida-stato-ebbrezza": "Drink-driving offences", "soccorso-ferito": "Helping an injured person", "primo-soccorso": "First aid basics", "infortunato-ferita-sanguinante": "Bleeding wound",
+    "emorragia-esterna": "External bleeding", "corpo-estraneo-occhio": "Something in the eye", "stato-shock": "Shock", "ferito-stato-shock": "Injured person in shock",
+    "ferito-stato-incoscienza": "Unconscious casualty", "infortunato-della-strada": "Road casualty", "infortunato-fratture-agli-arti": "Broken limbs", "ferito-ustionato": "Burns",
+    "attivita-soccorritore": "What a first-aider should do", "cause-shock": "Causes of shock", "assunzione-alcool": "Effects of alcohol", "occhiali-lenti-contatto": "Glasses and contact lenses"
+  },
+  "responsabilita-civile-penale-e-assicurazione": {
+    "risarcimento-danni": "Compensation for damage", "responsabile-sinistro-stradale": "Who is responsible for an accident", "responsabilita-penale": "Criminal liability", "casi-responsabilita-penale": "Cases of criminal liability",
+    "responsabilita-civile": "Civil liability", "assicurazione": "Compulsory insurance (RCA)", "responsabilita-danni": "Liability for damage", "assicurazione-scaduta": "Expired insurance",
+    "fondo-garanzia-vittime-strada": "Road victims guarantee fund", "furto-incendio": "Theft and fire cover", "massimali-della-polizza": "Policy limits", "formula-bonus-malus": "Bonus-malus",
+    "coperture-assicurazione": "What insurance covers", "imprese-assicuratrici": "Insurance companies", "psicologia-traffico": "Traffic psychology"
+  },
+  "consumi-ambiente-inquinamento": {
+    "consumi-carburante": "Fuel consumption", "rumori-fastidiosi": "Annoying noise", "rumore-veicoli-motore": "Engine noise", "diminuire-rumore": "Reducing noise", "rimorchi-pneumatici": "Trailers and tyres",
+    "inquinamento-aria": "Air pollution", "inquinamento-atmosferico": "Atmospheric pollution", "iniettori-fumi-scarico": "Injectors and exhaust smoke", "accorgimenti-ridurre-inquinamento": "Ways to reduce pollution",
+    "sostituzione-filtri": "Replacing filters", "salvaguardare-ambiente": "Protecting the environment", "aumento-limitazione-consumi": "What raises or lowers consumption",
+    "veicoli-modificati": "Modified vehicles", "scarico-smaltimento": "Disposing of oil and waste", "divieti-generici": "General prohibitions"
+  },
+  "elementi-veicolo-manutenzione-comportamenti": {
+    "forza-aderente": "Grip (adhesion)", "aumento-della-forza-aderente": "Increasing grip", "coefficiente-aderenza": "Grip coefficient", "coefficiente-basso-aderenza": "Low grip surfaces",
+    "conduzione-motociclo": "Riding a motorcycle", "asfalto-forza-aderente": "Asphalt and grip", "percorrenza-curva": "Driving through bends", "ribaltamento-curva": "Rolling over in a bend",
+    "forza-ribaltante": "Overturning force", "funzioni": "Vehicle parts and functions", "pressione-gonfiaggio": "Tyre pressure", "pneumatici-tubeless": "Tubeless tyres", "pneumatici-neve": "Winter tyres",
+    "sostituzione-ruota": "Changing a wheel", "frenate-emergenza": "Emergency braking", "rischio-incendio-veicolo": "Vehicle fire risk", "varie-manutenzione": "General maintenance",
+    "pulizia-cristalli": "Clean windows", "condizioni-pneumatici": "Tyre condition", "frenata-freno-stazionamento": "Parking brake", "frenatura-poco-efficiente": "Poor braking",
+    "sospensioni-veicolo-motore": "Suspension", "cause-sospensioni-inefficienti": "Worn suspension", "ammortizzatori-sovraccarico": "Shock absorbers and overloading",
+    "ammortizzatori-veicoli-motore": "Shock absorbers", "Sterzo-servosterzo": "Steering and power steering", "impianto-scarico": "Exhaust system", "interruttore-emergenza": "Emergency switch",
+    "catena-trasmissione": "Chain drive", "Livello-olio-liquidi": "Oil and fluid levels"
+  }
+}

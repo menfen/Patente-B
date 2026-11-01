@@ -1,0 +1,100 @@
+68ebcb747b	VERO	Level crossing	In un passaggio a livello si possono trovare le luci rosse	At a level crossing, you may find red lights.	
+5111c8e848	VERO	Level crossing	In vicinanza di un passaggio a livello si trovano i pannelli distanziometrici	Near a level crossing, distance marker panels are found.	
+0e5e4c8e3a	VERO	Level crossing	In un passaggio a livello si può trovare la croce di S. Andrea	At a level crossing, you may find the St. Andrew's cross.	
+358c7f3e4d	VERO	Level crossing	In un passaggio a livello si può trovare un dispositivo di segnalazione acustica	At a level crossing, you may find an acoustic warning device.	
+38050e3921	FALSO	Level crossing	Il passaggio a livello è un cavalcavia ferroviario o tranviario	A level crossing is a railway or tramway overpass.	
+a69b0939b5	FALSO	Level crossing	In un passaggio a livello si possono trovare le luci gialle lampeggianti	At a level crossing, flashing yellow lights may be found.	
+9405cd23d7	FALSO	Level crossing	Il passaggio a livello è caratterizzato dalla presenza di un attraversamento autostradale	A level crossing is characterized by the presence of a motorway crossing.	
+c575a19ee8	FALSO	Level crossing	In un passaggio a livello si possono trovare le corsie di accelerazione	At a level crossing, acceleration lanes may be found.	
+6a49698ba9	FALSO	Level crossing	Il passaggio a livello è un passo carrabile	A level crossing is a driveway access.	
+a6d800d25c	FALSO	Level crossing	Il passaggio a livello è caratterizzato dalla presenza di un sottopassaggio	A level crossing is characterized by the presence of an underpass.	
+c1a78efe2b	VERO	Pedestrian areas	Nelle aree pedonali possono transitare i veicoli ad emissione zero (elettrici), se espressamente consentito	In pedestrian areas, zero-emission vehicles (electric vehicles) may circulate, if expressly permitted.	
+c8a292dc07	VERO	Pedestrian areas	Nelle aree pedonali possono transitare i pedoni	In pedestrian areas, pedestrians may pass through.	
+fbb6d9b544	VERO	Pedestrian areas	Nelle aree pedonali possono transitare le biciclette	In pedestrian areas, bicycles may pass through.	
+f1ac4d9816	VERO	Pedestrian areas	Nelle aree pedonali possono transitare i veicoli al servizio di persone diversamente abili	In pedestrian areas, vehicles serving disabled persons may pass through.	
+d09bf5da65	VERO	Pedestrian areas	Nelle aree pedonali possono transitare i veicoli della polizia, con sirena e luce lampeggiante blu in funzione	In pedestrian areas, police vehicles may pass through, with siren and blue flashing light operating.	
+7c7450561b	VERO	Pedestrian areas	Nelle aree pedonali possono transitare gli autoveicoli dei vigili del fuoco, con luce lampeggiante blu e sirena in funzione	In pedestrian areas, fire service motor vehicles may pass through, with blue flashing light and siren operating.	
+aead046147	FALSO	Pedestrian areas	Nelle aree pedonali possono transitare tutti i motocicli, purché diano la precedenza ai pedoni	In pedestrian areas, all motorcycles may pass through, provided that they give way to pedestrians.	
+1461d12ce2	FALSO	Pedestrian areas	Nelle aree pedonali possono transitare i trattori stradali, con velocità non superiore a 30 km/h	In pedestrian areas, road tractors may pass through, with a speed not exceeding 30 km/h.	
+8bdedcbb04	FALSO	Pedestrian areas	Nelle aree pedonali i ciclomotori possono transitare solo di giorno	In pedestrian areas, mopeds may pass through only during the day.	
+294eaba153	FALSO	Pedestrian areas	Nelle aree pedonali possono transitare tutti gli autoveicoli, ma con prudenza	In pedestrian areas, all motor vehicles may pass through, but with caution.	
+e617c5c423	FALSO	Pedestrian areas	Nelle aree pedonali possono transitare i quadricicli a motore, purché non superino la velocità di 50 km/h	In pedestrian areas, motor quadricycles may pass through, provided they do not exceed a speed of 50 km/h.	
+ec1c6c0daa	VERO	What a 'road' is	La strada può essere suddivisa in carreggiate	The road may be divided into carriageways.	
+ce806d4d3a	VERO	What a 'road' is	La strada può comprendere le piste ciclabili	The road may include cycle paths.	
+db70617952	VERO	What a 'road' is	La strada può essere a senso unico di circolazione	The road may be one-way.	
+af3c985067	VERO	What a 'road' is	La strada può essere a doppio senso di circolazione	The road may be two-way.	
+857466dc38	VERO	What a 'road' is	La strada è aperta alla circolazione dei pedoni, degli animali e dei veicoli	The road is open to the movement of pedestrians, animals, and vehicles.	
+8436f74c07	FALSO	What a 'road' is	La strada non comprende le banchine	The road does not include the shoulders.	
+3a0167d28b	FALSO	What a 'road' is	La strada è riservata alla circolazione dei soli autoveicoli e motocicli	The road is reserved for the circulation of motor vehicles and motorcycles only.	
+3f0f6d4a5a	FALSO	What a 'road' is	La strada è normalmente riservata alla circolazione dei soli veicoli e animali	The road is normally reserved for the circulation of vehicles and animals only.	
+d604f9d39a	FALSO	What a 'road' is	La strada non comprende i marciapiedi	The road does not include the sidewalks.	
+90a0069b87	FALSO	What a 'road' is	La strada è qualsiasi area asfaltata, limitata lateralmente dagli attraversamenti pedonali	The road is any asphalted area, laterally bounded by pedestrian crossings.	
+f509d96356	VERO	Motorway	L'autostrada non ha incroci a raso che l'attraversano	The motorway has no level crossings that cross it.	
+eed148dfd9	VERO	Motorway	L'autostrada è dotata di speciali corsie per l'ingresso e l'uscita dei veicoli	The motorway is equipped with special lanes for vehicles to enter and exit.	
+1bbf963382	VERO	Motorway	L'autostrada è a carreggiate indipendenti o separate da spartitraffico	The motorway has separate carriageways or carriageways divided by a central reservation.	
+c4f05dfd30	VERO	Motorway	I motocicli con cilindrata di almeno 150 cm3 possono circolare in autostrada	Motorcycles with an engine capacity of at least 150 cc may travel on the motorway.	
+a85d54a574	VERO	Motorway	Le macchine agricole non possono circolare in autostrada	Agricultural machines may not travel on the motorway.	
+111bf561b9	VERO	Motorway	Non tutti i tipi di veicoli possono circolare in autostrada	Not all types of vehicles may travel on the motorway.	
+d67ef2af91	VERO	Motorway	L'uscita dei veicoli dalle autostrade avviene tramite corsie di decelerazione	Vehicles leave motorways via deceleration lanes.	
+97f4abeb9f	VERO	Motorway	L'autostrada deve essere lateralmente recintata	The motorway must be fenced along the sides.	
+d97ac78ee3	FALSO	Motorway	Nelle autostrade possono circolare solo le autovetture	Only cars may travel on motorways.	
+a78586db46	FALSO	Motorway	Nelle autostrade possono circolare tutti i tipi di motocicli	All types of motorcycles may travel on motorways.	
+0b3434ef5d	FALSO	Motorway	L'autostrada può comprendere piste ciclabili	A motorway may include cycle paths.	
+01e81283b5	FALSO	Motorway	Nelle autostrade possono circolare i ciclomotori e i motocicli con cilindrata fino a 125 cm3	On motorways, mopeds and motorcycles with an engine capacity of up to 125 cc may circulate.	
+245308c245	FALSO	Motorway	Nelle autostrade possono circolare solo gli autoveicoli	On motorways, only motor vehicles may circulate.	
+2ed7621095	FALSO	Motorway	Nelle autostrade possono circolare tutti i motocicli e i ciclomotori	On motorways, all motorcycles and mopeds may circulate.	
+60debcac4e	VERO	Carriageway	La carreggiata può essere a senso unico di circolazione	The carriageway may be one-way.	
+c7c8dba95a	VERO	Carriageway	La carreggiata può essere a doppio senso di circolazione	The carriageway may be two-way.	
+6fb35fc748	VERO	Carriageway	La carreggiata può essere suddivisa in corsie	The carriageway may be divided into lanes.	
+3c637252db	VERO	Carriageway	La carreggiata non comprende le piste ciclabili	The carriageway does not include cycle paths.	
+9ac221739e	VERO	Carriageway	La carreggiata non comprende i marciapiedi	The carriageway does not include sidewalks.	
+24286c0030	VERO	Carriageway	La carreggiata è la parte della strada destinata normalmente alla circolazione dei veicoli	The carriageway is the part of the road normally intended for the circulation of vehicles.	
+c7f6df6597	FALSO	Carriageway	La carreggiata è destinata soltanto alla circolazione di carri a trazione animale	The carriageway is intended only for the circulation of animal-drawn carts.	
+56c82d13c4	FALSO	Carriageway	La carreggiata è destinata alla sosta di emergenza	The carriageway is intended for emergency stopping.	
+29b5b2c73c	FALSO	Carriageway	La carreggiata è destinata alla sosta degli autocarri	The carriageway is intended for the parking of lorries.	
+3fc4d692dc	FALSO	Carriageway	La carreggiata è la traccia lasciata dalle ruote dei veicoli sulle strade innevate	The carriageway is the track left by vehicle wheels on snow-covered roads.	
+f9ae4edbe1	FALSO	Carriageway	La carreggiata comprende le piazzole di sosta	The carriageway includes lay-bys.	
+9c52dede75	VERO	Parts of the carriageway	Fanno parte della carreggiata le corsie di marcia	Traffic lanes are part of the carriageway.	
+d4cdaae29a	VERO	Parts of the carriageway	Fanno parte della carreggiata gli attraversamenti ciclabili	Cycle crossings are part of the carriageway.	
+269d0ed875	VERO	Parts of the carriageway	Fanno parte della carreggiata gli attraversamenti pedonali	Pedestrian crossings are part of the carriageway.	
+d812eafd69	VERO	Parts of the carriageway	Fanno parte della carreggiata le corsie di sorpasso	Overtaking lanes are part of the carriageway.	
+d0d0d8860a	FALSO	Parts of the carriageway	Fanno parte della carreggiata le corsie di emergenza delle autostrade	Motorway emergency lanes are part of the carriageway.	
+20bada951a	FALSO	Parts of the carriageway	Fanno parte della carreggiata le banchine	The shoulders are part of the carriageway.	
+c44ddf9d43	FALSO	Parts of the carriageway	Fanno parte della carreggiata i marciapiedi	The sidewalks are part of the carriageway.	
+0939f31cd0	VERO	Lane	La corsia può essere destinata alla normale marcia dei veicoli	A lane may be intended for the normal movement of vehicles.	
+3e005f804b	VERO	Lane	La corsia è limitata da strisce continue o discontinue	A lane is bounded by continuous or broken lines.	
+f75f1ab1ff	VERO	Lane	La corsia può essere di accelerazione	A lane may be an acceleration lane.	
+221b083237	VERO	Lane	La corsia può essere di decelerazione	A lane may be a deceleration lane.	
+6a123c9703	VERO	Lane	Le corsie possono essere vietate a taluni tipi di veicoli	Lanes may be prohibited to certain types of vehicles.	
+d71d311e43	VERO	Lane	La corsia può essere riservata alla circolazione di alcune categorie di veicoli (taxi, autobus, ecc.)	A lane may be reserved for the circulation of certain categories of vehicles (taxis, buses, etc.).	
+28abe13b84	VERO	Lane	La corsia può essere destinata ad effettuare sorpassi	A lane may be intended for overtaking.	
+5ab8466b99	VERO	Lane	L'ente proprietario della strada può imporre che su una corsia i veicoli transitino ad una velocità minima obbligatoria	The road authority may require that vehicles on a lane travel at a compulsory minimum speed.	
+471554e05a	VERO	Lane	La corsia è una parte della carreggiata che consente la circolazione di una sola fila di veicoli	A lane is a part of the carriageway that allows the movement of a single line of vehicles.	
+61a00f2d47	VERO	Lane	La corsia può essere destinata alle soste di emergenza, in caso di guasto o malessere	A lane may be intended for emergency stops, in the event of a breakdown or illness.	
+a0b0d7d028	VERO	Lane	La corsia può essere riservata ai veicoli che intendono svoltare (corsia specializzata)	A lane may be reserved for vehicles intending to turn (specialized lane).	
+a3026e449e	VERO	Lane	La corsia può essere destinata al rallentamento dei veicoli in uscita dalle autostrade	A lane may be intended for the slowing down of vehicles exiting motorways.	
+8986096566	FALSO	Lane	La corsia è destinata solo al transito dei pedoni	A lane is intended only for the passage of pedestrians.	
+d06390eeec	FALSO	Lane	La corsia può essere a doppio senso di circolazione	A lane may be for traffic in both directions.	
+f307706304	FALSO	Lane	La corsia è una pista riservata alle vetture da corsa	A lane is a track reserved for racing cars.	
+07bae10376	FALSO	Lane	La corsia non può mai essere attraversata dai pedoni	Pedestrians can never cross the lane.	
+9820f0c5cb	FALSO	Lane	La corsia è formata da due carreggiate	A lane is made up of two carriageways.	
+69c4ebf641	FALSO	Lane	La corsia è una strada a scorrimento veloce	A lane is a fast-flow road.	
+a665d030ca	FALSO	Lane	Nei centri abitati, su una stessa corsia possono circolare affiancati due motocicli	In built-up areas, two motorcycles may travel side by side in the same lane.	
+5492ed0d1b	FALSO	Lane	Fuori dai centri abitati, su una stessa corsia possono circolare affiancati due ciclomotori	Outside built-up areas, two mopeds may travel side by side in the same lane.	
+41df55b70f	VERO	Acceleration lane	La corsia di accelerazione facilita l'ingresso dei veicoli in autostrada o su strade extraurbane principali	The acceleration lane makes it easier for vehicles to enter a motorway or a main extra-urban road.	
+f02f954487	VERO	Acceleration lane	La corsia di accelerazione serve ad entrare correttamente in autostrada	The acceleration lane is used to enter a motorway correctly.	
+a396a173b8	VERO	Acceleration lane	La corsia di accelerazione viene utilizzata per aumentare la velocità	The acceleration lane is used to increase speed.	
+026f6782c0	VERO	Acceleration lane	La corsia di accelerazione serve per rientrare sulla carreggiata dell’autostrada dopo che si è usciti da un’area di servizio	The acceleration lane is used to rejoin the motorway carriageway after leaving a service area.	
+0ec424e709	FALSO	Acceleration lane	La corsia di accelerazione può essere utilizzata per il sorpasso	The acceleration lane may be used for overtaking.	
+1661500605	FALSO	Acceleration lane	La corsia di accelerazione serve per uscire da una piazzola di sosta	The acceleration lane is used to leave a lay-by.	
+f08b8e53c4	FALSO	Acceleration lane	La corsia di accelerazione serve per abbandonare la carreggiata dell’autostrada ed entrare in un’area di sosta	The acceleration lane is used to leave the motorway carriageway and enter a rest area.	
+35fd55acd1	VERO	Deceleration lane	La corsia di decelerazione facilita l'uscita dei veicoli dall'autostrada	The deceleration lane makes it easier for vehicles to leave the motorway.	
+098ef1740d	VERO	Deceleration lane	La corsia di decelerazione serve per uscire correttamente da una strada extraurbana principale	The deceleration lane is used to leave a main extra-urban road correctly.	
+8a466044a0	VERO	Deceleration lane	La corsia di decelerazione serve per uscire dalla carreggiata dell’autostrada ed entrare nell’area di servizio	The deceleration lane is used to leave the motorway carriageway and enter the service area.	
+34a401dc60	FALSO	Deceleration lane	La corsia di decelerazione può essere utilizzata per la sosta dei veicoli	The deceleration lane may be used for parking vehicles.	
+2c95151c20	FALSO	Deceleration lane	La corsia di decelerazione serve per entrare in una piazzola di sosta	The deceleration lane is used to enter a lay-by.	
+b479cc01af	FALSO	Deceleration lane	La corsia di decelerazione serve ad entrare in autostrada	The deceleration lane is used to enter a motorway.	
+359a629d2a	VERO	Hard shoulder / verge (banchina)	La banchina non consente, di norma, il transito ai veicoli	The shoulder does not normally allow vehicles to travel on it.	
+298d42243c	VERO	Hard shoulder / verge (banchina)	La banchina è parte della strada, posta al di fuori della carreggiata	The shoulder is part of the road, located outside the carriageway.	
+df78481f50	VERO	Hard shoulder / verge (banchina)	La banchina è parte della strada, situata oltre la linea bianca continua di margine della carreggiata	The shoulder is part of the road, located beyond the continuous white edge line of the carriageway.	
+4eb99d3529	FALSO	Hard shoulder / verge (banchina)	La banchina è riservata ai veicoli lenti, nelle strade in salita	The shoulder is reserved for slow vehicles on uphill roads.	

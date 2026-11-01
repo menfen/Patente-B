@@ -1,0 +1,100 @@
+15451ad5d7	True: the keep right sign obliges you to pass the traffic divider on its right-hand side.	صح: علامة المرور يمين بتلزمك تعدي فاصل المرور من ناحيته اليمين.
+0b6716ffd5	True: passing on the right means leaving the pedestrian refuge on your left.	صح: المرور يمين معناه إنك تسيب جزيرة المشاة على شمالك.
+8cad7760ba	True: at roadworks it obliges you to pass to the right of the works.	صح: عند الأشغال بتلزمك تعدي على يمين الأشغال.
+c8c613213d	False: bends have triangular warning signs; this round blue sign obliges passing on the right of an obstacle.	غلط: المنحنيات ليها علامات تحذير مثلثة؛ العلامة الدايرية الزرقا دي بتلزمك تعدي يمين العائق.
+ae4bc347f6	False: an uneven road has a triangular sign; this one is compulsory passage on the right.	غلط: الطريق المكسر ليه علامة مثلثة؛ دي مرور إجباري على اليمين.
+ccd300ad70	False: it does not require a right turn, only passing to the right of an obstacle.	غلط: مش بتلزمك تلف يمين، بس تعدي يمين العائق.
+4846c14c02	False: the advance notice of a right turn is a square blue sign; this one concerns an obstacle.	غلط: التنبيه المسبق للف يمين علامة زرقا مربعة؛ دي عن عائق.
+f85c2a81bd	False: the turn right obligation has a curved arrow; this diagonal arrow means pass on the right.	غلط: إلزام اللف يمين فيه سهم لافف؛ السهم المايل ده معناه عدّي على اليمين.
+d54c220ec9	False: passing on the right means keeping the obstacle on your left, not on your right.	غلط: المرور يمين معناه إن العائق يبقى على شمالك، مش يمينك.
+3e1674a9e4	False: mandatory direction right has a curved arrow; this sign is compulsory passage on the right.	غلط: الاتجاه الإجباري يمين فيه سهم لافف؛ دي مرور إجباري على اليمين.
+20198ff6a5	True: the 'passaggi consentiti' sign shows the only passages allowed, on either side of an obstacle.	صح: علامة 'passaggi consentiti' بتوضح الممرات المسموحة بس، من أي ناحية للعائق.
+6483157004	True: it allows passing to the right or to the left of a traffic island.	صح: بتسمح تعدي يمين أو شمال جزيرة المرور.
+4dc1572267	True: drivers may pass either side of a refuge island.	صح: السواقين يقدروا يعدّوا من أي ناحية لجزيرة المشاة.
+62df665c5b	True: it allows passing on both sides of roadworks.	صح: بتسمح بالمرور من الناحيتين للأشغال.
+dd6c13f58d	True: you may pass to the right or left of the traffic divider.	صح: تقدر تعدي يمين أو شمال الفاصل.
+479dbb083f	True: passage is allowed on both sides of the obstacle.	صح: المرور مسموح من الناحيتين للعائق.
+2b649a05f0	False: it concerns passing an obstacle, not turning at an intersection.	غلط: هي عن المرور جنب عائق، مش اللف في تقاطع.
+dd6bbeda73	False: you may continue, passing either side of the obstacle.	غلط: تقدر تكمل وتعدي من أي ناحية للعائق.
+14dfeaba8d	False: it is not normally preceded by the roundabout sign; it is placed at obstacles such as islands.	غلط: عادة مش بيسبقها علامة الدوران؛ بتتحط عند عوائق زي الجزر.
+6698d287e4	True: the round blue sign with three curved arrows indicates an intersection regulated as a roundabout.	صح: العلامة الدايرية الزرقا بالتلات أسهم اللافة معناها تقاطع متنظم كدوران.
+46d44083d3	True: at a square it obliges you to circulate in the direction shown (anticlockwise).	صح: في ميدان بتلزمك تلف في الاتجاه المرسوم (عكس عقارب الساعة).
+1de9d0f59b	True: it is placed before the entry into an area where roundabout circulation is compulsory.	صح: بتتحط قبل الدخول لمكان الدوران فيه إجباري.
+e86dbc2ce1	True: it is placed before entering a square with roundabout circulation.	صح: بتتحط قبل ما تدخل ميدان فيه دوران.
+2abb038d49	True: it indicates an intersection where traffic is regulated as a roundabout.	صح: معناها تقاطع المرور فيه متنظم كدوران.
+b129509c02	True: drivers must circulate in the direction of the arrows.	صح: السواقين لازم يلفوا في اتجاه الأسهم.
+416b659c4a	True: on extra-urban roads it is preceded by the triangular roundabout warning sign.	صح: على الطرق اللي بره المدن بيسبقها علامة التحذير المثلثة بتاعة الدوران.
+db2c75ea95	False: it does not announce a compulsory left turn; it imposes roundabout circulation.	غلط: مش بتنبه للف شمال إجباري؛ بتفرض اللف في دوران.
+3b1edfb06b	False: it is placed before the entry to the roundabout, not on a bollard in its centre.	غلط: بتتحط قبل مدخل الدوران، مش على عمود في نصه.
+ecb1e27255	False: it is not combined with the keep left sign; it stands alone before the roundabout.	غلط: مش بتتحط مع علامة المرور شمال؛ بتتحط لوحدها قبل الدوران.
+b7703ec3e0	False: it applies to all vehicles, not only cars.	غلط: بتنطبق على كل المركبات، مش العربيات الملاكي بس.
+ae377ec119	False: it is placed on the approach, before the roundabout, not on a central bollard.	غلط: بتتحط في الطريق قبل الدوران، مش على عمود في النص.
+45c5294456	False: a dead end has its own square sign; this one imposes roundabout circulation.	غلط: الطريق المقفول ليه علامة مربعة خاصة؛ دي بتفرض اللف في دوران.
+50f2218830	False: it does not require turning back; it requires going round in the arrows' direction.	غلط: مش بتلزمك ترجع؛ بتلزمك تلف في اتجاه الأسهم.
+3ccaacbbb0	False: it applies to all vehicles, mopeds included.	غلط: بتنطبق على كل المركبات، حتى الموتوبيكان.
+603d82ecf6	True: the minimum speed sign shows 30 km/h, so 40 km/h is allowed.	صح: علامة السرعة الدنيا مكتوب فيها 30 كم/س، فالـ 40 كم/س مسموحة.
+daef424b57	True: it shows the speed below which you may not drive.	صح: بتوضح السرعة اللي ماينفعش تمشي أقل منها.
+f1481d7bce	True: it requires driving at least at 30 km/h.	صح: بتلزمك تمشي 30 كم/س على الأقل.
+a1c2063e82	True: vehicles must keep at least the speed shown, traffic and conditions permitting.	صح: المركبات لازم تحافظ على الأقل على السرعة المكتوبة، لو المرور والظروف سامحين.
+b87c73cec5	True: vehicles unable to reach that minimum speed may not use the road.	صح: المركبات اللي ماتقدرش توصل للسرعة الدنيا دي ماينفعش تدخل الطريق.
+44378f1db1	True: vehicles unable to travel at at least 30 km/h are banned.	صح: المركبات اللي ماتقدرش تمشي 30 كم/س على الأقل ممنوعة.
+b2d1780985	True: the round blue sign with a number sets a minimum speed limit.	صح: العلامة الدايرية الزرقا بالرقم بتحط حد أدنى للسرعة.
+0651e9e833	True: you must keep a speed not lower than 30 km/h.	صح: لازم تحافظ على سرعة مش أقل من 30 كم/س.
+391c1db5e5	True: above the minimum you may drive up to the maximum limits for that road.	صح: فوق الحد الأدنى تقدر تمشي لحد أقصى سرعة مسموحة للطريق ده.
+f9b1c782e0	True: vehicles going at or above the speed shown may proceed.	صح: المركبات اللي ماشية بالسرعة المكتوبة أو أكتر تقدر تكمل.
+fe670a10c9	False: 20 km/h is below the 30 km/h minimum.	غلط: 20 كم/س أقل من الحد الأدنى 30 كم/س.
+fb2a309308	False: it is a minimum, not a maximum; you may go faster within the general limits.	غلط: ده حد أدنى مش أقصى؛ تقدر تمشي أسرع في حدود السرعة العامة.
+9544622a7f	False: the general maximum limits for that road still apply.	غلط: حدود السرعة القصوى العامة للطريق لسه سارية.
+d87e71ab25	False: it does not impose a constant speed, only a minimum.	غلط: مش بتفرض سرعة ثابتة، بس حد أدنى.
+697e52d019	False: maximum limits use red-bordered discs; this blue sign is a minimum.	غلط: الحد الأقصى ليه دايرة بإطار أحمر؛ العلامة الزرقا دي حد أدنى.
+51d9372817	False: it is the opposite: slower vehicles are excluded.	غلط: بالعكس: المركبات الأبطأ هي الممنوعة.
+a5e153e84c	False: it forbids going slower, not faster, than the speed shown.	غلط: بتمنع إنك تمشي أبطأ من السرعة المكتوبة، مش أسرع.
+b43b8b7ac7	False: 25 km/h is below the 30 km/h minimum.	غلط: 25 كم/س أقل من الحد الأدنى 30 كم/س.
+0bab41301f	False: it concerns speed in km/h, not distance in metres.	غلط: هي عن السرعة بالكم/س، مش مسافة بالمتر.
+78c4860d1e	False: it is not a mass limit; it is a minimum speed.	غلط: دي مش حد وزن؛ دي سرعة دنيا.
+c330f30d8e	False: driving slower than the speed shown is forbidden.	غلط: إنك تمشي أبطأ من السرعة المكتوبة ممنوع.
+69d327b130	True: the blue sign with a red diagonal bar marks the end of the minimum speed limit.	صح: العلامة الزرقا بالشرطة الحمرا المايلة بتحدد نهاية حد السرعة الدنيا.
+5469af1127	True: from there you no longer have to keep at least the speed shown.	صح: من هناك مابقتش ملزم تحافظ على السرعة المكتوبة كحد أدنى.
+4447b97cb3	True: you drive within the general maximum limits for that road.	صح: بتمشي في حدود السرعة القصوى العامة للطريق ده.
+d0fb7504e5	True: you may drive faster than the speed shown, within the maximum limits.	صح: تقدر تمشي أسرع من السرعة المكتوبة، في حدود السرعة القصوى.
+116e9fa45f	False: it ends a minimum speed, not a mass restriction.	غلط: بتنهي سرعة دنيا، مش منع وزن.
+ffb67e7aad	False: it bans nothing; it ends the minimum speed obligation.	غلط: مش بتمنع حاجة؛ بتنهي إلزام السرعة الدنيا.
+65c1a2e308	False: it has nothing to do with vehicle length.	غلط: مالهاش علاقة بطول المركبات.
+b407cf7e5d	False: it ends a minimum speed, not a distance obligation.	غلط: بتنهي سرعة دنيا، مش إلزام مسافة.
+95e9b76ba5	False: it forbids nothing; you may drive at 30 km/h or slower if conditions require.	غلط: مش بتمنع حاجة؛ تقدر تمشي 30 كم/س أو أبطأ لو الظروف تتطلب.
+279f8eccfa	True: the snow chains sign requires chains or winter tyres on board or fitted, as shown.	صح: علامة جنازير التلج بتلزمك بجنازير أو كاوتش شتوي زي ما هو موضح.
+6f06b6b8db	True: traffic is allowed only with chains or winter tyres.	صح: المرور مسموح بس بجنازير أو كاوتش شتوي.
+95d831c354	True: only vehicles with chains or winter tyres may pass.	صح: المركبات اللي معاها جنازير أو كاوتش شتوي بس هي اللي تعدي.
+39686d17e2	True: vehicles without chains or winter tyres are banned.	صح: المركبات اللي من غير جنازير أو كاوتش شتوي ممنوعة.
+0d4ef41102	True: it marks stretches with snow or ice where special caution is needed.	صح: بتحدد حتت فيها تلج أو جليد ومحتاجة حرص خاص.
+5495bc4b59	True: it is placed on roads that may be snowy or icy in certain conditions.	صح: بتتحط على طرق ممكن يبقى عليها تلج أو جليد في ظروف معينة.
+5bed30020e	False: it is the opposite: chains are required.	غلط: بالعكس: الجنازير مطلوبة.
+527d5d5165	False: it does not announce a kilometre point; the obligation starts at the sign.	غلط: مش بتنبه لكيلو معين؛ الإلزام بيبدأ من العلامة.
+f771aefcbe	False: it concerns chains or winter tyres, not minimum tread depth.	غلط: هي عن الجنازير أو الكاوتش الشتوي، مش عمق دواسة الكاوتش.
+527b371440	False: it requires chains, not removing them; removal has a different sign.	غلط: بتلزمك بالجنازير مش بفكها؛ فك الجنازير ليه علامة تانية.
+6c92268f31	False: a panel may show the length of the stretch, not a workshop.	غلط: اللوحة ممكن توضح طول الحتة، مش ورشة.
+8c5ef83cc1	True: the round blue sign with a pedestrian marks the start of a pedestrian path.	صح: العلامة الدايرية الزرقا اللي فيها شخص ماشي بتحدد بداية ممر مشاة.
+5031518df7	True: it is valid at all hours, day included.	صح: سارية في كل الأوقات، والنهار كمان.
+7f9cec96f0	True: it indicates a route reserved for pedestrians.	صح: معناها طريق مخصص للمشاة.
+c3b862e747	False: the path is reserved for pedestrians; vehicles may not use it.	غلط: الممر مخصص للمشاة؛ المركبات ماينفعش تدخله.
+9c354a0888	False: it is the opposite: it is reserved for pedestrians.	غلط: بالعكس: مخصص للمشاة.
+209b09812b	False: a pedestrian crossing has a square blue sign with zebra stripes.	غلط: عبور المشاة ليه علامة مربعة زرقا فيها خطوط زيبرا.
+d234616b03	False: it reserves the path for pedestrians; vehicles must not enter at all.	غلط: بتخصص الممر للمشاة؛ المركبات ماتدخلش خالص.
+71e9029873	False: a shared pedestrian and cycle path shows both a pedestrian and a bicycle.	غلط: الممر المشترك للمشاة والعجل بيبقى فيه شخص وعجلة.
+750b4e2731	True: the pedestrian sign with a red diagonal bar marks the end of the pedestrian path.	صح: علامة المشاة بالشرطة الحمرا المايلة بتحدد نهاية ممر المشاة.
+a9816633f9	True: it is placed where the pedestrian path ends.	صح: بتتحط في المكان اللي ممر المشاة بيخلص فيه.
+3db45a2e53	True: beyond it pedestrians no longer have a reserved path.	صح: بعدها المشاة مابقاش ليهم ممر مخصص.
+ffedd1314a	False: it ends a pedestrian path; a pedestrian ban uses a red-bordered sign.	غلط: بتنهي ممر مشاة؛ منع المشاة ليه علامة بإطار أحمر.
+fbb2fd4671	False: it does not forbid pedestrians from crossing; it ends their reserved path.	غلط: مش بتمنع المشاة يعدّوا؛ بتنهي ممرهم المخصص.
+584e0c3cc7	False: it ends a pedestrian path, not an area forbidden to pedestrians.	غلط: بتنهي ممر مشاة، مش منطقة ممنوعة على المشاة.
+f9b1133aa1	True: a cycle path is reserved for bicycles, so cars and motorcycles may not use it.	صح: ممر العجل مخصص للعجل، فالعربيات والموتوسيكلات ماتدخلوش.
+2479434648	True: it marks a lane reserved for bicycles.	صح: بتحدد حارة مخصصة للعجل.
+f7aef8dc96	True: it marks a route reserved for bicycles.	صح: بتحدد طريق مخصص للعجل.
+702c0d018e	True: the route may be used only by bicycles.	صح: الطريق ده للعجل بس.
+b83260f3ed	False: a cycle crossing has its own sign; this one marks a cycle path.	غلط: عبور العجل ليه علامة خاصة؛ دي بتحدد ممر عجل.
+34476ed4e5	False: it is the opposite: it is reserved for bicycles.	غلط: بالعكس: مخصص للعجل.
+f91e3925aa	False: a shared path shows both a pedestrian and a bicycle; this one is for bicycles only.	غلط: الممر المشترك فيه شخص وعجلة؛ ده للعجل بس.
+f1326ae8d2	False: mopeds may not use cycle paths.	غلط: الموتوبيكان ماينفعش يمشي في ممرات العجل.
+13573acc30	False: it is for bicycles only, not shared with pedestrians.	غلط: ده للعجل بس، مش مشترك مع المشاة.
+86912f01a9	False: it is reserved for bicycles, not forbidden to them.	غلط: مخصص للعجل، مش ممنوع عليه.
+9d7385395f	True: the bicycle sign with a red diagonal bar marks the end of the cycle path.	صح: علامة العجلة بالشرطة الحمرا المايلة بتحدد نهاية ممر العجل.

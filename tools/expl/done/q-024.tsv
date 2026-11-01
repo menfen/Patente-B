@@ -1,0 +1,100 @@
+58b656a9cc	False: yellow and black kerb stripes forbid parking for all vehicles, buses included; bus stops are marked by the yellow zig-zag line and BUS lettering.	غلط: الخطوط الصفرا والسودا على الرصيف بتمنع الركن لكل العربيات، والأتوبيس كمان؛ محطات الأتوبيس بيتعلّم عليها بالخط الأصفر الزجزاج وكلمة BUS.
+3e41664136	False: these kerb markings indicate a no-parking stretch; obstacles in the carriageway are marked with oblique black and yellow or white stripes on the obstacle itself.	غلط: العلامات دي على الرصيف بتبيّن منطقة ممنوع فيها الركن؛ العوائق اللي في نهر الطريق بيتعلّم عليها بخطوط مايلة على العائق نفسه.
+6b1e159ab6	False: the stripes are addressed to drivers and mean no parking; they are not a warning to pedestrians about the kerb step.	غلط: الخطوط دي للسواقين ومعناها ممنوع الركن؛ مش تحذير للمشاة من سلمة الرصيف.
+cf2a003558	False: yellow and black kerb stripes forbid only parking; a brief stop (fermata) is still allowed (CdS art. 157).	غلط: الخطوط الصفرا والسودا على الرصيف بتمنع الركن بس؛ الوقفة القصيرة (fermata) لسه مسموحة (CdS art. 157).
+528ee2514a	True: the yellow zig-zag line with the word BUS marks the stopping area for scheduled public service buses.	صح: الخط الأصفر الزجزاج مع كلمة BUS بيحدد مكان وقوف الأتوبيسات العامة اللي ليها خط سير.
+a22b6f70f0	True: it marks the space reserved for scheduled public buses and trolleybuses to stop.	صح: بيحدد المكان المخصوص لوقوف الأتوبيسات والتروللي باص العامة اللي ليها خط سير.
+b8574ca2e8	True: the zig-zag part gives buses room to pull in to the kerb and pull out again.	صح: الجزء الزجزاج بيدّي الأتوبيس مساحة يقرّب من الرصيف ويطلع تاني.
+7815b298c5	True: in a bus stop area parking is forbidden, but other vehicles may make a brief stop, provided they do not obstruct buses (CdS art. 158).	صح: في منطقة محطة الأتوبيس الركن ممنوع، بس العربيات التانية ممكن تقف وقفة قصيرة بشرط ماتعطلش الأتوبيسات (CdS art. 158).
+e0bfb38c95	True: the bus stop area is also used by articulated buses (autosnodati) in scheduled public service.	صح: منطقة محطة الأتوبيس بتستخدمها كمان الأتوبيسات المفصلية (autosnodati) العامة.
+aca66d8b71	False: the zig-zag area is reserved for public buses; taxi ranks are marked with the yellow word TAXI.	غلط: منطقة الزجزاج مخصوصة للأتوبيسات العامة؛ مواقف التاكسي بيتكتب عليها TAXI بالأصفر.
+49612c59ea	False: cars may drive across the marked area; what is forbidden there is parking.	غلط: العربيات تقدر تمشي على المنطقة دي عادي؛ الممنوع فيها هو الركن.
+2314b63f6a	False: the marking itself delimits the bus stop area where parking is forbidden; it does not create a ban 20 m before the zig-zag line.	غلط: الدهان نفسه بيحدد منطقة المحطة اللي الركن فيها ممنوع؛ مش بيعمل منع ركن 20 متر قبل الخط الزجزاج.
+efff581a18	False: lorries, like all vehicles, may drive through the area; only parking is forbidden.	غلط: عربيات النقل زي كل العربيات تقدر تعدّي من المنطقة؛ الممنوع الركن بس.
+f7fdbe5177	False: bus stop markings are yellow, not white.	غلط: دهانات محطة الأتوبيس لونها أصفر، مش أبيض.
+f48c9d933e	False: parking in the bus stop area is forbidden at all times, not only by day.	غلط: الركن في منطقة محطة الأتوبيس ممنوع طول الوقت، مش بالنهار بس.
+a9ec24db64	True: vehicle C is on the main road and the guide lines do not prevent it from going straight on.	صح: العربية C على الطريق الرئيسي وخطوط التوجيه مش بتمنعها تكمّل دغري.
+5d051d1db9	True: B can turn left following the guide lines, but must give way to vehicle A coming along the main road.	صح: العربية B تقدر تدخل شمال وهي ماشية مع خطوط التوجيه، بس لازم تدّي الأولوية للعربية A اللي جاية على الطريق الرئيسي.
+5d877c80cf	True: guide lines only show the correct path and do not forbid movements, so A may go in any direction.	صح: خطوط التوجيه بتوري المسار الصح بس ومش بتمنع حركات، فالعربية A تقدر تروح في أي اتجاه.
+e9e08dde47	False: broken guide lines do not oblige C to turn right; it may also go straight on.	غلط: خطوط التوجيه المتقطعة مش بتلزم C تدخل يمين؛ تقدر كمان تكمّل دغري.
+95f0b139fb	False: B is not forced to turn right; following the guide lines it may also turn left, giving way.	غلط: B مش مجبرة تدخل يمين؛ تقدر كمان تدخل شمال مع خطوط التوجيه وهي بتدّي الأولوية.
+38baea2422	False: guide lines do not oblige A to go straight; it may go in any direction.	غلط: خطوط التوجيه مش بتلزم A تكمّل دغري؛ تقدر تروح في أي اتجاه.
+a9d4d5619e	True: according to the arrows, each of the three lanes includes the straight-ahead direction.	صح: حسب الأسهم، كل حارة من التلاتة فيها اتجاه دغري.
+b2360806ce	True: the left lane has a combined arrow: straight on or left.	صح: الحارة الشمال فيها سهم مزدوج: دغري أو شمال.
+e641c90d76	True: the middle lane has only the straight arrow, so you may only go straight on.	صح: الحارة اللي في النص فيها سهم دغري بس، فمسموح تكمّل دغري بس.
+5c85196156	True: the right lane has a combined arrow: straight on or right.	صح: الحارة اليمين فيها سهم مزدوج: دغري أو يمين.
+838983d8b8	True: you may change lane while the lane lines are broken; between continuous lines it is forbidden.	صح: تقدر تغيّر الحارة طول ما الخطوط متقطعة؛ بين الخطوط المتصلة ممنوع.
+ef31211d21	True: the vehicle in the left lane can turn left without changing lane, since that lane allows left turns.	صح: العربية اللي في الحارة الشمال تقدر تدخل شمال من غير ما تغيّر الحارة، عشان الحارة دي بتسمح بالدخول شمال.
+04d809dc5b	False: the left lane allows both going straight and turning left.	غلط: الحارة الشمال بتسمح بالاتنين: دغري وشمال.
+aa9dbf6166	False: the arrows indicate directions, not vehicle speed; the right lane is for going straight or turning right.	غلط: الأسهم بتبيّن الاتجاهات مش سرعة العربيات؛ الحارة اليمين للي رايح دغري أو يمين.
+362da68e47	False: the right lane allows going straight as well as turning right.	غلط: الحارة اليمين بتسمح بدغري وكمان يمين.
+2b111b82b9	False: a continuous lane line must never be crossed, so you cannot change lane there.	غلط: خط الحارة المتصل ممنوع تعدّيه، فماتقدرش تغيّر الحارة هناك.
+1a6c522378	True: none of the arrows in lanes A, B and C points straight ahead, so no lane allows going straight.	صح: مفيش ولا سهم في الحارات A وB وC بيشاور دغري، فمفيش حارة بتسمح بالمشي دغري.
+188e315fae	True: lane A has only a left arrow, so from it you may only turn left.	صح: الحارة A فيها سهم شمال بس، فمنها مسموح تدخل شمال بس.
+292921ffc5	True: lane changes are allowed only where the lane lines are still broken.	صح: تغيير الحارة مسموح بس في الحتة اللي الخطوط فيها لسه متقطعة.
+22bc80fa28	False: the three lanes all run in the same direction towards the junction.	غلط: الحارات التلاتة ماشية كلها في نفس الاتجاه ناحية التقاطع.
+4c714ca00f	False: no lane allows going straight, so not all directions are possible.	غلط: مفيش حارة بتسمح بالمشي دغري، فمش كل الاتجاهات مسموحة.
+dd91409435	False: no lane in the figure allows going straight on, so lane B allows only turning.	غلط: مفيش حارة في الصورة بتسمح بالمشي دغري، فالحارة B بتسمح بالدوران بس.
+3a7c7fcbad	True: lane A has only the left arrow, so it allows only turning left.	صح: الحارة A فيها سهم الشمال بس، فبتسمح بالدخول شمال بس.
+13f52891f5	True: lane B has a combined arrow: straight on and left.	صح: الحارة B فيها سهم مزدوج: دغري وشمال.
+7c14a1bd4d	True: only lane C has an arrow pointing right, so it is the only lane for turning right.	صح: الحارة C بس اللي فيها سهم يمين، فهي الحارة الوحيدة للدخول يمين.
+a175090280	True: you may change lane as long as the lane lines are broken.	صح: تقدر تغيّر الحارة طول ما الخطوط متقطعة.
+286c6a7acd	False: lane A allows only left turns, so not all three lanes allow going straight.	غلط: الحارة A بتسمح بالشمال بس، فمش التلات حارات بيسمحوا بالمشي دغري.
+4d8e3199a5	False: lane B also allows turning left, so A is not the only one.	غلط: الحارة B كمان بتسمح بالدخول شمال، فـ A مش الوحيدة.
+54d7013b9e	False: lane B allows both going straight and turning left.	غلط: الحارة B بتسمح بدغري وكمان بالشمال.
+d4389b3607	False: lane C allows going straight as well as turning right.	غلط: الحارة C بتسمح بدغري وكمان بالدخول يمين.
+984d58b7e1	True: yellow and black kerb stripes forbid parking for every vehicle, taxis included.	صح: الخطوط الصفرا والسودا على الرصيف بتمنع الركن لكل العربيات، والتاكسي كمان.
+00f7712da4	True: this kerb painting means that no vehicle may park along it.	صح: الدهان ده على الرصيف معناه إن مفيش أي عربية تركن جنبه.
+3620dc8094	True: it means parking is forbidden along that stretch of road.	صح: معناه إن الركن ممنوع على الحتة دي من الطريق.
+ef7f7a4ca5	False: it forbids parking entirely; paid parking is shown by blue lines and signs.	غلط: بيمنع الركن خالص؛ الركن بفلوس بيتبيّن بخطوط زرقا وعلامات.
+7096a83ef0	False: it forbids parking; time-limited parking is indicated by signs with a panel and parking disc.	غلط: بيمنع الركن؛ الركن لوقت محدد بيتبيّن بعلامات مع لوحة وقرص الركن.
+a88f4c60fe	False: roadworks are signalled by the LAVORI sign and yellow temporary markings, not by painted kerbs.	غلط: الشغل في الطريق بيتبيّن بعلامة «lavori» ودهانات صفرا مؤقتة، مش بدهان الرصيف.
+3eee12db28	False: a priority road is shown by the yellow-white diamond sign; kerb stripes mean no parking.	غلط: الطريق اللي ليه أولوية بيتبيّن بعلامة المعيّن الأصفر والأبيض؛ خطوط الرصيف معناها ممنوع الركن.
+c8f3ba7712	True: the yellow word BUS painted on the road is a regular marking for bus stop areas.	صح: كلمة BUS المكتوبة بالأصفر على الأرض دهان رسمي لمناطق محطات الأتوبيس.
+b03f2028e4	True: the yellow word TAXI painted on the road marks areas reserved for taxis in service.	صح: كلمة TAXI المكتوبة بالأصفر على الأرض بتحدد الأماكن المخصوصة للتاكسي.
+a69234e91e	True: the word STOP painted on the road can complete the vertical STOP sign, before the stop line.	صح: كلمة STOP المكتوبة على الأرض ممكن تكمّل علامة STOP الرأسية، قبل خط الوقوف.
+d059e928c0	True: the letters P L with a St Andrew's cross painted on the road warn of a level crossing.	صح: الحروف P L مع صليب سانت أندريا المدهونين على الأرض بينبهوا لوجود مزلقان.
+fba9a7f0c0	True: transverse slowing stripes painted on the road warn you to reduce speed.	صح: الخطوط العرضية المدهونة على الأرض عشان تهدّي معناها لازم تقلل السرعة.
+56751e3059	True: the name of a place may be painted next to a direction arrow to show where that lane leads.	صح: اسم مكان ممكن يتكتب جنب سهم الاتجاه عشان يوضح الحارة دي رايحة فين.
+70244be251	False: the word STOP completes only the STOP sign; it is never used with the GIVE WAY sign, which may be completed by a row of white triangles.	غلط: كلمة STOP بتكمّل علامة STOP بس؛ عمرها ما بتتحط مع علامة يدّي الأولوية، اللي ممكن يكمّلها صف مثلثات بيضا.
+a95a115d84	False: road markings cannot announce service stations; these are indicated by vertical information signs.	غلط: الدهانات على الأرض ماينفعش تعلن عن محطات بنزين أو خدمة؛ دي ليها علامات إرشاد رأسية.
+42718978ee	False: advertising on the road surface is forbidden; only official markings are allowed.	غلط: الإعلانات على أرض الطريق ممنوعة؛ مسموح بالدهانات الرسمية بس.
+5adb7fd958	False: writings not provided for by the Code, such as encouragement for cyclists, are not regular road markings.	غلط: الكتابة اللي مش موجودة في القانون، زي تشجيع راكبي العجل، مش دهانات رسمية.
+bbe92f4f90	False: the word TAXI on the road is yellow, not white.	غلط: كلمة TAXI على الأرض بتتكتب بالأصفر، مش بالأبيض.
+5645d735fc	False: the word GIOCHI is not a regular road marking; children are warned of with the vertical CHILDREN warning sign.	غلط: كلمة GIOCHI مش دهان رسمي؛ التحذير من الأطفال بيبقى بعلامة تحذير رأسية للأطفال.
+d36edb8e14	True: on a one-way road the broken line separates lanes in the same direction, so you may cross it to overtake.	صح: في الشارع الاتجاه الواحد الخط المتقطع بيفصل حارات في نفس الاتجاه، فتقدر تعدّيه عشان تتخطى.
+cc0f166fa7	True: on one-way roads with at least two lanes overtaking is allowed even on bends, as there is no oncoming traffic (CdS art. 148).	صح: في الطرق الاتجاه الواحد اللي فيها حارتين على الأقل التخطي مسموح حتى في المنحنيات، عشان مفيش عربيات جاية من قدام (CdS art. 148).
+a47ba06372	True: the broken line divides the carriageway into two lanes.	صح: الخط المتقطع بيقسم نهر الطريق لحارتين.
+d2ffa77d80	True: normally you keep to the right lane and use the left lane for overtaking (CdS art. 143).	صح: عادة بتمشي في الحارة اليمين والحارة الشمال للتخطي (CdS art. 143).
+9ba0d42884	True: on a one-way road with two lanes you may overtake near or on humps, because nobody comes from the opposite direction (CdS art. 148).	صح: في شارع اتجاه واحد فيه حارتين تقدر تتخطى جنب أو على المطبات العالية، عشان مفيش حد جاي من الاتجاه العكسي (CdS art. 148).
+0996fd1d03	False: not always: parallel rows are allowed only in certain cases, such as dense traffic or built-up areas with marked lanes; otherwise keep right (CdS art. 144).	غلط: مش دايماً: المشي في صفوف جنب بعض مسموح في حالات معينة بس، زي الزحمة أو جوه المدن والحارات متعلّمة؛ غير كده خليك يمين (CdS art. 144).
+d9ca10716e	False: a U-turn on a one-way road would put you against the traffic flow, so it is forbidden.	غلط: الدوران للخلف في شارع اتجاه واحد هيخليك ماشي عكس المرور، فممنوع.
+89294104e0	False: you must drive within a lane, not astride the lane line (CdS art. 143).	غلط: لازم تمشي جوه الحارة، مش راكب على الخط (CdS art. 143).
+c2b8870bab	False: on a one-way road, to turn left you must move to the left lane, close to the left edge (CdS art. 154).	غلط: في الشارع الاتجاه الواحد، عشان تدخل شمال لازم تروح على الحارة الشمال، قريب من الطرف الشمال (CdS art. 154).
+bbc3a4fa42	True: the white zebra stripes indicate a pedestrian crossing both inside and outside built-up areas.	صح: الخطوط البيضا (الزيبرا) بتبيّن عبور مشاة جوه المدن وبرّاها.
+186966e9d3	True: pedestrian crossings can be found in any built-up area, including small ones.	صح: عبور المشاة ممكن تلاقيه في أي منطقة سكنية، حتى الصغيرة.
+c3fe552e42	True: this marking (zebra stripes) indicates a pedestrian crossing.	صح: الدهان ده (الزيبرا) بيبيّن عبور مشاة.
+792e2f245b	True: the white stripes parallel to the road axis mark a crossing for pedestrians.	صح: الخطوط البيضا الموازية لاتجاه الطريق بتحدد مكان عبور للمشاة.
+61adf8c1ce	True: at pedestrian crossings without traffic lights pedestrians crossing or about to cross have priority (CdS art. 191).	صح: في عبور المشاة اللي من غير إشارة، المشاة اللي بيعدّوا أو هيعدّوا ليهم الأولوية (CdS art. 191).
+dddd0cfd28	True: the marking can be completed by the vertical PEDESTRIAN CROSSING sign.	صح: الدهان ده ممكن يكمّله علامة عبور المشاة الرأسية.
+89dc5fadf7	True: drivers must stop to let pedestrians who are crossing pass (CdS art. 191).	صح: السواقين لازم يقفوا ويسيبوا المشاة اللي بيعدّوا يعدّوا (CdS art. 191).
+7381909a57	True: a yellow zig-zag line before the crossing forbids stopping and parking, keeping pedestrians visible.	صح: الخط الأصفر الزجزاج قبل العبور بيمنع الوقوف والركن، عشان المشاة يفضلوا باينين.
+b717272a91	True: on extra-urban secondary roads, where speeds are higher, the crossing must be preceded by the PEDESTRIAN CROSSING danger sign.	صح: على الطرق الفرعية بره المدن، اللي السرعة فيها أعلى، العبور لازم يسبقه علامة خطر عبور المشاة.
+d61311160b	True: drivers must stop and give way to pedestrians who are crossing or about to cross (CdS art. 191).	صح: السواقين لازم يقفوا ويدّوا الأولوية للمشاة اللي بيعدّوا أو هيعدّوا (CdS art. 191).
+2acafee548	False: a traffic island has oblique stripes inside a border; this marking is a pedestrian crossing.	غلط: الجزيرة المرورية فيها خطوط مايلة جوه إطار؛ الدهان ده عبور مشاة.
+d8464c4fc0	False: cyclist crossings are marked with two broken lines or white squares; this is a pedestrian crossing.	غلط: عبور العجل بيتعلّم بخطين متقطعين أو مربعات بيضا؛ ده عبور مشاة.
+b356108dc0	False: a cycle crossing has different markings; the zebra stripes are for pedestrians.	غلط: عبور العجل ليه دهان مختلف؛ خطوط الزيبرا للمشاة.
+0f5fb40857	False: a driveway (passo carrabile) is shown by a specific sign; this marking is a pedestrian crossing.	غلط: مدخل العربيات (passo carrabile) ليه علامة خاصة؛ الدهان ده عبور مشاة.
+961017f1ec	False: a refuge island is a raised or marked area; this is a pedestrian crossing.	غلط: جزيرة الأمان للمشاة حاجة مرفوعة أو منطقة متعلّمة؛ ده عبور مشاة.
+cb529896c1	False: vehicles may drive over a pedestrian crossing, but must give way to pedestrians.	غلط: العربيات تقدر تعدّي على عبور المشاة، بس لازم تدّي الأولوية للمشاة.
+0b4bf761ea	False: the crossing is for all pedestrians, not only disabled ones.	غلط: العبور ده لكل المشاة، مش للمعاقين بس.
+021b045b85	False: the marking is precisely where pedestrians are meant to cross.	غلط: الدهان ده هو بالظبط المكان اللي المشاة المفروض يعدّوا منه.
+a981f8a439	True: a transverse stop line can be used at junctions controlled by traffic lights, showing where to stop on red.	صح: خط الوقوف العرضي ممكن يتحط في تقاطعات فيها إشارات، عشان يوضح فين تقف لما تبقى حمرا.
+6963734464	True: the stop line can be completed by the word STOP painted on the road surface.	صح: خط الوقوف ممكن يكمّله كلمة STOP مكتوبة على الأرض.
+0e791e8257	True: the continuous transverse line marks where drivers must stop at a STOP sign.	صح: الخط العرضي المتصل بيحدد المكان اللي السواق لازم يقف فيه عند علامة STOP.
+4ee44fe2a9	True: at a red traffic light you must stop before the transverse stop line (CdS art. 41).	صح: لما الإشارة تبقى حمرا لازم تقف قبل خط الوقوف العرضي (CdS art. 41).
+067ab4232a	True: this continuous white line across the lane is a transverse stop line.	صح: الخط الأبيض المتصل ده اللي بالعرض على الحارة هو خط وقوف عرضي.
+70f7440c16	False: GIVE WAY is marked with a broken transverse line (often with white triangles), not with the continuous stop line.	غلط: يدّي الأولوية بيتعلّم بخط عرضي متقطع (وساعات مثلثات بيضا)، مش بخط الوقوف المتصل.
+07ed641bf6	False: a pedestrian crossing is marked with zebra stripes, not a single transverse line.	غلط: عبور المشاة بيتعلّم بخطوط الزيبرا، مش بخط عرضي واحد.
+a1dc6c31b4	False: a cycle crossing is marked with broken lines or squares; this is a stop line.	غلط: عبور العجل بيتعلّم بخطوط متقطعة أو مربعات؛ ده خط وقوف.
+f503dbb934	False: after stopping (or once the light turns green) you may cross the stop line and continue.	غلط: بعد ما تقف (أو لما الإشارة تبقى خضرا) تقدر تعدّي خط الوقوف وتكمّل.

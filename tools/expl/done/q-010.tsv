@@ -1,0 +1,100 @@
+12044de543	True: on a yellow background the narrowing sign is temporary and is placed where roadworks reduce the width of the carriageway.	صح: لو خلفيتها صفرا علامة التضييق بتبقى مؤقتة وبتتحط في المكان اللي أعمال الطرق بتقلل فيه عرض نهر الطريق.
+c3631c1956	False: the sign shown does not indicate the end of two-way traffic; the narrowing sign only warns that the carriageway becomes narrower.	غلط: العلامة اللي في الصورة مش بتقول إن الاتجاهين انتهوا؛ علامة التضييق بتنبهك بس إن نهر الطريق هيضيق.
+b1eea27586	False: the narrowing sign is only a warning; the obligation to give way to oncoming vehicles is imposed by a specific separate sign (CdS art. 150).	غلط: علامة التضييق تحذير بس؛ إلزامك إنك تدّي الأولوية للجاي عكسك ليه علامة مخصوصة لوحدها (CdS art. 150).
+467275ba70	False: a narrowing reduces the available space, so it certainly does not authorise driving in parallel rows.	غلط: التضييق بيقلل المساحة، فأكيد مش بيسمح بالمشي في صفوف متوازية.
+25dda2283d	False: the sign warns of a narrowing on the right, not an instruction to form two rows; you should slow down and keep in line.	غلط: العلامة بتنبهك لتضييق على اليمين، مش بتقولك تقف في صفين؛ لازم تهدّي وتلزم الصف.
+0f00e82232	False: the sign announces a narrowing on the right, not a road merging from the right, which has its own sign.	غلط: العلامة بتنبهك لتضييق على اليمين، مش لطريق داخل من اليمين، اللي ليه علامة لوحده.
+8d50cc1479	False: the sign announces a narrowing on the right; one-way roads are indicated by blue rectangular signs with a white arrow.	غلط: العلامة بتنبهك لتضييق على اليمين؛ الطرق الاتجاه الواحد بتتعلّم بعلامات زرقا مستطيلة عليها سهم أبيض.
+8ae0a87077	True: this warning sign announces a movable bridge, which may be raised or turned to let boats pass.	صح: علامة الخطر دي بتنبهك لكوبري متحرك، ممكن يترفع أو يلف عشان المراكب تعدّي.
+4dcbf41b29	True: the sign may have a supplementary panel showing the times when the movable bridge operates.	صح: العلامة ممكن يتحط معاها لوحة إضافية بتوضح مواعيد تشغيل الكوبري المتحرك.
+44705e2ec3	True: after the sign there may be a device with flashing red lights that comes on when the bridge is about to move.	صح: بعد العلامة ممكن يبقى فيه جهاز نور أحمر بيولّع ويطفي لما الكوبري يبقى هيتحرك.
+fbd40c1979	True: when the flashing red lights are on you must stop, because the bridge is opening or closing.	صح: لما النور الأحمر يولّع ويطفي لازم تقف، عشان الكوبري بيفتح أو بيقفل.
+c55c0286a4	True: like level crossing signs, the movable bridge sign may be completed by the countdown panel with three red bars.	صح: زي علامات المزلقان، علامة الكوبري المتحرك ممكن يتحط معاها لوحة المسافة اللي عليها 3 خطوط حمرا.
+b0ac53fea4	False: the sign announces a movable bridge, not a port area; a road ending on a quay has a different sign (car falling into water).	غلط: العلامة بتنبهك لكوبري متحرك، مش لمنطقة ميناء؛ الطريق اللي بيخلص على رصيف ميناء ليه علامة تانية (عربية بتقع في المية).
+d2960690b8	False: the sign is a warning; you must stop only if the red lights are on or the bridge is moving, not always.	غلط: العلامة تحذير؛ لازم تقف بس لو النور الأحمر شغال أو الكوبري بيتحرك، مش دايماً.
+6f1d6fa469	False: the sign announces a movable bridge, not a bridge with a steep gradient.	غلط: العلامة بتنبهك لكوبري متحرك، مش لكوبري ميله شديد.
+a96d3e29fc	False: the sign shown is a warning sign and does not by itself impose giving way to oncoming vehicles; that obligation has its own specific sign (CdS art. 150).	غلط: العلامة اللي في الصورة علامة خطر ومش بتفرض لوحدها إنك تدّي الأولوية للجاي عكسك؛ الإلزام ده ليه علامة مخصوصة (CdS art. 150).
+b26d1a651a	False: the movable bridge sign is a warning sign and does not prohibit overtaking.	غلط: علامة الكوبري المتحرك علامة خطر ومش بتمنع التخطي.
+7a30780b19	True: this sign (slippery road) announces a stretch that may become dangerous in particular weather conditions, specified on supplementary panels (rain, ice).	صح: العلامة دي (طريق بيزحلق) بتنبهك لجزء ممكن يبقى خطر في ظروف جوية معينة، مكتوبة على لوحات إضافية (مطر، تلج).
+87ca4c423f	True: the sign announces a road surface that may become particularly slippery.	صح: العلامة بتنبهك لسطح طريق ممكن يبقى بيزحلق جداً.
+65f439def9	True: the slippery road sign (A) with the rain panel (B) announces a surface that becomes particularly slippery when it rains.	صح: علامة الطريق اللي بيزحلق (A) مع لوحة المطر (B) بتنبهك لسطح بيزحلق جداً لما تمطر.
+ff9d732f3f	True: combined with the ice panel (snowflake), the sign announces a stretch where ice is likely in certain weather conditions.	صح: مع لوحة التلج (ندفة تلج)، العلامة بتنبهك لجزء ممكن يبقى عليه تلج في ظروف جوية معينة.
+39263e1b60	True: on a slippery road the grip of the tyres can decrease.	صح: على الطريق اللي بيزحلق تماسك الكاوتش ممكن يقل.
+221efa317c	True: with reduced grip you must drive at moderate speed and avoid sudden manoeuvres that could cause a skid (CdS art. 141).	صح: لما التماسك يقل لازم تسوق بسرعة هادية وتتجنب الحركات المفاجئة اللي ممكن تزحلقك (CdS art. 141).
+aa964cee0a	True: in rain on a slippery road, moderate speed and avoid sudden braking, which could lock the wheels.	صح: في المطر على طريق بيزحلق، هدّي سرعتك وتجنب الفرامل المفاجئة اللي ممكن تقفل العجل.
+a3180a4c63	True: on ice sudden acceleration makes the wheels spin and the vehicle skid, so moderate speed and accelerate gently.	صح: على التلج التسارع المفاجئ بيخلّي العجل يلف في مكانه والعربية تتزحلق، فهدّي سرعتك ودوس بنزين بالراحة.
+2b1dfaef37	True: in rain avoid sudden steering, which on a slippery surface can make the vehicle skid.	صح: في المطر تجنب اللف المفاجئ في الدركسيون، اللي على سطح بيزحلق ممكن يخلّي العربية تتزحلق.
+54ec531eea	True: on ice braking distances are much longer, so the safety distance must be increased (CdS art. 149).	صح: على التلج مسافات الفرامل بتطول جداً، فلازم تزوّد مسافة الأمان (CdS art. 149).
+9b125203ee	False: strong side wind has its own sign (windsock); this sign warns of a slippery road surface.	غلط: الهوا الجانبي الشديد ليه علامة لوحده (كم هوا)؛ العلامة دي بتنبهك لسطح طريق بيزحلق.
+3cc21a7e22	False: the sign warns that tyre grip may decrease, not increase.	غلط: العلامة بتنبهك إن تماسك الكاوتش ممكن يقل، مش يزيد.
+e6d7e649cb	False: on a slippery road braking distance increases, not decreases.	غلط: على الطريق اللي بيزحلق مسافة الفرامل بتزيد، مش بتقل.
+f9d9df19a1	False: with reduced grip you need longer to stop, so you must increase the safety distance (CdS art. 149).	غلط: لما التماسك يقل بتحتاج مسافة أطول عشان تقف، فلازم تزوّد مسافة الأمان (CdS art. 149).
+a10bf94aaa	False: the sign warns of a slippery road, not of a road with many bends.	غلط: العلامة بتنبهك لطريق بيزحلق، مش لطريق فيه منحنيات كتير.
+bc1292fe96	False: the sign warns road users of a slippery stretch of public road, not a tyre testing track.	غلط: العلامة بتنبه الناس لجزء من الطريق العام بيزحلق، مش حلبة لاختبار الكاوتش.
+061c229c1e	False: in rain braking distance increases because grip is lower.	غلط: في المطر مسافة الفرامل بتزيد عشان التماسك أقل.
+5151ddf9ee	False: in rain you must increase, not reduce, the distance from the vehicle in front (CdS art. 149).	غلط: في المطر لازم تزوّد المسافة بينك وبين العربية اللي قدامك، مش تقللها (CdS art. 149).
+de8da6cdf6	False: sudden acceleration on a wet slippery road can cause wheelspin and skids; accelerate gently.	غلط: التسارع المفاجئ على طريق مبلول بيزحلق ممكن يخلّي العجل يلف في مكانه وتتزحلق؛ دوس بنزين بالراحة.
+19ea2196f8	False: the slippery road sign does not prohibit overtaking; you may overtake where allowed, but with extra prudence.	غلط: علامة الطريق اللي بيزحلق مش بتمنع التخطي؛ تقدر تتخطى في الأماكن المسموحة، بس بحذر زيادة.
+309c50bd36	False: on ice sudden braking locks the wheels and causes skids; brake gently and keep a low speed.	غلط: على التلج الفرامل المفاجئة بتقفل العجل وبتزحلقك؛ افرمل بالراحة وخلّي سرعتك قليلة.
+89f3827cd1	False: it is a warning sign and prohibits nothing; it warns of a slippery road surface.	غلط: دي علامة خطر ومش بتمنع حاجة؛ بتنبهك لسطح طريق بيزحلق.
+5baa71e3bf	False: the sign does not impose snow chains; that obligation is shown by a round blue sign with a tyre and chains.	غلط: العلامة مش بتفرض الجنازير؛ الإلزام ده ليه علامة زرقا مدورة عليها كاوتش وجنازير.
+96e8b69116	True: the "children" sign may announce a nearby school attended by children.	صح: علامة "أطفال" ممكن تنبهك لمدرسة قريبة فيها عيال.
+4c9a761c11	True: the sign may be placed near playgrounds frequented by children.	صح: العلامة ممكن تتحط جنب ملاعب فيها عيال.
+243321b0af	True: the sign announces places frequented by children, such as schools, playgrounds and parks.	صح: العلامة بتنبهك لأماكن فيها عيال كتير، زي المدارس والملاعب والجناين.
+db782764ba	True: the sign may be placed near public gardens frequented by children.	صح: العلامة ممكن تتحط جنب جناين عامة فيها عيال.
+a3214bcbb7	True: the sign invites you to drive at moderate speed, as children may suddenly enter the road (CdS art. 141).	صح: العلامة بتطلب منك تسوق بسرعة هادية، عشان العيال ممكن ينزلوا الطريق فجأة (CdS art. 141).
+960741bf8d	True: the sign invites you to consider possible careless behaviour by children.	صح: العلامة بتطلب منك تحسب حساب تصرفات العيال اللي ممكن تبقى من غير حذر.
+e6d829075a	True: with this sign you must pay particular attention to the possible presence of children.	صح: مع العلامة دي لازم تاخد بالك مخصوص إن ممكن يبقى فيه عيال.
+4806fa55fd	True: children on the pavement may suddenly run into the road, so moderate speed and watch them too.	صح: العيال اللي على الرصيف ممكن يجروا فجأة في الطريق، فهدّي وخد بالك منهم كمان.
+4c9a17d057	True: children's movements are unpredictable, so you must pay particular attention.	صح: حركات العيال ماتتوقعش، فلازم تاخد بالك مخصوص.
+d8779b6077	True: overtaking a vehicle that has stopped to let children (pedestrians) cross is forbidden (CdS art. 148).	صح: ممنوع تتخطى عربية واقفة عشان تسيب العيال (المشاة) يعدّوا (CdS art. 148).
+82fbb4fcb5	False: it is a warning sign for drivers; it does not prohibit anything to children.	غلط: دي علامة خطر للسواقين؛ مش بتمنع حاجة على العيال.
+c3df722a63	False: the sign shown announces places frequented by children; a pedestrian crossing has its own warning sign (a pedestrian on stripes).	غلط: العلامة اللي في الصورة بتنبهك لأماكن فيها عيال؛ عبور المشاة ليه علامة خطر لوحده (ماشي على خطوط).
+d1ce239485	False: the sign is a warning of places frequented by children, not the end of an avenue reserved for them.	غلط: العلامة تحذير من أماكن فيها عيال، مش نهاية ممشى مخصص ليهم.
+e368d5ff0f	False: the sign warns of children, not of a pedestrian path, which is shown by a round blue sign.	غلط: العلامة بتنبهك للعيال، مش لممشى مشاة، اللي بيتعلّم بعلامة زرقا مدورة.
+57e59ffeba	False: it is a warning sign; it does not prohibit motor vehicles at school exit times.	غلط: دي علامة خطر؛ مش بتمنع العربيات في مواعيد خروج المدارس.
+d8db60e588	False: the sign announces places frequented by children, not a school bus stop.	غلط: العلامة بتنبهك لأماكن فيها عيال، مش لمحطة أتوبيس مدرسة.
+f3d7b9138a	False: this triangular warning sign is placed on the road; school buses carry their own specific rear sign.	غلط: علامة الخطر المثلثة دي بتتحط على الطريق؛ أتوبيسات المدارس ليها علامة خاصة بيها من ورا.
+49359baea4	False: you must also watch children on the pavement, as they may suddenly run into the road.	غلط: لازم تاخد بالك كمان من العيال اللي على الرصيف، عشان ممكن يجروا فجأة في الطريق.
+e23b662b0e	False: the sign does not prohibit passing at school exit times; it asks you to slow down and be careful.	غلط: العلامة مش بتمنع المرور في مواعيد خروج المدارس؛ بتطلب منك تهدّي وتاخد بالك.
+5e52485f95	False: the warning sign sets no 30 km/h limit; a speed limit requires a specific round sign. You must just adapt your speed (CdS art. 141).	غلط: علامة الخطر مش بتحدد 30 كم/س؛ حد السرعة محتاج علامة مدورة مخصوصة. لازم بس تظبط سرعتك (CdS art. 141).
+949c2925a3	True: this sign (a cow) announces a stretch where domestic animals are likely to cross.	صح: العلامة دي (بقرة) بتنبهك لجزء ممكن تعدّي فيه حيوانات أليفة.
+6eda04c454	True: if animals on the road show signs of fear, you must slow down or stop to avoid frightening them further (CdS art. 140).	صح: لو الحيوانات اللي على الطريق باين عليها الخوف، لازم تهدّي أو تقف عشان ماتخضهاش أكتر (CdS art. 140).
+63c48590eb	True: if animals on the road do not move away, you must slow down or stop.	صح: لو الحيوانات اللي على الطريق مابتتحركش، لازم تهدّي أو تقف.
+fa4e8408c9	True: the sign warns that stray domestic animals may be found on the road.	صح: العلامة بتنبهك إنك ممكن تلاقي حيوانات أليفة سايبة على الطريق.
+6c62a1a65a	True: the sign invites attention to the probable presence of domestic animals on the carriageway.	صح: العلامة بتطلب منك تاخد بالك إن ممكن يبقى فيه حيوانات أليفة على نهر الطريق.
+bd792866c7	False: repeated horn use could frighten the animals and cause dangerous reactions; slow down and stop if necessary.	غلط: الكلاكس الكتير ممكن يخضّ الحيوانات ويخلّيها تتصرف تصرف خطر؛ هدّي واقف لو لزم.
+cbedf07f6e	False: it is a warning sign; it does not prohibit motor vehicles or reserve the area for grazing.	غلط: دي علامة خطر؛ مش بتمنع العربيات ولا بتخصص المكان للرعي.
+b9e716a0a0	False: the sign warns of possible domestic animals on the road; it does not reserve the road for them.	غلط: العلامة بتنبهك إن ممكن يبقى فيه حيوانات أليفة على الطريق؛ مش بتخصص الطريق ليها.
+5eb2c454ad	False: the sign warns of animals crossing or straying, not of animal-drawn vehicles.	غلط: العلامة بتنبهك لحيوانات بتعدّي أو سايبة، مش لكارو بيجرها حيوانات.
+5cfa910ab9	False: the sign warns of domestic animals on the road, not of a farm.	غلط: العلامة بتنبهك لحيوانات أليفة على الطريق، مش لمزرعة.
+5ff746f377	True: this sign (a deer) announces the probable crossing of wild animals.	صح: العلامة دي (غزال) بتنبهك إن ممكن تعدّي حيوانات برية.
+30bfd84644	True: if wild animals show signs of fear, slow down and stop if necessary, as they may move unpredictably.	صح: لو الحيوانات البرية باين عليها الخوف، هدّي واقف لو لزم، عشان ممكن تتحرك من غير ما تتوقع.
+b5f0084ce9	True: wild animals may cross suddenly, so slow down and stop if necessary.	صح: الحيوانات البرية ممكن تعدّي فجأة، فهدّي واقف لو لزم.
+1ff82b2f6e	True: the sign warns that stray animals may suddenly appear on the carriageway.	صح: العلامة بتنبهك إن حيوانات سايبة ممكن تظهر فجأة على نهر الطريق.
+14a247b7f0	True: the sign announces the probable and sudden crossing of wild animals.	صح: العلامة بتنبهك إن حيوانات برية ممكن تعدّي فجأة.
+c21cad92f5	True: you must slow down to avoid collisions with wandering wild animals (CdS art. 141).	صح: لازم تهدّي عشان ماتخبطش حيوانات برية سايبة (CdS art. 141).
+257641999b	False: the sign warns of wild animals possibly crossing; it does not reserve an area for them.	غلط: العلامة بتنبهك إن ممكن تعدّي حيوانات برية؛ مش بتخصص منطقة ليها.
+8caebae7bd	False: you must keep to the right as usual and slow down; the sign does not require driving in the centre (CdS art. 143).	غلط: لازم تلزم اليمين زي العادة وتهدّي؛ العلامة مش بتطلب إنك تمشي في النص (CdS art. 143).
+92647fb544	False: it is a warning sign; it does not restrict access to four-wheel-drive vehicles.	غلط: دي علامة خطر؛ مش بتقصر المرور على العربيات الـ4x4.
+b6967fdab9	False: the sign warns of wild animals crossing, not the entrance to a safari zoo.	غلط: العلامة بتنبهك لحيوانات برية بتعدّي، مش لمدخل حديقة سفاري.
+916d828c23	False: the sign warns of wild animals crossing; it does not mark the entrance of a National Park.	غلط: العلامة بتنبهك لحيوانات برية بتعدّي؛ مش بتعلّم مدخل محمية طبيعية.
+c4eb68eb14	True: this sign (two opposite arrows) announces that a one-way carriageway becomes two-way.	صح: العلامة دي (سهمين عكس بعض) بتنبهك إن نهر الطريق الاتجاه الواحد هيبقى اتجاهين.
+18251f8433	True: the sign warns that a little further on you will meet vehicles travelling in the opposite direction.	صح: العلامة بتنبهك إن بعد شوية هتقابل عربيات ماشية عكسك.
+8534ab0e14	True: the two-way traffic sign announces the end of one-way traffic.	صح: علامة الاتجاهين بتنبهك إن الاتجاه الواحد خلص.
+784cde1ddf	True: with oncoming traffic ahead you must use greater prudence, especially when overtaking.	صح: لما يبقى قدامك عربيات جاية عكسك لازم تبقى أحذر، خصوصاً وانت بتتخطى.
+5b7fe7f1d2	True: on a yellow background the sign is temporary and used at roadworks, for example when one carriageway is closed and traffic is moved onto the other.	صح: لو خلفيتها صفرا العلامة بتبقى مؤقتة لأعمال الطرق، زي لما نهر يتقفل والمرور يتحوّل على النهر التاني.
+999a4dbc7c	True: with two-way traffic overtaking, where allowed, requires particular prudence because of oncoming vehicles (CdS art. 148).	صح: في الاتجاهين التخطي، لو مسموح، محتاج حذر خاص بسبب العربيات الجاية عكسك (CdS art. 148).
+9e64f9ba00	False: the sign announces that traffic in both directions will share the same carriageway, not separate carriageways.	غلط: العلامة بتنبهك إن الاتجاهين هيمشوا على نفس النهر، مش أنهار منفصلة.
+904d9da0d1	False: it is the opposite: the sign announces that the road becomes two-way.	غلط: العكس هو الصح: العلامة بتنبهك إن الطريق هيبقى اتجاهين.
+32ff8412cf	False: the two-way traffic sign is a warning; it does not impose giving way to oncoming vehicles (CdS art. 150).	غلط: علامة الاتجاهين تحذير؛ مش بتفرض إنك تدّي الأولوية للجاي عكسك (CdS art. 150).
+e13a46f484	False: the sign shown is not the priority sign for alternating one-way passages; those use the specific "give way to oncoming" and "priority over oncoming" signs (CdS art. 150).	غلط: العلامة اللي في الصورة مش علامة الأولوية في الممرات الاتجاه الواحد بالتناوب؛ دي ليها علامات "ادّي الأولوية للجاي" و"ليك الأولوية على الجاي" (CdS art. 150).
+b9511e66e6	False: the sign warns of two-way traffic ahead; it does not tell you to turn back.	غلط: العلامة بتنبهك لاتجاهين قدام؛ مش بتقولك ترجع.
+e33db28d77	False: the sign shown does not announce an alternating one-way passage, which is regulated by specific priority signs or traffic lights.	غلط: العلامة اللي في الصورة مش بتنبهك لممر اتجاه واحد بالتناوب، اللي بيتنظم بعلامات أولوية مخصوصة أو إشارات.
+a3e8110e95	False: it is a warning sign for two-way traffic, not an advance notice of a compulsory direction (blue round signs).	غلط: دي علامة خطر للاتجاهين، مش تنبيه مسبق باتجاه إجباري (علامات زرقا مدورة).
+d7bc239b56	True: this sign (a car falling into water) announces that the road ends on a port quay.	صح: العلامة دي (عربية بتقع في المية) بتنبهك إن الطريق بيخلص على رصيف ميناء.
+9b84109f2b	True: the sign announces that the road leads onto a pier, with the danger of falling into the water.	صح: العلامة بتنبهك إن الطريق بيوصل لرصيف بحري، وفيه خطر الوقوع في المية.
+cdfe095182	True: the sign may announce that the road ends on a river bank.	صح: العلامة ممكن تنبهك إن الطريق بيخلص على شط نهر.
+85a945dbaf	True: the sign may announce that the road ends on the bank of a canal.	صح: العلامة ممكن تنبهك إن الطريق بيخلص على شط ترعة.
+950bd6032c	True: especially at night, when the water edge is hard to see, you must be very careful not to fall into the water.	صح: خصوصاً بالليل، لما حافة المية تبقى صعب تتشاف، لازم تاخد بالك جداً عشان ماتقعش في المية.
+d632751e5c	True: the sign warns of the danger of falling into the water at a quay or river bank.	صح: العلامة بتنبهك لخطر الوقوع في المية عند رصيف أو شط نهر.

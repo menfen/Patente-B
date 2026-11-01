@@ -1,0 +1,100 @@
+61dca22907	True: the no motorcycles sign bans only motorcycles; motor tricycles and quadricycles are different vehicle categories and may pass.	صح: علامة ممنوع الموتوسيكلات بتمنع الموتوسيكلات بس؛ التريسيكل والكوادريسيكل بالموتور فئات تانية وتقدر تعدي.
+afe65b1bed	True: cars are not affected by the no motorcycles sign and may pass.	صح: العربيات الملاكي مش داخلة في علامة ممنوع الموتوسيكلات وتعدي عادي.
+0016c539dd	True: the ban covers all motorcycles, whatever their engine capacity.	صح: المنع بيشمل كل الموتوسيكلات مهما كانت سعة الموتور.
+50f6a3f2d6	False: this sign specifically forbids motorcycles from using the road.	غلط: العلامة دي بالتحديد بتمنع الموتوسيكلات من الطريق.
+80011e44a1	False: it bans only motorcycles; bicycles and mopeds, also two-wheelers, are not affected.	غلط: بتمنع الموتوسيكلات بس؛ العجل والموتوبيكان، مع إنهم بعجلتين، مش داخلين في المنع.
+1117fbdcc9	False: the ban applies to motorcycles of any engine size, not only over 125 cc.	غلط: المنع على الموتوسيكلات بأي سعة موتور، مش اللي فوق 125 سي سي بس.
+055b06a78f	False: a safety cell gives no exemption; all motorcycles are banned.	غلط: وجود كابينة أمان مش استثناء؛ كل الموتوسيكلات ممنوعة.
+e60dd19792	False: motor quadricycles are not motorcycles, so this sign does not ban them.	غلط: الكوادريسيكل بالموتور مش موتوسيكل، فالعلامة دي مش بتمنعه.
+3029e599a5	False: it is a prohibition, not an obligation to use a reserved lane; reserved lanes are shown by blue signs.	غلط: دي منع مش إلزام بحارة مخصصة؛ الحارات المخصصة ليها علامات زرقا.
+d978050df8	True: this sign forbids transit to hand-pushed carts (veicoli a braccia).	صح: العلامة دي بتمنع مرور العربيات اللي بتتزق بالإيد (veicoli a braccia).
+7473695bad	True: only handcarts are banned; bicycles may pass.	صح: عربيات الإيد بس هي الممنوعة؛ العجل يعدي.
+fa7231e333	True: mopeds are not handcarts, so they may pass.	صح: الموتوبيكان مش عربية إيد، فيعدي.
+b49d7f2a54	True: a car towing a small luggage trailer is not a handcart and may pass.	صح: العربية اللي بتجر مقطورة شنط صغيرة مش عربية إيد وتعدي.
+3d44f7d392	True: handcarts pushed or pulled by people are exactly what this sign prohibits.	صح: العربيات اللي الناس بتزقها أو تشدها بالإيد هي بالظبط اللي العلامة بتمنعها.
+94dd7bdb49	False: it is a prohibition for handcarts, not a road reserved for street vendors.	غلط: دي منع لعربيات الإيد، مش طريق مخصص للبياعين.
+74ef4852f6	False: it bans only handcarts, not motor vehicles, and has nothing to do with market hours.	غلط: بتمنع عربيات الإيد بس مش العربيات بالموتور، ومالهاش علاقة بمواعيد السوق.
+6946c96bf0	False: it applies only to handcarts and at all times, unless a panel says otherwise.	غلط: بتنطبق على عربيات الإيد بس وفي كل الأوقات، إلا لو فيه لوحة بتقول غير كده.
+74341c4df4	False: animal-drawn vehicles have their own sign with a horse; this one bans handcarts.	غلط: العربيات اللي بتجرها حيوانات ليها علامة فيها حصان؛ دي بتمنع عربيات الإيد.
+bf7ff7452c	False: a motorcycle pushed by hand is not a handcart, so this sign does not ban it.	غلط: الموتوسيكل اللي بيتزق بالإيد مش عربية إيد، فالعلامة دي مش بتمنعه.
+cbddc0f064	True: the no motor vehicles sign (car and motorcycle) forbids transit to all motor vehicles with three or more wheels.	صح: علامة ممنوع المركبات بالموتور بتمنع مرور كل المركبات بالموتور اللي ليها 3 عجلات أو أكتر.
+84f1d4cfa1	True: motor tricycles are included among the vehicles banned by this sign.	صح: التريسيكل بالموتور من المركبات اللي العلامة دي بتمنعها.
+21b683c736	True: this sign does not include motorcycles, which may pass.	صح: العلامة دي مش بتشمل الموتوسيكلات، فتعدي.
+5c51604bf2	True: two-wheeled mopeds are not banned by this sign.	صح: الموتوبيكان بعجلتين مش ممنوع بالعلامة دي.
+2832eb2250	True: motor quadricycles are banned along with other motor vehicles with more than two wheels.	صح: الكوادريسيكل بالموتور ممنوع زي باقي المركبات بالموتور اللي ليها أكتر من عجلتين.
+77c0d06076	True: vehicles without an engine, such as bicycles, may pass.	صح: المركبات اللي من غير موتور زي العجل تقدر تعدي.
+ef5559314a	False: motor quadricycles are banned by this sign.	غلط: الكوادريسيكل بالموتور ممنوع بالعلامة دي.
+29a66a4dae	False: the ban covers all motor vehicles, not just cars without a catalytic converter.	غلط: المنع على كل المركبات بالموتور، مش بس العربيات اللي من غير شكمان حفاز.
+48916dc4f0	False: taxis are motor vehicles and are banned unless a panel exempts them.	غلط: التاكسي مركبة بموتور وممنوع إلا لو فيه لوحة بتستثنيه.
+845ccb69d9	False: motor tricycles are among the vehicles banned by this sign.	غلط: التريسيكل بالموتور من المركبات اللي العلامة دي بتمنعها.
+34b426ca36	False: buses are motor vehicles and are banned too.	غلط: الأتوبيسات مركبات بموتور وممنوعة كمان.
+7764edfb8a	False: lorries are motor vehicles and are banned too.	غلط: عربيات النقل مركبات بموتور وممنوعة كمان.
+0712b5e646	True: this sign shows a bus and forbids buses from using the road.	صح: العلامة دي فيها أتوبيس وبتمنع الأتوبيسات من الطريق.
+cd3738447a	True: the ban concerns only buses; cars may pass.	صح: المنع للأتوبيسات بس؛ العربيات الملاكي تعدي.
+cbabe3f491	True: lorries are not buses, so they may pass.	صح: عربيات النقل مش أتوبيسات، فتعدي.
+a794fac4d3	True: motorcycles are not affected by the no buses sign.	صح: الموتوسيكلات مش داخلة في علامة ممنوع الأتوبيسات.
+8cb32392ec	True: motor caravans are not buses, so they may pass.	صح: الكرفانات مش أتوبيسات، فتعدي.
+ec4751a34e	True: the ban applies to all buses, whatever their mass, including those under 3.5 t.	صح: المنع على كل الأتوبيسات مهما كان وزنها، حتى اللي أقل من 3.5 طن.
+f941455edc	False: tourist buses are buses and are banned.	غلط: الأتوبيسات السياحية أتوبيسات وممنوعة.
+5492220244	False: it is a prohibition; bus lanes are shown by blue signs or road markings.	غلط: دي منع؛ حارات الأتوبيس ليها علامات زرقا أو خطوط على الأرض.
+e8675fe9fe	False: it does not announce a bus parking area; it bans buses.	غلط: مش بتنبه لمكان ركن أتوبيسات؛ بتمنع الأتوبيسات.
+c725a52a76	False: school buses are buses and are banned unless a panel exempts them.	غلط: أتوبيسات المدارس أتوبيسات وممنوعة إلا لو فيه لوحة بتستثنيها.
+f6248ba274	False: motor caravans are not buses, so they are not banned.	غلط: الكرفانات مش أتوبيسات، فمش ممنوعة.
+d8cb8c33e0	False: it is valid every day unless a panel limits it.	غلط: سارية كل يوم إلا لو فيه لوحة بتحددها.
+0e6b8c1cd6	True: the lorry sign without a number bans goods vehicles with a maximum laden mass over 3.5 t.	صح: علامة عربية النقل من غير رقم بتمنع عربيات النقل اللي أقصى وزنها بالحمولة أكتر من 3.5 طن.
+6e3610280e	True: buses carry people, not goods, so they may pass even over 3.5 t.	صح: الأتوبيسات بتشيل ناس مش بضاعة، فتعدي حتى لو فوق 3.5 طن.
+246854a2e5	True: motor caravans are not goods vehicles, so they may pass even over 3.5 t.	صح: الكرفانات مش عربيات نقل بضاعة، فتعدي حتى لو فوق 3.5 طن.
+340c9b402a	True: a supplementary panel may set a different mass limit from the standard 3.5 t.	صح: لوحة إضافية ممكن تحدد وزن مختلف عن الـ 3.5 طن العادية.
+feffe5e6bb	False: a 3 t lorry is below 3.5 t, so it may pass.	غلط: عربية نقل 3 طن أقل من 3.5 طن، فتعدي.
+d89aa0135e	False: the body type does not matter; only goods vehicles over 3.5 t are banned.	غلط: نوع الصندوق مايفرقش؛ الممنوع بس عربيات النقل فوق 3.5 طن.
+3432b55124	False: open-bed lorries over 3.5 t are banned too; the body type does not matter.	غلط: عربيات النقل المكشوفة فوق 3.5 طن ممنوعة برضه؛ نوع الصندوق مايفرقش.
+ae223fcb53	False: vehicles for carrying people are not banned; only goods vehicles over 3.5 t.	غلط: المركبات اللي بتشيل ناس مش ممنوعة؛ الممنوع عربيات نقل البضاعة فوق 3.5 طن بس.
+dd39b5bc5e	False: goods road trains over 3.5 t are exactly the vehicles this sign bans.	غلط: تريلات نقل البضاعة فوق 3.5 طن هي بالظبط اللي العلامة دي بتمنعها.
+3322603fdc	True: the sign with a lorry and a mass value bans goods vehicles over that mass; buses are not affected.	صح: العلامة اللي فيها عربية نقل ورقم وزن بتمنع عربيات النقل اللي أتقل من الرقم ده؛ الأتوبيسات مش داخلة.
+8348f8584b	True: with 6.5 t shown, goods vehicles with a laden mass over 6.5 t may not pass.	صح: لما مكتوب 6.5 طن، عربيات النقل اللي وزنها بالحمولة أكتر من 6.5 طن ماتعديش.
+39ac171425	True: goods vehicles with a mass equal to or below the value shown may pass.	صح: عربيات النقل اللي وزنها يساوي أو أقل من الرقم المكتوب تعدي.
+cafc55cd6b	True: the mass that counts is the maximum laden mass in the registration document; over 6.5 t the lorry is banned.	صح: الوزن اللي بيتحسب هو أقصى وزن بالحمولة المكتوب في الرخصة؛ فوق 6.5 طن العربية ممنوعة.
+e7186b5494	False: 7.5 t is more than 6.5 t, so that lorry is banned.	غلط: 7.5 طن أكتر من 6.5 طن، فالعربية دي ممنوعة.
+f4a05616c8	False: the ban concerns goods vehicles only, not vehicles carrying people.	غلط: المنع لعربيات نقل البضاعة بس، مش المركبات اللي بتشيل ناس.
+595f1c666c	False: special-use goods vehicles over 6.5 t are banned too.	غلط: عربيات النقل للاستخدام الخاص فوق 6.5 طن ممنوعة كمان.
+23ec5990ba	False: it does not announce a public weighbridge; it is a prohibition for heavy goods vehicles.	غلط: مش بتنبه لميزان عام؛ دي منع لعربيات النقل التقيلة.
+0e57ee1ed1	False: buses carry people, so they are not banned by this sign.	غلط: الأتوبيسات بتشيل ناس، فمش ممنوعة بالعلامة دي.
+617eee60bf	True: a supplementary panel may allow trailers up to the mass it indicates.	صح: لوحة إضافية ممكن تسمح بمقطورات لحد الوزن المكتوب عليها.
+b7df2afec0	True: a road train is a lorry with a trailer, so it is banned.	صح: التريلا عربية نقل بمقطورة، فممنوعة.
+d8a4e266f2	True: a small luggage trailer (carrello appendice) is not considered a trailer, so the vehicle may pass.	صح: مقطورة الشنط الصغيرة (carrello appendice) مش بتتحسب مقطورة، فالعربية تعدي.
+7a4e9525d7	True: the sign forbids motor vehicles towing a trailer.	صح: العلامة بتمنع المركبات بالموتور اللي بتجر مقطورة.
+0f93c13fa4	True: articulated buses are single vehicles, not vehicles towing trailers, so they may pass.	صح: الأتوبيس المفصلي مركبة واحدة مش بتجر مقطورة، فيعدي.
+5e0a168e5a	False: a caravan is a trailer, so a car towing it is banned.	غلط: الكرفان المقطور مقطورة، فالعربية اللي بتجره ممنوعة.
+e38baa933f	False: it applies to all motor vehicles towing trailers, not only goods vehicles.	غلط: بتنطبق على كل المركبات بالموتور اللي بتجر مقطورة، مش عربيات النقل بس.
+b93e3c834c	False: it does not indicate lorries slowing down; it bans vehicles towing trailers.	غلط: مش معناها عربيات نقل بتهدّي؛ بتمنع المركبات اللي بتجر مقطورة.
+86476e9abc	False: a minimum distance is shown by a different sign; this one bans vehicles towing trailers.	غلط: المسافة الدنيا ليها علامة تانية؛ دي بتمنع المركبات اللي بتجر مقطورة.
+1116d30069	False: a boat trailer is a trailer, so a car towing it is banned.	غلط: مقطورة المركب مقطورة، فالعربية اللي بتجرها ممنوعة.
+ecd1deb215	True: this sign forbids agricultural machines, including tractors.	صح: العلامة دي بتمنع الماكينات الزراعية، ومنها الجرارات.
+a32fe16647	True: snowploughs are not agricultural machines, so they may pass.	صح: كاسحات التلج مش ماكينات زراعية، فتعدي.
+4765bbc3e4	True: the ban is valid day and night unless a panel says otherwise.	صح: المنع ساري بالليل والنهار إلا لو فيه لوحة بتقول غير كده.
+96d1a1259a	True: operating machines for road maintenance are not agricultural machines and may pass.	صح: ماكينات صيانة الطرق مش ماكينات زراعية وتعدي.
+59144989cf	True: the ban applies to all agricultural machines, whether on wheels or tracks.	صح: المنع على كل الماكينات الزراعية، بعجل أو بجنزير.
+277d063498	True: motor quadricycles are not agricultural machines and may pass.	صح: الكوادريسيكل بالموتور مش ماكينة زراعية ويعدي.
+ef3407cae2	False: agricultural machines are exactly what this sign prohibits.	غلط: الماكينات الزراعية هي بالظبط اللي العلامة دي بتمنعها.
+0c36e007e4	False: agricultural machines are banned altogether, whatever they tow.	غلط: الماكينات الزراعية ممنوعة خالص، مهما كانت بتجر إيه.
+16e30254ae	False: road tractors for semi-trailers are not agricultural machines.	غلط: رؤوس التريلات مش ماكينات زراعية.
+ef2c9a05f9	False: it is not compulsory at private entrances; it is placed where agricultural machines must be kept off the road.	غلط: مش إجبارية عند المداخل الخاصة؛ بتتحط في الأماكن اللي لازم تمنع فيها الماكينات الزراعية.
+76dee2a802	False: it can be placed on any public road, not only on farm roads.	غلط: ممكن تتحط على أي طريق عام، مش طرق المزارع بس.
+b20f47c1d3	False: fairs give no exemption; agricultural machines are banned.	غلط: المعارض مش استثناء؛ الماكينات الزراعية ممنوعة.
+91b736630b	True: the sign with an orange panel bans vehicles carrying dangerous goods.	صح: العلامة اللي فيها لوحة برتقاني بتمنع العربيات اللي شايلة بضاعة خطرة.
+e2f79043df	True: petrol is a dangerous good, so tankers carrying it are banned.	صح: البنزين بضاعة خطرة، فالتانكات اللي شايلاه ممنوعة.
+be5ad957eb	False: slaughtered meat is not a dangerous good, so it is not covered by this ban.	غلط: اللحمة المدبوحة مش بضاعة خطرة، فمش داخلة في المنع ده.
+b4f14ec5fc	False: the fuel used by the vehicle itself, such as LPG, is not transport of dangerous goods.	غلط: الوقود اللي العربية نفسها بتمشي بيه، زي الغاز، مش نقل بضاعة خطرة.
+543ab6da5a	False: it bans dangerous goods, not a type of lorry body.	غلط: بتمنع البضاعة الخطرة، مش نوع صندوق عربية النقل.
+bc05325cef	False: perishable goods are not dangerous goods and are not banned.	غلط: البضاعة اللي بتبوظ مش بضاعة خطرة ومش ممنوعة.
+00119d733a	False: refrigerated vans are not banned; only vehicles carrying dangerous goods.	غلط: عربيات التلاجة مش ممنوعة؛ الممنوع بس اللي شايلة بضاعة خطرة.
+28299f4700	True: this sign bans vehicles carrying explosives or easily flammable products.	صح: العلامة دي بتمنع العربيات اللي شايلة متفجرات أو مواد سهلة الاشتعال.
+bee39624a5	True: the fuel in the vehicle's own tank is not considered transport of flammable goods.	صح: الوقود اللي في تانك العربية نفسها مش بيتحسب نقل مواد قابلة للاشتعال.
+9366d3c049	True: methane is the car's own fuel, not cargo, so methane-powered cars may pass.	صح: الغاز الطبيعي وقود العربية نفسها مش حمولة، فالعربيات اللي بتمشي بيه تعدي.
+c3307f9ac1	True: easily flammable products are covered by this ban, together with explosives.	صح: المواد سهلة الاشتعال داخلة في المنع ده، مع المتفجرات.
+a224b88396	False: vehicles carrying explosives may not pass at all, let alone overtake.	غلط: العربيات الشايلة متفجرات ماينفعش تعدي أصلًا، فما بالك تتخطى.
+36ff9e4115	False: it is a prohibition, not a warning; vehicles carrying explosives may not pass.	غلط: دي منع مش تحذير؛ العربيات الشايلة متفجرات ماتعديش.
+d43c3a7271	False: both explosives and easily flammable products are banned.	غلط: المتفجرات والمواد سهلة الاشتعال الاتنين ممنوعين.
+b70b2177cb	False: towing does not make a difference; vehicles carrying easily flammable products are banned.	غلط: السحب مايفرقش؛ العربيات الشايلة مواد سهلة الاشتعال ممنوعة.
+0c97ade55f	True: this sign bans vehicles carrying substances that can pollute water, typically near water sources.	صح: العلامة دي بتمنع العربيات اللي شايلة مواد ممكن تلوث المية، غالبًا قرب مصادر المية.
+c77962dfbb	True: vehicles whose load cannot contaminate water are not affected and may pass.	صح: العربيات اللي حمولتها مش بتلوث المية مش داخلة في المنع وتعدي.

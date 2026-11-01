@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PatenteB.App/PatenteB.App.csproj" />
+    <Project Path="src/PatenteB.Web/PatenteB.Web.csproj" />
+  </Folder>
+</Solution>

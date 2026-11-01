@@ -1,0 +1,9 @@
+{
+  "name": "Patente B",
+  "short_name": "Patente B",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B6E4F",
+  "theme_color": "#0B6E4F",
+  "icons": [{ "src": "img/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

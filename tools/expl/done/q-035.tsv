@@ -1,0 +1,100 @@
+65a4de3ba9	False: these delineators are placed at the edges of the carriageway, not in its centre, to show the road's limits and course.	غلط: العواكس دي بتتحط على حواف نهر الطريق، مش في النص، عشان تبين حدود الطريق وشكله.
+f5648f5cc4	False: delineators mark the edges and course of the road; lanes are divided by painted lane lines.	غلط: العواكس بتبين حواف الطريق وشكله؛ الحارات بتتقسم بخطوط مرسومة على الأرض.
+51626a3953	False: delineators indicate the edges of the carriageway, not a reserved parking area.	غلط: العواكس بتبين حواف نهر الطريق، مش مكان ركن محجوز.
+dea21dcce1	False: delineators are visible by day too; their reflectors make them especially useful at night and in poor visibility.	غلط: العواكس باينة بالنهار كمان؛ العاكس اللي فيها بيخليها مفيدة أكتر بالليل ولما الرؤية تكون قليلة.
+e60b538a96	True: with their reflectors, edge delineators are especially useful in poor visibility (night, fog) to show where the road edge is.	صح: بالعواكس اللي فيها، أعمدة الحواف مفيدة خصوصاً لما الرؤية تكون قليلة (ليل، شبورة) عشان تبين حرف الطريق فين.
+b726c87c44	True: the delineators shown are the type placed along both edges of a two-way road.	صح: العواكس اللي في الصورة النوع اللي بيتحط على الحافتين في طريق اتجاهين.
+fbc6395352	False: delineators are useful both day and night, though they are most helpful in darkness and poor visibility.	غلط: العواكس مفيدة بالليل والنهار، بس فايدتها أكبر في الضلمة والرؤية القليلة.
+f9d98324d2	False: delineators are placed at much shorter intervals than 100 m, and closer together on bends, so the course of the road is easy to follow.	غلط: العواكس بتتحط على مسافات أقصر بكتير من 100 متر، وأقرب لبعض في المنحنيات، عشان تقدر تتابع شكل الطريق بسهولة.
+4c342e8f24	False: this type is used on two-way roads; one-way roads use a different type of delineator.	غلط: النوع ده بيستعمل في الطرق اللي اتجاهين؛ الطرق اللي اتجاه واحد ليها نوع تاني من العواكس.
+fcdfa76239	True: this delineator is placed along the sides of one-way tunnels to show the edges of the carriageway.	صح: العاكس ده بيتحط على جوانب الأنفاق اللي اتجاه واحد عشان يبين حواف نهر الطريق.
+f592ebf78b	True: it is a complementary sign used in one-way tunnels.	صح: ده علامة تكميلية بتستعمل في الأنفاق اللي اتجاه واحد.
+a0b9b8a0c0	True: this delineator can also be used to highlight diversions or narrowings of the carriageway.	صح: العاكس ده ممكن يستعمل كمان عشان يبين التحويلات أو تضييق نهر الطريق.
+8f00607878	True: delineators belong to the complementary signs that help drivers see the road layout.	صح: العواكس من العلامات التكميلية اللي بتساعد السواق يشوف شكل الطريق.
+33574bb853	False: the delineator marks the edges of one-way tunnels or narrowings, not a one-way intersection.	غلط: العاكس بيبين حواف الأنفاق اللي اتجاه واحد أو التضييقات، مش تقاطع اتجاه واحد.
+2729f6b56c	False: the delineator shows the edges of the carriageway, not a closed or dead-end road.	غلط: العاكس بيبين حواف نهر الطريق، مش طريق مقفول أو مسدود.
+d944ee43cc	False: this delineator is placed at the sides of the carriageway; obstacles in the middle are marked by a different obstacle marker.	غلط: العاكس ده بيتحط على جوانب نهر الطريق؛ العوائق اللي في النص ليها علامة عائق تانية.
+a7d62df169	False: delineators mark edges, not lanes; lanes are separated by painted lines.	غلط: العواكس بتبين الحواف، مش الحارات؛ الحارات بتتفصل بخطوط مرسومة.
+adf4ede099	False: it is a tunnel delineator; level crossing distance panels have red diagonal bars.	غلط: ده عاكس أنفاق؛ لوحات المسافة قبل المزلقان عليها شرط حمرا مايلة.
+ff37f1c100	False: delineators do not have their own light; they are reflective and shine when lit by headlights.	غلط: العواكس ملهاش نور خاص بيها؛ هي عاكسة وبتلمع لما نور العربيات ييجي عليها.
+7bf6d92e2a	True: snow poles are placed at the sides of mountain roads subject to snowfall, to show the road edges when covered with snow.	صح: أعمدة التلج بتتحط على جوانب الطرق الجبلية اللي بينزل عليها تلج، عشان تبين حواف الطريق لما التلج يغطيه.
+959c4fb31a	True: these tall delineators are used along the sides of mountain roads.	صح: العواكس الطويلة دي بتستعمل على جوانب الطرق الجبلية.
+209b837a3b	True: their height keeps them visible above the snow, showing where the edges of the carriageway are.	صح: طولها بيخليها باينة فوق التلج، فبتبين حواف نهر الطريق فين.
+04f8a69133	False: snow poles mark the edges of snowy mountain roads, not bus stops.	غلط: أعمدة التلج بتبين حواف الطرق الجبلية اللي عليها تلج، مش مواقف أوتوبيس.
+c562bb6170	False: snow poles are placed at the sides of the carriageway, not in the centre.	غلط: أعمدة التلج بتتحط على جوانب نهر الطريق، مش في النص.
+d284fd4055	False: snow poles mark road edges on snowy mountain roads, not pedestrian crossings.	غلط: أعمدة التلج بتبين حواف الطرق الجبلية اللي عليها تلج، مش عبور المشاة.
+e209a8d5de	False: snow poles are road edge markers, not posts for parking bicycles.	غلط: أعمدة التلج علامات لحواف الطريق، مش عواميد تربط فيها العجل.
+22a3ca1b86	False: these poles are specific to mountain roads subject to snow, where they show the edges under snow; their use does not depend on the absence of guardrails.	غلط: العواميد دي خاصة بالطرق الجبلية اللي بينزل عليها تلج، عشان تبين الحواف تحت التلج؛ استعمالها مش مرتبط بإن مفيش حواجز جانبية.
+6c4003945b	False: the pole marks the road edge in snow; parking bans are shown by the round no-parking sign.	غلط: العمود بيبين حرف الطريق في التلج؛ منع الركن بيتبين بعلامة ممنوع الركن المدورة.
+3e331f366d	True: chevron boards are placed on sharp bends and where visibility is poor, to show the direction of the bend.	صح: لوحات الأسهم (chevron) بتتحط في المنحنيات الحادة والأماكن اللي الرؤية فيها قليلة، عشان تبين اتجاه المنحنى.
+26c47b1c1b	True: the chevrons pointing left are normally placed on the bend itself, after the DANGEROUS LEFT BEND warning sign.	صح: الأسهم اللي ناحية الشمال بتتحط عادةً على المنحنى نفسه، بعد علامة خطر "منحنى خطر على الشمال".
+c147408232	True: when the chevron board is red and white, it marks a temporary bend (e.g. for road works), here to the left.	صح: لما لوحة الأسهم تكون أحمر وأبيض، بتبين منحنى مؤقت (زي عند أعمال الطرق)، هنا على الشمال.
+dd6f808edd	True: the chevron board is used to highlight a dangerous bend.	صح: لوحة الأسهم بتستعمل عشان تبين منحنى خطر.
+b8c5a55747	True: the chevrons warn the driver to take the bend carefully and at a suitable speed.	صح: الأسهم بتنبه السواق ياخد المنحنى بحذر وبسرعة مناسبة.
+0be0f7936e	False: the chevron board marks a dangerous bend, not road works (which have the triangular worker sign).	غلط: لوحة الأسهم بتبين منحنى خطر، مش أعمال طرق (اللي ليها العلامة المثلثة بالعامل).
+77d8ed36d9	False: chevrons mark a bend, not uphill and downhill stretches, which have gradient warning signs.	غلط: الأسهم بتبين منحنى، مش طلعات ونزلات، اللي ليها علامات الميل.
+4674fdde46	False: chevrons show the direction of a dangerous bend, not protruding obstacles.	غلط: الأسهم بتبين اتجاه منحنى خطر، مش عوائق طالعة على الطريق.
+eec67a8a4b	False: the chevrons point to the left, so the board marks a dangerous left bend, not a right one.	غلط: الأسهم ناحية الشمال، فاللوحة بتبين منحنى خطر على الشمال، مش اليمين.
+abe6412108	False: chevrons mark a bend; approaching level crossings are marked by panels with red diagonal bars.	غلط: الأسهم بتبين منحنى؛ قرب المزلقان بيتبين بلوحات عليها شرط حمرا مايلة.
+3078a48873	False: chevron boards are used on any type of road with dangerous bends, not only main extra-urban roads.	غلط: لوحات الأسهم بتستعمل على أي نوع طريق فيه منحنيات خطرة، مش الطرق بره المدن الرئيسية بس.
+8df454ee20	True: the board with chevrons pointing both ways, placed at the end of the road, shows that you must turn right or left.	صح: اللوحة اللي عليها أسهم للناحيتين، واللي متحطوطة في آخر الطريق، بتبين إنك لازم تلف يمين أو شمال.
+02cbd404e8	True: the arrowheads on the board point to the directions in which you can go.	صح: رؤوس الأسهم اللي على اللوحة بتشاور على الاتجاهات اللي تقدر تروحها.
+01073602d5	True: this marker is installed at T-junctions, opposite the road you arrive from.	صح: العلامة دي بتتحط عند التقاطعات اللي على شكل T، قصاد الطريق اللي جاي منه.
+9481198167	True: it is placed where you cannot continue straight on, so you must turn.	صح: بتتحط في المكان اللي متقدرش تكمل فيه على طول، فلازم تلف.
+01b3240278	False: the board marks a T-junction where you must turn, not a level crossing.	غلط: اللوحة بتبين تقاطع T لازم تلف فيه، مش مزلقان.
+29bb6c64f3	False: the board marks a T-junction, not a swing bridge, which has its own triangular warning sign.	غلط: اللوحة بتبين تقاطع T، مش كوبري متحرك، اللي ليه علامة خطر مثلثة خاصة.
+4e31b42350	False: the board shows you must turn at a T-junction; a road closed for works uses barriers and road works signs.	غلط: اللوحة بتبين إنك لازم تلف عند تقاطع T؛ الطريق المقفول عشان شغل بيبقى بحواجز وعلامات أعمال طرق.
+94dc0a997d	False: the board marks a T-junction; an increase in lanes has its own lane diagram sign.	غلط: اللوحة بتبين تقاطع T؛ زيادة الحارات ليها علامة رسمة حارات خاصة.
+f810911eb5	False: the marker indicates a T-junction with two possible directions, not a one-way bend.	غلط: العلامة بتبين تقاطع T فيه اتجاهين ممكنين، مش منحنى اتجاه واحد.
+eea9f013f1	False: the board marks a T-junction, not a tunnel entrance.	غلط: اللوحة بتبين تقاطع T، مش مدخل نفق.
+e9ab6cdf78	True: single chevron elements are placed in series along a dangerous bend to show its course.	صح: لوحات السهم الواحد بتتحط ورا بعض على طول المنحنى الخطر عشان تبين شكله.
+3d8da8534d	True: modular chevrons are used to make bends more visible, especially at night.	صح: لوحات الأسهم دي بتستعمل عشان تخلي المنحنيات باينة أكتر، خصوصاً بالليل.
+43a35b87fa	True: the chevron points right, indicating a dangerous right-hand bend.	صح: السهم ناحية اليمين، يعني منحنى خطر على اليمين.
+9188efb634	False: the chevron points to the right, so it indicates a dangerous right bend, not a left one.	غلط: السهم ناحية اليمين، فهو بيبين منحنى خطر على اليمين، مش الشمال.
+f8eb9cb8e8	False: chevrons are placed on the bend itself; it is the triangular warning sign that is placed about 150 m before the bend outside built-up areas.	غلط: الأسهم بتتحط على المنحنى نفسه؛ علامة الخطر المثلثة هي اللي بتتحط حوالي 150 متر قبل المنحنى بره المدن.
+61c9fc9911	False: chevrons mark dangerous bends, not tunnel entrances.	غلط: الأسهم بتبين المنحنيات الخطرة، مش مداخل الأنفاق.
+be7a9c649c	False: chevrons mark bends; broken level crossing barriers are replaced by red and white striped barriers.	غلط: الأسهم بتبين المنحنيات؛ بوابات المزلقان البايظة بيتحط مكانها حواجز مخططة أحمر وأبيض.
+4a631d0624	False: chevrons are used on dangerous bends of any road, whether one-way or two-way.	غلط: الأسهم بتستعمل على المنحنيات الخطرة في أي طريق، سواء اتجاه واحد أو اتجاهين.
+5b742543ec	True: the yellow triangular sign with a traffic light warns of temporary traffic lights at road works.	صح: العلامة المثلثة الصفرا اللي عليها إشارة بتحذر من إشارات مؤقتة عند أعمال الطرق.
+67fc686c21	True: the sign can be used on both urban and extra-urban roads.	صح: العلامة ممكن تتحط على طرق جوه المدن وبره المدن.
+0636968331	True: it can be placed before a narrowing for road works where temporary lights regulate alternating traffic.	صح: ممكن تتحط قبل تضييق بسبب أعمال طرق فيه إشارات مؤقتة بتنظم المرور بالتبادل.
+756e752a84	True: on this sign the central disc is a flashing yellow light, to attract drivers' attention.	صح: في العلامة دي الدايرة اللي في النص لمبة صفرا بتنور وتطفي، عشان تلفت نظر السواقين.
+4090ba9576	False: the sign warns of temporary traffic lights at road works, not lights for movable bridges.	غلط: العلامة بتحذر من إشارات مؤقتة عند أعمال الطرق، مش إشارات الكباري المتحركة.
+9f39180410	False: the sign warns of traffic lights; a STOP is announced by the "give way" triangle with a distance panel and "STOP".	غلط: العلامة بتحذر من إشارات؛ الـ STOP بيتعلن عنه بمثلث "ادّي الأولوية" مع لوحة مسافة ومكتوب "STOP".
+b248d3ea7a	False: the sign warns of traffic lights, not access to a ferry pier.	غلط: العلامة بتحذر من إشارات، مش مدخل رصيف المعدية.
+8a87884145	False: an unguarded level crossing is warned by the triangle with a steam train; this sign announces traffic lights.	غلط: المزلقان اللي من غير بوابات بيتحذر منه بالمثلث اللي عليه قطر؛ العلامة دي بتعلن عن إشارات.
+a5a92b040a	True: this marker is used to signal an obstacle on the carriageway, with an arrow showing the side to pass.	صح: العلامة دي بتستعمل عشان تبين عائق على نهر الطريق، وفيها سهم بيبين تعدّي من أنهي ناحية.
+81219f7188	True: it is placed within the carriageway, on the obstacle itself.	صح: بتتحط جوه نهر الطريق، على العائق نفسه.
+1a628ef6d8	True: the marker is reflective, so it is clearly visible at night in headlights.	صح: العلامة عاكسة، فبتبان كويس بالليل في نور العربيات.
+6ba687b84d	True: it can mark the beginning of a traffic island, telling drivers which side to pass.	صح: ممكن تبين بداية جزيرة مرور، وتقول للسواقين يعدّوا من أنهي ناحية.
+a6b3377899	False: the obstacle marker has no light of its own; it is reflective.	غلط: علامة العائق ملهاش نور خاص بيها؛ هي عاكسة.
+04073a3c1d	False: this marker is placed within the carriageway at an obstacle or island, not at the roadside.	غلط: العلامة دي بتتحط جوه نهر الطريق عند عائق أو جزيرة، مش على جنب الطريق.
+a5cb6aaa19	False: the marker signals an obstacle or traffic island, not a separation from a cycle path.	غلط: العلامة بتبين عائق أو جزيرة مرور، مش فاصل عن حارة العجل.
+53b6b8709f	False: it marks an obstacle in the carriageway, not a lane reserved for buses or taxis.	غلط: بتبين عائق في نهر الطريق، مش حارة مخصصة للأوتوبيس أو التاكسي.
+3446f8f9f8	False: the marker is inside the carriageway, where the obstacle is.	غلط: العلامة جوه نهر الطريق، مكان العائق.
+3733a6bef6	True: under a warning sign, the distance panel shows how far ahead the danger begins.	صح: تحت علامة الخطر، لوحة المسافة بتبين الخطر بيبتدي بعد قد إيه.
+5c661a9e86	True: supplementary panels are placed under signs to complete or specify their meaning.	صح: اللوحات الإضافية بتتحط تحت العلامات عشان تكمّل أو توضح معناها.
+8071c6460a	True: under an information sign, the panel shows the remaining distance to the place indicated.	صح: تحت علامة معلومات، اللوحة بتبين المسافة الباقية للمكان المكتوب.
+0bffc02a70	True: under a mandatory or prohibition sign, the panel shows the distance at which the rule begins to apply.	صح: تحت علامة إلزام أو منع، اللوحة بتبين القاعدة هتبتدي بعد قد إيه.
+c143f015bf	False: the panel shows the distance ahead to the point indicated by the sign, not the metres already travelled.	غلط: اللوحة بتبين المسافة اللي قدامك للنقطة اللي العلامة بتتكلم عنها، مش الأمتار اللي مشيتها.
+02a1841b83	False: the panel shows a distance; gradients are shown as a percentage on the steep hill warning sign.	غلط: اللوحة بتبين مسافة؛ الميل بيتكتب نسبة مئوية على علامة الطلعة أو النزلة.
+e418dcb4b9	False: the distance panel shows how far ahead the sign's subject begins, not the safety distance from the vehicle in front.	غلط: لوحة المسافة بتبين موضوع العلامة بيبتدي بعد قد إيه، مش مسافة الأمان من العربية اللي قدامك.
+5aeea780d5	False: the panel shows a distance along the road, not the road's width.	غلط: اللوحة بتبين مسافة على الطريق، مش عرض الطريق.
+44023406ec	False: this distance panel shows the distance to the start of the danger; the length of the dangerous stretch is shown by a different "extent" panel with arrows.	غلط: لوحة المسافة دي بتبين المسافة لحد بداية الخطر؛ طول الجزء الخطر بيتبين بلوحة "امتداد" تانية فيها أسهم.
+db33feaf75	True: the extent panel under a warning sign shows the length of the dangerous stretch.	صح: لوحة الامتداد تحت علامة الخطر بتبين طول الجزء الخطر.
+8a43b5b0a3	True: under a mandatory sign, the extent panel shows the length of road over which the obligation applies.	صح: تحت علامة إلزام، لوحة الامتداد بتبين طول الطريق اللي الإلزام ساري فيه.
+816b8a2f67	True: the extent panel can also be used under a prohibition sign, to show how long the ban lasts.	صح: لوحة الامتداد ممكن تتحط كمان تحت علامة منع، عشان تبين المنع ممتد لحد فين.
+2ae614579a	True: in figure B the panel shows, in kilometres, the length of the dangerous stretch.	صح: في الصورة B اللوحة بتبين بالكيلومتر طول الجزء الخطر.
+5de8f2144a	True: combined with the series of bends sign, the panel indicates the length of the stretch with dangerous bends.	صح: مع علامة المنحنيات ورا بعض، اللوحة بتبين طول الجزء اللي فيه منحنيات خطرة.
+ce1588b43f	False: the panel shows that the sign applies for 380 m; it is not an order to go straight on.	غلط: اللوحة بتبين إن العلامة سارية لمسافة 380 متر؛ مش أمر إنك تمشي على طول.
+05770121cd	False: the panel shows the length of the stretch concerned, not the safety distance in rain.	غلط: اللوحة بتبين طول الجزء اللي العلامة سارية فيه، مش مسافة الأمان في المطر.
+78130cbc29	False: this extent panel shows the length of the stretch concerned; the distance to the start of the danger is shown by a distance panel.	غلط: لوحة الامتداد دي بتبين طول الجزء المعني؛ المسافة لحد بداية الخطر بتتبين بلوحة المسافة.
+74967515dc	False: the panel under the uneven road sign shows the length of the bad stretch (380 m), not the distance to its start.	غلط: اللوحة اللي تحت علامة الطريق المش مستوي بتبين طول الجزء الوحش (380 متر)، مش المسافة لحد بدايته.
+9fd35adeef	False: the panel shows the length of the stretch concerned, not the height of a viaduct.	غلط: اللوحة بتبين طول الجزء المعني، مش ارتفاع كوبري.
+f437978898	True: with the time panel, the no-parking ban applies only from 7:30 to 19:00.	صح: مع لوحة المواعيد، منع الركن ساري من 7:30 لحد 19:00 بس.
+8dd3058bd8	True: with the time panel, the no-transit ban applies only from 7:30 to 19:00.	صح: مع لوحة المواعيد، منع المرور ساري من 7:30 لحد 19:00 بس.
+95a17c96ff	True: the time panel limits the pedestrian ban to the hours shown; outside them pedestrians may pass.	صح: لوحة المواعيد بتخلي منع المشاة في الساعات المكتوبة بس؛ وبرّاها المشاة يقدروا يعدّوا.
+8c0fb8f0f9	True: the time panel shows the hours of every day during which the sign is valid.	صح: لوحة المواعيد بتبين الساعات اللي العلامة سارية فيها كل يوم.
+7ee818b554	False: the time panel limits a ban to those hours; it does not grant motorcycles passage only then.	غلط: لوحة المواعيد بتحدد ساعات المنع؛ مش بتسمح للموتوسيكلات تعدّي في الساعات دي بس.
+78ef83f019	False: the sign with the panel concerns a ban during those hours, not permission to use the horn.	غلط: العلامة مع اللوحة خاصة بمنع في الساعات دي، مش سماح باستعمال الكلاكس.
+368b115e4a	False: the times show when the prohibition applies, not the opening hours of a limited traffic zone.	غلط: المواعيد بتبين المنع ساري إمتى، مش ساعات فتح منطقة مرور محدود.

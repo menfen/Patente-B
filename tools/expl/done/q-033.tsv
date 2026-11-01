@@ -1,0 +1,100 @@
+639cb355a3	True: the lane sign shows the right lane, separated by a yellow line, reserved for urban public transport buses; other vehicles must not use it.	صح: علامة الحارات بتبين إن الحارة اليمين، اللي مفصولة بخط أصفر، مخصصة لأوتوبيسات النقل العام في المدينة؛ والعربيات التانية متمشيش فيها.
+bdf3ef4faf	True: apart from the reserved right lane, the lanes on the left are for the normal traffic of all vehicles.	صح: غير الحارة اليمين المخصصة، الحارات اللي على الشمال للمرور العادي لكل العربيات.
+6172628f84	False: the right lane shown is reserved for public transport buses; taxis may use it only if additional signs expressly allow them.	غلط: الحارة اليمين اللي في العلامة مخصصة لأوتوبيسات النقل العام؛ التاكسي يمشي فيها بس لو فيه لوحة إضافية بتسمح له صراحة.
+51a3944a29	False: the reserved right lane is for buses, not a cycle lane; cycle lanes are shown with the bicycle symbol.	غلط: الحارة اليمين المخصصة للأوتوبيسات، مش حارة عجل؛ حارات العجل بتتبين برمز العجلة.
+039ee7cfb6	False: reserved lanes for urban public buses are found in built-up areas, not on motorways.	غلط: الحارات المخصصة لأوتوبيسات المدينة بتكون جوه المناطق السكنية، مش على الأوتوستراد.
+0afb14cd4f	False: the sign only reserves the right lane for buses; it does not authorise overtaking on the right, which is generally forbidden (CdS art. 148).	غلط: العلامة بتخصص الحارة اليمين للأوتوبيسات بس؛ مش بتسمح بالتخطي من اليمين، اللي ممنوع عموماً (CdS art. 148).
+9742e344d6	True: this sign announces a change in the number of lanes available in your direction.	صح: العلامة دي بتعلن إن عدد الحارات المتاحة في اتجاهك هيتغير.
+6ed40019a1	True: the sign shows one lane becoming two, as an extra lane opens.	صح: العلامة بتبين إن الحارة الواحدة هتبقى اتنين، لأن فيه حارة زيادة بتفتح.
+1dec4e8e24	True: an additional panel can show the distance to the point where the lane increase begins.	صح: ممكن تكون معاها لوحة إضافية بتبين المسافة لحد النقطة اللي الحارة الزيادة بتبتدي فيها.
+bf3ecf5cf2	True: lane change signs like this are used on extra-urban roads.	صح: علامات تغيير عدد الحارات دي بتتحط على الطرق بره المدن.
+4087eccc80	False: the sign shows an extra lane opening, not an overpass for U-turns.	غلط: العلامة بتبين حارة زيادة بتفتح، مش كوبري للرجوع.
+5bb6ef8179	False: the sign is informative about an extra lane; a compulsory right turn is shown by a round blue sign with an arrow.	غلط: العلامة بتعرّفك بحارة زيادة؛ اللف يمين الإجباري بيتبين بعلامة مدورة زرقا عليها سهم.
+2b62137a51	False: the sign shows an increase in lanes, not the option to pass an obstacle on either side, which has a round blue sign with two arrows.	غلط: العلامة بتبين زيادة في الحارات، مش إنك تعدّي عائق من الناحيتين، اللي ليه علامة مدورة زرقا بسهمين.
+9dbd3befcc	False: an extra lane does not authorise overtaking on the right; overtaking must normally be on the left (CdS art. 148).	غلط: الحارة الزيادة مش معناها إنك تتخطى من اليمين؛ التخطي لازم يكون من الشمال عادةً (CdS art. 148).
+47de7f8678	False: the sign shows an increase in lanes; lane selection areas are shown by signs with arrows for each destination.	غلط: العلامة بتبين زيادة في الحارات؛ مناطق اختيار الحارة بتتبين بعلامات عليها أسهم لكل اتجاه.
+3cb6132f06	True: this sign warns that the number of available lanes in your direction is decreasing.	صح: العلامة دي بتحذرك إن عدد الحارات المتاحة في اتجاهك هيقل.
+deb2c3e800	True: the sign shows three lanes reducing to two, so traffic in the lane that ends must merge.	صح: العلامة بتبين 3 حارات هيبقوا اتنين، فالعربيات اللي في الحارة اللي بتخلص لازم تدخل في الباقي.
+a6ad49248a	True: with fewer lanes the carriageway narrows, so it is advisable to slow down and merge carefully.	صح: لما الحارات تقل نهر الطريق بيضيق، فالأحسن تهدي وتدخل في الحارة بحذر.
+57060fd0fe	True: an additional panel can show the distance to the point where the lane reduction occurs.	صح: ممكن تكون معاها لوحة إضافية بتبين المسافة لحد النقطة اللي الحارات بتقل فيها.
+c0ff68ee4a	True: lane reduction signs are used on motorways, with a green background.	صح: علامات تقليل الحارات بتتحط على الأوتوستراد بخلفية خضرا.
+f7b6e17553	False: the sign shows a reduction in lanes, not a compulsory left turn.	غلط: العلامة بتبين تقليل في الحارات، مش لف شمال إجباري.
+f6a8000478	False: the sign shows a reduction in the number of lanes, not an overpass for U-turns.	غلط: العلامة بتبين تقليل في عدد الحارات، مش كوبري للرجوع.
+0755f924c9	False: the sign indicates fewer lanes ahead; it does not create an obligation to give way to vehicles joining the motorway, who instead must give way to traffic already on it.	غلط: العلامة بتبين إن الحارات هتقل؛ مش بتلزمك تدّي أولوية للي داخلين الأوتوستراد، بالعكس هما اللي لازم يدّوا أولوية للي ماشيين فيه.
+eb1ab46f61	True: this direction sign advises the vehicles shown on the panel (road trains and articulated lorries) to follow the indicated route.	صح: علامة الاتجاه دي بتنصح العربيات اللي على اللوحة (المقطورات والعربيات المفصلية) إنها تمشي في الطريق المبين.
+af88aafa47	True: the sign announces a recommended diversion for road trains and articulated lorries passing through.	صح: العلامة بتعلن عن تحويلة منصوح بيها للمقطورات والعربيات المفصلية اللي معدّية.
+a921f6de1f	True: the arrow advises the vehicle categories shown to turn right.	صح: السهم بينصح أنواع العربيات اللي في الرسمة إنها تلف يمين.
+5b0047aa8e	True: it is a direction (indication) sign giving advice, not a mandatory sign; mandatory signs are round and blue.	صح: دي علامة اتجاه بتدي نصيحة، مش علامة إلزام؛ علامات الإلزام بتبقى مدورة وزرقا.
+d46c3bff9e	True: the recommended route usually lets heavy vehicles bypass the built-up area.	صح: الطريق المنصوح بيه غالباً بيخلي العربيات التقيلة تلف حوالين المنطقة السكنية من غير ما تدخلها.
+7b7573dcfc	False: the sign advises those heavy vehicles to turn right; it does not forbid it.	غلط: العلامة بتنصح العربيات التقيلة دي إنها تلف يمين؛ مش بتمنعها.
+cc8b191499	False: the sign shows a recommended direction, not permission to overtake on the right.	غلط: العلامة بتبين اتجاه منصوح بيه، مش سماح بالتخطي من اليمين.
+ef7321b162	False: the recommended route usually takes heavy vehicles away from the town centre, not towards it.	غلط: الطريق المنصوح بيه عادةً بيبعد العربيات التقيلة عن وسط البلد، مش بيوديها له.
+2b68e79424	False: the sign is a recommendation, not an obligation to turn right immediately.	غلط: العلامة نصيحة، مش إلزام إنك تلف يمين على طول.
+cbfd6f0aaf	False: the vehicles shown are advised, not obliged, to follow the indicated direction.	غلط: العربيات اللي في الرسمة منصوحة، مش مجبرة، إنها تمشي في الاتجاه المبين.
+b4868dfdb0	False: the sign indicates a recommended route for heavy vehicles, not a lane change to pass an obstacle.	غلط: العلامة بتبين طريق منصوح بيه للعربيات التقيلة، مش تغيير حارة عشان تعدّي عائق.
+ef87921fbe	True: this sign marks a stop for extra-urban public transport buses.	صح: العلامة دي بتبين موقف لأوتوبيسات النقل العام بره المدن.
+6db193b7a4	True: the bus stop sign can be combined with a panel showing the departure times of the buses.	صح: علامة موقف الأوتوبيس ممكن يكون معاها لوحة بمواعيد قيام الأوتوبيسات.
+6192cab955	True: the sign indicates where passengers wait for the extra-urban public bus.	صح: العلامة بتبين المكان اللي الركاب بيستنوا فيه أوتوبيس النقل العام بره المدن.
+1bb7eafc2e	False: the sign indicates a bus stop; a ban on buses is a round prohibition sign with a red border.	غلط: العلامة بتبين موقف أوتوبيس؛ منع الأوتوبيسات بيبقى بعلامة منع مدورة بإطار أحمر.
+b9306bd0ed	False: the sign indicates a bus stop, not a reserved bus lane.	غلط: العلامة بتبين موقف أوتوبيس، مش حارة مخصصة للأوتوبيسات.
+eb470e1d56	False: the sign marks a bus stop where buses stop to pick up passengers, not a parking area for buses and trolleybuses.	غلط: العلامة بتبين موقف أوتوبيس بيقف فيه عشان ياخد ركاب، مش مكان ركن للأوتوبيسات والتروللي.
+95f7eb4193	False: the sign marks a bus stop, not a road reserved for buses.	غلط: العلامة بتبين موقف أوتوبيس، مش طريق مخصص للأوتوبيسات.
+cc1d70fd23	True: this park-and-ride sign indicates a car park with a bus stop nearby, where you can leave the car and continue by bus.	صح: علامة "اركن واركب" دي بتبين جراج جنبه موقف أوتوبيس، تقدر تسيب العربية وتكمل بالأوتوبيس.
+1e6d8286e1	True: the park-and-ride car park is located near a public bus stop.	صح: جراج "اركن واركب" بيكون جنب موقف أوتوبيس نقل عام.
+e06e308e5c	True: the numbers on the sign are the bus lines (8 and 45) you can take after parking.	صح: الأرقام اللي على العلامة هي خطوط الأوتوبيس (8 و45) اللي تقدر تركبها بعد ما تركن.
+a1a259fe8b	True: 8 and 45 are the numbers of the public bus lines that stop nearby.	صح: 8 و45 دول أرقام خطوط الأوتوبيس العام اللي بتقف جنب المكان.
+ac5ac98a46	True: the sign indicates the possibility of parking your car and continuing by bus.	صح: العلامة بتبين إنك تقدر تركن عربيتك وتكمل بالأوتوبيس.
+e30b3bd1d6	False: the sign indicates a car park connected with bus lines, not a stopping bay for buses.	غلط: العلامة بتبين جراج مرتبط بخطوط أوتوبيس، مش مكان وقوف للأوتوبيسات.
+d73f8f151a	False: the sign concerns park-and-ride with buses, not an emergency department.	غلط: العلامة خاصة بـ"اركن واركب" مع الأوتوبيسات، مش قسم طوارئ.
+e69314d80a	False: 8 and 45 are bus line numbers, not the maximum number of buses that may park.	غلط: 8 و45 أرقام خطوط أوتوبيس، مش أقصى عدد أوتوبيسات تركن.
+c801aaf81c	False: the numbers are bus line numbers, not the minutes a bus stays at the stop.	غلط: الأرقام دي أرقام خطوط الأوتوبيس، مش عدد الدقايق اللي الأوتوبيس بيقفها.
+d9dd2e5569	False: 8 and 45 are bus line numbers, not a time from which parking is allowed.	غلط: 8 و45 أرقام خطوط أوتوبيس، مش ساعة يبتدي منها الركن.
+ad554f333a	True: the car-on-train sign is found near a railway station offering transport of cars by train.	صح: علامة العربية على القطر بتكون جنب محطة سكة حديد بتنقل العربيات بالقطر.
+c33cc9f35d	True: the sign indicates a large railway station where travellers can have their car carried on the train with them.	صح: العلامة بتبين محطة قطر كبيرة المسافر يقدر يشحن عربيته معاه على القطر.
+f06d4179f8	True: the sign is placed near the access point where cars are loaded onto the train.	صح: العلامة بتتحط جنب المدخل اللي العربيات بتتحمّل منه على القطر.
+52dcba5b8c	False: the sign concerns the transport of cars by train, not a hotel with supervised parking.	غلط: العلامة خاصة بنقل العربيات بالقطر، مش فندق فيه جراج بحراسة.
+b138d1bf4a	False: the sign only indicates the car-loading service; it does not say you may stay in the car during transport.	غلط: العلامة بتبين خدمة تحميل العربيات بس؛ مش بتقول إنك تقدر تفضل في العربية وهي متشحنة.
+6b3b8e77bd	False: the sign indicates cars carried by train, not coverage for satellite anti-theft devices.	غلط: العلامة بتبين نقل العربيات بالقطر، مش تغطية لأجهزة الإنذار بالقمر الصناعي.
+c620cb7163	False: the sign indicates the loading of cars onto trains, not a parking area for motor caravans.	غلط: العلامة بتبين تحميل العربيات على القطر، مش مكان ركن للكرافانات.
+5fec1bd916	True: this sign marks an area equipped to empty the waste tanks of vehicles with on-board sanitary facilities, such as motor caravans.	صح: العلامة دي بتبين مكان مجهز لتفريغ خزانات الصرف للعربيات اللي فيها حمام، زي الكرافانات.
+a1bb3c65cb	True: the sign indicates sanitary facilities for collecting the wastewater of motor caravans.	صح: العلامة بتبين منشآت لتجميع مية الصرف بتاعة الكرافانات.
+8d35d4396d	True: the facility serves all vehicles fitted with sanitary installations, not only motor caravans.	صح: المكان ده بيخدم كل العربيات اللي فيها حمامات، مش الكرافانات بس.
+386124cb13	True: these facilities allow vehicles with sanitary services to discharge organic waste and clean and dirty water.	صح: المنشآت دي بتخلي العربيات اللي فيها حمامات تفرّغ المخلفات العضوية والمية النضيفة والوسخة.
+a3a703c703	False: the sign is for emptying vehicles' sanitary tanks, not public toilets for travellers.	غلط: العلامة لتفريغ خزانات حمامات العربيات، مش حمامات عمومية للمسافرين.
+84af02fd03	False: the sign indicates a waste-disposal facility, not a road reserved for motor caravans.	غلط: العلامة بتبين مكان تفريغ صرف، مش طريق مخصص للكرافانات.
+43568241df	False: the sign indicates a waste-disposal facility, not a weighing station.	غلط: العلامة بتبين مكان تفريغ صرف، مش ميزان للعربيات.
+a93eae537d	False: this is a service sign for caravan waste disposal, not a warning about potholes, which would be a triangular danger sign.	غلط: دي علامة خدمة لتفريغ صرف الكرافانات، مش تحذير من حفر، اللي بيكون بعلامة خطر مثلثة.
+8c33acc15b	False: the sign is a service indication for waste disposal; a dangerous dip is warned by a triangular danger sign.	غلط: العلامة دي علامة خدمة لتفريغ الصرف؛ المطب أو الهبوط الخطر بيتحذر منه بعلامة خطر مثلثة.
+3087c80dfa	True: the service sign with a spanner indicates a vehicle repair workshop.	صح: علامة الخدمة اللي عليها مفتاح ربط بتبين ورشة تصليح عربيات.
+af10043675	True: the sign indicates that a vehicle repair workshop is nearby.	صح: العلامة بتبين إن فيه ورشة تصليح عربيات قريبة.
+56c47b22a4	True: the sign indicates a vehicle repair workshop in the vicinity.	صح: العلامة بتبين ورشة تصليح عربيات في المنطقة.
+2e0c1a74b8	True: the sign shows that a mechanic's workshop can be found a short distance away.	صح: العلامة بتبين إنك هتلاقي ورشة ميكانيكي على مسافة قريبة.
+cc8cdf1301	False: the sign indicates a repair workshop, not workers leaving a factory.	غلط: العلامة بتبين ورشة تصليح، مش عمال خارجين من مصنع.
+b57c545d1b	False: the sign indicates a repair workshop; fuel stations have the fuel pump symbol.	غلط: العلامة بتبين ورشة تصليح؛ محطات البنزين ليها رمز طلمبة البنزين.
+3defa556aa	False: the sign indicates a repair workshop, not a parking area.	غلط: العلامة بتبين ورشة تصليح، مش مكان ركن.
+9a17aaf4d5	False: the sign is a service sign for a workshop; road works with workers are warned by a triangular danger sign.	غلط: العلامة دي علامة خدمة لورشة؛ أعمال الطرق والعمال بيتحذر منهم بعلامة خطر مثلثة.
+0985651f1a	True: the blue sign with the circle of EU stars and the country name marks the state border with a European Union country.	صح: العلامة الزرقا اللي عليها دايرة نجوم الاتحاد الأوروبي واسم الدولة بتبين حدود الدولة مع دولة من الاتحاد الأوروبي.
+105f2c4feb	True: this sign is placed exactly at the state border with an EU country.	صح: العلامة دي بتتحط بالظبط على حدود الدولة مع دولة من الاتحاد الأوروبي.
+fabac65a4b	True: the sign marks the border between Italy and another EU member state.	صح: العلامة بتبين الحدود بين إيطاليا ودولة تانية عضو في الاتحاد الأوروبي.
+637e02c416	True: the sign only marks the border; it does not oblige you to stop, since there are normally no systematic border checks within the EU.	صح: العلامة بتبين الحدود بس؛ مش بتلزمك توقف، لأن جوه الاتحاد الأوروبي عادةً مفيش تفتيش حدود منتظم.
+6b30a2f297	False: the sign marks an EU border, not a police checkpoint.	غلط: العلامة بتبين حدود مع دولة أوروبية، مش كمين بوليس.
+533bb33748	False: this is a road sign at the border, not the nationality plate placed on the rear of a vehicle.	غلط: دي علامة طريق على الحدود، مش لوحة الجنسية اللي بتتحط ورا العربية.
+7a503695e4	False: it is a border road sign, not a vehicle plate, and it does not restrict where a vehicle may circulate.	غلط: دي علامة طريق عند الحدود، مش لوحة عربية، ومش بتحدد العربية تمشي فين.
+b90673f298	False: the EU border sign does not oblige drivers to stop; a stop would be required only by a specific sign or officer.	غلط: علامة حدود الاتحاد الأوروبي مش بتلزمك توقف؛ الوقوف بيكون إجباري بس بعلامة مخصوصة أو بأمر عسكري.
+2695c421c0	False: the sign does not announce a compulsory customs stop; it simply marks the EU border.	غلط: العلامة مش بتعلن عن وقوف إجباري للجمارك؛ هي بتبين حدود الاتحاد الأوروبي بس.
+1e12d892b6	True: this sign gives advance notice of the state border with an EU country (here France), at the distance shown.	صح: العلامة دي بتنبهك مسبقاً لحدود الدولة مع دولة من الاتحاد الأوروبي (هنا فرنسا)، على المسافة المكتوبة.
+3f57311631	True: the sign is placed on roads leading to the border with an EU country.	صح: العلامة بتتحط على الطرق اللي رايحة لحدود دولة من الاتحاد الأوروبي.
+1ab03586ff	True: the sign shows the distance (here 1 km) to the border with an EU country.	صح: العلامة بتبين المسافة (هنا 1 كم) لحدود دولة من الاتحاد الأوروبي.
+fe763513a0	True: the sign only informs of the approaching border; it does not oblige you to stop for customs checks.	صح: العلامة بتعرّفك بس إن الحدود قربت؛ مش بتلزمك توقف للجمارك.
+b2e99142f8	False: the sign announces the state border ahead, not a police checkpoint.	غلط: العلامة بتعلن إن حدود الدولة قدامك، مش كمين بوليس.
+a3de7255b3	False: this is a roadside sign announcing the border, not a nationality plate on the back of a vehicle.	غلط: دي علامة على جنب الطريق بتعلن عن الحدود، مش لوحة جنسية ورا العربية.
+dd22081235	False: it is a roadside sign announcing the border, not a plate showing that the vehicle belongs to an EU citizen.	غلط: دي علامة على الطريق بتعلن عن الحدود، مش لوحة بتقول إن العربية بتاعة مواطن أوروبي.
+b078599f52	False: the sign announces the border ahead but does not impose any obligation to stop there.	غلط: العلامة بتعلن إن الحدود قدامك بس مش بتلزمك توقف عندها.
+ddec3ef755	False: the sign is informative only and does not require a customs stop when entering another European country.	غلط: العلامة للمعلومة بس ومش بتلزمك توقف للجمارك وانت داخل دولة أوروبية تانية.
+bb34f8b339	True: the yellow background shows a temporary sign, used near road works sites.	صح: الخلفية الصفرا معناها إن العلامة مؤقتة، وبتتحط جنب مواقع أعمال الطرق.
+ccaecab498	True: the sign announces the compulsory direction to be followed by road trains and articulated lorries, as shown on the panel.	صح: العلامة بتعلن عن الاتجاه الإجباري اللي لازم تمشي فيه المقطورات والعربيات المفصلية، زي ما في اللوحة.
+ac0216db4e	True: as a temporary yellow sign, it stays in place only for the duration of the road works.	صح: لأنها علامة مؤقتة صفرا، بتفضل موجودة طول مدة أعمال الطرق بس.
+89fcb36149	False: the sign gives a compulsory direction for heavy vehicles because of road works, not the way to a refuelling and rest area.	غلط: العلامة بتدي اتجاه إجباري للعربيات التقيلة بسبب أعمال الطرق، مش الطريق لمكان بنزين واستراحة.
+16eb934a0e	False: the obligation applies only to the vehicles shown (road trains and articulated lorries), not to all vehicles.	غلط: الإلزام على العربيات اللي في الرسمة بس (المقطورات والعربيات المفصلية)، مش على كل العربيات.
+4d64d0b9b8	False: this temporary sign indicates a compulsory direction for the vehicles shown, not a mere recommendation.	غلط: العلامة المؤقتة دي بتبين اتجاه إجباري للعربيات اللي في الرسمة، مش مجرد نصيحة.
+4711d61d9a	False: the sign concerns only the vehicles shown and imposes the direction; it is not advice to all vehicles.	غلط: العلامة خاصة بالعربيات اللي في الرسمة بس وبتفرض الاتجاه؛ مش نصيحة لكل العربيات.

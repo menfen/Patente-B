@@ -1,0 +1,100 @@
+dddcf5907e	True: the hairpin bend panel is placed at a tight bend (tornante), so it shows that a sharp bend is right there; slow down and keep to the right.	صح: لوحة الكوع بتتحط عند منحنى ضيق جداً (tornante)، فهي بتبين إن فيه منحنى حاد هنا؛ هدّي وخليك على اليمين.
+76e1735349	True: the number on the panel is the sequential number of the hairpin bend in a series of dangerous bends.	صح: الرقم اللي على اللوحة هو رقم الكوع بالترتيب وسط سلسلة منحنيات خطرة.
+7bc3dacae4	True: a panel with number 1 marks the first of a series of hairpin bends, i.e. bends with a very small radius.	صح: اللوحة اللي عليها رقم 1 بتبين أول كوع في سلسلة أكواع، يعني منحنيات نص قطرها صغير جداً.
+b3d5f0263d	True: in a series of hairpin bends, each panel shows the progressive number of that bend.	صح: في سلسلة الأكواع، كل لوحة بتبين رقم الكوع ده بالترتيب.
+d284d75432	False: the panel numbers hairpin bends; a roundabout is indicated by the round blue sign with three arrows in a circle.	غلط: اللوحة بترقّم الأكواع؛ الدوران بيتبين بالعلامة المدورة الزرقا اللي فيها 3 أسهم في دايرة.
+5395b9c444	False: the number is the bend's sequence number, not a distance; the panel is placed at the hairpin itself.	غلط: الرقم ده ترتيب الكوع، مش مسافة؛ واللوحة بتتحط عند الكوع نفسه.
+25934cf78a	False: the panel shows the sequence number of the hairpin bend, not the kilometres to a place where you can turn back.	غلط: اللوحة بتبين رقم الكوع بالترتيب، مش الكيلومترات لحد مكان تقدر ترجع منه.
+06899231f2	False: the number counts hairpin bends, not junctions passed.	غلط: الرقم بيعد الأكواع، مش التقاطعات اللي عديتها.
+573b72f0cb	False: the panel does not give a distance; it numbers the hairpin bend you are at.	غلط: اللوحة مش بتدي مسافة؛ هي بترقّم الكوع اللي انت عنده.
+674e0a084e	False: the panel numbers hairpin bends, not overpasses.	غلط: اللوحة بترقّم الأكواع، مش الكباري.
+c22f38704d	True: the direction sign with the lorry symbol shows the recommended direction for goods vehicles with a laden mass over 3.5 t.	صح: علامة الاتجاه اللي عليها رمز عربية النقل بتبين الاتجاه المنصوح بيه لعربيات النقل اللي وزنها بالحمولة فوق 3,5 طن.
+f8faf1d33e	True: the symbol on the sign shows the category of vehicles (lorries) to which the turn is recommended.	صح: الرمز اللي على العلامة بيبين نوع العربيات (عربيات النقل) اللي اللف منصوح ليها.
+dece77500d	True: the sign is installed at the point where the recommended diversion for lorries over 3.5 t begins.	صح: العلامة بتتحط عند النقطة اللي التحويلة المنصوح بيها لعربيات النقل فوق 3,5 طن بتبتدي منها.
+0711486f8a	True: like other direction signs, it may be preceded by an advance warning sign.	صح: زي علامات الاتجاه التانية، ممكن يكون قبلها علامة إنذار مسبق.
+6241c77dcf	True: such signs are used near junctions before road works, to divert heavy vehicles away from the works area.	صح: العلامات دي بتتحط جنب التقاطعات اللي قبل أعمال الطرق، عشان تبعد العربيات التقيلة عن منطقة الشغل.
+a142552453	False: the sign recommends a direction for lorries; a turning ban is a round prohibition sign with a crossed arrow.	غلط: العلامة بتنصح عربيات النقل باتجاه؛ منع اللف بيكون بعلامة منع مدورة عليها سهم مشطوب.
+d9e05376b7	False: the sign indicates a recommended route for lorries, not a lorry parking area.	غلط: العلامة بتبين طريق منصوح بيه لعربيات النقل، مش مكان ركن ليها.
+ecf906b01c	False: the sign shows a recommended route for lorries, not the way to a landfill.	غلط: العلامة بتبين طريق منصوح بيه لعربيات النقل، مش الطريق لمقلب زبالة.
+141d5151ba	False: it is a recommended direction for lorries, not a one-way street reserved for them.	غلط: ده اتجاه منصوح بيه لعربيات النقل، مش شارع اتجاه واحد مخصص ليها.
+8582353ba9	False: a direction sign gives a recommendation; it does not oblige lorries to turn right, as mandatory signs are round and blue.	غلط: علامة الاتجاه بتدي نصيحة؛ مش بتجبر عربيات النقل تلف يمين، لأن علامات الإلزام بتبقى مدورة وزرقا.
+214d5fa8a5	True: the triangular sign with a worker warns of road works ahead.	صح: العلامة المثلثة اللي عليها عامل بتحذر من أعمال طرق قدامك.
+7904a21d3f	True: the road works sign announces work sites on or beside the road.	صح: علامة أعمال الطرق بتعلن عن مواقع شغل على الطريق أو جنبه.
+f304adfd04	True: the sign also warns of temporary deposits of materials or machinery on the road.	صح: العلامة كمان بتحذر من مواد أو معدات محطوطة مؤقتاً على الطريق.
+a94cd8d9ec	True: the sign warns that workers may be present on or near the carriageway, so slow down and be careful.	صح: العلامة بتحذر إن ممكن يكون فيه عمال على نهر الطريق أو جنبه، فهدّي وخد بالك.
+9016b48fb1	True: an additional panel can show the length of the road works stretch.	صح: ممكن تكون معاها لوحة إضافية بتبين طول منطقة الأعمال.
+cb48b94cf8	False: the sign is a warning of road works; it does not impose giving way to vehicles leaving the site.	غلط: العلامة تحذير من أعمال طرق؛ مش بتلزمك تدّي أولوية للعربيات الخارجة من الموقع.
+0c9e10a898	False: giving way to oncoming traffic is imposed by a different round sign with red and black arrows.	غلط: إنك تدّي أولوية للي جاي عكسك بيتفرض بعلامة مدورة تانية فيها سهم أحمر وسهم أسود.
+05a39b8654	False: the sign only warns of road works; it does not oblige you to make a U-turn.	غلط: العلامة بتحذر من أعمال طرق بس؛ مش بتجبرك ترجع.
+c81c1e026d	False: the sign is a warning to be careful near workers; it does not create a right-of-way rule.	غلط: العلامة تحذير إنك تاخد بالك من العمال؛ مش بتعمل قاعدة أولوية.
+5f0e642135	False: the sign warns of road works; alternating one-way traffic is regulated by temporary traffic lights or specific signs.	غلط: العلامة بتحذر من أعمال طرق؛ المرور بالتبادل في اتجاه واحد بيتنظم بإشارات مؤقتة أو علامات مخصوصة.
+2f16d7ef1f	True: the red and white striped barrier marks an area occupied by a road works site.	صح: الحاجز المخطط أحمر وأبيض بيبين مكان مشغول بموقع أعمال طرق.
+f193226d41	True: the barrier delimits the area where road works are being carried out.	صح: الحاجز بيحدد المنطقة اللي فيها أعمال طرق.
+ab46e96696	True: such barriers are placed along the edges of a road works site.	صح: الحواجز دي بتتحط على حدود موقع أعمال الطرق.
+42b31e9630	True: this barrier can also be used at level crossings when the regular barriers are out of order.	صح: الحاجز ده ممكن يستعمل كمان عند المزلقان لما البوابات العادية تكون بايظة.
+dafd36beb7	True: in poor visibility the barrier can be completed with fixed red lights.	صح: لما الرؤية تكون قليلة، الحاجز ممكن يتحط عليه لمبات حمرا ثابتة.
+0147159c6c	False: the barrier is road works equipment, not a garage entrance barrier.	غلط: الحاجز ده من معدات أعمال الطرق، مش بوابة جراج.
+d07361ce3d	False: the barrier closes off a works area; it does not indicate parking for works vehicles.	غلط: الحاجز بيقفل منطقة شغل؛ مش بيبين ركن لعربيات الشغل.
+564d22e649	False: the barrier closes off road works or obstacles; it is not used to separate toll booth lanes.	غلط: الحاجز بيقفل أعمال طرق أو عوائق؛ مش بيستعمل لفصل حارات الكارتة.
+6ae8bf45b7	False: the horizontal barrier marks a closed area; dangerous bends are marked with chevron signs.	غلط: الحاجز الأفقي بيبين مكان مقفول؛ المنحنيات الخطرة بتتبين بعلامات الأسهم (chevron).
+e6da70d336	False: red and white barriers mark road works areas or obstacles, not cycle routes.	غلط: الحواجز الحمرا والبيضا بتبين أماكن أعمال الطرق أو العوائق، مش طرق العجل.
+d775e18e77	True: traffic cones are used to mark short-duration work areas.	صح: الأقماع بتستعمل عشان تحدد أماكن شغل لمدة قصيرة.
+d182927907	True: cones can be used to mark temporary diversions.	صح: الأقماع ممكن تستعمل عشان تبين تحويلات مؤقتة.
+bd8cf53d29	True: cones can be used to mark areas affected by road accidents.	صح: الأقماع ممكن تستعمل عشان تحدد أماكن الحوادث.
+b314b19093	True: cones can temporarily separate the two directions of traffic.	صح: الأقماع ممكن تفصل الاتجاهين عن بعض بشكل مؤقت.
+eca7afb4a9	False: cones are temporary road works or danger signalling devices, not a way to mark reserved parking.	غلط: الأقماع أدوات مؤقتة لأعمال الطرق أو الخطر، مش لتحديد ركن محجوز.
+762ca0f05a	False: cones are meant for short-duration works; longer works (over a few days) require more permanent delimiting devices.	غلط: الأقماع للشغل اللي مدته قصيرة؛ الشغل الأطول محتاج أدوات تحديد ثابتة أكتر.
+6674258e02	False: cones mark works, accidents or temporary diversions; they are not specific to roads with heavy snowfall.	غلط: الأقماع بتبين شغل أو حوادث أو تحويلات مؤقتة؛ مش خاصة بالطرق اللي فيها تلج كتير.
+2ff4adbb15	False: cones are temporary; cycle paths are separated from the carriageway by permanent kerbs or markings.	غلط: الأقماع مؤقتة؛ حارات العجل بتتفصل عن نهر الطريق بأرصفة أو خطوط دايمة.
+72bbccba96	False: cones are used on the carriageway to mark temporary works, obstacles or diversions, not obstacles outside it.	غلط: الأقماع بتتحط على نهر الطريق عشان تبين شغل أو عوائق أو تحويلات مؤقتة، مش عوائق بره الطريق.
+71b8250f59	True: this panel can be fitted on road works vehicles that are stationary or moving slowly.	صح: اللوحة دي ممكن تتركب على عربيات أعمال الطرق الواقفة أو الماشية ببطء.
+c2f241774d	True: the arrow on the panel shows the side on which the vehicle carrying it must be passed.	صح: السهم اللي على اللوحة بيبين الناحية اللي لازم تعدّي منها العربية اللي شايلاه.
+1509a7223b	True: the panel can be placed on road maintenance vehicles stopped on the carriageway.	صح: اللوحة ممكن تتحط على عربيات صيانة الطرق الواقفة على نهر الطريق.
+2b9b569c56	True: the panel can be fitted on road works vehicles moving at low speed.	صح: اللوحة ممكن تتركب على عربيات أعمال الطرق الماشية بسرعة بطيئة.
+2c9c7e8233	True: the panel warns of stationary or slow-moving works vehicles, so you must reduce speed.	صح: اللوحة بتحذرك من عربيات شغل واقفة أو ماشية ببطء، فلازم تهدي السرعة.
+5f9a8e4c2f	False: the arrow points to the right, so the vehicle or obstacle must be passed on the right, not on the left.	غلط: السهم ناحية اليمين، فلازم تعدّي العربية أو العائق من اليمين، مش من الشمال.
+bb0287f9b4	False: the arrow shows which side to pass the vehicle on; it does not order an immediate right turn.	غلط: السهم بيبين تعدّي العربية من أنهي ناحية؛ مش أمر إنك تلف يمين على طول.
+3409488685	False: the panel indicates passing the works vehicle on the right; a right lane closure is shown by a lane diagram sign.	غلط: اللوحة بتبين إنك تعدّي عربية الشغل من اليمين؛ قفل الحارة اليمين بيتبين بعلامة رسمة الحارات.
+40748517c4	False: the arrow shows the side for passing, not an obligation to stop on the right.	غلط: السهم بيبين ناحية العدّي، مش إلزام إنك توقف على اليمين.
+161b8c8816	True: this temporary sign warns of a mobile works site, showing a narrowing on the left of the carriageway and the distance to it.	صح: العلامة المؤقتة دي بتحذر من موقع شغل متحرك، وبتبين تضييق على شمال نهر الطريق والمسافة لحده.
+a665ea5c64	True: the sign may be mounted on a vehicle to give advance warning of a mobile works site.	صح: العلامة ممكن تتركب على عربية عشان تنبه مسبقاً لموقع شغل متحرك.
+4f49d4460b	True: the lane diagram shows which lanes remain available to traffic.	صح: رسمة الحارات بتبين أنهي حارات لسه متاحة للمرور.
+319a83f71f	True: the sign shows three lanes reduced to two because of the works.	صح: العلامة بتبين 3 حارات هيبقوا اتنين بسبب الشغل.
+e4e6860cfb	True: the sign can be completed with flashing yellow lights to make it more visible.	صح: العلامة ممكن يتحط معاها لمبات صفرا بتنور وتطفي عشان تبان أكتر.
+31177736c4	False: the sign shows lanes available and the narrowing, not how many vehicles can pass at once.	غلط: العلامة بتبين الحارات المتاحة والتضييق، مش كام عربية تعدّي مع بعض.
+907a5ac7ac	False: the sign warns of a works site narrowing the carriageway on the left, not a lay-by.	غلط: العلامة بتحذر من موقع شغل بيضيق نهر الطريق من الشمال، مش مكان وقوف جانبي.
+f37b17635e	True: this temporary sign shows that vehicles with an actual mass over 7 t heading to Lucca must leave the straight route and follow the diversion.	صح: العلامة المؤقتة دي بتبين إن العربيات اللي وزنها الفعلي فوق 7 طن ورايحة Lucca لازم تسيب الطريق المستقيم وتمشي في التحويلة.
+d156326773	True: the restriction applies only to vehicles over 7 t, so lorries below 7 t may continue straight on.	صح: المنع على العربيات اللي فوق 7 طن بس، فعربيات النقل اللي أقل من 7 طن تقدر تكمل على طول.
+34fbaa12a7	True: vehicles over 7 t going to Lucca may not continue straight ahead and must take the indicated diversion.	صح: العربيات اللي فوق 7 طن ورايحة Lucca متقدرش تكمل على طول ولازم تاخد التحويلة المبينة.
+2d05ebb797	True: the sign shows that a stretch of road is closed to vehicles with an actual mass over 7 t.	صح: العلامة بتبين إن جزء من الطريق ممنوع على العربيات اللي وزنها الفعلي فوق 7 طن.
+32dfaf02aa	True: it is placed near the junction before a road works site, to divert heavy vehicles in time.	صح: بتتحط جنب التقاطع اللي قبل موقع أعمال الطرق، عشان تحوّل العربيات التقيلة في الوقت المناسب.
+0553c250d1	True: the yellow background shows it is one of the temporary signs used for road works sites.	صح: الخلفية الصفرا بتبين إنها من العلامات المؤقتة بتاعة مواقع أعمال الطرق.
+cc2145fe6c	False: only vehicles over 7 t are diverted; other vehicles may continue straight on to Lucca.	غلط: العربيات اللي فوق 7 طن بس هي اللي بتتحول؛ الباقي يقدر يكمل على طول لـ Lucca.
+11ab5dbed6	False: the diversion applies only to vehicles over 7 t, not to all vehicles.	غلط: التحويلة على العربيات اللي فوق 7 طن بس، مش على كل العربيات.
+dcde32e19f	False: the sign restricts transit for vehicles over 7 t on a stretch; it does not concern overtaking.	غلط: العلامة بتمنع مرور العربيات اللي فوق 7 طن في جزء من الطريق؛ ملهاش علاقة بالتخطي.
+db6704235c	False: the limit is a mass of 7 tonnes (7 t), not a length of 7 metres.	غلط: الحد ده وزن 7 طن (7 t)، مش طول 7 متر.
+9e3313c94f	True: the temporary sign shows the right lane closed because of road works, with traffic moving into the left lane.	صح: العلامة المؤقتة بتبين إن الحارة اليمين مقفولة بسبب أعمال طرق، والعربيات بتدخل الحارة الشمال.
+71d28d4a09	True: the sign shows two lanes reducing to one.	صح: العلامة بتبين حارتين هيبقوا حارة واحدة.
+e97d526555	True: an additional panel can show the distance to the point where the lane closes.	صح: ممكن تكون معاها لوحة إضافية بتبين المسافة لحد النقطة اللي الحارة بتتقفل فيها.
+b8a6847bd6	True: closing a lane for works means the carriageway narrows, so slow down and merge carefully.	صح: قفل حارة عشان الشغل معناه إن نهر الطريق بيضيق، فهدّي وادخل الحارة بحذر.
+4ca827540c	False: the sign shows the right lane closing; it does not allow overtaking on the right.	غلط: العلامة بتبين إن الحارة اليمين بتتقفل؛ مش بتسمح بالتخطي من اليمين.
+2ff8019401	False: the sign shows a lane closure for works, not a junction for U-turns.	غلط: العلامة بتبين قفل حارة عشان شغل، مش مخرج للرجوع.
+db97d5e08f	False: the sign is placed before a lane closed for road works, not near an intersection.	غلط: العلامة بتتحط قبل حارة مقفولة عشان أعمال طرق، مش جنب تقاطع.
+ae52122833	False: the sign shows a lane closure for works, not a bus lay-by.	غلط: العلامة بتبين قفل حارة عشان شغل، مش مكان وقوف أوتوبيس.
+85f7fd472d	False: the sign shows a lane closed for road works, not specifically the slow vehicles lane.	غلط: العلامة بتبين حارة مقفولة عشان أعمال طرق، مش حارة العربيات البطيئة بالذات.
+097087b076	False: the sign concerns a lane closure; it does not impose giving way to traffic from the right.	غلط: العلامة خاصة بقفل حارة؛ مش بتلزمك تدّي أولوية للي جاي من اليمين.
+479c76fc52	True: at road works, this sign tells each vehicle category which lanes it may use.	صح: عند أعمال الطرق، العلامة دي بتقول لكل نوع عربيات يمشي في أنهي حارات.
+88a2bc7980	True: the sign is used to indicate how the lanes must be used.	صح: العلامة بتستعمل عشان تبين الحارات تتستعمل إزاي.
+3c124dda30	True: the sign tells vehicles which lanes they must travel in, according to their category.	صح: العلامة بتقول للعربيات تمشي في أنهي حارات حسب نوعها.
+9208443263	True: the sign shows goods vehicles over 3.5 t which lane they must use (the right one).	صح: العلامة بتبين لعربيات النقل اللي فوق 3,5 طن تمشي في أنهي حارة (اليمين).
+327e0cc8ae	True: goods vehicles over 3.5 t may use only the right lane, while cars may use both.	صح: عربيات النقل اللي فوق 3,5 طن تمشي في الحارة اليمين بس، والعربيات الملاكي تقدر تمشي في الاتنين.
+de722f7141	False: it is a lane-use sign by vehicle category, not a warning of a toll booth.	غلط: دي علامة استعمال الحارات حسب نوع العربية، مش تحذير من كارتة.
+be96972f89	False: the sign assigns lorries to the right lane; it does not oblige them to drive in parallel rows.	غلط: العلامة بتحدد لعربيات النقل الحارة اليمين؛ مش بتجبرها تمشي في صفوف متوازية.
+0772c225c1	False: the sign keeps lorries in the right lane; it does not tell them to overtake on the right, which is forbidden.	غلط: العلامة بتخلي عربيات النقل في الحارة اليمين؛ مش بتقولها تتخطى من اليمين، وده ممنوع.
+8dced57b0e	False: the restriction concerns lorries over 3.5 t; motorcycles may use both lanes.	غلط: المنع على عربيات النقل اللي فوق 3,5 طن؛ الموتوسيكلات تقدر تمشي في الحارتين.
+7f02be613a	True: these delineators are used at the edges of the carriageway on one-way roads.	صح: العواكس دي (delineatori) بتتحط على حواف نهر الطريق في الطرق اللي اتجاه واحد.
+fc0bc7ff19	True: delineator posts belong to the complementary signs, which help guide traffic.	صح: أعمدة العواكس من العلامات التكميلية اللي بتساعد في توجيه المرور.
+6a6c56e8d4	True: they are placed along the edges of a one-way road or carriageway.	صح: بتتحط على حواف طريق أو نهر طريق اتجاه واحد.
+7e0773d9dd	True: delineators make the course of the road more visible, especially at night and in fog.	صح: العواكس بتخلي شكل الطريق باين أكتر، خصوصاً بالليل وفي الشبورة.
+7fba1de394	False: the delineators shown are the type used on one-way roads; two-way roads use a different type.	غلط: العواكس اللي في الصورة النوع اللي بيستعمل في الطرق اللي اتجاه واحد؛ الطرق اللي اتجاهين ليها نوع تاني.
+60f617b5f1	False: delineators mark the edges and course of the road; they are not specifically placed before pedestrian crossings.	غلط: العواكس بتبين حواف الطريق وشكله؛ مش بتتحط مخصوص قبل عبور المشاة.

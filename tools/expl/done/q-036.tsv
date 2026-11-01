@@ -1,0 +1,100 @@
+5136be82f3	False: the time panel shows the hours in which the sign above it applies; it never authorises driving with lights off, as lights are compulsory at night and in poor visibility (CdS art. 152).	غلط: لوحة المواعيد بتبين الساعات اللي العلامة اللي فوقها سارية فيها؛ عمرها ما بتسمح بالسواقة والنور مطفي، لأن النور إجباري بالليل ولما الرؤية تقل (CdS art. 152).
+0516c71f27	False: the time panel only limits the validity of the sign above it to the hours shown; it is not about alternate number plate traffic restrictions.	غلط: لوحة المواعيد بتحدد بس ساعات سريان العلامة اللي فوقها؛ ملهاش علاقة بنظام النمر الزوجي والفردي.
+f51e5cf6cb	True: the panel with the holiday symbol and hours limits the sign above it to public holidays and to the time slot shown.	صح: اللوحة اللي عليها رمز الأجازات والمواعيد بتخلي العلامة اللي فوقها سارية في أيام الأجازات الرسمية وفي الساعات المكتوبة بس.
+d479856c3d	True: under a regulatory sign, this panel specifies that the rule applies only on public holidays and in the hours shown (here 8:00-20:00).	صح: تحت علامة إلزام أو منع، اللوحة دي بتوضح إن القاعدة سارية في الأجازات الرسمية وفي الساعات المكتوبة بس (هنا 8:00-20:00).
+96a22eeaee	True: the pedestrians-only sign with this panel reserves the road to pedestrians on public holidays from 8:00 to 20:00.	صح: علامة المشاة بس مع اللوحة دي بتخلي الطريق للمشاة بس في الأجازات الرسمية من 8:00 لحد 20:00.
+9dbc14a196	True: the no-parking sign with this panel forbids parking only on public holidays during the hours shown.	صح: علامة ممنوع الركن مع اللوحة دي بتمنع الركن في الأجازات الرسمية في الساعات المكتوبة بس.
+59691d1ee9	True: the cycle path sign with this panel reserves the road to cyclists on public holidays from 8:00 to 20:00.	صح: علامة حارة العجل مع اللوحة دي بتخلي الطريق للعجل بس في الأجازات الرسمية من 8:00 لحد 20:00.
+90d2aabe9d	True: the no-transit sign with this panel forbids traffic only on public holidays from 8:00 to 20:00.	صح: علامة ممنوع المرور مع اللوحة دي بتمنع المرور في الأجازات الرسمية من 8:00 لحد 20:00 بس.
+914b384704	False: the panel limits the validity of a road sign to holidays and hours shown; it has nothing to do with cemetery opening times.	غلط: اللوحة بتحدد سريان علامة المرور في الأجازات والساعات المكتوبة؛ ملهاش علاقة بمواعيد المقابر.
+caf487f1a8	False: the panel refers to when the road sign applies, not to church opening hours.	غلط: اللوحة بتبين العلامة سارية إمتى، مش مواعيد فتح الكنايس.
+268f85b37e	False: the panel refers to when the road sign applies, not to times of religious services.	غلط: اللوحة بتبين العلامة سارية إمتى، مش مواعيد الصلوات.
+9b88c15966	False: the panel with the holiday symbol limits the sign to public holidays, not every day.	غلط: اللوحة اللي عليها رمز الأجازات بتخلي العلامة في الأجازات الرسمية بس، مش كل يوم.
+7841ff8177	False: this panel applies on public holidays; working days are shown by a different symbol (crossed hammers).	غلط: اللوحة دي للأجازات الرسمية؛ أيام الشغل ليها رمز تاني (شاكوشين).
+230ab6dd3e	False: with this panel the motorcycle ban applies on public holidays 8:00-20:00, so motorcycles are prohibited, not allowed, in that period.	غلط: مع اللوحة دي منع الموتوسيكلات ساري في الأجازات من 8:00 لحد 20:00، يعني ممنوعين، مش مسموحلهم، في الوقت ده.
+8d3a03f79f	True: the panel with the crossed hammers limits the sign to working days and the time slots shown.	صح: اللوحة اللي عليها الشاكوشين بتخلي العلامة سارية في أيام الشغل وفي الساعات المكتوبة بس.
+f3109d933a	True: the no-transit sign with this panel forbids traffic on working days in the hours shown.	صح: علامة ممنوع المرور مع اللوحة دي بتمنع المرور في أيام الشغل في الساعات المكتوبة.
+6491f30bb0	True: the panel shows the time slot on working days during which the sign above it applies.	صح: اللوحة بتبين الساعات في أيام الشغل اللي العلامة اللي فوقها سارية فيها.
+235b950d3e	True: the no-parking sign with this panel forbids parking on working days in the hours shown.	صح: علامة ممنوع الركن مع اللوحة دي بتمنع الركن في أيام الشغل في الساعات المكتوبة.
+11bb6c002c	True: under a mandatory sign, the panel means the obligation applies from 8:00 to 20:00 on working days.	صح: تحت علامة إلزام، اللوحة معناها إن الإلزام ساري من 8:00 لحد 20:00 في أيام الشغل.
+3beda96503	True: the ban on goods vehicles over 3.5 t applies only on working days during the hours shown.	صح: منع عربيات النقل اللي فوق 3,5 طن ساري في أيام الشغل في الساعات المكتوبة بس.
+345e53a016	False: the crossed hammers mean working days only, not every day.	غلط: الشاكوشين معناهم أيام الشغل بس، مش كل يوم.
+96c0328e7d	False: the hammers symbol means working days; the panel shows when the sign applies, not museum hours.	غلط: رمز الشاكوشين معناه أيام الشغل؛ اللوحة بتبين العلامة سارية إمتى، مش مواعيد متحف.
+89d1a8e5ca	False: the panel shows when the sign applies on working days, not the opening hours of breakdown workshops.	غلط: اللوحة بتبين العلامة سارية إمتى في أيام الشغل، مش مواعيد ورش الإنقاذ.
+9869cdf03d	False: the sign applies to all the vehicles it concerns on working days at the hours shown; it is not reserved for breakdown vehicles.	غلط: العلامة سارية على كل العربيات المعنية في أيام الشغل في الساعات المكتوبة؛ مش مخصصة لعربيات الإنقاذ.
+72ce308534	False: the crossed hammers panel limits the sign to working days, not public holidays.	غلط: لوحة الشاكوشين بتخلي العلامة في أيام الشغل، مش الأجازات الرسمية.
+30f2dd73eb	False: under the PARKING sign, this panel means parking applies on working days from 8:00 to 20:00, not on holidays.	غلط: تحت علامة الركن، اللوحة دي معناها إن الركن ساري في أيام الشغل من 8:00 لحد 20:00، مش في الأجازات.
+0d2556cadb	True: with the vehicle panel, the no-transit ban applies only to the vehicles shown (here lorries).	صح: مع لوحة نوع العربية، منع المرور على العربيات اللي في الرسمة بس (هنا عربيات النقل).
+9818284250	True: with the vehicle panel, the parking ban applies only to the vehicles shown.	صح: مع لوحة نوع العربية، منع الركن على العربيات اللي في الرسمة بس.
+9395e3d47c	True: with the articulated lorry panel, the parking ban applies to articulated lorries.	صح: مع لوحة العربية المفصلية، منع الركن على العربيات المفصلية.
+ebd80dd4aa	True: a panel showing a vehicle category limits the sign above it to that category only.	صح: اللوحة اللي عليها نوع عربية بتخلي العلامة اللي فوقها على النوع ده بس.
+3e46368e78	True: the vehicle panel can be used with a mandatory sign, limiting the obligation to those vehicles.	صح: لوحة نوع العربية ممكن تتحط مع علامة إلزام، فالإلزام يبقى على العربيات دي بس.
+34e6752700	True: the vehicle panel can be used with a prohibition sign, limiting the ban to those vehicles.	صح: لوحة نوع العربية ممكن تتحط مع علامة منع، فالمنع يبقى على العربيات دي بس.
+e9fc526668	False: the panel shows the vehicle category to which a sign applies, not a workshop for road trains.	غلط: اللوحة بتبين نوع العربيات اللي العلامة سارية عليها، مش ورشة للمقطورات.
+9a157c7565	False: the panel limits a sign to the vehicles shown; it does not indicate a fuel station for heavy vehicles.	غلط: اللوحة بتخلي العلامة على العربيات اللي في الرسمة؛ مش بتبين بنزينة للعربيات التقيلة.
+b6be5cb008	False: with the no-parking sign, the panel means articulated lorries may not park there.	غلط: مع علامة ممنوع الركن، اللوحة معناها إن العربيات المفصلية ممنوع تركن هنا.
+9e1482eee5	False: with a prohibition sign, the panel means articulated lorries may not pass, not that they may.	غلط: مع علامة منع، اللوحة معناها إن العربيات المفصلية ممنوع تعدّي، مش مسموحلها.
+85b92df02c	False: under the PARKING sign, the panel reserves parking to the category shown, not to all heavy vehicles.	غلط: تحت علامة الركن، اللوحة بتخصص الركن للنوع اللي في الرسمة، مش لكل العربيات التقيلة.
+b102625718	True: the panel with an arrow starting from a bar, under a prohibition sign, shows the point where the ban begins.	صح: اللوحة اللي عليها سهم طالع من شرطة، تحت علامة منع، بتبين النقطة اللي المنع بيبتدي منها.
+cf77e29bec	True: the no-parking sign with this panel shows that the ban starts at that point.	صح: علامة ممنوع الركن مع اللوحة دي بتبين إن المنع بيبتدي من النقطة دي.
+f58f741064	True: under the PARKING sign, this panel shows the start of the area where parking is allowed.	صح: تحت علامة الركن، اللوحة دي بتبين بداية المكان اللي الركن مسموح فيه.
+cdbb0908f6	True: the no-stopping sign with this panel shows the point where the stopping ban begins.	صح: علامة ممنوع الوقوف مع اللوحة دي بتبين النقطة اللي منع الوقوف بيبتدي منها.
+6f53107f18	True: the pedestrian sign with this panel shows where the pedestrian path begins.	صح: علامة المشاة مع اللوحة دي بتبين الممشى بيبتدي منين.
+84aad56e0d	False: panel A shows the start of a sign's validity, not an uphill road.	غلط: اللوحة A بتبين بداية سريان العلامة، مش طلعة.
+fba80cc74c	False: panel A shows where the sign's rule begins; it is not an obligation to go straight.	غلط: اللوحة A بتبين القاعدة بتبتدي منين؛ مش إلزام إنك تمشي على طول.
+9539735faf	False: panel A shows the start of a rule, not the end of a one-way street.	غلط: اللوحة A بتبين بداية قاعدة، مش نهاية شارع اتجاه واحد.
+e8c8d0af0e	False: panel B shows the direction in which the sign applies, not a bus lane.	غلط: اللوحة B بتبين الاتجاه اللي العلامة سارية فيه، مش حارة أوتوبيس.
+8eab40a7fb	False: this panel shows where the parking area begins and extends, not where it ends.	غلط: اللوحة دي بتبين مكان الركن بيبتدي منين وممتد فين، مش بيخلص فين.
+d955b75451	False: panel A shows the start of the sign's validity, not the end of the danger.	غلط: اللوحة A بتبين بداية سريان العلامة، مش نهاية الخطر.
+087b47c5bd	True: the no-parking sign with the double arrow panel confirms that the parking ban continues.	صح: علامة ممنوع الركن مع لوحة السهمين بتأكد إن منع الركن مستمر.
+a5c64882e9	True: repeated with this panel, the no-overtaking sign confirms that the ban continues.	صح: علامة ممنوع التخطي متكررة مع اللوحة دي بتأكد إن المنع لسه مستمر.
+8f90f9d9bc	True: the speed limit sign with this panel confirms that the maximum speed limit continues.	صح: علامة حد السرعة مع اللوحة دي بتأكد إن الحد الأقصى للسرعة لسه ساري.
+4feb9b2fd7	True: the slippery road sign with this panel shows that the slippery stretch continues.	صح: علامة الطريق الزلق مع اللوحة دي بتبين إن الجزء الزلق لسه مكمل.
+c592c1ca38	True: the no-stopping sign with the double arrow panel means stopping is forbidden both before and after the sign.	صح: علامة ممنوع الوقوف مع لوحة السهمين معناها إن الوقوف ممنوع قبل العلامة وبعدها.
+47d6b5290b	True: under a warning sign, panel A shows that the danger continues.	صح: تحت علامة خطر، اللوحة A بتبين إن الخطر مستمر.
+a270aa9b81	False: panel A shows that the sign continues to apply, not an order to turn back.	غلط: اللوحة A بتبين إن العلامة لسه سارية، مش أمر إنك ترجع.
+866d337cc7	False: the panel shows that the parking area continues, not that it ends.	غلط: اللوحة بتبين إن مكان الركن مكمل، مش إنه خلص.
+3b93d17fca	False: the double arrow shows that the sign continues before and after, not alternating one-way traffic.	غلط: السهمين بيبينوا إن العلامة سارية قبل وبعد، مش مرور بالتبادل في اتجاه واحد.
+9843616cdf	False: under a warning sign, panel A shows the danger continues, not that it ends.	غلط: تحت علامة الخطر، اللوحة A بتبين إن الخطر مستمر، مش إنه خلص.
+60734d859a	False: panel A is not a direction sign; it shows that the sign applies on both sides of where it stands.	غلط: اللوحة A مش علامة اتجاه؛ بتبين إن العلامة سارية من الناحيتين حوالين مكانها.
+aafef560e0	False: panel A shows the continuation of the sign's validity, not a two-way road.	غلط: اللوحة A بتبين استمرار سريان العلامة، مش طريق اتجاهين.
+0f994c64f2	True: the no-parking sign with an arrow ending at a bar shows the point where the parking ban ends.	صح: علامة ممنوع الركن مع سهم بينتهي عند شرطة بتبين النقطة اللي منع الركن بيخلص عندها.
+5b147abb26	True: with the end panel, the no-stopping sign shows the point where the stopping ban ends.	صح: مع لوحة النهاية، علامة ممنوع الوقوف بتبين النقطة اللي منع الوقوف بيخلص عندها.
+8a88673e76	True: the road works sign with the end panel marks the end of the works site.	صح: علامة أعمال الطرق مع لوحة النهاية بتبين نهاية موقع الشغل.
+2393a8fb42	True: the PARKING sign with the end panel marks the end of the parking area.	صح: علامة الركن مع لوحة النهاية بتبين نهاية مكان الركن.
+8f8c2141b4	True: the uneven road sign with the end panel marks the end of the uneven stretch.	صح: علامة الطريق المش مستوي مع لوحة النهاية بتبين نهاية الجزء المش مستوي.
+cbf44cb0df	True: the slippery road sign with the end panel marks the end of the slippery stretch.	صح: علامة الطريق الزلق مع لوحة النهاية بتبين نهاية الجزء الزلق.
+dac1d6619e	False: panel A shows where the sign's validity ends, not a downhill road.	غلط: اللوحة A بتبين سريان العلامة بيخلص فين، مش نزلة.
+c31ab55045	False: under PARKING, this panel marks the end of the parking area, not its start.	غلط: تحت علامة الركن، اللوحة دي بتبين نهاية مكان الركن، مش بدايته.
+af10bbfcd8	False: under a prohibition sign, panel A shows where the ban ends, not where it begins.	غلط: تحت علامة منع، اللوحة A بتبين المنع بيخلص فين، مش بيبتدي منين.
+feb904fd3a	False: panel A shows the end of a sign's validity, not a road closed to traffic.	غلط: اللوحة A بتبين نهاية سريان العلامة، مش طريق مقفول للمرور.
+42f8a07dae	False: the sign shown marks the end of the no-overtaking ban, not its continuation.	غلط: العلامة اللي في الصورة معناها نهاية منع التخطي، مش استمراره.
+2d6fb4e9c3	False: panel A shows the extent of a sign's validity, not the only direction allowed, which is a round blue mandatory sign.	غلط: اللوحة A بتبين امتداد سريان العلامة، مش الاتجاه الوحيد المسموح، اللي بيبقى بعلامة إلزام مدورة زرقا.
+0d43b2d99c	True: this panel warns that road markings are temporarily missing, so take extra care with lane positions.	صح: اللوحة دي بتحذر إن الخطوط اللي على الأرض مش موجودة مؤقتاً، فخد بالك زيادة من مكانك في الحارة.
+f419d31193	True: the panel indicates a stretch where horizontal markings are temporarily absent.	صح: اللوحة بتبين جزء من الطريق الخطوط فيه مش موجودة مؤقتاً.
+fa2257f5d7	True: the panel indicates that works are being carried out to repaint the road markings.	صح: اللوحة بتبين إن فيه شغل لإعادة رسم الخطوط على الطريق.
+25771cb0b2	True: this panel is placed under the OTHER DANGERS sign (triangle with an exclamation mark).	صح: اللوحة دي بتتحط تحت علامة "أخطار أخرى" (المثلث اللي عليه علامة تعجب).
+1792c4c188	False: the panel concerns missing or repainted road markings, not a snow-covered road.	غلط: اللوحة خاصة بخطوط ناقصة أو بيتعاد رسمها، مش طريق عليه تلج.
+da4cbcd7d3	False: the panel concerns missing road markings, not a pedestrian crossing.	غلط: اللوحة خاصة بخطوط ناقصة، مش عبور مشاة.
+5ca1ab8e7f	False: the panel concerns missing road markings, not a one-way stretch.	غلط: اللوحة خاصة بخطوط ناقصة، مش جزء اتجاه واحد.
+60402da6db	False: the panel warns that markings are missing; it does not impose any line-crossing ban.	غلط: اللوحة بتحذر إن الخطوط ناقصة؛ مش بتفرض منع عبور خط.
+2ad7af37b5	True: the panel with crashed vehicles warns of an accident ahead, so you must slow down.	صح: اللوحة اللي عليها عربيات مخبوطة بتحذر من حادثة قدامك، فلازم تهدي.
+c55b2ce805	True: the panel indicates vehicles involved in an accident on the carriageway.	صح: اللوحة بتبين عربيات عملت حادثة على نهر الطريق.
+618e72b6e4	True: the panel warns that the carriageway is obstructed by crashed vehicles.	صح: اللوحة بتحذر إن نهر الطريق مقفول بعربيات عملت حادثة.
+69b1027c45	True: the panel signals a road accident ahead, so reduce speed and be ready to stop.	صح: اللوحة بتبين حادثة قدامك، فهدّي السرعة واستعد توقف.
+293c942330	False: the panel warns of an accident; slippery road has its own triangular sign with a skidding car.	غلط: اللوحة بتحذر من حادثة؛ الطريق الزلق ليه علامة مثلثة خاصة عليها عربية بتزحلق.
+7ed8d0e862	False: the panel warns of an accident; stopping and giving way is imposed by the STOP sign.	غلط: اللوحة بتحذر من حادثة؛ الوقوف وإعطاء الأولوية بيتفرض بعلامة STOP.
+6fc794b0bd	False: the accident panel can be used on any road, not only motorways.	غلط: لوحة الحادثة ممكن تتحط على أي طريق، مش الأوتوستراد بس.
+e4495a3466	False: the panel warns of an accident, not a parking ban.	غلط: اللوحة بتحذر من حادثة، مش منع ركن.
+ad36bc7aa2	False: the panel warns of crashed vehicles on the road, not a garage for damaged vehicles.	غلط: اللوحة بتحذر من عربيات مخبوطة على الطريق، مش جراج للعربيات المتكسرة.
+ba7cc42955	False: the panel warns of an accident ahead; it is not an instruction to switch on lights.	غلط: اللوحة بتحذر من حادثة قدامك؛ مش أمر إنك تولع النور.
+a471037768	True: the panel with rails indicates the presence of shunting tracks crossing the road.	صح: اللوحة اللي عليها قضبان بتبين وجود قضبان مناورة معدّية الطريق.
+90d585729b	True: the OTHER DANGERS sign with this panel warns of a crossing of shunting tracks.	صح: علامة "أخطار أخرى" مع اللوحة دي بتحذر من عبور قضبان مناورة.
+253836e29f	True: the panel warns of shunting or connecting tracks, typically near freight yards.	صح: اللوحة بتحذر من قضبان مناورة أو توصيل، غالباً جنب محطات البضاعة.
+bdcbedfcc6	True: like any danger warning, it invites you to slow down and take care.	صح: زي أي علامة خطر، بتنبهك تهدي وتاخد بالك.
+23e10d0743	True: the shunting tracks panel is combined with the OTHER DANGERS sign.	صح: لوحة قضبان المناورة بتتحط مع علامة "أخطار أخرى".
+dd79593530	False: the panel shows railway shunting tracks, not a model-making area.	غلط: اللوحة بتبين قضبان سكة حديد للمناورة، مش مكان مسابقات موديلات.
+7010e8f25d	False: the panel refers to railway shunting tracks, not trams; tram crossings have their own warning sign.	غلط: اللوحة خاصة بقضبان مناورة السكة الحديد، مش الترام؛ عبور الترام ليه علامة خاصة.
+bce5024f1b	False: road signs and panels are addressed to road users, not to train drivers.	غلط: علامات ولوحات الطريق للي ماشيين على الطريق، مش لسواقين القطر.
+e639bed70d	False: the panel indicates shunting tracks; it does not specify a level crossing with two tracks.	غلط: اللوحة بتبين قضبان مناورة؛ مش بتحدد مزلقان فيه خطين.
+ea303dc688	True: the panel with a snowplough indicates snow-clearing vehicles working on the road; slow down and keep your distance.	صح: اللوحة اللي عليها كاسحة تلج بتبين إن فيه عربيات بتشيل التلج شغالة على الطريق؛ هدّي وخلي مسافة.

@@ -1,0 +1,100 @@
+0165302f21	True: the sign bans only vehicles carrying substances that can pollute water; a tanker carrying water poses no such risk and may pass.	صح: العلامة بتمنع بس العربيات الشايلة مواد ممكن تلوث المية؛ التانك اللي شايل مية مافيهوش الخطر ده ويعدي.
+98160813ba	True: road-watering vehicles carry only water, which cannot contaminate water sources, so they may pass.	صح: عربيات رش الشوارع شايلة مية بس، ومش هتلوث مصادر المية، فتعدي.
+382f8e7e5e	False: the ban covers any vehicle carrying water-polluting substances, trailers included.	غلط: المنع بيشمل أي مركبة شايلة مواد بتلوث المية، والمقطورات كمان.
+8e16a756f7	False: it is a prohibition sign, not a warning of flooding; it bans vehicles carrying water-polluting substances.	غلط: دي علامة منع مش تحذير من غرق؛ بتمنع العربيات الشايلة مواد بتلوث المية.
+bef576ff05	False: it does not warn of water on the road; it bans loads that could contaminate water.	غلط: مش بتحذر من مية على الطريق؛ بتمنع الحمولات اللي ممكن تلوث المية.
+f2a7ff3271	False: it concerns transit, not parking, and only of vehicles carrying water-polluting substances.	غلط: هي عن المرور مش الركن، وبس للعربيات الشايلة مواد بتلوث المية.
+f6c7f6675b	False: empty tankers carry nothing that can pollute water, so the sign does not ban them.	غلط: التانكات الفاضية مش شايلة حاجة تلوث المية، فالعلامة مش بتمنعها.
+14e4346b05	True: the maximum width sign applies to all vehicles, including those without an engine.	صح: علامة أقصى عرض بتنطبق على كل المركبات، حتى اللي من غير موتور.
+43449a4073	True: it is often placed before a narrowing, where wider vehicles could not pass.	صح: غالبًا بتتحط قبل ضيق في الطريق، العربيات الأعرض ماتقدرش تعدي فيه.
+3036228402	True: it can be used on both urban and extra-urban roads.	صح: ممكن تتحط في طرق المدن والطرق اللي بره.
+046a1ac8b0	True: the number shows the maximum width, load included, of vehicles allowed to pass.	صح: الرقم بيوضح أقصى عرض للمركبات، بالحمولة، المسموح لها تعدي.
+8399de01c6	True: the sign bans vehicles wider than 2.30 m, so a vehicle exactly 2.30 m wide may pass.	صح: العلامة بتمنع المركبات اللي عرضها أكتر من 2.30 متر، فاللي عرضها 2.30 بالظبط تعدي.
+8178f5e584	True: it applies to all vehicles wider than 2.30 m, whatever their type.	صح: بتنطبق على كل المركبات اللي عرضها أكتر من 2.30 متر مهما كان نوعها.
+09312b47b5	False: it indicates a maximum vehicle width, not a distance between vehicles.	غلط: بتوضح أقصى عرض للمركبة، مش مسافة بين العربيات.
+2d6fc2f49c	False: animal-drawn vehicles are vehicles too, so those wider than 2.30 m are banned.	غلط: العربيات اللي بتجرها حيوانات مركبات برضه، فاللي عرضها أكتر من 2.30 متر ممنوعة.
+b8f53489d1	False: buses wider than the limit must also obey it.	غلط: الأتوبيسات اللي أعرض من الحد لازم تلتزم برضه.
+1ddf994760	False: it shows the maximum width of vehicles allowed, not the width of the narrowing itself.	غلط: بتوضح أقصى عرض للمركبات المسموحة، مش عرض الضيق نفسه.
+2524d3d5f4	False: it concerns the whole vehicle or combination, both tractor and trailer.	غلط: بتخص المركبة كلها، الراس والمقطورة الاتنين.
+09744e5ed4	False: it does not give the road width; it limits the width of vehicles.	غلط: مش بتقول عرض الطريق؛ بتحدد عرض المركبات.
+04ac102d6e	True: the maximum height sign shows the maximum height, measured from the road surface and load included, of vehicles that may pass.	صح: علامة أقصى ارتفاع بتوضح أقصى ارتفاع للمركبات، من سطح الطريق وبالحمولة، المسموح لها تعدي.
+0f1784a0d7	True: with 3.50 m shown, vehicles higher than 3.50 m including their load may not pass.	صح: لما مكتوب 3.50 متر، المركبات اللي ارتفاعها بالحمولة أكتر من 3.50 متر ماتعديش.
+f6d073e9ff	True: it indicates the maximum height of vehicles allowed to pass.	صح: بتوضح أقصى ارتفاع للمركبات المسموح لها تعدي.
+b405ff152b	True: the ban is for vehicles higher than 3.50 m, so a machine exactly 3.50 m high may pass.	صح: المنع للمركبات اللي أعلى من 3.50 متر، فالماكينة اللي ارتفاعها 3.50 بالظبط تعدي.
+a947e15686	True: it can be placed both inside and outside built-up areas.	صح: ممكن تتحط جوه المنطقة السكنية وبره.
+3794c1006c	True: it is typically placed before bridges, underpasses or tunnels with limited headroom.	صح: غالبًا بتتحط قبل الكباري أو الأنفاق اللي ارتفاعها محدود.
+510c3d5ba1	False: it limits height, not length; length has its own sign.	غلط: بتحدد الارتفاع مش الطول؛ الطول ليه علامة خاصة.
+73977e064e	False: it does not give the clearance of the passage; it states the maximum height of vehicles allowed.	غلط: مش بتقول ارتفاع الممر نفسه؛ بتقول أقصى ارتفاع للمركبات المسموحة.
+6ceae0d188	False: the ban is valid at all hours, inside and outside built-up areas.	غلط: المنع ساري في كل الأوقات، جوه المنطقة السكنية وبره.
+8458bdd26e	False: the height is measured from the road surface, not from the floor of the load bed.	غلط: الارتفاع بيتقاس من سطح الطريق، مش من أرضية الصندوق.
+acfe0c552a	False: it concerns vehicle height, not safety distance.	غلط: بتخص ارتفاع المركبة، مش مسافة الأمان.
+d8d9f51c78	True: the maximum length sign bans all vehicles, or combinations, longer than 10 m overall.	صح: علامة أقصى طول بتمنع كل المركبات أو المجموعات اللي طولها الكلي أكتر من 10 متر.
+c3ef23ad45	True: the ban concerns vehicles longer than 10 m, so a 10 m vehicle may pass.	صح: المنع للمركبات اللي أطول من 10 متر، فاللي طولها 10 بالظبط تعدي.
+1008b3f5cf	True: it forbids vehicles longer than the length shown.	صح: بتمنع المركبات اللي أطول من الطول المكتوب.
+14ef494048	True: it applies to all vehicles, buses included.	صح: بتنطبق على كل المركبات، والأتوبيسات كمان.
+7dde9e9362	True: the ban is valid day and night.	صح: المنع ساري بالليل والنهار.
+cd8feee0b7	True: for vehicle combinations the total length of vehicle plus trailer counts.	صح: لو مجموعة مركبات، بيتحسب الطول الكلي للعربية والمقطورة مع بعض.
+fbebc5acff	False: it applies to all vehicles, not only goods vehicles.	غلط: بتنطبق على كل المركبات، مش عربيات النقل بس.
+4fbd2b3321	False: it limits vehicle length; it says nothing about distance from following vehicles.	غلط: بتحدد طول المركبة؛ مالهاش علاقة بالمسافة من اللي ورا.
+c76fca151c	False: it is a prohibition, not a parking area; parking is shown by blue P signs.	غلط: دي منع مش مكان ركن؛ الركن ليه علامات P زرقا.
+ddd752edf1	False: it does not set spacing between lorries; it bans vehicles longer than 10 m.	غلط: مش بتحدد مسافة بين عربيات النقل؛ بتمنع المركبات اللي أطول من 10 متر.
+fa2d6e9b35	False: a car with a caravan is a combination whose total length counts; over 10 m it is banned.	غلط: العربية بالكرفان مجموعة والطول الكلي بيتحسب؛ لو فوق 10 متر ممنوعة.
+1d02525962	False: articulated buses longer than 10 m are banned too.	غلط: الأتوبيسات المفصلية اللي أطول من 10 متر ممنوعة برضه.
+1ef790f0a6	False: it limits length, not the safety distance between lorries.	غلط: بتحدد الطول، مش مسافة الأمان بين عربيات النقل.
+b0a20b2559	True: the maximum mass sign bans vehicles whose actual mass at that moment exceeds the value shown.	صح: علامة أقصى وزن بتمنع المركبات اللي وزنها الفعلي وقتها أكتر من الرقم المكتوب.
+3ee2891616	True: with a panel it can also forbid several vehicles from being on the structure (e.g. a bridge) at the same time.	صح: مع لوحة ممكن كمان تمنع أكتر من مركبة يبقوا على المنشأ (زي كوبري) في نفس الوقت.
+9e8bbdd860	True: a lorry with a tare over 7 t has an actual mass above 7 t even when empty, so it is banned.	صح: عربية نقل وزنها فاضي أكتر من 7 طن، وزنها الفعلي فوق 7 طن حتى وهي فاضية، فممنوعة.
+95fdd10491	True: a mass of exactly 7 t does not exceed the limit, so the machine may pass.	صح: وزن 7 طن بالظبط مش بيعدي الحد، فالماكينة تعدي.
+2feec16a94	True: it is typically placed before bridges or structures that can bear only limited weight.	صح: غالبًا بتتحط قبل كباري أو منشآت ماتستحملش غير وزن محدود.
+44e9142ced	False: a vehicle whose heaviest axle alone exceeds the limit certainly exceeds it overall, so it is banned.	غلط: المركبة اللي محورها التقيل لوحده أكتر من الحد أكيد وزنها الكلي أكتر، فممنوعة.
+d7b7f9716a	False: the ban is valid at all hours.	غلط: المنع ساري في كل الأوقات.
+6bb09f3c09	False: it applies to all vehicles, buses included, over the mass shown.	غلط: بتنطبق على كل المركبات اللي أتقل من الرقم، والأتوبيسات كمان.
+fd76dabe54	False: it applies to all vehicles, not only goods vehicles.	غلط: بتنطبق على كل المركبات، مش عربيات النقل بس.
+62d3a9340d	False: the 't' means tonnes; it limits mass, not length.	غلط: الـ 't' معناها طن؛ بتحدد الوزن مش الطول.
+dc6db1b104	True: this sign limits the actual mass on the most heavily loaded axle.	صح: العلامة دي بتحدد الوزن الفعلي على أتقل محور.
+e513daafa3	True: 2.5 t per axle does not exceed the limit, so the lorry may pass.	صح: 2.5 طن على المحور مش بيعدي الحد، فالعربية تعدي.
+34ce9212c0	True: vehicles with an actual axle mass over 2.5 t are banned.	صح: المركبات اللي الوزن الفعلي على محورها أكتر من 2.5 طن ممنوعة.
+b7bb66c9c9	True: what counts is the actual mass on the axle while passing, with the load carried.	صح: اللي بيتحسب هو الوزن الفعلي على المحور وانت معدي، بالحمولة اللي عليك.
+f2f6993969	True: it is often placed before bridges or weak road surfaces.	صح: غالبًا بتتحط قبل كباري أو طرق ضعيفة.
+628fc5aff5	False: it is a prohibition; vehicles over the axle limit may not pass at all.	غلط: دي منع؛ المركبات اللي فوق حد المحور ماتعديش خالص.
+80a0e2a99f	False: it concerns mass per axle, not total vehicle mass.	غلط: هي عن الوزن على المحور، مش الوزن الكلي للمركبة.
+0533a278f0	False: it applies to all vehicles, whatever their wheels.	غلط: بتنطبق على كل المركبات مهما كان نوع عجلها.
+1832921bd6	False: the ban is valid at all hours.	غلط: المنع ساري في كل الأوقات.
+7e2e766695	False: it limits the actual mass per axle, not the maximum laden mass of the vehicle.	غلط: بتحدد الوزن الفعلي على المحور، مش أقصى وزن بالحمولة للمركبة.
+8d645d543f	True: the white disc with black diagonal bars ends all prohibitions previously imposed by signs.	صح: الدايرة البيضا بالخطوط السودا المايلة بتنهي كل المنع اللي اتفرض قبل كده بالعلامات.
+c00499a902	True: it marks the end of previously imposed prohibitions.	صح: بتحدد نهاية المنع اللي اتفرض قبل كده.
+4719c697b9	True: it is the 'via libera' sign, ending earlier restrictions.	صح: دي علامة 'via libera'، بتنهي القيود اللي قبلها.
+b216f00706	True: it belongs to the end-of-restriction signs.	صح: دي من علامات نهاية الإلزام.
+3c64bbdd9a	True: from this point the restrictions previously indicated are no longer valid.	صح: من النقطة دي القيود اللي كانت قبل كده مابقتش سارية.
+74e0ba26b5	False: the end of roadworks has its own sign; this one ends earlier prohibitions.	غلط: نهاية الأشغال ليها علامة خاصة؛ دي بتنهي المنع اللي قبلها.
+62a304f85f	False: it applies to all road users, not only public service vehicles.	غلط: بتنطبق على كل مستخدمي الطريق، مش عربيات الخدمة العامة بس.
+c18f8cc76d	False: the end of a built-up area is shown by the town name sign crossed out.	غلط: نهاية المنطقة السكنية ليها علامة اسم البلد متشطب.
+af52c22aa6	False: danger signs have no end sign; this one ends prohibitions, not dangers.	غلط: علامات الخطر مالهاش علامة نهاية؛ دي بتنهي المنع مش الخطر.
+a4473c156d	True: the speed limit sign crossed by a black bar ends that prescription.	صح: علامة حد السرعة المتشطبة بخط أسود بتنهي الإلزام ده.
+cdb7d372a5	True: it marks the end of the maximum speed limit shown.	صح: بتحدد نهاية حد السرعة الأقصى المكتوب.
+56da987a2c	True: after the end of the 50 limit you may exceed 50 km/h, within the general limits for that road.	صح: بعد نهاية حد الـ 50 تقدر تعدي 50 كم/س، في حدود السرعة العامة للطريق ده.
+c006584ace	True: the general limits for that road type apply again (CdS art. 142).	صح: حدود السرعة العامة لنوع الطريق ده بترجع تطبق (CdS art. 142).
+d3d552d869	True: you may always drive slower, adapting to conditions (CdS art. 141).	صح: دايمًا تقدر تمشي أبطأ على حسب الظروف (CdS art. 141).
+b567edbde8	True: it marks the end of the related speed prohibition.	صح: بتحدد نهاية منع السرعة ده.
+b1b914d7bf	False: it does not set a limit; it ends the 50 km/h limit.	غلط: مش بتحط حد؛ بتنهي حد الـ 50 كم/س.
+5744bdf71e	False: it ends the 50 km/h limit, it does not impose it.	غلط: بتنهي حد الـ 50 كم/س، مش بتفرضه.
+11931d930c	False: the end of the minimum speed is a blue round sign with a red bar; this one ends a maximum limit.	غلط: نهاية السرعة الدنيا علامة دايرية زرقا بشرطة حمرا؛ دي بتنهي حد أقصى.
+cfc737712e	False: it concerns speed, not safety distance.	غلط: هي عن السرعة، مش مسافة الأمان.
+07e554ec26	False: it does not assign lanes; it ends the 50 km/h limit.	غلط: مش بتحدد حارات؛ بتنهي حد الـ 50 كم/س.
+8bbc3215b2	True: the no overtaking sign crossed by a black bar ends the overtaking ban.	صح: علامة ممنوع التخطي المتشطبة بخط أسود بتنهي منع التخطي.
+28545d84a4	True: the end of the ban does not cancel road markings; you still may not cross a continuous line (CdS art. 146).	صح: نهاية المنع مش بتلغي الخطوط؛ لسه ماينفعش تعدي خط متصل (CdS art. 146).
+125fd8fa2d	True: it marks the point where the overtaking ban ends.	صح: بتحدد النقطة اللي منع التخطي بيخلص فيها.
+2b6047be8d	True: it concerns overtaking only and sets no speed limit.	صح: هي عن التخطي بس ومش بتحط حد سرعة.
+bad4c524d0	True: it can be placed both in and outside built-up areas.	صح: ممكن تتحط جوه المنطقة السكنية وبره.
+04518781fa	True: like the ban it ends, it is valid 24 hours a day.	صح: زي المنع اللي بتنهيه، سارية 24 ساعة.
+56b997abc6	False: it ends the overtaking ban for all motor vehicles, not just between cars.	غلط: بتنهي منع التخطي لكل المركبات بالموتور، مش بين العربيات الملاكي بس.
+5b78aba20f	False: transit bans have no end sign of this kind; it ends the overtaking ban.	غلط: منع المرور مالوش علامة نهاية زي دي؛ دي بتنهي منع التخطي.
+efe8ba58ef	False: it imposes nothing; it ends the overtaking ban.	غلط: مش بتفرض حاجة؛ بتنهي منع التخطي.
+9058673ef3	False: the end of a speed limit shows the crossed-out number; this one ends the overtaking ban.	غلط: نهاية حد السرعة فيها الرقم متشطب؛ دي بتنهي منع التخطي.
+b15e2482db	False: it ends the overtaking ban, not a parking ban.	غلط: بتنهي منع التخطي، مش منع الركن.
+a4c69b2c63	False: the safety distance must always be kept; this sign ends only the overtaking ban (CdS art. 149).	غلط: مسافة الأمان لازم دايمًا تتحافظ عليها؛ العلامة دي بتنهي منع التخطي بس (CdS art. 149).
+149cf02b30	False: double parking is always forbidden; this sign ends the overtaking ban.	غلط: الركن صف تاني ممنوع دايمًا؛ العلامة دي بتنهي منع التخطي.
+88aedcffc0	True: once the lorry overtaking ban ends, heavy goods vehicles may overtake again where it is safe.	صح: لما منع تخطي عربيات النقل يخلص، العربيات التقيلة تقدر تتخطى تاني لو آمن.
+d0a81a226b	True: after the end of the ban, a lorry may overtake a bus.	صح: بعد نهاية المنع، عربية النقل تقدر تتخطى أتوبيس.
+e1199a0db3	True: it ends the overtaking ban for goods vehicles over 3.5 t.	صح: بتنهي منع التخطي لعربيات النقل فوق 3.5 طن.
+3de564c56e	False: it ends an overtaking ban; it does not prohibit transit to any vehicle.	غلط: بتنهي منع تخطي؛ مش بتمنع مرور أي مركبة.

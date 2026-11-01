@@ -1,0 +1,100 @@
+e2ecbef647	False: seat belts are compulsory on every journey, however short, including trips under one kilometre in built-up areas (CdS art. 172).	غلط: الحزام إجباري في أي مشوار مهما كان قصير، حتى لو أقل من كيلو جوه المدينة (CdS art. 172).
+955cd54d69	False: children must never travel in an adult's arms; in a crash the adult cannot hold them. Children under 1.50 m must use an approved child restraint (CdS art. 172).	غلط: الأطفال ممنوع يركبوا على حجر حد كبير؛ في الخبطة الكبير مش هيقدر يمسكهم. الأطفال أقل من 1.50 متر لازم يتربطوا في كرسي أطفال معتمد (CdS art. 172).
+687854bf81	True: children under 1.50 m tall must be secured with approved child restraint systems suited to their height and weight (CdS art. 172).	صح: الأطفال اللي طولهم أقل من 1.50 متر لازم يتربطوا في كراسي أطفال معتمدة مناسبة لطولهم ووزنهم (CdS art. 172).
+1928dc64ca	True: children under 3 may not travel in cars without suitable restraint systems (CdS art. 172).	صح: الأطفال أقل من 3 سنين ممنوع يركبوا في عربية مفيهاش كرسي أطفال مناسب (CdS art. 172).
+17b1cb737e	True: with a front airbag, a child may travel on the front seat in a suitable child seat only if the airbag can be deactivated (CdS art. 172).	صح: لو فيه إيرباج قدام، الطفل يركب قدام في كرسي أطفال مناسب بس لو الإيرباج ينفع يتقفل (CdS art. 172).
+776540d322	True: child restraint systems are classified in groups according to the child's weight (or, for newer ones, height) (CdS art. 172).	صح: كراسي الأطفال متقسمة لمجموعات على حسب وزن الطفل (أو طوله في الأنواع الجديدة) (CdS art. 172).
+b27b240fdd	True: child restraint systems must be type-approved and always kept efficient (CdS art. 172).	صح: كراسي الأطفال لازم تكون معتمدة وتفضل شغالة كويس دايمًا (CdS art. 172).
+a52ff793be	False: there are different types of child restraints, divided into groups by the child's weight or height; each must suit the child (CdS art. 172).	غلط: فيه أنواع مختلفة من كراسي الأطفال، متقسمة لمجموعات على حسب الوزن أو الطول؛ وكل واحد لازم يناسب الطفل (CdS art. 172).
+14bba8453a	False: children must always be secured with restraint systems, also on urban journeys (CdS art. 172).	غلط: الأطفال لازم دايمًا يتربطوا في كراسي الأطفال، حتى جوه المدينة (CdS art. 172).
+831d1dd7af	False: child restraints are compulsory at any speed, also below 40 km/h (CdS art. 172).	غلط: كرسي الأطفال إجباري في أي سرعة، حتى أقل من 40 كم/س (CdS art. 172).
+d6a20e1235	False: children must be secured in restraint systems; being within the driver's reach is no protection in a crash (CdS art. 172).	غلط: الأطفال لازم يتربطوا في كراسي الأطفال؛ إنهم قريبين من إيد السواق مش حماية في الخبطة (CdS art. 172).
+9b8d1faf5b	False: carrying a child in an adult's arms is forbidden; the child must be in a suitable restraint system (CdS art. 172).	غلط: إن الطفل يركب على حجر حد كبير ممنوع؛ لازم يبقى في كرسي أطفال مناسب (CdS art. 172).
+5cd7067391	False: the threshold is 1.50 m: children under 1.50 m must use a child restraint, not just the adult seat belt (CdS art. 172).	غلط: الحد هو 1.50 متر: الأطفال أقل من 1.50 متر لازم كرسي أطفال، مش الحزام العادي بس (CdS art. 172).
+4a1ed2111f	False: child seats must be type-approved; home-made seats are not allowed, whoever examines them (CdS art. 172).	غلط: كراسي الأطفال لازم تكون معتمدة؛ الكراسي المعمولة في البيت مش مسموحة، مهما كان مين شافها (CdS art. 172).
+7a6d76f3c1	True: the airbag is an inflatable cushion made of nylon or other synthetic material.	صح: الإيرباج مخدة بتتنفخ معمولة من النايلون أو مادة صناعية تانية.
+d22a26eb66	True: the airbag deploys in a road accident with a violent impact.	صح: الإيرباج بيشتغل في الحادثة لما تبقى الخبطة جامدة.
+c71830eb1c	True: an airbag can be dangerous if it deploys when you are not wearing the seat belt, because your body is thrown against it.	صح: الإيرباج ممكن يبقى خطر لو اشتغل وانت مش رابط الحزام، لأن جسمك بيتقذف عليه.
+e32017dd32	True: the airbag limits injuries caused by occupants hitting the vehicle's internal surfaces in a violent impact.	صح: الإيرباج بيقلل الإصابات اللي بتحصل لما الركاب يتخبطوا في أجزاء العربية من جوه في الخبطة الجامدة.
+ae580f6ef5	True: some airbags, especially the front passenger one, can be deactivated (e.g. for a rear-facing child seat).	صح: بعض الإيرباجات، خصوصًا بتاع الراكب اللي قدام، ممكن تتقفل (زي لما تحط كرسي أطفال ضهره لقدام).
+5edb0a56cf	True: the airbag inflates automatically, triggered by a sensor that detects a violent impact.	صح: الإيرباج بيتنفخ لوحده، بأمر من حساس بيحس بالخبطة الجامدة.
+469a1d396a	True: the airbag inflates in a few milliseconds.	صح: الإيرباج بيتنفخ في كام جزء من الألف من الثانية.
+7ac1ff857f	False: the airbag inflates in a few milliseconds, not seconds; seconds would be far too late.	غلط: الإيرباج بيتنفخ في كام جزء من الألف من الثانية، مش ثواني؛ الثواني هتبقى متأخر جدًا.
+bfba72fa2b	False: the airbag inflates automatically via a sensor, not by pressing a dashboard button.	غلط: الإيرباج بيتنفخ لوحده بحساس، مش بزرار في التابلوه.
+f5a082d707	False: an airbag works only once and cannot be inflated for testing; its efficiency is shown by the warning light.	غلط: الإيرباج بيشتغل مرة واحدة ومينفعش ينفخ عشان تجربه؛ حالته بتبان من لمبة التنبيه.
+13294628bf	False: the airbag is useful in any violent impact, in urban as well as extra-urban traffic.	غلط: الإيرباج مفيد في أي خبطة جامدة، جوه المدينة وبره.
+26cd2aac78	False: the airbag is designed to be used together with the seat belt, which remains compulsory (CdS art. 172).	غلط: الإيرباج معمول يشتغل مع الحزام، والحزام يفضل إجباري (CdS art. 172).
+e7183262ca	False: airbags can be fitted on cars with any number of doors.	غلط: الإيرباج ممكن يتركب في عربيات بأي عدد أبواب.
+28b79da2d9	False: the driver cannot set the impact threshold for the airbag; it is fixed by the manufacturer.	غلط: السواق مينفعش يظبط قوة الخبطة اللي الإيرباج يشتغل عندها؛ دي محددة من المصنع.
+9dcbaa32bc	True: helmets age because of light and heat, which degrade their materials over time.	صح: الخوذة بتقدم بسبب النور والحرارة، اللي بيبوّظوا خاماتها مع الوقت.
+a690946403	True: a helmet must be cleaned with non-corrosive detergents, so as not to damage its materials.	صح: الخوذة لازم تتنضف بمنظفات مش كاوية، عشان خاماتها متبوظش.
+93d811449c	True: solvents can weaken the helmet shell, so they must not be used to clean it.	صح: المذيبات ممكن تضعّف قشرة الخوذة، فممنوع تنضفها بيها.
+7e6288d93e	True: petrol must not be used to clean a helmet, because it damages the shell materials.	صح: البنزين ممنوع تنضف بيه الخوذة، لأنه بيبوّظ خامات القشرة.
+e6b1b74207	True: the helmet is needed to reduce the effects of impacts to the head (CdS art. 171).	صح: الخوذة لازمة عشان تقلل تأثير الخبطات على الراس (CdS art. 171).
+b8dd99e739	True: a full-face helmet also protects the face from injuries in an accident.	صح: الخوذة الكاملة (integrale) بتحمي الوش كمان من الإصابات في الحادثة.
+9a6dfc06f3	True: a visor is useful, as it protects the face and eyes from wind, insects and debris.	صح: الزجاج (الفيزير) مفيد، لأنه بيحمي الوش والعينين من الهوا والحشرات والحاجات الطايرة.
+1f842008b0	True: the visor protects face and eyes from impacts with insects.	صح: الفيزير بيحمي الوش والعينين من خبط الحشرات.
+d4827012c0	True: the helmet must be the correct size, otherwise it may move or come off in a fall.	صح: الخوذة لازم تكون مقاسك، وإلا ممكن تتحرك أو تقع في الوقعة.
+319ec66d05	True: after a strong impact a helmet must be replaced even if the shell shows no visible damage, because the inner padding may be compromised.	صح: بعد خبطة جامدة الخوذة لازم تتغير حتى لو القشرة باين عليها سليمة، لأن الحشو اللي جوه ممكن يكون باظ.
+3990dd40da	True: solvents in paints or glues can weaken the outer shell of the helmet.	صح: المذيبات اللي في البويات أو الغرا ممكن تضعّف القشرة الخارجية للخوذة.
+c00b320d61	True: while riding the helmet must always be correctly fastened (CdS art. 171).	صح: وانت سايق الخوذة لازم تبقى مربوطة صح دايمًا (CdS art. 171).
+756cf56d79	True: a wrongly worn or unfastened helmet may come off or fail to protect in a fall, causing serious injuries (CdS art. 171).	صح: الخوذة اللي متلبسة غلط أو مش مربوطة ممكن تقع أو متحميش في الوقعة، وده يعمل إصابات جامدة (CdS art. 171).
+dd0cb56d71	True: the helmet must be worn also for short trips and at low speed (CdS art. 171).	صح: الخوذة لازم تتلبس حتى في المشاوير القصيرة وبسرعة قليلة (CdS art. 171).
+c866ebe8c8	True: the helmet must also be worn on motor quadricycles without bodywork (quads) (CdS art. 171).	صح: الخوذة لازم تتلبس كمان على الكوادز اللي من غير كابينة (CdS art. 171).
+e9d0cd17e6	True: a scratched or damaged visor must be replaced, because it reduces visibility.	صح: الفيزير المخدوش أو البايظ لازم يتغير، لأنه بيقلل الرؤية.
+9cdf6a01cb	True: the visor must guarantee perfect vision in any light conditions.	صح: الفيزير لازم يضمن رؤية كاملة في أي ظروف نور.
+29e83d9e03	True: the helmet ventilation system limits fogging of the visor.	صح: نظام التهوية في الخوذة بيقلل الشبورة على الفيزير.
+3766c5d7e1	True: riding without a helmet is fined and leads to the deduction of licence points (CdS art. 171, art. 126-bis).	صح: السواقة من غير خوذة عليها غرامة وخصم نقط من الرخصة (CdS art. 171, art. 126-bis).
+570e11eaf7	False: stickers containing solvents can weaken the helmet shell, so not every type of sticker may be applied.	غلط: الاستيكرات اللي فيها مذيبات ممكن تضعّف قشرة الخوذة، فمش أي نوع استيكر ينفع يتحط.
+67dca4f63a	False: petrol and turpentine damage the helmet; it must be cleaned with mild, non-corrosive detergents.	غلط: البنزين والتربنتينا بيبوّظوا الخوذة؛ لازم تتنضف بمنظفات خفيفة مش كاوية.
+35128bf10a	False: the helmet must always be fully fastened, on every road (CdS art. 171).	غلط: الخوذة لازم تبقى مربوطة كويس دايمًا، في أي طريق (CdS art. 171).
+c2ba0219bd	False: the helmet is compulsory at any speed, also in 30 km/h zones (CdS art. 171).	غلط: الخوذة إجبارية في أي سرعة، حتى في مناطق الـ 30 كم/س (CdS art. 171).
+8c5750ee1b	False: the helmet is compulsory on quadricycles without bodywork, not on those with a body and restraint systems (CdS art. 171).	غلط: الخوذة إجبارية على الكوادز اللي من غير كابينة، مش على اللي ليها كابينة وأحزمة (CdS art. 171).
+cd5a4cd2a9	False: the helmet ages with light and heat, so its protection decreases over time; it does not last unchanged for over twenty years.	غلط: الخوذة بتقدم من النور والحرارة، فحمايتها بتقل مع الوقت؛ مش بتفضل زي ما هي أكتر من 20 سنة.
+89eb6b9da0	False: a full-face helmet may be used anywhere, including in busy urban areas, and offers the best protection.	غلط: الخوذة الكاملة ينفع تتلبس في أي مكان، حتى في المدن الزحمة، وهي أحسن حماية.
+a59661040c	False: a full-face helmet is useful also on mopeds, protecting the face in a fall.	غلط: الخوذة الكاملة مفيدة كمان على الموتوبيكان، بتحمي الوش في الوقعة.
+b691d83379	False: the helmet obligation applies to everyone, whatever their age or experience (CdS art. 171).	غلط: إلزام الخوذة على الكل، مهما كان سنهم أو خبرتهم (CdS art. 171).
+c250a708bd	False: the helmet is always compulsory, whatever the air temperature (CdS art. 171).	غلط: الخوذة إجبارية دايمًا، مهما كانت درجة الحرارة (CdS art. 171).
+ef7c538951	False: a good, clean visor does not worsen visibility; it protects eyes and face and should be used.	غلط: الفيزير الكويس النضيف مش بيقلل الرؤية؛ بيحمي العينين والوش والمفروض تستخدمه.
+7f77a6120b	False: a helmet with a broken shell must be replaced; adhesive tape cannot restore its protection.	غلط: الخوذة اللي قشرتها مكسورة لازم تتغير؛ الشريط اللاصق مش هيرجّع حمايتها.
+5805db4f66	False: a damaged visor must be replaced, not repaired with tape, which reduces visibility.	غلط: الفيزير البايظ لازم يتغير، مش يتصلح بشريط لاصق بيقلل الرؤية.
+c516c3fd38	False: helmets for mopeds must be type-approved, like those for motorcycles (CdS art. 171).	غلط: خوذة الموتوبيكان لازم تكون معتمدة، زي خوذة الموتوسيكل (CdS art. 171).
+0b3b0a191f	True: motorcycle boots give proper protection to feet and ankles when riding two-wheelers.	صح: البوت بتاع الموتوسيكلات بيدّي حماية كويسة للرجلين والكاحل وانت سايق عجلتين.
+c73b22e151	True: motorcycle boots reduce sprains if the foot is placed badly and protect the ankle joints from cold.	صح: بوت الموتوسيكلات بيقلل الالتواء لو رجلك اتحطت غلط وبيحمي مفصل الكاحل من البرد.
+09c89a4929	True: motorcycle boots have no loose straps or laces, so they cannot get caught on the motorcycle's pedals.	صح: بوت الموتوسيكلات ملوش أربطة أو شرايط سايبة، عشان متتشبكش في دواسات الموتوسيكل.
+f2a9b57a0e	True: motorcycle boots protect feet from abrasion on the asphalt in a fall.	صح: بوت الموتوسيكلات بيحمي الرجلين من الاحتكاك بالأسفلت في الوقعة.
+cc63d9d150	True: motorcycle boots are type-approved according to international standards.	صح: بوت الموتوسيكلات معتمد على حسب معايير دولية.
+55d64063d5	True: approved motorcycle footwear is designed not to come off in a fall.	صح: البوت المعتمد للموتوسيكلات معمول بحيث ميطلعش من رجلك في الوقعة.
+69862f51b1	False: trekking shoes are not designed for motorcycling and do not give the same protection as approved motorcycle boots.	غلط: جزم التريكنج مش معمولة للموتوسيكلات ومش بتدّي نفس حماية البوت المعتمد.
+8b37d4423e	False: motorcycle boots have no laces that could catch on the pedals; they use closures that keep them on in a fall.	غلط: بوت الموتوسيكلات ملوش أربطة ممكن تتشبك في الدواسات؛ بيتقفل بطرق بتخليه ميطلعش في الوقعة.
+160c7afb83	False: motorcycle boots do not have steel soles; they have reinforced, non-slip soles that allow feeling the controls.	غلط: بوت الموتوسيكلات مش نعله حديد؛ نعله مقوّى ومش بيزحلق وبيخليك تحس بالدواسات.
+08b46a56e8	False: motorcycle boots cover the foot, ankle and part of the leg, not above the knee.	غلط: بوت الموتوسيكلات بيغطي الرجل والكاحل وجزء من الساق، مش فوق الركبة.
+0956a96e94	False: motorcycle boots need not be made entirely of fireproof rubber; they are usually made of leather or technical materials.	غلط: بوت الموتوسيكلات مش لازم يكون كله كاوتش ضد النار؛ غالبًا بيتعمل من جلد أو خامات مخصوصة.
+84ef613755	False: specific, type-approved motorcycle boots do exist and protect better than shoes for hunting, fishing or climbing.	غلط: فيه بوت مخصوص للموتوسيكلات ومعتمد، وبيحمي أحسن من جزم الصيد أو تسلق الجبال.
+0eddbe6a2a	True: when riding mopeds or motorcycles it is advisable to wear protective gloves.	صح: وانت سايق موتوبيكان أو موتوسيكل الأحسن تلبس جوانتي حماية.
+a21cb21dda	True: approved motorcycle gloves especially protect the back of the hand in impacts with hard objects.	صح: الجوانتي المعتمد للموتوسيكلات بيحمي بالذات ضهر الإيد لو اتخبطت في حاجة ناشفة.
+ce8bbff52f	True: motorcycle gloves protect the palm when sliding on the asphalt in a fall.	صح: جوانتي الموتوسيكلات بيحمي كف الإيد لو اتزحلقت على الأسفلت في الوقعة.
+a342009d1d	True: motorcycle gloves give the right sensitivity and a safer grip on the controls.	صح: جوانتي الموتوسيكلات بيدّيك إحساس كويس ومسكة أأمن على الدركسيون والعتلات.
+a44fdcf149	True: motorcycle gloves can have different padding depending on the season.	صح: جوانتي الموتوسيكلات ممكن يبقى حشوه مختلف على حسب الموسم.
+8f173842d3	True: specific gloves should be worn also in summer, because they protect the hands in a fall.	صح: الجوانتي المخصوص المفروض يتلبس حتى في الصيف، لأنه بيحمي الإيد في الوقعة.
+8f30184b05	True: motorcycle gloves have special fastening systems to prevent them coming off in a fall.	صح: جوانتي الموتوسيكلات فيه طرق قفل مخصوصة عشان ميطلعش في الوقعة.
+5c81303448	False: type-approved motorcycle gloves do exist.	غلط: فيه جوانتي موتوسيكلات معتمد فعلًا.
+decb312aef	False: ski gloves are not designed for motorcycling and do not replace approved motorcycle gloves.	غلط: جوانتي التزلج مش معمول للموتوسيكلات ومش بديل عن الجوانتي المعتمد.
+73a1dc6497	False: riding without gloves does not improve your reaction on the controls; proper gloves give good sensitivity and a safer grip.	غلط: السواقة من غير جوانتي مش بتخليك أسرع على العتلات؛ الجوانتي الكويس بيدّي إحساس كويس ومسكة أأمن.
+c44d37066f	False: motorcycle gloves are recognised by their approval marking, not by colour or a printed motorcycle shape.	غلط: جوانتي الموتوسيكلات بيتعرف بعلامة الاعتماد، مش باللون أو رسمة موتوسيكل.
+6ee7fab951	False: motorcycle gloves protect hand and wrist; they do not reach the elbow, which is protected by the jacket.	غلط: جوانتي الموتوسيكلات بيحمي الإيد والرسغ؛ مش بيوصل للكوع، اللي بتحميه الجاكيت.
+a360a5c816	False: motorcycle gloves are suitable and useful also for riding two-wheeled mopeds.	غلط: جوانتي الموتوسيكلات مناسب ومفيد كمان لسواقة الموتوبيكان.
+f6cd915212	False: the main purpose of motorcycle gloves is protection in falls and impacts, so they are useful in summer too.	غلط: الهدف الأساسي من جوانتي الموتوسيكلات الحماية في الوقعات والخبطات، فهو مفيد في الصيف كمان.
+178a4a9695	True: motorcycle jackets give adequate protection against abrasion when sliding on the asphalt.	صح: جاكيت الموتوسيكلات بيدّي حماية كويسة من الاحتكاك لو اتزحلقت على الأسفلت.
+a1bb5cff2e	True: motorcycle jackets have rigid protective inserts at the joints (shoulders, elbows, back).	صح: جاكيت الموتوسيكلات فيه حمايات ناشفة عند المفاصل (الكتف، الكوع، الضهر).
+bdb4fd47b1	True: approved motorcycle clothing is tested for resistance to cutting and impact abrasion.	صح: لبس الموتوسيكلات المعتمد بيتختبر في مقاومة القطع والاحتكاك من الخبط.
+ce43674705	False: approval tests concern protection (cutting, abrasion, impact), not resistance to washing.	غلط: اختبارات الاعتماد بتاعة الحماية (القطع، الاحتكاك، الخبط)، مش مقاومة الغسيل.
+0fd9364c2d	False: motorcycle jackets exist also in summer versions, ventilated but still protective.	غلط: فيه جاكيتات موتوسيكلات صيفي كمان، فيها تهوية وبرضه بتحمي.
+50ba50c93a	False: approved motorcycle jackets can be of any colour; bright colours even make the rider more visible.	غلط: جاكيت الموتوسيكلات المعتمد ممكن يبقى أي لون؛ والألوان الفاتحة كمان بتخليك تبان أكتر.
+1b41533785	True: a motor vehicle may not be used on public roads without compulsory third-party liability insurance (CdS art. 193).	صح: ممنوع تمشي بعربية في الطريق العام من غير تأمين المسؤولية المدنية الإجباري (CdS art. 193).
+267428f6ed	True: driving a vehicle without the licence category required for it is forbidden (CdS art. 116).	صح: ممنوع تسوق عربية من غير رخصة الفئة المطلوبة ليها (CdS art. 116).
+a9fc3cc865	True: as a rule, an unregistered motor vehicle may not be driven on public roads (CdS art. 93).	صح: كقاعدة، ممنوع تسوق عربية مش مترخصة في الطريق العام (CdS art. 93).
+14510a38e6	False: you do not need to carry the receipt for the ownership tax (bollo); it is not a document required while driving (CdS art. 180).	غلط: مش لازم يكون معاك وصل دفع ضريبة الملكية (bollo)؛ ده مش من الورق المطلوب وانت سايق (CdS art. 180).
+455595d332	False: vehicles with trial plates (targa prova) may circulate on public roads for tests and trials, within the rules for their use.	غلط: العربيات اللي عليها نمرة تجربة (targa prova) مسموح لها تمشي في الطريق العام للتجارب، في حدود قواعد استخدامها.
+247bc43c5a	False: you may drive a vehicle registered in someone else's name, with the owner's consent; the driver need not be the owner.	غلط: ممكن تسوق عربية باسم حد تاني بموافقة صاحبها؛ مش لازم السواق يكون هو المالك.
+7022f89035	False: the manufacturer's warranty has nothing to do with the right to drive on public roads; what is required is registration, insurance and periodic inspection.	غلط: ضمان الشركة ملوش علاقة بحقك تمشي في الطريق العام؛ المطلوب الترخيص والتأمين والفحص الدوري.

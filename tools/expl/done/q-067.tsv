@@ -1,0 +1,100 @@
+9bb68542ae	True: an open sunroof at high speed increases air resistance, so the engine needs more fuel.	صح: فتحة السقف المفتوحة في السرعة العالية بتزوّد مقاومة الهوا، فالموتور بيحتاج بنزين أكتر.
+a768a6dbca	False: during a long stop in a queue in a tunnel, air recirculation prevents polluted tunnel air and exhaust fumes from entering the passenger compartment, so it is useful, not harmful.	غلط: في الوقفة الطويلة في زحمة جوه النفق، تدوير الهوا الداخلي بيمنع هوا النفق الملوث والعادم يدخل الكابينة، فهو مفيد مش مضر.
+b4a1e3e773	False: Euro 4 vehicles are much cleaner than Euro 0 ones; the higher the Euro class, the lower the polluting emissions.	غلط: عربيات Euro 4 أنضف بكتير من Euro 0؛ كل ما رقم Euro يعلى التلوث يقل.
+aa62209f5c	False: towing a trailer adds weight and air resistance, so fuel consumption increases.	غلط: شد مقطورة بيزوّد الوزن ومقاومة الهوا، فاستهلاك البنزين بيزيد.
+5f99531724	True: modifying the engine or exhaust changes the vehicle's approved characteristics; driving it unchecked brings heavy fines and withdrawal of the registration document (CdS art. 78).	صح: تعديل الموتور أو الشكمان بيغيّر مواصفات العربية المعتمدة؛ وسواقتها من غير فحص عقوبتها غرامات تقيلة وسحب رخصة العربية (CdS art. 78).
+a37646c4b2	False: the engine and exhaust may not be modified freely; any change to approved characteristics requires inspection and approval (CdS art. 78).	غلط: الموتور والشكمان مينفعش يتعدلوا على مزاجك؛ أي تغيير في المواصفات المعتمدة محتاج فحص وموافقة (CdS art. 78).
+200ac67420	True: antifreeze contains toxic substances that may not be biodegradable, so it must not be poured into drains but taken to authorised collection points.	صح: سائل التبريد (antifreeze) فيه مواد سامة ممكن ماتتحللش، فممنوع ترميه في المجاري ولازم يروح لأماكن تجميع معتمدة.
+db3f3776e1	True: a car battery contains acid and heavy metals such as lead, which can pollute the soil and groundwater if abandoned.	صح: بطارية العربية فيها حمض ومعادن تقيلة زي الرصاص، ولو اترمت ممكن تلوث الأرض والمية الجوفية.
+924b0435a9	True: when you buy a new battery the retailer must take back the used one free of charge for proper disposal.	صح: لما تشتري بطارية جديدة البياع لازم ياخد منك القديمة ببلاش عشان يتخلص منها صح.
+7395ac7048	True: a vehicle to be scrapped must be delivered to an authorised collection centre, which treats it safely and arranges cancellation from the vehicle register.	صح: العربية اللي هتتكهن لازم تتسلم لمركز تجميع معتمد، بيعالجها بأمان وبيشيلها من سجل العربيات.
+c2a46524a0	True: used engine oil is harmful to the skin, so prolonged contact must be avoided, for example by wearing gloves.	صح: زيت الموتور المستعمل بيضر الجلد، فلازم تتجنب لمسه مدة طويلة، زي إنك تلبس جوانتي.
+3baa817ccc	True: motor caravans must empty organic waste and grey water only at the dedicated sanitary disposal points (camper service areas).	صح: عربيات الكرفان لازم تفضّي الصرف والمية الوسخة بس في الأماكن المخصصة لكده (محطات خدمة الكرفانات).
+6f62dafa39	False: abandoning hazardous waste such as oils, fluids or repair residues on the ground is a serious environmental offence and is punished.	غلط: رمي النفايات الخطيرة زي الزيوت والسوايل وبواقي التصليح على الأرض مخالفة بيئية خطيرة وليها عقوبة.
+c0556b5aae	False: a vehicle to be scrapped may be delivered to an authorised collection centre or to a dealer, not exclusively to the manufacturer's dealer.	غلط: العربية اللي هتتكهن ممكن تتسلم لمركز تجميع معتمد أو لتاجر، مش لوكيل الشركة المصنعة بس.
+0270429563	True: it is forbidden to damage roads, road works and installations such as signs and barriers (CdS art. 15).	صح: ممنوع تبوّظ الطرق وأعمالها ومنشآتها زي العلامات والسور (CdS art. 15).
+b173fa452c	True: throwing objects or rubbish from vehicles is forbidden because it dirties the road and can endanger other users (CdS art. 15).	صح: رمي أي حاجة أو زبالة من العربية ممنوع لأنه بيوسّخ الطريق وممكن يعرّض الناس للخطر (CdS art. 15).
+bcd88e89d1	True: it is forbidden to dirty the carriageway by leaving rubbish or other materials on it (CdS art. 15).	صح: ممنوع توسّخ نهر الطريق بإنك تسيب عليه زبالة أو أي حاجة (CdS art. 15).
+ed1b2124f1	True: entering a road with muddy wheels dirties it and reduces grip for others, so it is forbidden (CdS art. 15).	صح: إنك تدخل الطريق وعجلك مليان طين بيوسّخه وبيقلل المسك للناس التانية، فده ممنوع (CdS art. 15).
+4868820c78	False: driving practice is allowed with a learner's permit (foglio rosa) and a qualified companion; it is not forbidden on all roads (CdS art. 122).	غلط: التدريب على السواقة مسموح بتصريح التعليم (foglio rosa) ومعاك مرافق مؤهل؛ مش ممنوع في كل الطرق (CdS art. 122).
+a5d3ba2ba6	False: the horn is allowed when needed for safety; it is restricted, not banned on all roads (CdS art. 156).	غلط: الكلاكس مسموح لما يكون ضروري للأمان؛ استعماله متقيد بس مش ممنوع في كل الطرق (CdS art. 156).
+d808027003	False: vehicles longer than 10 m are not banned on all roads; only specific roads may have length limits shown by signs.	غلط: العربيات اللي طولها أكتر من 10 متر مش ممنوعة في كل الطرق؛ بس طرق معينة ممكن يبقى فيها حد للطول بعلامات.
+8cb320061a	False: parking is not generally forbidden in residential zones; you may park where it is allowed by signs and markings.	غلط: الركن مش ممنوع بشكل عام في المناطق السكنية؛ تقدر تركن في الأماكن اللي العلامات والخطوط بتسمح فيها.
+d8723789b3	True: grip between tyres and road lets the wheels transmit the engine's force, so the vehicle can move.	صح: مسك الكاوتش في الأرض هو اللي بيخلي العجل ينقل قوة الموتور، فالعربية تقدر تتحرك.
+c6fd0cf567	True: on a bend grip opposes the force pushing the vehicle outwards, preventing it from skidding off.	صح: في المنحنى المسك بيقاوم القوة اللي بتزق العربية لبره، فبيمنعها تتزحلق وتطلع.
+8f8a0bb9b4	True: grip allows the tyres to follow the path set by the steering wheel.	صح: المسك بيخلي الكاوتش يمشي في الاتجاه اللي الدريكسيون بيحدده.
+000c94fd03	True: grip is the force that prevents the tyre from slipping on the asphalt.	صح: المسك هو القوة اللي بتمنع الكاوتش يتزحلق على الأسفلت.
+705f071756	False: grip opposes every sideways slide, including one caused by crosswind.	غلط: المسك بيقاوم أي زحلقة للجنب، حتى اللي سببها الهوا الجانبي.
+5f1aa0aa15	False: brake overheating comes from prolonged or repeated braking, not from too much grip; good grip only makes braking more effective.	غلط: سخونية الفرامل بتيجي من الفرملة الطويلة أو الكتير، مش من المسك الزيادة؛ المسك الكويس بيخلي الفرملة أحسن بس.
+8cf47e42c4	True: rough asphalt gives tyres more to hold on to, so grip increases.	صح: الأسفلت الخشن بيدّي الكاوتش حاجة يمسك فيها أكتر، فالمسك بيزيد.
+925a055eaf	True: water forms a layer between tyre and asphalt, so grip decreases on a wet road.	صح: المية بتعمل طبقة بين الكاوتش والأسفلت، فالمسك بيقل في الطريق المبلول.
+cdd6ab1402	False: a wet road reduces grip, it does not increase it.	غلط: الطريق المبلول بيقلل المسك، مش بيزوّده.
+bd702002b6	False: leaves on the road, especially when wet, make the surface slippery and reduce grip.	غلط: ورق الشجر على الطريق، خصوصاً لو مبلول، بيخلي الأرض زلقة وبيقلل المسك.
+8ea17dd193	False: ice is the most slippery surface and reduces grip drastically.	غلط: الجليد أكتر سطح زلق وبيقلل المسك جداً.
+ec99e98ae5	False: mud makes the road slippery and greatly reduces grip.	غلط: الطين بيخلي الطريق زلق وبيقلل المسك جداً.
+ca485c8c99	True: with a lower grip coefficient the driving wheels can spin when accelerating.	صح: لما معامل المسك يقل عجل الجر ممكن يلف في مكانه وانت بتدوس بنزين.
+2c7cd8d713	True: less grip means the tyres cannot brake as hard, so the braking distance gets longer.	صح: مسك أقل معناه إن الكاوتش مايقدرش يفرمل جامد، فمسافة الفرملة بتطول.
+939c533994	True: when grip is low you must reduce speed to keep control and stop in time (CdS art. 141).	صح: لما المسك يبقى قليل لازم تهدّي السرعة عشان تفضل مسيطر وتقدر توقف في الوقت المناسب (CdS art. 141).
+705d3d62c7	False: lower grip lengthens the braking distance, it does not shorten it.	غلط: المسك الأقل بيطوّل مسافة الفرملة، مش بيقصّرها.
+f71ce48aaf	False: with low grip you must slow down everywhere, because braking distances are longer on straights too (CdS art. 141).	غلط: مع المسك القليل لازم تهدّي في كل حتة، لأن مسافة الفرملة بتطول في الطريق المستقيم كمان (CdS art. 141).
+8ec8a30d2b	True: low grip reduces the maximum speed at which a bend can be taken safely.	صح: المسك القليل بيقلل أقصى سرعة تقدر تاخد بيها المنحنى بأمان.
+a02dc7fa43	True: with low grip the tyres cannot resist the outward force on bends, so skidding is more likely.	صح: مع المسك القليل الكاوتش مش بيقدر يقاوم القوة اللي بتزق لبره في المنحنى، فالزحلقة بتبقى أسهل.
+295a7eee18	True: low grip increases the braking distance.	صح: المسك القليل بيطوّل مسافة الفرملة.
+3176c3aee3	True: with low grip sudden braking can lock the wheels and make the vehicle skid.	صح: مع المسك القليل الفرملة المفاجئة ممكن تقفل العجل وتزحلق العربية.
+499ae6bd7f	False: low grip limits the speed you can safely keep, so speed must be reduced (CdS art. 141).	غلط: المسك القليل بيحدد السرعة اللي تقدر تمشي بيها بأمان، فلازم تهدّي (CdS art. 141).
+105f735595	False: low grip makes braking distances longer, not shorter.	غلط: المسك القليل بيطوّل مسافة الفرملة، مش بيقصّرها.
+be517674df	False: low grip does not reduce consumption; it only makes the vehicle harder to control.	غلط: المسك القليل مابيقللش الاستهلاك؛ بيخلي العربية بس أصعب في السيطرة.
+e5a4f5634d	False: low grip increases skidding on bends, it does not reduce it.	غلط: المسك القليل بيزوّد الزحلقة في المنحنيات، مش بيقللها.
+59431f660e	True: tram rails are smooth metal and very slippery, especially in rain, so motorcyclists must cross them carefully, upright and at a good angle.	صح: قضبان الترام حديد ناعم وزلق جداً، خصوصاً في المطر، فراكب الموتوسيكل لازم يعديها بحذر والموتوسيكل معدول وبزاوية مناسبة.
+b48c0372e4	True: painted road markings become slippery when wet, so motorcyclists must avoid braking or leaning on them.	صح: الخطوط المدهونة على الأرض بتبقى زلقة لما تتبل، فراكب الموتوسيكل لازم يتجنب الفرملة أو الميل عليها.
+5be2a51a29	False: grip depends greatly on the road surface: asphalt type, wetness, dirt, markings, rails and so on.	غلط: المسك بيعتمد جداً على سطح الطريق: نوع الأسفلت، المية، الوساخة، الخطوط، القضبان وغيرها.
+afa1a320db	False: a passenger changes the motorcycle's handling and braking, but does not in itself reduce tyre grip on the road.	غلط: الراكب اللي ورا بيغيّر طريقة تحكم الموتوسيكل وفرملته، بس هو نفسه مابيقللش مسك الكاوتش في الأرض.
+fea123ddbc	True: oil on the road makes the surface very slippery and greatly reduces grip.	صح: الزيت على الطريق بيخلي الأرض زلقة جداً وبيقلل المسك جامد.
+d7f099730d	True: dry, clean asphalt offers the best grip.	صح: الأسفلت الناشف والنضيف بيدّي أحسن مسك.
+1e84cd87e4	False: tyre pressure affects grip: too low or too high pressure reduces the contact with the road and worsens grip.	غلط: ضغط الكاوتش بيأثر على المسك: الضغط القليل أو الزيادة بيقللوا التلامس مع الأرض وبيضعفوا المسك.
+4d7615a5c0	True: on a bend centrifugal force pushes the vehicle towards the outside of the curve.	صح: في المنحنى القوة الطاردة بتزق العربية لبره المنحنى.
+2f991d2d84	True: too much speed on a bend makes the outward force exceed grip, so the vehicle can skid.	صح: السرعة الزيادة في المنحنى بتخلي القوة اللي لبره أكبر من المسك، فالعربية ممكن تتزحلق.
+dd89aa314e	True: too much speed on a bend can make the vehicle overturn, especially if it is high or loaded high.	صح: السرعة الزيادة في المنحنى ممكن تقلب العربية، خصوصاً لو عالية أو حمولتها فوق.
+ae32aa563c	False: on a bend the vehicle is pushed outwards (centrifugal force), not inwards.	غلط: في المنحنى العربية بتتزق لبره (القوة الطاردة)، مش لجوه.
+0999b3f86d	False: centrifugal force grows with speed, so you must slow down before the bend to avoid skidding.	غلط: القوة الطاردة بتزيد مع السرعة، فلازم تهدّي قبل المنحنى عشان ماتتزحلقش.
+d62b10473f	False: higher speed increases the overturning force; you must slow down before the bend.	غلط: السرعة الأعلى بتزوّد القوة اللي بتقلب العربية؛ لازم تهدّي قبل المنحنى.
+9206e872c7	True: a high load raises the centre of gravity, making the vehicle more likely to overturn on bends.	صح: الحمولة العالية بتعلّي مركز الثقل، فالعربية بتبقى أسهل تتقلب في المنحنيات.
+71053cb146	True: an unsecured load can shift towards the outside of the bend, unbalancing the vehicle and favouring overturning (CdS art. 164).	صح: الحمولة اللي مش مربوطة ممكن تتزحلق لبره المنحنى وتخل بتوازن العربية وتسهّل إنها تتقلب (CdS art. 164).
+c6510dd139	True: a narrow track gives less lateral stability, so the vehicle overturns more easily.	صح: المسافة الضيقة بين العجلتين على نفس المحور بتقلل الثبات الجانبي، فالعربية بتتقلب أسهل.
+5328c83bf9	True: a tight bend (small radius) produces a stronger outward force at the same speed, making overturning more likely.	صح: المنحنى الحاد (نصف قطره صغير) بيعمل قوة أكبر لبره في نفس السرعة، فالانقلاب بيبقى أسهل.
+961dcb6084	False: a wide track increases stability and reduces the risk of overturning.	غلط: المسافة الواسعة بين العجل بتزوّد الثبات وبتقلل خطر الانقلاب.
+9d656c9557	False: a load placed low lowers the centre of gravity and reduces the risk of overturning.	غلط: الحمولة الواطية بتوطّي مركز الثقل وبتقلل خطر الانقلاب.
+8b8ae48523	False: a gentle bend (large radius) produces a smaller outward force, so overturning is less likely.	غلط: المنحنى الواسع (نصف قطره كبير) بيعمل قوة أقل لبره، فالانقلاب بيبقى أصعب.
+ffa552c60e	True: centrifugal force grows with the square of speed, so the overturning force increases sharply as speed rises.	صح: القوة الطاردة بتزيد مع مربع السرعة، فالقوة اللي بتقلب العربية بتزيد جامد كل ما تسرع.
+328378f50e	False: the overturning force increases with speed, it does not decrease.	غلط: القوة اللي بتقلب العربية بتزيد مع السرعة، مش بتقل.
+1e446a781f	True: ABS prevents the wheels from locking during braking.	صح: الـ ABS بيمنع العجل يقفل وانت بتفرمل.
+1e5bf23c7b	True: since the wheels keep turning, ABS lets you steer and avoid obstacles even during emergency braking.	صح: عشان العجل بيفضل يلف، الـ ABS بيخليك تقدر تلف الدريكسيون وتتفادى العوائق حتى في الفرملة المفاجئة.
+56b00a7026	True: ABS keeps each wheel at the limit of grip without locking, using the maximum available grip.	صح: الـ ABS بيخلي كل عجلة على آخر حد للمسك من غير ما تقفل، فبيستغل أقصى مسك متاح.
+841139487c	True: ABS monitors all wheels and acts each time on those about to lock.	صح: الـ ABS بيراقب كل العجل وبيتدخل كل مرة على العجلة اللي هتقفل.
+0c3c2d0a98	True: ABS works whatever the tyre condition, but with worn tyres grip is lower and braking distances are longer anyway.	صح: الـ ABS بيشتغل مهما كانت حالة الكاوتش، بس مع الكاوتش الدايب المسك أقل ومسافة الفرملة أطول في كل الأحوال.
+0ba1aeb3b4	True: ABS also works on wet roads, where it is especially useful because wheels lock more easily.	صح: الـ ABS بيشتغل كمان في الطريق المبلول، وهو مفيد هناك بالذات لأن العجل بيقفل أسهل.
+f08aa3e584	True: by preventing wheel lock ABS keeps the vehicle steerable and stable, making braking safer.	صح: لما الـ ABS يمنع العجل يقفل بيخلي العربية تتلف وثابتة، فالفرملة بتبقى أأمن.
+fb2609a9cc	False: ABS prevents the wheels from locking, it does not promote it.	غلط: الـ ABS بيمنع العجل يقفل، مش بيساعده يقفل.
+1a0fe1bdaf	False: ABS lets you change direction while braking, because the wheels do not lock.	غلط: الـ ABS بيخليك تقدر تغيّر الاتجاه وانت بتفرمل، لأن العجل مابيقفلش.
+f4efd32f4b	False: ABS helps use the maximum available grip during braking.	غلط: الـ ABS بيساعدك تستغل أقصى مسك متاح وانت بتفرمل.
+fae31d58fd	False: ABS acts on all wheels, driving wheels included.	غلط: الـ ABS بيشتغل على كل العجل، ومنها عجل الجر.
+82e5f3a9de	False: ABS also works with worn tyres, though grip is lower and braking distances longer.	غلط: الـ ABS بيشتغل كمان مع الكاوتش الدايب، بس المسك بيبقى أقل ومسافة الفرملة أطول.
+814d482515	True: tyre pressure must be checked regularly, including the spare wheel, so it is ready when needed.	صح: ضغط الكاوتش لازم يتشاف بانتظام، ومعاه الاستبن، عشان يبقى جاهز وقت الحاجة.
+c90a26d976	True: tyre pressure must suit the load: with a heavy load it is raised as indicated by the manufacturer.	صح: ضغط الكاوتش لازم يبقى على قد الحمولة: لو الحمولة تقيلة بيتزوّد حسب كلام الشركة المصنعة.
+798230625b	True: the correct pressure depends on load and number of passengers, as shown in the vehicle's manual.	صح: الضغط الصح بيعتمد على الحمولة وعدد الركاب، زي ما مكتوب في كتالوج العربية.
+9922cd114f	True: under-inflated tyres increase rolling friction, raising fuel consumption and wear.	صح: الكاوتش اللي هواه قليل بيزوّد الاحتكاك، فاستهلاك البنزين والدوبان بيزيدوا.
+84fc6ea1be	True: pressure must be checked with cold tyres, because heat from driving raises the reading.	صح: الضغط لازم يتقاس والكاوتش بارد، لأن السخونية من السواقة بتعلّي القراية.
+1f37d0f566	True: a tyre pressure monitoring system warns the driver of pressure loss, increasing safety.	صح: جهاز مراقبة ضغط الكاوتش بينبّه السواق لو الضغط قل، فالأمان بيزيد.
+a908fc92c4	False: a hot tyre shows a higher pressure than the real cold value, so the reading is not correct.	غلط: الكاوتش السخن بيبين ضغط أعلى من الحقيقي وهو بارد، فالقراية مش مظبوطة.
+6e38bdcce9	False: pressure must be checked with cold tyres, not after driving when they are hot.	غلط: الضغط لازم يتقاس والكاوتش بارد، مش بعد السواقة وهو سخن.
+2beaba2654	False: tyre pressure depends on the vehicle, tyre size and load as stated by the manufacturer, not on the rim material.	غلط: ضغط الكاوتش بيعتمد على العربية ومقاس الكاوتش والحمولة حسب الشركة المصنعة، مش على نوع الجنط.
+17e888ff57	False: tyres must be at the pressure indicated by the manufacturer for the load carried; there is no general rule to increase it before a long journey.	غلط: الكاوتش لازم يبقى على الضغط اللي الشركة كاتباه حسب الحمولة؛ مفيش قاعدة عامة إنك تزوّده قبل سفرية طويلة.
+c9a3033376	False: each vehicle has its own tyre pressures set by the manufacturer; the car and trailer pressures need not be the same.	غلط: كل مركبة ليها ضغط كاوتش خاص بيها حسب الشركة؛ العربية والمقطورة مش لازم يبقوا نفس الضغط.
+e00ddc93e9	True: the minimum legal tread depth for car tyres is 1.6 mm.	صح: أقل عمق قانوني لحزوز كاوتش العربيات 1,6 مم.
+4d2bbb0d21	True: rubber ages and hardens over time, losing grip, so tyres should be replaced after some years even if not worn.	صح: الكاوتش بيقدم ويناشف مع الوقت ويفقد المسك، فالأحسن يتغير بعد كام سنة حتى لو مش دايب.
+e493c4d1af	True: the minimum legal tread depth for motorcycle tyres is 1 mm.	صح: أقل عمق قانوني لحزوز كاوتش الموتوسيكلات 1 مم.
+9485165b8d	True: a nail in a tubeless tyre often limits the air loss, so you may drive on carefully and have it repaired as soon as possible.	صح: المسمار في الكاوتش التيوبلس غالباً بيقلل خروج الهوا، فتقدر تكمل بحذر وتصلحه في أقرب وقت.
+ad0c93453e	True: a tubeless tyre has no inner tube, so after a puncture it loses air slowly.	صح: الكاوتش التيوبلس مفيهوش أنبوبة جوه، فلما يتخرم الهوا بيخرج بالراحة.
+f3ff073134	False: tubeless tyres can be repaired properly by a tyre specialist; sealant cans are only an emergency solution.	غلط: الكاوتش التيوبلس ممكن يتصلح صح عند الكاوتشجي؛ بخاخات السد دي حل طوارئ بس.
+6236bb64d4	False: tyres with an inner tube deflate quickly when punctured; it is tubeless tyres that deflate slowly.	غلط: الكاوتش اللي فيه أنبوبة بيفضى بسرعة لما يتخرم؛ التيوبلس هو اللي بيفضى بالراحة.
+ce6621e5b7	False: the nail should be left in place, because it partly plugs the hole; removing it lets the air out quickly. Have the tyre repaired as soon as possible.	غلط: المسمار يفضل مكانه لأنه سادد الخرم شوية؛ لو شلته الهوا هيخرج بسرعة. صلّح الكاوتش في أقرب وقت.

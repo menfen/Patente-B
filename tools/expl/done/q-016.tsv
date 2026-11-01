@@ -1,0 +1,100 @@
+5d82dd7967	False: the sign only ends the lorry overtaking ban; it does not oblige cars to overtake on the right, and overtaking is normally done on the left (CdS art. 148).	غلط: العلامة بتنهي منع تخطي عربيات النقل بس؛ مش بتلزم العربيات تتخطى من اليمين، والتخطي عادة بيبقى من الشمال (CdS art. 148).
+dd5d21d515	False: it ends the overtaking ban for goods vehicles over 3.5 t; buses were never covered by that ban.	غلط: بتنهي منع التخطي لعربيات النقل فوق 3.5 طن؛ الأتوبيسات أصلًا ماكانتش داخلة في المنع ده.
+149613fa46	False: a 7 t goods vehicle is over 3.5 t, so this end-of-ban sign concerns it.	غلط: عربية نقل 7 طن فوق 3.5 طن، فعلامة نهاية المنع دي بتخصها.
+e740cb6a66	True: the no parking sign (blue disc, red border and one red bar) is placed where parking is forbidden (CdS art. 158).	صح: علامة ممنوع الركن (دايرة زرقا بإطار أحمر وشرطة حمرا واحدة) بتتحط في الأماكن اللي الركن فيها ممنوع (CdS art. 158).
+0b4a116d24	True: in built-up areas, without other indications, the no parking ban applies from 8:00 to 20:00.	صح: جوه المنطقة السكنية، من غير لوحات تانية، منع الركن بيبقى من 8 الصبح لـ 8 بالليل.
+d9eac784c8	True: panels with arrows can show where the ban begins, continues or ends.	صح: لوحات بأسهم ممكن توضح المنع بيبدأ فين، مكمل، أو بيخلص فين.
+b844fe20b9	True: if not repeated, the ban ends at the next intersection.	صح: لو مااتكررتش، المنع بيخلص عند التقاطع اللي بعده.
+10806cc163	True: it bans parking but allows stopping, i.e. a brief halt with the driver present (CdS art. 157).	صح: بتمنع الركن بس بتسمح بالوقوف، يعني وقفة قصيرة والسواق موجود (CdS art. 157).
+7177891f34	True: the ban starts at the sign, so the stretch before it is not affected.	صح: المنع بيبدأ من عند العلامة، فالحتة اللي قبلها مش داخلة.
+0d1ce84927	True: with a panel showing 0-24, parking can be banned all day even in built-up areas.	صح: مع لوحة مكتوب فيها 0-24، الركن ممكن يتمنع طول اليوم حتى جوه المنطقة السكنية.
+ef8a2b6ba4	True: it forbids parking but allows stopping.	صح: بتمنع الركن بس بتسمح بالوقوف.
+85896002dc	True: it marks places where leaving a vehicle parked is forbidden.	صح: بتحدد الأماكن اللي ممنوع تسيب فيها عربيتك راكنة.
+8340043673	True: outside built-up areas, without panels, the ban is permanent, 24 hours a day.	صح: بره المدن، من غير لوحات، المنع دايم 24 ساعة.
+a57c2d4c3e	True: with the 'zona' panel it marks a whole area where parking is forbidden.	صح: مع لوحة 'zona' بتحدد منطقة كاملة الركن فيها ممنوع.
+6a4d2f3cf8	True: the ban applies only on the side of the road where the sign is placed.	صح: المنع بس على ناحية الطريق اللي العلامة متحطوطة فيها.
+58b6e760b4	True: with the panel shown (working-day symbol), the ban applies only on working days.	صح: مع اللوحة اللي في الصورة (رمز أيام الشغل)، المنع بيبقى في أيام الشغل بس.
+7cf8dcebeb	True: with the tow truck panel, it indicates a tow-away zone where offending vehicles are removed.	صح: مع لوحة الونش، معناها منطقة سحب إجباري والعربيات المخالفة بتتشال.
+9fad6c5e0a	True: with the tow-away panel, parked vehicles are removed by force.	صح: مع لوحة الونش، العربيات الراكنة بتتشال بالونش.
+aca9b35ee7	True: no parking does not forbid stopping briefly with the driver present.	صح: ممنوع الركن مش بيمنع الوقوف القصير والسواق موجود.
+849cf8649d	True: it is not needed where parking is already banned by general rule, such as on pedestrian crossings or at intersections.	صح: مش محتاجينها في الأماكن اللي الركن ممنوع فيها بالقانون أصلًا، زي عبور المشاة أو التقاطعات.
+f9167a8ed4	True: parking means leaving the vehicle for a prolonged time, and that is what the sign forbids.	صح: الركن معناه إنك تسيب العربية فترة طويلة، وده اللي العلامة بتمنعه.
+8e93cd3084	True: in built-up areas the ban normally applies from 8:00 to 20:00.	صح: جوه المنطقة السكنية المنع عادة من 8 الصبح لـ 8 بالليل.
+3e5ee77c4a	True: the panel shows an exception, so buses may park there.	صح: اللوحة بتوضح استثناء، فالأتوبيسات تقدر تركن هناك.
+24865c7b95	True: with the holiday panel, the ban applies only on public holidays.	صح: مع لوحة أيام الإجازة، المنع بيبقى في الإجازات بس.
+a51d92a158	True: no parking forbids parking but allows stopping.	صح: ممنوع الركن بيمنع الركن بس بيسمح بالوقوف.
+319e0692f9	False: the ban applies only on the side where the sign stands, here the left.	غلط: المنع بس على الناحية اللي العلامة فيها، هنا الشمال.
+e63b0511ba	False: the ban starts at the sign; the stretch before is free unless a panel says otherwise.	غلط: المنع بيبدأ من العلامة؛ الحتة اللي قبلها مسموحة إلا لو فيه لوحة بتقول غير كده.
+fe99c148a0	False: it bans parking, not stopping; no stopping has two crossed red bars.	غلط: بتمنع الركن مش الوقوف؛ ممنوع الوقوف فيها شرطتين حمر متقاطعين.
+04e1d39b47	False: it applies to all vehicles, motorcycles and mopeds included.	غلط: بتنطبق على كل المركبات، حتى الموتوسيكلات والموتوبيكان.
+0551299be9	False: removal is ordered only with the tow-away panel or in specific cases.	غلط: السحب بالونش بيبقى بس لو فيه لوحة الونش أو في حالات معينة.
+41922db0d3	False: it forbids parking; paid parking is shown by a blue P sign with a panel.	غلط: بتمنع الركن؛ الركن بفلوس ليه علامة P زرقا مع لوحة.
+ae3b08b681	False: residents may park only if a panel exempts them.	غلط: السكان يقدروا يركنوا بس لو فيه لوحة بتستثنيهم.
+f46c3dbc89	False: a parking meter ticket gives no right to park where parking is forbidden.	غلط: تذكرة الباركميتر مش بتديك حق تركن في مكان ممنوع.
+0fc5dfe3e0	False: outside built-up areas the ban is permanent, also after 20:00.	غلط: بره المدن المنع دايم، حتى بعد 8 بالليل.
+f353eeb5f4	False: it applies to all vehicles, including two-wheelers.	غلط: بتنطبق على كل المركبات، حتى العجلتين.
+cb6c4190ba	False: motor quadricycles must obey the ban too.	غلط: الكوادريسيكل بالموتور لازم يلتزم بالمنع برضه.
+9582a0f17d	False: in built-up areas the default hours are 8:00 to 20:00, not 20:00 to 8:00.	غلط: جوه المنطقة السكنية المواعيد العادية من 8 الصبح لـ 8 بالليل، مش العكس.
+f16bd658ec	False: disc parking is shown by a blue P sign with a disc panel; this one bans parking.	غلط: الركن بالقرص ليه علامة P زرقا مع لوحة القرص؛ دي بتمنع الركن.
+327a6e8748	False: the panel limits the ban to certain times or days, so it is not permanent.	غلط: اللوحة بتحدد المنع بأوقات أو أيام معينة، فمش دايم.
+0ade41b18d	False: double parking is always forbidden by general rule, so no sign is needed for it (CdS art. 158).	غلط: الركن صف تاني ممنوع دايمًا بالقانون، فمش محتاج علامة (CdS art. 158).
+a0b6a65566	False: a brief stop to let passengers get in or out is stopping, which is allowed.	غلط: الوقفة القصيرة عشان الركاب يطلعوا أو ينزلوا وقوف، وده مسموح.
+626b32189e	False: outside built-up areas the ban applies 24 hours a day.	غلط: بره المدن المنع 24 ساعة.
+3c787e4be2	False: it applies only on the side of the road where it is placed.	غلط: بتنطبق بس على ناحية الطريق اللي هي فيها.
+e1fdc50b67	False: buses are vehicles and may not park, unless a panel exempts them.	غلط: الأتوبيسات مركبات ومش مسموح تركن، إلا لو فيه لوحة بتستثنيها.
+f11e9c2802	False: mopeds are vehicles and must obey the ban.	غلط: الموتوبيكان مركبات ولازم تلتزم بالمنع.
+a565d1a879	True: the no stopping sign (two crossed red bars) forbids even a brief halt of the vehicle (CdS art. 158).	صح: علامة ممنوع الوقوف (شرطتين حمر متقاطعين) بتمنع حتى الوقفة القصيرة للعربية (CdS art. 158).
+21838279ed	True: it forbids voluntary stopping for all vehicles.	صح: بتمنع الوقوف بإرادتك لكل المركبات.
+e181058780	True: without panels, the no stopping ban applies 24 hours a day.	صح: من غير لوحات، منع الوقوف ساري 24 ساعة.
+dc8a462a57	True: if stopping is forbidden, parking is too, day and night, also in built-up areas.	صح: لو الوقوف ممنوع يبقى الركن ممنوع كمان، بالليل والنهار، حتى جوه المنطقة السكنية.
+a9841dbef6	True: no stopping applies to all vehicles.	صح: ممنوع الوقوف على كل المركبات.
+8a3db2dce9	True: without additional wording it is valid around the clock.	صح: من غير كتابة إضافية بيبقى ساري طول اليوم.
+55c2bec909	True: any voluntary stop is forbidden; only stops forced by traffic are allowed.	صح: أي وقوف بإرادتك ممنوع؛ المسموح بس الوقوف اللي المرور بيجبرك عليه.
+12c4e59086	True: where stopping is forbidden by this sign, the vehicle is always subject to forced removal (CdS art. 159).	صح: في مكان ممنوع فيه الوقوف بالعلامة دي، العربية دايمًا معرضة للسحب بالونش (CdS art. 159).
+940e160d45	True: the panel arrow pointing back shows that the ban covers the stretch before the sign.	صح: سهم اللوحة اللي راجع لورا بيوضح إن المنع على الحتة اللي قبل العلامة.
+d6adac7c8b	True: with the 'fine' panel it marks the end of the no stopping and no parking ban.	صح: مع لوحة 'fine' بتحدد نهاية منع الوقوف والركن.
+16935709be	False: it forbids both stopping and parking.	غلط: بتمنع الوقوف والركن الاتنين.
+077026b130	False: no stopping is valid 24 hours a day, also in urban areas, unless a panel says otherwise.	غلط: ممنوع الوقوف ساري 24 ساعة حتى في المدن، إلا لو فيه لوحة بتقول غير كده.
+b01602de50	False: stopping to let passengers in or out is forbidden too.	غلط: الوقوف عشان الركاب يطلعوا أو ينزلوا ممنوع كمان.
+8d89dccae9	False: stopping is forbidden even if it does not obstruct traffic.	غلط: الوقوف ممنوع حتى لو مش معطل المرور.
+b5d4cbb547	False: if stopping is forbidden, parking is forbidden as well.	غلط: لو الوقوف ممنوع، الركن ممنوع كمان.
+c276ef0dd7	False: it applies to buses too, except at bus stops.	غلط: بتنطبق على الأتوبيسات كمان، إلا في المحطات.
+3e65c0b733	False: taxis must obey it as well.	غلط: التاكسي لازم يلتزم بيها برضه.
+2f80834adf	False: it is not an advance warning; it bans stopping and parking from the sign.	غلط: مش تنبيه مسبق؛ بتمنع الوقوف والركن من عند العلامة.
+4caf8edc8e	False: it applies every day unless a panel says otherwise.	غلط: سارية كل يوم إلا لو فيه لوحة بتقول غير كده.
+df6b21dc58	False: stopping for passengers is forbidden too.	غلط: الوقوف للركاب ممنوع برضه.
+56af477926	False: it imposes a ban on stopping, it does not announce the end of a parking ban.	غلط: بتفرض منع وقوف، مش بتنبه لنهاية منع ركن.
+7de4880541	True: the blue P sign indicates an authorised parking area.	صح: علامة P الزرقا معناها مكان ركن مسموح.
+bfb0ec4ed9	True: without panels, the area allows parking for an unlimited time.	صح: من غير لوحات، المكان بيسمح بالركن من غير حد زمني.
+d439b1ee6b	True: a panel may show the distance to the parking area.	صح: لوحة ممكن توضح المسافة لمكان الركن.
+ffe5030fcb	True: a panel may show the vehicle categories it is reserved for.	صح: لوحة ممكن توضح أنواع المركبات المخصص ليها.
+0ac1655a92	True: a panel may show vehicle categories excluded from it.	صح: لوحة ممكن توضح أنواع المركبات الممنوعة منه.
+86b3a34228	True: a panel may limit the parking time.	صح: لوحة ممكن تحدد مدة الركن.
+24eed1220c	True: a panel may show times and charges for paid parking.	صح: لوحة ممكن توضح المواعيد والأسعار للركن بفلوس.
+9ee9050f3c	True: a panel may show how vehicles must be positioned (parallel, angled, perpendicular).	صح: لوحة ممكن توضح طريقة ترتيب العربيات (طولي، مايل، عرضي).
+8b7fc55667	False: on its own the P sign does not mean a meter; that is shown on a panel.	غلط: علامة P لوحدها مش معناها باركميتر؛ ده بيتوضح على لوحة.
+6a3cc86f27	False: without panels there is no time limit, not 8:00-20:00.	غلط: من غير لوحات مفيش حد زمني، مش من 8 لـ 8.
+8041f01353	False: time limits need a panel; the P sign alone allows unlimited parking.	غلط: الحد الزمني محتاج لوحة؛ علامة P لوحدها بتسمح بركن من غير حد.
+2f8bb36979	False: in a parking area you may of course also stop.	غلط: في مكان الركن طبعًا تقدر تقف كمان.
+8f10fbb7f4	False: it is not reserved for police unless a panel says so.	غلط: مش مخصص للبوليس إلا لو فيه لوحة بتقول كده.
+2ca179acf5	False: panels do not state the available surface area.	غلط: اللوحات مش بتوضح المساحة المتاحة.
+4133333fde	False: no panel can require leaving the key in the ignition.	غلط: مفيش لوحة بتلزمك تسيب المفتاح في العربية.
+f3acf2d077	True: this sign announces a parking area in the direction of the arrow.	صح: العلامة دي بتنبه لمكان ركن في اتجاه السهم.
+de57198692	True: it shows that there is a parking area following the arrow.	صح: بتوضح إن فيه مكان ركن لو مشيت مع السهم.
+8c60c13793	True: the distance shown, here 300 m, tells how far the parking is in the arrow's direction.	صح: المسافة المكتوبة، هنا 300 متر، بتقول مكان الركن بعيد قد إيه في اتجاه السهم.
+f2e7c42729	False: first aid has its own sign with a red cross; this one shows parking.	غلط: الإسعاف ليه علامة بصليب أحمر؛ دي بتوضح ركن.
+2a57efd8f0	False: it announces a parking area, not a ban.	غلط: بتنبه لمكان ركن، مش منع.
+929894a282	False: it shows where you may park, not where stopping is forbidden.	غلط: بتوضح فين تقدر تركن، مش فين الوقوف ممنوع.
+f272ec75f2	False: it does not say the parking is reserved; it simply directs you to it.	غلط: مش بتقول إن الركن مخصص؛ هي بتوديك ليه وبس.
+8246251d09	True: the 'passo carrabile' sign forbids parking in front of the driveway (CdS art. 158).	صح: علامة 'passo carrabile' بتمنع الركن قدام مدخل العربيات (CdS art. 158).
+88cfc2b776	True: it marks where vehicles enter or leave adjoining properties.	صح: بتحدد المكان اللي العربيات بتدخل وتطلع منه للأملاك اللي جنب الطريق.
+4930c2cd01	True: it marks the exit of a driveway.	صح: بتحدد مخرج مدخل عربيات.
+358ac4c597	True: stopping is allowed if it does not obstruct vehicles using the driveway.	صح: الوقوف مسموح لو مش هيعطل العربيات اللي بتستخدم المدخل.
+b51de07126	True: to be valid it must show the issuing authority, the permit number and year.	صح: عشان تبقى سارية لازم يبقى مكتوب عليها الجهة اللي أصدرت التصريح ورقمه وسنته.
+4158b6140f	False: it can be found on any road with a driveway, urban or extra-urban.	غلط: ممكن تلاقيها على أي طريق فيه مدخل عربيات، جوه أو بره المدن.
+cf80116cd2	False: it is valid day and night.	غلط: سارية بالليل والنهار.
+85d5e2bc7e	False: it is valid at all hours, not only at night.	غلط: سارية في كل الأوقات، مش بالليل بس.
+7c7477e6b8	False: no category of vehicle may park in front of a driveway.	غلط: مفيش أي نوع مركبة مسموح يركن قدام مدخل العربيات.
+aa04583a34	False: off-duty emergency vehicles have no exemption.	غلط: عربيات الإسعاف وهي مش في شغل مالهاش استثناء.
+94d75aa44c	True: this space is reserved for vehicles serving disabled people displaying the proper permit.	صح: المكان ده مخصص للعربيات اللي بتخدم ذوي الإعاقة واللي حاطة التصريح المخصوص.
+f4566d9946	True: it is a specific exception to the parking ban, allowing only permit holders to park.	صح: دي استثناء من منع الركن، بتسمح بس لأصحاب التصريح يركنوا.

@@ -1,0 +1,100 @@
+3febf3cff9	True: either panel (TORNANTE or 3 TORNANTI) warns that one or more sharp hairpin bends are close ahead.	صح: أي لوحة فيهم (TORNANTE أو 3 TORNANTI) بتحذر إن قدامك كوع أو أكتر ضيق قريب.
+c2c7e7ede6	True: hairpin bends are particularly dangerous bends, and either panel announces them.	صح: الأكواع منحنيات خطرة جداً، وأي لوحة فيهم بتعلن عنها.
+5504fa7300	True: panel A can refer to one hairpin and panel B specifies how many (here 3).	صح: اللوحة A ممكن تكون عن كوع واحد واللوحة B بتحدد عددهم (هنا 3).
+29e155273b	False: the 3 on panel B is the number of hairpin bends, not the number of lanes.	غلط: الـ 3 اللي على اللوحة B عدد الأكواع، مش عدد الحارات.
+4f02e61d0a	False: the number on panel B counts the hairpin bends, not how many vehicles can take a bend together.	غلط: الرقم اللي على اللوحة B بيعد الأكواع، مش كام عربية تاخد المنحنى مع بعض.
+020fe81e16	False: panel B gives the number of hairpin bends, not kilometres to a U-turn overpass.	غلط: اللوحة B بتدي عدد الأكواع، مش كيلومترات لحد كوبري الرجوع.
+d606801761	False: panel B gives the number of hairpin bends, not motorway exits.	غلط: اللوحة B بتدي عدد الأكواع، مش مخارج الأوتوستراد.
+cab16a0d99	False: the panels announce hairpin bends, not a junction used by lorries from a landfill.	غلط: اللوحات بتعلن عن أكواع، مش تقاطع بتطلع منه عربيات نقل من مقلب زبالة.
+be7d57d651	True: under NO PARKING, the street-cleaning panel restricts the ban to the days and hours shown.	صح: تحت علامة ممنوع الركن، لوحة تنضيف الشوارع بتخلي المنع في الأيام والساعات المكتوبة بس.
+71a87eed8f	True: the panel is placed on stretches where streets are cleaned by mechanical sweepers.	صح: اللوحة بتتحط في الشوارع اللي بتتنضف بعربيات الكنس.
+49b105eed5	True: the panel shows the days and hours of street cleaning by sweepers.	صح: اللوحة بتبين أيام وساعات تنضيف الشارع بعربيات الكنس.
+1f89021848	True: with the NO PARKING sign, parking is banned only in those hours on those days, so the sweeper can pass.	صح: مع علامة ممنوع الركن، الركن ممنوع في الساعات والأيام دي بس، عشان عربية الكنس تعدّي.
+b0a6a5d4a2	False: the panel shows street-cleaning times, not times for putting out rubbish.	غلط: اللوحة بتبين مواعيد تنضيف الشارع، مش مواعيد رمي الزبالة.
+4453d90160	False: the panel shows street-cleaning times, not car wash opening days.	غلط: اللوحة بتبين مواعيد تنضيف الشارع، مش أيام فتح المغسلة.
+ec17622a40	False: the panel concerns street cleaning times; it imposes no right of way for lorries.	غلط: اللوحة خاصة بمواعيد التنضيف؛ مش بتدي أولوية لعربيات النقل.
+d6384d3da2	False: the sweeper shown is not the vehicle banned; the panel means no vehicle may park during the cleaning hours.	غلط: عربية الكنس اللي في الرسمة مش هي الممنوعة؛ اللوحة معناها إن مفيش عربية تركن في ساعات التنضيف.
+20ed453f9e	True: these panels showing the road layout are placed under right-of-way signs.	صح: اللوحات دي اللي بتبين شكل الطريق بتتحط تحت علامات حق الأولوية.
+ae96ce4ccb	True: the panels show the intersection, with the main road as a thick line and the secondary roads as thin lines.	صح: اللوحات بتبين التقاطع، والطريق الرئيسي خط تخين والطرق الفرعية خطوط رفيعة.
+bdbe4fdcab	True: near an intersection, the panels show the course of the main (priority) road.	صح: قرب التقاطع، اللوحات بتبين مسار الطريق الرئيسي (اللي ليه الأولوية).
+f8f6e3bcbb	True: they can be placed under the INTERSECTION WITH RIGHT OF WAY sign.	صح: ممكن تتحط تحت علامة "تقاطع مع حق الأولوية".
+fa18edd608	False: panels B and C show the main road bending through an intersection, not a dangerous bend.	غلط: اللوحتين B وC بيبينوا الطريق الرئيسي بيلف جوه تقاطع، مش منحنى خطر.
+6afc1f0da4	False: the panels show the layout of the priority road, not how to park.	غلط: اللوحات بتبين شكل الطريق اللي ليه الأولوية، مش إزاي تركن.
+9c95f2cefe	False: motorways have no at-grade intersections, so these priority layout panels are not used there.	غلط: الأوتوستراد مفيهوش تقاطعات على نفس المستوى، فاللوحات دي مش بتتحط عليه.
+5bff99c1dd	False: the panels show main and side roads at an intersection, not dead ends.	غلط: اللوحات بتبين الطريق الرئيسي والفرعي عند تقاطع، مش طرق مسدودة.
+8fad8a7f52	False: the panels show an at-grade intersection, not underpasses.	غلط: اللوحات بتبين تقاطع على نفس المستوى، مش أنفاق.
+0f59c1239c	False: the panels show the priority layout; they do not mean the side roads are closed.	غلط: اللوحات بتبين شكل الأولوية؛ مش معناها إن الطرق الفرعية مقفولة.
+4873c0e4a8	True: the no-transit sign with the "except buses" panel means only buses may enter.	صح: علامة ممنوع المرور مع لوحة "ماعدا الأوتوبيسات" معناها إن الأوتوبيسات بس تقدر تدخل.
+1be87760b0	True: with the exception panel, only buses are allowed through.	صح: مع لوحة الاستثناء، الأوتوبيسات بس مسموحلها تعدّي.
+06369b568f	True: the PARKING sign with the "except buses" panel means all vehicles except buses may park.	صح: علامة الركن مع لوحة "ماعدا الأوتوبيسات" معناها إن كل العربيات تركن ماعدا الأوتوبيسات.
+9aec2e1dc7	True: the exception panel can be combined with a mandatory sign, exempting buses from the obligation.	صح: لوحة الاستثناء ممكن تتحط مع علامة إلزام، فالأوتوبيسات تبقى معفية من الإلزام.
+f6c6685e9a	True: the exception panel can be combined with a prohibition sign, exempting buses from the ban.	صح: لوحة الاستثناء ممكن تتحط مع علامة منع، فالأوتوبيسات تبقى معفية من المنع.
+029a824f65	False: the "except buses" panel exempts buses, so they are the only vehicles allowed in.	غلط: لوحة "ماعدا الأوتوبيسات" بتعفي الأوتوبيسات، فهي العربيات الوحيدة المسموح تدخل.
+ae2515fe0d	False: buses are excluded from the ban, so they may pass.	غلط: الأوتوبيسات مستثناة من المنع، فتقدر تعدّي.
+6213416455	False: a supplementary panel never stands alone; it always completes the sign above it.	غلط: اللوحة الإضافية عمرها ما بتتحط لوحدها؛ دايماً بتكمّل العلامة اللي فوقها.
+394af6a669	False: the panel refers to buses in general, not only urban buses.	غلط: اللوحة خاصة بالأوتوبيسات عموماً، مش أوتوبيسات المدينة بس.
+a286bb67b3	True: speed must be adapted to the vehicle's characteristics (CdS art. 141).	صح: السرعة لازم تتظبط حسب مواصفات العربية (CdS art. 141).
+57da7b53b6	True: speed must be adapted to the condition of the vehicle, e.g. worn tyres or brakes (CdS art. 141).	صح: السرعة لازم تتظبط حسب حالة العربية، زي الكاوتش أو الفرامل الدايبة (CdS art. 141).
+3ec4ce9a6d	True: a heavy load increases braking distance, so speed must be adapted to it (CdS art. 141).	صح: الحمولة التقيلة بتزوّد مسافة الفرملة، فلازم تظبط السرعة عليها (CdS art. 141).
+11c6a1207e	True: speed must be adapted to the road's characteristics such as bends, width and gradient (CdS art. 141).	صح: السرعة لازم تتظبط حسب مواصفات الطريق زي المنحنيات والعرض والميل (CdS art. 141).
+3228866e54	True: speed must be adapted to the road's condition, e.g. wet, damaged or dirty surface (CdS art. 141).	صح: السرعة لازم تتظبط حسب حالة الطريق، زي إنه مبلول أو مكسر أو وسخ (CdS art. 141).
+eb7ab721cc	True: speed must be adapted to traffic conditions (CdS art. 141).	صح: السرعة لازم تتظبط حسب حالة المرور (CdS art. 141).
+5655a67bf5	True: speed must be such as not to endanger property (CdS art. 141).	صح: السرعة لازم تكون بحيث متعملش خطر على الممتلكات (CdS art. 141).
+1c1dc5b748	True: speed must be such as not to endanger people's safety (CdS art. 141).	صح: السرعة لازم تكون بحيث متعملش خطر على الناس (CdS art. 141).
+797d01bcce	True: speed must not cause disruption to traffic flow (CdS art. 141).	صح: السرعة لازم متعملش لخبطة في المرور (CdS art. 141).
+41239ec415	True: speed must always remain within the maximum limits allowed (CdS art. 142).	صح: السرعة لازم دايماً تكون جوه الحدود القصوى المسموحة (CdS art. 142).
+71fd30f20d	True: speed must respect any limits imposed by signs (CdS art. 142).	صح: السرعة لازم تحترم أي حدود مفروضة بالعلامات (CdS art. 142).
+85c3a3452b	True: speed must be adapted to weather conditions such as rain, fog or wind (CdS art. 141).	صح: السرعة لازم تتظبط حسب الجو زي المطر والشبورة والهوا (CdS art. 141).
+f3e38fccd4	False: respecting the maximum limits is not enough; speed must also be adapted to road, traffic, weather and vehicle conditions (CdS art. 141).	غلط: احترام الحدود القصوى مش كفاية؛ السرعة لازم كمان تتظبط حسب الطريق والمرور والجو والعربية (CdS art. 141).
+fdca2ee454	False: the law requires adapting speed to objective conditions, not to how skilful you think you are (CdS art. 141).	غلط: القانون بيطلب تظبط السرعة حسب الظروف الحقيقية، مش حسب شطارتك في السواقة (CdS art. 141).
+99cb3821ac	False: what matters is the condition of the tyres, not their brand.	غلط: المهم حالة الكاوتش، مش ماركته.
+67dc24477b	False: distance to the destination is not a factor; speed depends on safety conditions.	غلط: بعد المكان اللي رايحه مش عامل؛ السرعة بتعتمد على ظروف الأمان.
+b4441284f3	True: the driver must always keep control of the vehicle (CdS art. 141).	صح: السواق لازم دايماً يكون مسيطر على العربية (CdS art. 141).
+cdd8b246c2	True: the driver must always be able to stop the vehicle safely (CdS art. 141).	صح: السواق لازم دايماً يقدر يوقف العربية بأمان (CdS art. 141).
+58ec8a2c4e	True: you must be able to stop within the distance you can see ahead and in safety (CdS art. 141).	صح: لازم تقدر توقف جوه المسافة اللي شايفها قدامك وبأمان (CdS art. 141).
+4780b35c04	True: speed must be adapted on bends (CdS art. 141).	صح: السرعة لازم تتظبط في المنحنيات (CdS art. 141).
+69abc7e8ec	True: where visibility is limited, speed must be reduced so you can stop in time (CdS art. 141).	صح: لما الرؤية تكون محدودة، لازم تهدي عشان تقدر توقف في الوقت المناسب (CdS art. 141).
+069450641b	True: speed must be adapted near intersections (CdS art. 141).	صح: السرعة لازم تتظبط قرب التقاطعات (CdS art. 141).
+e97b3b10ce	True: speed must be adapted near schools (CdS art. 141).	صح: السرعة لازم تتظبط قرب المدارس (CdS art. 141).
+4eedddd453	True: speed must be adapted near places frequented by children (CdS art. 141).	صح: السرعة لازم تتظبط قرب الأماكن اللي فيها أطفال (CdS art. 141).
+93247c5eee	True: speed must be adapted on steep descents (CdS art. 141).	صح: السرعة لازم تتظبط في النزلات الجامدة (CdS art. 141).
+89b7a1172b	True: speed must be adapted in narrow passages (CdS art. 141).	صح: السرعة لازم تتظبط في الأماكن الضيقة (CdS art. 141).
+e44a171647	True: speed must be adapted in obstructed passages (CdS art. 141).	صح: السرعة لازم تتظبط في الأماكن اللي فيها عوائق (CdS art. 141).
+91bd600f4f	True: speed must be adapted at night (CdS art. 141).	صح: السرعة لازم تتظبط بالليل (CdS art. 141).
+30ccc17e88	True: speed must be adapted when passing through inhabited areas (CdS art. 141).	صح: السرعة لازم تتظبط وانت معدّي في أماكن سكنية (CdS art. 141).
+b4726d91d4	True: speed must be adapted on stretches lined with buildings (CdS art. 141).	صح: السرعة لازم تتظبط في الأجزاء اللي على جنبها مباني (CdS art. 141).
+fd6821406a	True: you must slow down when passing oncoming vehicles is difficult (CdS art. 141).	صح: لازم تهدي لما يكون صعب تعدّي جنب العربيات الجاية عكسك (CdS art. 141).
+48a9de0d1c	True: speed must be adapted in fog or mist (CdS art. 141).	صح: السرعة لازم تتظبط في الشبورة أو الضباب الخفيف (CdS art. 141).
+e76e90cc71	True: speed must be adapted on snow-covered stretches (CdS art. 141).	صح: السرعة لازم تتظبط في الأجزاء اللي عليها تلج (CdS art. 141).
+5cc54a62bf	True: speed must be adapted on icy stretches (CdS art. 141).	صح: السرعة لازم تتظبط في الأجزاء المتجمدة (CdS art. 141).
+d4c12137da	False: a one-way road is not in itself a situation requiring reduced speed.	غلط: الطريق اللي اتجاه واحد مش في حد ذاته سبب يلزمك تهدي.
+6511f097b4	False: being outside built-up areas does not in itself require reducing speed; there the general limits are actually higher.	غلط: إنك بره المدن مش سبب يلزمك تهدي؛ بالعكس الحدود العامة هناك أعلى.
+fa0a3f274a	False: provincial roads are not in themselves a case requiring reduced speed.	غلط: طرق المحافظات مش في حد ذاتها سبب يلزمك تهدي.
+f5ad25d4ba	False: speed must be adapted especially at night, not only by day (CdS art. 141).	غلط: السرعة لازم تتظبط خصوصاً بالليل، مش بالنهار بس (CdS art. 141).
+d846f8d2ad	False: speed must be adapted particularly on bends, not only on straights (CdS art. 141).	غلط: السرعة لازم تتظبط خصوصاً في المنحنيات، مش في الطرق المستقيمة بس (CdS art. 141).
+19cfb283de	False: the law requires adapting speed on steep descents; uphill roads are not in themselves a case of compulsory reduction.	غلط: القانون بيلزمك تظبط السرعة في النزلات الجامدة؛ الطلعات مش في حد ذاتها سبب للتهدية الإجبارية.
+8678b6a391	False: you must obey each sign's meaning; not every road sign requires reducing speed.	غلط: لازم تلتزم بمعنى كل علامة؛ مش كل علامة بتلزمك تهدي.
+051c2446f0	False: speed must be adapted to conditions at all times, not only when traffic officers are present.	غلط: السرعة لازم تتظبط حسب الظروف طول الوقت، مش بس لما يكون فيه عسكري مرور.
+72ffe71f18	False: the duty to adapt speed applies on every road, main extra-urban roads included (CdS art. 141).	غلط: إلزام ظبط السرعة على كل الطرق، ومنها الطرق بره المدن الرئيسية (CdS art. 141).
+fe6510e293	False: speed must be adapted to the load; a loaded vehicle generally requires more care, not less.	غلط: السرعة لازم تتظبط حسب الحمولة؛ العربية المحمّلة عادةً محتاجة حذر أكتر، مش أقل.
+3100363e70	False: you must always respect the limits; there is no specific duty to slow down only near speed cameras.	غلط: لازم دايماً تحترم الحدود؛ مفيش إلزام مخصوص إنك تهدي بس جنب الرادار.
+6ce2b84585	True: you must slow down and, if needed, stop when passing other vehicles is difficult (CdS art. 141).	صح: لازم تهدي، ولو محتاج توقف، لما يكون صعب تعدّي جنب العربيات التانية (CdS art. 141).
+9f3bb99674	True: you must slow down and, if needed, stop near pedestrian crossings (CdS art. 141).	صح: لازم تهدي، ولو محتاج توقف، قرب عبور المشاة (CdS art. 141).
+d244ca19c8	True: you must slow down and, if needed, stop when pedestrians in your path are slow to move aside (CdS art. 141).	صح: لازم تهدي، ولو محتاج توقف، لما المشاة اللي قدامك يتأخروا يوسعوا (CdS art. 141).
+bf747d9557	True: you must slow down and, if needed, stop when pedestrians show uncertainty (CdS art. 141).	صح: لازم تهدي، ولو محتاج توقف، لما المشاة يبانوا مترددين (CdS art. 141).
+f4a681cf43	True: you must slow down and, if needed, stop when animals on the road appear frightened (CdS art. 141).	صح: لازم تهدي، ولو محتاج توقف، لما الحيوانات اللي على الطريق تبان خايفة (CdS art. 141).
+5bd4a26d3a	True: if you are dazzled, you must slow down and, if needed, stop (CdS art. 141).	صح: لو النور زغللك، لازم تهدي ولو محتاج توقف (CdS art. 141).
+e4b04432a4	False: driveways are not among the cases where the law requires slowing down and stopping if needed.	غلط: مداخل الجراجات مش من الحالات اللي القانون بيلزمك تهدي وتوقف فيها.
+8d1c34ab69	False: bus stops are not in themselves listed among the cases requiring you to slow down and stop if needed.	غلط: مواقف الأوتوبيس مش في حد ذاتها من الحالات اللي القانون بيلزمك تهدي وتوقف فيها.
+4c28cc4108	False: driving on an overpass does not in itself require slowing down and stopping.	غلط: المشي على كوبري مش في حد ذاته بيلزمك تهدي وتوقف.
+734afdda7e	False: speed cameras do not create a duty to slow down and stop; you must simply respect the limits.	غلط: الرادار مش بيلزمك تهدي وتوقف؛ انت لازم تحترم الحدود وبس.
+66b9aa979e	False: not every road sign requires slowing down and stopping; you obey each sign's meaning.	غلط: مش كل علامة بتلزمك تهدي وتوقف؛ انت بتلتزم بمعنى كل علامة.
+d785f147bf	False: leaving a built-up area is not a case requiring you to slow down and stop.	غلط: الخروج من المنطقة السكنية مش حالة بتلزمك تهدي وتوقف.
+6a07719a9a	True: for cars the ordinary motorway limit is 130 km/h (110 in rain or snow; 150 where signed) (CdS art. 142).	صح: للعربيات الملاكي الحد العادي على الأوتوستراد 130 كم/س (110 في المطر أو التلج؛ 150 لو فيه علامات) (CdS art. 142).
+b859653a4d	True: for cars the ordinary limit on main extra-urban roads is 110 km/h (90 in rain or snow) (CdS art. 142).	صح: للعربيات الملاكي الحد العادي على الطرق بره المدن الرئيسية 110 كم/س (90 في المطر أو التلج) (CdS art. 142).
+2cfa133bc2	True: on secondary extra-urban roads the limit for cars is 90 km/h (CdS art. 142).	صح: على الطرق بره المدن الثانوية حد العربيات الملاكي 90 كم/س (CdS art. 142).
+926463d38d	True: in built-up areas the ordinary limit is 50 km/h, raisable to 70 km/h on suitable roads with signs (CdS art. 142).	صح: في المنطقة السكنية الحد العادي 50 كم/س، وممكن يوصل 70 كم/س على طرق مناسبة بعلامات (CdS art. 142).
+3e38fcad6f	True: motor vehicles up to 3.5 t have the ordinary motorway limit of 130 km/h (CdS art. 142).	صح: العربيات لحد 3,5 طن حدها العادي على الأوتوستراد 130 كم/س (CdS art. 142).
+3779e5b44d	True: a goods vehicle up to 3.5 t follows the car limits, so 110 km/h on main extra-urban roads (CdS art. 142).	صح: عربية النقل لحد 3,5 طن بتمشي بحدود العربيات الملاكي، يعني 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+b0b17197c0	True: a motor vehicle up to 3.5 t has a 90 km/h limit on secondary extra-urban roads (CdS art. 142).	صح: العربية لحد 3,5 طن حدها 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+5258ccff48	True: in built-up areas the ordinary limit for motorcycles is 50 km/h, as for all vehicles (CdS art. 142).	صح: في المنطقة السكنية الحد العادي للموتوسيكلات 50 كم/س، زي كل العربيات (CdS art. 142).

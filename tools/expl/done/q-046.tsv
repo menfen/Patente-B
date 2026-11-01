@@ -1,0 +1,100 @@
+0364442132	False: mirrors on two-wheelers are adjustable and must be adjusted by the rider before setting off; vibrations do not make them fixed.	غلط: مرايات الموتوسيكلات بتتظبط ولازم السواق يظبطها قبل ما يتحرك؛ الاهتزاز مش معناه إنها ثابتة.
+a9d4440733	False: there is no mileage interval; mirrors must be checked and adjusted before setting off, especially after a change of driver or seat position.	غلط: مفيش عدد كيلومترات معين؛ المرايات لازم تتشيّك وتتظبط قبل ما تتحرك، خصوصاً لو السواق اتغير أو الكرسي اتحرك.
+c122ba2608	False: cars with rear headrests still have an interior mirror; the headrests may limit the view but do not make the mirror useless.	غلط: العربيات اللي فيها مساند راس ورا برضه فيها مراية داخلية؛ المساند ممكن تقلل الرؤية بس مش بتخلي المراية ملهاش لازمة.
+2c4ee920b7	False: the interior mirror is for seeing the road behind; covering it with a navigation screen would remove rear visibility.	غلط: المراية الداخلية عشان تشوف الطريق اللي وراك؛ إنك تغطيها بشاشة GPS هيشيل عنك الرؤية الخلفية.
+c35bde861f	True: vehicles running on rails, such as trams, have priority at intersections over other vehicles, unless signs say otherwise (CdS art. 145).	صح: العربيات اللي ماشية على قضبان زي الترام ليها الأولوية في التقاطعات على باقي العربيات، إلا لو العلامات قالت غير كده (CdS art. 145).
+c80b93f9d6	True: at any intersection, especially one without signs, all drivers must cross it with caution, ready to stop (CdS art. 145).	صح: في أي تقاطع، خصوصاً اللي مفيهوش علامات، كل السواقين لازم يعدّوه بحذر وهم جاهزين يقفوا (CdS art. 145).
+9f265b77e9	True: O must first let the tram pass (rail vehicles have priority) and wait for A to move to the centre of the intersection before proceeding.	صح: O لازم الأول يسيب الترام يعدّي (اللي على القضبان ليه الأولوية) ويستنى A يوصل لنص التقاطع قبل ما يكمل.
+cce53377ae	True: the tram passes first, because vehicles on rails have priority over the others at intersections (CdS art. 145).	صح: الترام بيعدّي الأول، عشان العربيات اللي على القضبان ليها الأولوية على الباقي في التقاطعات (CdS art. 145).
+981c56d5d1	True: after the tram, the right-hand rule applies: M must wait for O to pass, as O has the right of way over M in this situation (CdS art. 145).	صح: بعد الترام بتتطبق قاعدة اليمين: M لازم يستنى O يعدّي، عشان O ليه الأولوية على M في الموقف ده (CdS art. 145).
+6c9525bbbd	False: M cannot cross together with the tram; the tram passes first and M must also wait for O.	غلط: M مينفعش يعدّي مع الترام؛ الترام بيعدّي الأول وM لازم كمان يستنى O.
+4c181bd79b	False: A turning left does not have a free right; it must give way to the tram and to the other vehicles with priority over it.	غلط: A وهو بيحوّد شمال يمينه مش فاضي؛ لازم يدّي الأولوية للترام وللعربيات التانية اللي ليها أولوية عليه.
+4f498e9877	False: O must wait for the tram, but not for M, which comes from O's left; it is M that must wait for O.	غلط: O لازم يستنى الترام، بس مش M اللي جاي من شمال O؛ M هو اللي يستنى O.
+8e0b324932	False: O does not have to wait for all other vehicles; after the tram (and with A at the centre) it passes before M.	غلط: O مش لازم يستنى كل العربيات؛ بعد الترام (وA في نص التقاطع) بيعدّي قبل M.
+73dfc76fe0	False: A, turning left, must give way both to the tram and to M coming from the opposite direction.	غلط: A وهو بيحوّد شمال لازم يدّي الأولوية للترام ولـM اللي جاي من الاتجاه العكسي.
+d313c7f5b9	False: O must give way to the tram but not to M, which is on its left (CdS art. 145).	غلط: O لازم يدّي الأولوية للترام بس مش لـM اللي على شماله (CdS art. 145).
+749891cd24	True: B has no vehicle coming from its right that it must give way to, so it does not give way to the other two (CdS art. 145).	صح: B مفيش عربية جاية من يمينه لازم يدّيها الأولوية، فمش بيدّي الأولوية للاتنين التانيين (CdS art. 145).
+3fa8070c8e	True: B passes first because its right is free; then H, which has only B on its right; C passes last (CdS art. 145).	صح: B بيعدّي الأول عشان يمينه فاضي؛ بعده H اللي B بس على يمينه؛ وC بيعدّي الآخر (CdS art. 145).
+780ce25c71	True: C has H on its right and must give way to it, and H waits for B, so C clears the intersection last (CdS art. 145).	صح: C عنده H على يمينه ولازم يدّيله الأولوية، وH بيستنى B، فC بيخرج من التقاطع الآخر (CdS art. 145).
+3093490245	True: B has a free right, so under the right-hand rule it passes first (CdS art. 145).	صح: B يمينه فاضي، فحسب قاعدة اليمين بيعدّي الأول (CdS art. 145).
+5a2ca5eea1	True: H comes from C's right, so C must give way to H (CdS art. 145).	صح: H جاي من يمين C، فC لازم يدّي الأولوية لـH (CdS art. 145).
+487881df3c	False: H has B on its right and must wait for it; the order is B, H, C (CdS art. 145).	غلط: H عنده B على يمينه ولازم يستناه؛ الترتيب B وبعدين H وبعدين C (CdS art. 145).
+3ee17e69e4	False: B and C do not pass together; C must give way to H, so the order is B, H, C.	غلط: B وC مش بيعدّوا مع بعض؛ C لازم يدّي الأولوية لـH، فالترتيب B وبعدين H وبعدين C.
+35e90acc26	False: H passes after B but before C, because C must give way to H, which is on its right.	غلط: H بيعدّي بعد B بس قبل C، عشان C لازم يدّي الأولوية لـH اللي على يمينه.
+3856e28c07	False: a bus has no special priority; H passes before C only because it comes from C's right (CdS art. 145).	غلط: الأتوبيس مالوش أولوية خاصة؛ H بيعدّي قبل C بس عشان جاي من يمين C (CdS art. 145).
+5e557c6e45	False: C passes last, since it must give way to H on its right, which in turn waits for B.	غلط: C بيعدّي الآخر، عشان لازم يدّي الأولوية لـH اللي على يمينه، وH بيستنى B.
+2f26bd9848	True: R has no vehicle on its right, so under the right-hand rule it passes first (CdS art. 145).	صح: R مفيش عربية على يمينه، فحسب قاعدة اليمين بيعدّي الأول (CdS art. 145).
+53ae9a8e6b	True: C must give way to A, which is on its right, and A waits for R, so C passes last (CdS art. 145).	صح: C لازم يدّي الأولوية لـA اللي على يمينه، وA بيستنى R، فC بيعدّي الآخر (CdS art. 145).
+fe1d2281a4	True: R is on A's right, so A must wait for R to pass (CdS art. 145).	صح: R على يمين A، فA لازم يستنى R يعدّي (CdS art. 145).
+2acf31323e	True: A is on C's right, so A passes before C (CdS art. 145).	صح: A على يمين C، فA بيعدّي قبل C (CdS art. 145).
+2ccacf5170	True: the order is R, A, C: C must give way to A, which in turn gives way to R (CdS art. 145).	صح: الترتيب R وبعدين A وبعدين C: C بيدّي الأولوية لـA، وA بيدّي لـR (CdS art. 145).
+b8e88de180	True: a police vehicle with siren and flashing blue lights on has priority, so A would pass first and everyone must give way to it (CdS art. 177).	صح: عربية الشرطة المشغّلة السرينة والنور الأزرق ليها الأولوية، فA هيعدّي الأول والكل لازم يدّيله (CdS art. 177).
+4be56df494	False: A has R on its right and must give way to it, so A passes second, not first.	غلط: A عنده R على يمينه ولازم يدّيله الأولوية، فA بيعدّي التاني مش الأول.
+1dd4d2e1de	False: A passes second; the last is C, which must give way to A.	غلط: A بيعدّي التاني؛ الآخر هو C اللي لازم يدّي الأولوية لـA.
+d3518f9528	False: R has a free right and passes first; it is A that must wait for R.	غلط: R يمينه فاضي وبيعدّي الأول؛ A هو اللي لازم يستنى R.
+6c974a75e0	False: R crosses first, not second, because no vehicle is on its right.	غلط: R بيعدّي الأول مش التاني، عشان مفيش عربية على يمينه.
+bb15dc53cb	False: C passes last, after R and A, since A is on its right.	غلط: C بيعدّي الآخر، بعد R وA، عشان A على يمينه.
+d646c375b2	False: C and R do not pass together; the order is R, A, C.	غلط: C وR مش بيعدّوا مع بعض؛ الترتيب R وبعدين A وبعدين C.
+0f79b68f5a	True: L has no vehicle on its right, so it crosses first (CdS art. 145).	صح: L مفيش عربية على يمينه، فبيعدّي الأول (CdS art. 145).
+1cd4593f9f	True: H has C on its right and C has L on its right, so H crosses last (CdS art. 145).	صح: H عنده C على يمينه، وC عنده L على يمينه، فH بيعدّي الآخر (CdS art. 145).
+1300f629a1	True: the correct order is L, C, H, applying the right-hand rule in sequence (CdS art. 145).	صح: الترتيب الصح L وبعدين C وبعدين H، بتطبيق قاعدة اليمين بالتتابع (CdS art. 145).
+3757228fb1	True: C must give way to L, on its right, but has priority over H, which has C on its right (CdS art. 145).	صح: C لازم يدّي الأولوية لـL اللي على يمينه، بس ليه الأولوية على H اللي C على يمينه (CdS art. 145).
+3694eec8e2	False: L and C cannot pass together, because L is on C's right; the order is L, C, H.	غلط: L وC مينفعش يعدّوا مع بعض، عشان L على يمين C؛ الترتيب L وبعدين C وبعدين H.
+c2cfd3ef66	False: H passes last, not first; the correct order is L, C, H.	غلط: H بيعدّي الآخر مش الأول؛ الترتيب الصح L وبعدين C وبعدين H.
+8ce14067e6	False: H must give way to C, which waits for L; the order is L, C, H.	غلط: H لازم يدّي الأولوية لـC اللي بيستنى L؛ الترتيب L وبعدين C وبعدين H.
+7a4c428a10	False: H cannot pass before C, because C is on its right; the order is L, C, H.	غلط: H مينفعش يعدّي قبل C، عشان C على يمينه؛ الترتيب L وبعدين C وبعدين H.
+5a4841da0a	False: L passes first because its right is free; C must wait for L.	غلط: L بيعدّي الأول عشان يمينه فاضي؛ C لازم يستنى L.
+76d6d8ee61	True: A has a free right and goes first, E must wait for A (on its right), and B must wait for E (on its right) (CdS art. 145).	صح: A يمينه فاضي وبيعدّي الأول، E بيستنى A (على يمينه)، وB بيستنى E (على يمينه) (CdS art. 145).
+2f5ff0cc72	True: no vehicle comes from A's right, so A does not have to give way to anyone (CdS art. 145).	صح: مفيش عربية جاية من يمين A، فA مش لازم يدّي الأولوية لحد (CdS art. 145).
+4fa8e1cca7	True: E is on B's right, so E has priority over B (CdS art. 145).	صح: E على يمين B، فE ليه الأولوية على B (CdS art. 145).
+c9b592685d	True: the order is A, E, B: E passes after A but before B (CdS art. 145).	صح: الترتيب A وبعدين E وبعدين B: E بيعدّي بعد A وقبل B (CdS art. 145).
+bb58276d5a	True: B has another vehicle on its right that must pass before it, so applying the right-hand rule B passes last (CdS art. 145).	صح: B عنده عربية على يمينه لازم تعدّي قبله، فبتطبيق قاعدة اليمين B بيعدّي الآخر (CdS art. 145).
+2e86b6ad02	False: B must give way to E, which is on its right (CdS art. 145).	غلط: B لازم يدّي الأولوية لـE اللي على يمينه (CdS art. 145).
+e37fa1af0e	False: A has a free right and gives way to no one; B passes last.	غلط: A يمينه فاضي ومش بيدّي الأولوية لحد؛ B بيعدّي الآخر.
+7481ef771c	False: E is on B's right, so B must give way to E.	غلط: E على يمين B، فB لازم يدّي الأولوية لـE.
+98b47edc53	False: A and B do not pass together; A passes first, then E, then B.	غلط: A وB مش بيعدّوا مع بعض؛ A الأول وبعدين E وبعدين B.
+432007699f	False: B passes after E, not before; the order is A, E, B.	غلط: B بيعدّي بعد E مش قبله؛ الترتيب A وبعدين E وبعدين B.
+ea2b4b6227	True: A must wait for R, which is on its right, and C must wait for A, which is on its right: order R, A, C (CdS art. 145).	صح: A لازم يستنى R اللي على يمينه، وC لازم يستنى A اللي على يمينه: الترتيب R وبعدين A وبعدين C (CdS art. 145).
+dc484f9783	True: A passes after R (on its right) and before C (which has A on its right) (CdS art. 145).	صح: A بيعدّي بعد R (اللي على يمينه) وقبل C (اللي A على يمينه) (CdS art. 145).
+948646fe3c	True: R has no vehicle on its right, so it gives way to no one (CdS art. 145).	صح: R مفيش عربية على يمينه، فمش بيدّي الأولوية لحد (CdS art. 145).
+94682a28dd	True: applying the right-hand rule, the order is R, A, C (CdS art. 145).	صح: بتطبيق قاعدة اليمين، الترتيب R وبعدين A وبعدين C (CdS art. 145).
+0bf97d4906	False: C must give way to A, which is on its right, so C passes last.	غلط: C لازم يدّي الأولوية لـA اللي على يمينه، فC بيعدّي الآخر.
+cc34e7be43	False: A passes after R and before C, not the other way round.	غلط: A بيعدّي بعد R وقبل C، مش العكس.
+c3a889e00d	False: C cannot pass before A, which is on its right; the order is R, A, C.	غلط: C مينفعش يعدّي قبل A اللي على يمينه؛ الترتيب R وبعدين A وبعدين C.
+33f86256f9	False: applying the right-hand rule, R is not last: other vehicles have R on their right and must give way to it.	غلط: بتطبيق قاعدة اليمين، R مش الآخر: فيه عربيات تانية R على يمينها ولازم تدّيله الأولوية.
+7b4a6566f1	True: R is on D's right, so D may enter the intersection only after R has crossed (CdS art. 145).	صح: R على يمين D، فD يدخل التقاطع بس بعد ما R يعدّي (CdS art. 145).
+eeb4547170	True: B has another vehicle on its right that must pass first, so B enters the intersection after all the others (CdS art. 145).	صح: B عنده عربية على يمينه لازم تعدّي الأول، فB بيدخل التقاطع بعد كل الباقيين (CdS art. 145).
+6f7c626945	True: R has a free right, so it may enter the intersection, even turning left, without giving way to anyone (CdS art. 145).	صح: R يمينه فاضي، فيقدر يدخل التقاطع، حتى وهو بيحوّد شمال، من غير ما يدّي الأولوية لحد (CdS art. 145).
+a2de3a59e5	True: the order is R, D, B: D is on B's right and R is on D's right, so B goes last (CdS art. 145).	صح: الترتيب R وبعدين D وبعدين B: D على يمين B وR على يمين D، فB الآخر (CdS art. 145).
+2d5f7086ef	False: B must wait for D, which is on its right, and D waits for R; B passes last.	غلط: B لازم يستنى D اللي على يمينه، وD بيستنى R؛ B بيعدّي الآخر.
+e14602b4a5	False: D has R on its right and must give way to it, so D cannot pass first.	غلط: D عنده R على يمينه ولازم يدّيله الأولوية، فD مينفعش يعدّي الأول.
+4ae0cfedb9	False: R passes first because its right is free; B and D must wait.	غلط: R بيعدّي الأول عشان يمينه فاضي؛ B وD لازم يستنوا.
+9690d7185b	False: B passes last, because D is on its right and D waits for R.	غلط: B بيعدّي الآخر، عشان D على يمينه وD بيستنى R.
+2108abfe4d	True: applying the right-hand rule to each vehicle, the order of passage is D, P, B, N (CdS art. 145).	صح: بتطبيق قاعدة اليمين على كل عربية، ترتيب العبور D وبعدين P وبعدين B وبعدين N (CdS art. 145).
+fdf8ae899c	True: N must give way to the vehicle on its right, which in turn waits for the others, so N passes last (order D, P, B, N).	صح: N لازم يدّي الأولوية للي على يمينه، واللي بدوره بيستنى الباقيين، فN الآخر (الترتيب D، P، B، N).
+c0f6913e0d	True: B must wait for P, which has priority over it in this intersection (order D, P, B, N).	صح: B لازم يستنى P اللي ليه الأولوية عليه في التقاطع ده (الترتيب D، P، B، N).
+7f697939bb	True: D has no vehicle it must give way to, so it passes first (order D, P, B, N).	صح: D مفيش عربية لازم يدّيها الأولوية، فبيعدّي الأول (الترتيب D، P، B، N).
+d851e20a05	True: B passes before N, which is the last to cross (order D, P, B, N).	صح: B بيعدّي قبل N اللي هو الآخر (الترتيب D، P، B، N).
+93743d4a1d	True: N passes after B, as N is the last in the order D, P, B, N.	صح: N بيعدّي بعد B، عشان N الآخر في الترتيب D، P، B، N.
+1ebcc26a75	True: P passes before B, which must give way to it (order D, P, B, N).	صح: P بيعدّي قبل B اللي لازم يدّيله الأولوية (الترتيب D، P، B، N).
+1355de4f37	False: B must wait for P, so the order is D, P, B, N, not D, B, N, P.	غلط: B لازم يستنى P، فالترتيب D، P، B، N مش D، B، N، P.
+bbbb781df3	False: D passes first, not last; the correct order is D, P, B, N.	غلط: D بيعدّي الأول مش الآخر؛ الترتيب الصح D، P، B، N.
+8ef67325fa	False: D passes first and N last, so they do not pass together.	غلط: D بيعدّي الأول وN الآخر، فمش بيعدّوا مع بعض.
+c1e856b8d6	False: D and B do not pass together; D goes first, then P, then B.	غلط: D وB مش بيعدّوا مع بعض؛ D الأول وبعدين P وبعدين B.
+0eb354a12a	False: P passes before B but also before N, which is last.	غلط: P بيعدّي قبل B وكمان قبل N اللي هو الآخر.
+5897b09000	False: only D passes first; B must wait for D and P.	غلط: D بس اللي بيعدّي الأول؛ B لازم يستنى D وP.
+750c7c41dd	True: applying the right-hand rule and considering the turns, the order is D, C, A, H (CdS art. 145).	صح: بتطبيق قاعدة اليمين ومع مراعاة الحوّدات، الترتيب D، C، A، H (CdS art. 145).
+ff571bdb77	True: C is on A's right, so A's right is occupied and A must wait for C (CdS art. 145).	صح: C على يمين A، فيمين A مشغول ولازم A يستنى C (CdS art. 145).
+902509281b	True: D comes from C's right, so D has priority over C (CdS art. 145).	صح: D جاي من يمين C، فD ليه الأولوية على C (CdS art. 145).
+9cd135f4de	True: D does not have to give way to any vehicle whose path it crosses, so it is the first to enter the intersection.	صح: D مش لازم يدّي الأولوية لأي عربية هيقطع طريقها، فهو أول واحد يدخل التقاطع.
+69c0419bcc	True: H must give way to the vehicle on its right, which waits for the others, so H crosses last (order D, C, A, H).	صح: H لازم يدّي الأولوية للي على يمينه، واللي بيستنى الباقيين، فH بيعدّي الآخر (الترتيب D، C، A، H).
+93f6af7256	False: D is on C's right, so it is C that must give way to D.	غلط: D على يمين C، فC هو اللي لازم يدّي الأولوية لـD.
+a7e900cc4a	False: C must wait for D, on its right, so it does not cross first; D does.	غلط: C لازم يستنى D اللي على يمينه، فمش هو الأول؛ D هو الأول.
+99ecea3835	False: C is on A's right, so A crosses after C.	غلط: C على يمين A، فA بيعدّي بعد C.
+3be40b3b1d	False: C must wait for D; the correct order is D, C, A, H.	غلط: C لازم يستنى D؛ الترتيب الصح D، C، A، H.
+f0d78193d7	False: H passes last, not first; the correct order is D, C, A, H.	غلط: H بيعدّي الآخر مش الأول؛ الترتيب الصح D، C، A، H.
+0755349bee	False: D passes first; C is second and H is last.	غلط: D بيعدّي الأول؛ C التاني وH الآخر.
+c4b828493e	True: L has a free right, so it passes first (CdS art. 145).	صح: L يمينه فاضي، فبيعدّي الأول (CdS art. 145).
+a1003d1d3e	True: D has A and C on its right and must give way to them, so it is the last to pass (CdS art. 145).	صح: D عنده A وC على يمينه ولازم يدّيهم الأولوية، فهو آخر واحد يعدّي (CdS art. 145).
+2aa8adcdf8	True: A and C come from the same road in separate lanes and do not cross each other's paths, so after L (on their right) they pass together.	صح: A وC جايين من نفس الشارع في حارات منفصلة ومش بيقطعوا طريق بعض، فبعد L (اللي على يمينهم) بيعدّوا مع بعض.
+200499ee59	True: A comes from D's right, so A has priority over D (CdS art. 145).	صح: A جاي من يمين D، فA ليه الأولوية على D (CdS art. 145).

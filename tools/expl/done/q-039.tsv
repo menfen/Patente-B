@@ -1,0 +1,100 @@
+ace5ab8b8e	True: on motorway sections with suitable characteristics, signs may raise the car limit to 150 km/h (CdS art. 142).	صح: في أجزاء من الأوتوستراد مواصفاتها مناسبة، العلامات ممكن ترفع حد العربيات الملاكي لـ 150 كم/س (CdS art. 142).
+ee0e0c9867	True: on urban roads with suitable characteristics, signs may raise the limit to 70 km/h (CdS art. 142).	صح: على طرق جوه المدن مواصفاتها مناسبة، العلامات ممكن ترفع الحد لـ 70 كم/س (CdS art. 142).
+364d7dd33a	True: in rain, snow or other precipitation the motorway limit for cars drops from 130 to 110 km/h (CdS art. 142).	صح: في المطر أو التلج أو أي أمطار، حد العربيات الملاكي على الأوتوستراد بينزل من 130 لـ 110 كم/س (CdS art. 142).
+019dca5645	True: in precipitation the limit on main extra-urban roads drops from 110 to 90 km/h (CdS art. 142).	صح: في المطر أو التلج حد الطرق بره المدن الرئيسية بينزل من 110 لـ 90 كم/س (CdS art. 142).
+0ca621dc31	True: mopeds have a maximum speed limit of 45 km/h on every road (CdS art. 142).	صح: الموتوبيكان حده الأقصى 45 كم/س على كل الطرق (CdS art. 142).
+769ab5d790	True: outside built-up areas, non-light quadricycles have a maximum limit of 80 km/h (CdS art. 142).	صح: بره المدن، الكوادريسيكل اللي مش خفيف حده الأقصى 80 كم/س (CdS art. 142).
+095fc8078a	True: wheeled agricultural machines (with tyres) are limited to 40 km/h; tracked ones to 15 km/h (CdS art. 142).	صح: الماكينات الزراعية اللي بكاوتش حدها 40 كم/س؛ واللي بجنازير 15 كم/س (CdS art. 142).
+145cc5651d	True: wheeled operating machines are limited to 40 km/h (CdS art. 142).	صح: ماكينات الشغل اللي بكاوتش حدها 40 كم/س (CdS art. 142).
+41060e4ad4	False: the ordinary motorway limit is 130 km/h; 150 km/h is allowed only on sections where signs permit it (CdS art. 142).	غلط: الحد العادي على الأوتوستراد 130 كم/س؛ الـ 150 كم/س مسموحة بس في الأجزاء اللي فيها علامات (CdS art. 142).
+70609bded6	False: on main extra-urban roads the car limit is 110 km/h; 90 applies only in rain or snow (CdS art. 142).	غلط: على الطرق بره المدن الرئيسية حد العربيات الملاكي 110 كم/س؛ الـ 90 في المطر أو التلج بس (CdS art. 142).
+fc993ae502	False: on secondary extra-urban roads the car limit is 90 km/h, not 70 (CdS art. 142).	غلط: على الطرق بره المدن الثانوية حد العربيات الملاكي 90 كم/س، مش 70 (CdS art. 142).
+45ee174288	False: in built-up areas the limit is normally 50 km/h; 70 km/h is allowed only on roads where signs permit it (CdS art. 142).	غلط: في المنطقة السكنية الحد عادةً 50 كم/س؛ الـ 70 كم/س مسموحة بس على طرق فيها علامات (CdS art. 142).
+e521c2a9f7	False: the 50 km/h urban limit is not "always": on suitable roads signs can raise it to 70 km/h (CdS art. 142).	غلط: حد الـ 50 كم/س في المدن مش "دايماً": على طرق مناسبة العلامات ممكن ترفعه لـ 70 كم/س (CdS art. 142).
+76d5e134d8	False: outside built-up areas non-light quadricycles are limited to 80 km/h, not 70 (CdS art. 142).	غلط: بره المدن الكوادريسيكل اللي مش خفيف حده 80 كم/س، مش 70 (CdS art. 142).
+bc43938f55	False: in built-up areas the general 50 km/h limit also applies to goods vehicles (CdS art. 142).	غلط: في المنطقة السكنية الحد العام 50 كم/س على عربيات النقل كمان (CdS art. 142).
+7f1cb7a2ea	False: a goods vehicle up to 3.5 t follows the car limits, so 130 km/h on motorways (CdS art. 142).	غلط: عربية النقل لحد 3,5 طن بتمشي بحدود العربيات الملاكي، يعني 130 كم/س على الأوتوستراد (CdS art. 142).
+593657a230	False: vehicles up to 3.5 t may travel at 110 km/h on main extra-urban roads (CdS art. 142).	غلط: العربيات لحد 3,5 طن تقدر تمشي 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+0950d9f6df	False: in built-up areas the general limit is 50 km/h, not 40 (CdS art. 142).	غلط: في المنطقة السكنية الحد العام 50 كم/س، مش 40 (CdS art. 142).
+8359235874	False: the general limit in built-up areas is 50 km/h (up to 70 where signed), not 60 (CdS art. 142).	غلط: الحد العام في المنطقة السكنية 50 كم/س (لحد 70 لو فيه علامات)، مش 60 (CdS art. 142).
+9783f651de	False: wheeled agricultural machines are limited to 40 km/h, not 50 (CdS art. 142).	غلط: الماكينات الزراعية اللي بكاوتش حدها 40 كم/س، مش 50 (CdS art. 142).
+6d5cad8286	False: wheeled operating machines are limited to 40 km/h, not 50 (CdS art. 142).	غلط: ماكينات الشغل اللي بكاوتش حدها 40 كم/س، مش 50 (CdS art. 142).
+51dfc30b29	True: for the first 3 years after obtaining the licence, the motorway limit is 100 km/h (CdS art. 117).	صح: في أول 3 سنين بعد ما تاخد الرخصة، حدك على الأوتوستراد 100 كم/س (CdS art. 117).
+3595777e7b	True: for the first 3 years after obtaining the licence, the limit on main extra-urban roads is 90 km/h (CdS art. 117).	صح: في أول 3 سنين بعد الرخصة، حدك على الطرق بره المدن الرئيسية 90 كم/س (CdS art. 117).
+ca930605b8	True: at high speed air resistance grows sharply, increasing fuel consumption and pollution.	صح: في السرعة العالية مقاومة الهوا بتزيد جامد، فاستهلاك البنزين والتلوث بيزيدوا.
+c446e6722a	True: sudden accelerations and braking waste energy and increase fuel consumption.	صح: الدوس المفاجئ والفرملة المفاجئة بيضيعوا طاقة ويزوّدوا استهلاك البنزين.
+0e86f2b1d4	True: on bends centrifugal force grows with speed, reducing the vehicle's road holding.	صح: في المنحنيات القوة الطاردة بتزيد مع السرعة، فالعربية بتمسك في الطريق أقل.
+1bd5ecc6ac	True: too much speed on a bend can make the vehicle skid off the road or overturn.	صح: السرعة الزيادة في المنحنى ممكن تخلي العربية تطلع من الطريق أو تتقلب.
+22c3e68338	False: bends must be taken in gear with the clutch engaged; coasting with the clutch pressed reduces control.	غلط: المنحنيات لازم تتاخد والعربية معشقة والدبرياج مش مدوس؛ إنك تدوس الدبرياج بيقلل السيطرة.
+346ec2cfa4	False: new drivers in their first 3 years are limited to 100 km/h on motorways, not 110 (CdS art. 117).	غلط: السواقين الجداد في أول 3 سنين حدهم 100 كم/س على الأوتوستراد، مش 110 (CdS art. 117).
+1b25143cf6	False: new drivers in their first 3 years are limited to 90 km/h on main extra-urban roads (CdS art. 117).	غلط: السواقين الجداد في أول 3 سنين حدهم 90 كم/س على الطرق بره المدن الرئيسية (CdS art. 117).
+2b974cd13b	True: a light luggage trailer (carrello appendice) does not count as a trailer, so the car keeps the 130 km/h motorway limit (CdS art. 142).	صح: عربة الشنط الصغيرة (carrello appendice) مش بتتحسب مقطورة، فالعربية بتفضل بحد 130 كم/س على الأوتوستراد (CdS art. 142).
+3c1860abba	True: cars towing a trailer are limited to 80 km/h on motorways (CdS art. 142).	صح: العربيات اللي بتجر مقطورة حدها 80 كم/س على الأوتوستراد (CdS art. 142).
+3dc9323804	True: motorcycles have the ordinary motorway limit of 130 km/h (CdS art. 142).	صح: الموتوسيكلات حدها العادي على الأوتوستراد 130 كم/س (CdS art. 142).
+db1b2abf02	True: motor caravans up to 3.5 t follow car limits, so 130 km/h on motorways (CdS art. 142).	صح: الكرافانات بموتور لحد 3,5 طن بتمشي بحدود العربيات الملاكي، يعني 130 كم/س على الأوتوستراد (CdS art. 142).
+4d3a91c32c	True: a car towing a caravan is limited to 80 km/h on motorways (CdS art. 142).	صح: العربية اللي بتجر كرافان حدها 80 كم/س على الأوتوستراد (CdS art. 142).
+58f7235683	True: motorcycles are limited to 110 km/h on main extra-urban roads (CdS art. 142).	صح: الموتوسيكلات حدها 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+9128fa138a	True: with a luggage trailer the car keeps its normal limits, so 110 km/h on main extra-urban roads (CdS art. 142).	صح: مع عربة الشنط الصغيرة العربية بتفضل بحدودها العادية، يعني 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+604bef6963	True: cars towing a trailer, such as a boat trailer, are limited to 70 km/h on extra-urban roads (CdS art. 142).	صح: العربيات اللي بتجر مقطورة، زي مقطورة المراكب، حدها 70 كم/س على الطرق بره المدن (CdS art. 142).
+71954ec7aa	True: motorcycles are limited to 90 km/h on secondary extra-urban roads (CdS art. 142).	صح: الموتوسيكلات حدها 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+721c3e6639	True: a car towing a caravan (a trailer, e.g. 900 kg) is limited to 70 km/h on extra-urban roads (CdS art. 142).	صح: العربية اللي بتجر كرافان (مقطورة، زي 900 كجم) حدها 70 كم/س على الطرق بره المدن (CdS art. 142).
+c94db35045	False: cars towing a trailer are limited to 80 km/h on motorways, not 130 (CdS art. 142).	غلط: العربيات اللي بتجر مقطورة حدها 80 كم/س على الأوتوستراد، مش 130 (CdS art. 142).
+965e739934	False: motorcycles may travel at 130 km/h on motorways (CdS art. 142).	غلط: الموتوسيكلات تقدر تمشي 130 كم/س على الأوتوستراد (CdS art. 142).
+c6e64101e8	False: motor caravans up to 3.5 t may travel at 130 km/h on motorways; heavier ones at 100 km/h, not 90 (CdS art. 142).	غلط: الكرافانات بموتور لحد 3,5 طن تقدر تمشي 130 كم/س على الأوتوستراد؛ والأتقل 100 كم/س، مش 90 (CdS art. 142).
+483ee00e79	False: a car towing a caravan may travel at 80 km/h on motorways; 70 is the extra-urban road limit (CdS art. 142).	غلط: العربية اللي بتجر كرافان تقدر تمشي 80 كم/س على الأوتوستراد؛ الـ 70 ده حد الطرق بره المدن (CdS art. 142).
+76836956d8	False: with a luggage trailer the car follows car limits, so in rain the motorway limit is 110 km/h, not 120 (CdS art. 142).	غلط: مع عربة الشنط الصغيرة العربية بتمشي بحدود العربيات الملاكي، فالحد في المطر على الأوتوستراد 110 كم/س، مش 120 (CdS art. 142).
+b227e68d8e	False: motorcycles may travel at 110 km/h on main extra-urban roads (CdS art. 142).	غلط: الموتوسيكلات تقدر تمشي 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+3be0c82ec4	False: cars with a boat trailer are limited to 70 km/h on main extra-urban roads; 80 is their motorway limit (CdS art. 142).	غلط: العربيات اللي بتجر مقطورة مراكب حدها 70 كم/س على الطرق بره المدن الرئيسية؛ الـ 80 ده حدها على الأوتوستراد (CdS art. 142).
+98eccbc145	False: motorcycles may travel at 90 km/h on secondary extra-urban roads (CdS art. 142).	غلط: الموتوسيكلات تقدر تمشي 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+742e75da74	True: speed must be adjusted so as not to obstruct traffic, e.g. by driving abnormally slowly (CdS art. 141).	صح: السرعة لازم تتظبط بحيث متعطلش المرور، زي إنك تمشي ببطء مش طبيعي (CdS art. 141).
+6778315a59	True: at intersections you must slow down and, if necessary, stop to let vehicles with right of way pass (CdS art. 141, 145).	صح: عند التقاطعات لازم تهدي، ولو محتاج توقف، عشان تعدّي العربيات اللي ليها الأولوية (CdS art. 141, 145).
+f1af3b7331	False: that time period is when lights must be on; it is not a general duty to slow down and stop (CdS art. 152).	غلط: الفترة دي هي اللي لازم تولع فيها النور؛ مش إلزام عام إنك تهدي وتوقف (CdS art. 152).
+7dbfdf2a34	False: the type of fuel has nothing to do with the speed you must keep.	غلط: نوع البنزين ملوش علاقة بالسرعة اللي لازم تمشي بيها.
+9ef05ac1e2	False: speed depends on road, traffic and visibility, not on the speed of vehicles behind you.	غلط: السرعة بتعتمد على الطريق والمرور والرؤية، مش على سرعة العربيات اللي وراك.
+d1c5c0f779	False: the type of gearbox does not determine the speed you must keep.	غلط: نوع الفتيس مش هو اللي بيحدد السرعة اللي لازم تمشي بيها.
+b5d8a69d1a	True: where the view ahead is not clear, speed must be moderate (CdS art. 141).	صح: لما الرؤية قدامك مش واضحة، لازم تهدي (CdS art. 141).
+f16c74f6ec	True: speed must never endanger road safety (CdS art. 141).	صح: السرعة عمرها ما تكون خطر على أمان الطريق (CdS art. 141).
+f14ad28056	True: speed must allow you to react safely to unexpected events.	صح: السرعة لازم تخليك تقدر تتصرف بأمان لو حصل حاجة مفاجئة.
+3451558aaf	True: speed must suit your physical and mental condition, e.g. tiredness reduces reaction time.	صح: السرعة لازم تناسب حالتك الجسدية والنفسية، زي التعب اللي بيبطّأ رد فعلك.
+50698d41d6	True: the driver must adjust speed to the vehicle's load (CdS art. 141).	صح: السواق لازم يظبط السرعة حسب حمولة العربية (CdS art. 141).
+32378d720d	False: being in a hurry is never a reason to adapt speed; safety conditions decide it.	غلط: إنك مستعجل عمره ما يكون سبب لظبط السرعة؛ ظروف الأمان هي اللي بتحدد.
+4cbe6b4707	False: moderating speed is required in specific situations (bends, poor visibility, etc.), not simply because you are outside built-up areas.	غلط: التهدية مطلوبة في حالات معينة (منحنيات، رؤية قليلة، إلخ)، مش لمجرد إنك بره المدن.
+0542f7cb10	True: with the specific sign, the limit can be 150 km/h on motorway sections with suitable features (CdS art. 142).	صح: بالعلامة المخصوصة، الحد ممكن يكون 150 كم/س في أجزاء من الأوتوستراد مواصفاتها مناسبة (CdS art. 142).
+86797d918e	True: unless signs say otherwise, the motorway limit is 130 km/h (CdS art. 142).	صح: لو مفيش علامات بتقول غير كده، حد الأوتوستراد 130 كم/س (CdS art. 142).
+0386141944	True: unless signs say otherwise, the limit in built-up areas is 50 km/h (CdS art. 142).	صح: لو مفيش علامات بتقول غير كده، الحد في المنطقة السكنية 50 كم/س (CdS art. 142).
+e5cc2ef9b7	True: mopeds are limited to 45 km/h (CdS art. 142).	صح: الموتوبيكان حده 45 كم/س (CdS art. 142).
+3ed5b271eb	True: agricultural and operating machines with tyres are limited to 40 km/h (CdS art. 142).	صح: الماكينات الزراعية وماكينات الشغل اللي بكاوتش حدها 40 كم/س (CdS art. 142).
+a28c1e06ee	True: in rain the motorway limit is 110 km/h (CdS art. 142).	صح: في المطر حد الأوتوستراد 110 كم/س (CdS art. 142).
+d33b4f4d3e	True: hail is precipitation, so the limit on main extra-urban roads drops to 90 km/h (CdS art. 142).	صح: التلج اللي بينزل حبيبات (البَرَد) من الأمطار، فحد الطرق بره المدن الرئيسية بينزل لـ 90 كم/س (CdS art. 142).
+34883134c1	True: on urban roads with suitable features and signs, the limit can be 70 km/h (CdS art. 142).	صح: على طرق جوه المدن مواصفاتها مناسبة وفيها علامات، الحد ممكن يبقى 70 كم/س (CdS art. 142).
+165eeede87	True: unless signs say otherwise, the limit on main extra-urban roads is 110 km/h (CdS art. 142).	صح: لو مفيش علامات بتقول غير كده، حد الطرق بره المدن الرئيسية 110 كم/س (CdS art. 142).
+19bd072f5f	True: on main extra-urban roads cars are limited to 110 km/h (CdS art. 142).	صح: على الطرق بره المدن الرئيسية حد العربيات الملاكي 110 كم/س (CdS art. 142).
+8b711334e9	True: a car towing a caravan is limited to 70 km/h on main extra-urban roads (CdS art. 142).	صح: العربية اللي بتجر كرافان حدها 70 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+cbc5cf02fd	True: motor vehicles up to 3.5 t are limited to 110 km/h on main extra-urban roads (CdS art. 142).	صح: العربيات لحد 3,5 طن حدها 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+9cd68b76c2	True: road trains are limited to 70 km/h on extra-urban roads (80 on motorways) (CdS art. 142).	صح: المقطورات (autotreni) حدها 70 كم/س على الطرق بره المدن (و80 على الأوتوستراد) (CdS art. 142).
+346e6b558f	False: unless signs say otherwise, the urban limit is 50 km/h, raisable only to 70 km/h (CdS art. 142).	غلط: لو مفيش علامات بتقول غير كده، حد المدن 50 كم/س، وممكن يوصل 70 كم/س بس (CdS art. 142).
+098abf8c4e	False: non-light quadricycles are limited to 80 km/h outside built-up areas, not 70 (CdS art. 142).	غلط: الكوادريسيكل اللي مش خفيف حده 80 كم/س بره المدن، مش 70 (CdS art. 142).
+a5f30fda05	False: 150 km/h is allowed only on signed sections with suitable characteristics; normally it is 130 km/h (CdS art. 142).	غلط: الـ 150 كم/س مسموحة بس في أجزاء فيها علامات ومواصفاتها مناسبة؛ عادةً الحد 130 كم/س (CdS art. 142).
+70bffae0b5	False: goods vehicles up to 3.5 t may travel at 110 km/h on main extra-urban roads (CdS art. 142).	غلط: عربيات النقل لحد 3,5 طن تقدر تمشي 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+14eb491875	False: motor caravans up to 3.5 t may travel at 110 km/h on main extra-urban roads (CdS art. 142).	غلط: الكرافانات بموتور لحد 3,5 طن تقدر تمشي 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+d7477a4409	False: cars towing a trailer are limited to 70 km/h on main extra-urban roads, not 80 (CdS art. 142).	غلط: العربيات اللي بتجر مقطورة حدها 70 كم/س على الطرق بره المدن الرئيسية، مش 80 (CdS art. 142).
+bc91fe77a1	False: motorcycles may travel at 110 km/h on main extra-urban roads (CdS art. 142).	غلط: الموتوسيكلات تقدر تمشي 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+ed18893812	False: with a luggage trailer the car keeps its normal limit of 110 km/h on main extra-urban roads (CdS art. 142).	غلط: مع عربة الشنط الصغيرة العربية بتفضل بحدها العادي 110 كم/س على الطرق بره المدن الرئيسية (CdS art. 142).
+23a73d5589	True: motorcycles are limited to 90 km/h on secondary extra-urban roads (CdS art. 142).	صح: الموتوسيكلات حدها 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+ed5b4f80ed	True: with a luggage trailer the car keeps its normal 90 km/h limit on secondary extra-urban roads (CdS art. 142).	صح: مع عربة الشنط الصغيرة العربية بتفضل بحدها العادي 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+f155a3e84c	True: cars towing a boat trailer or similar are limited to 70 km/h on extra-urban roads (CdS art. 142).	صح: العربيات اللي بتجر مقطورة مراكب أو حاجة زيها حدها 70 كم/س على الطرق بره المدن (CdS art. 142).
+1962d2dedf	True: motor caravans up to 3.5 t are limited to 90 km/h on secondary extra-urban roads (CdS art. 142).	صح: الكرافانات بموتور لحد 3,5 طن حدها 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+ddbc511ae5	True: goods vehicles up to 3.5 t are limited to 90 km/h on secondary extra-urban roads (CdS art. 142).	صح: عربيات النقل لحد 3,5 طن حدها 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+dc1f086849	True: road trains are limited to 70 km/h on extra-urban roads (CdS art. 142).	صح: المقطورات حدها 70 كم/س على الطرق بره المدن (CdS art. 142).
+444de4fb41	False: mopeds are limited to 45 km/h on every road (CdS art. 142).	غلط: الموتوبيكان حده 45 كم/س على كل الطرق (CdS art. 142).
+809bd5dfd3	False: non-light quadricycles are limited to 80 km/h outside built-up areas, not 90 (CdS art. 142).	غلط: الكوادريسيكل اللي مش خفيف حده 80 كم/س بره المدن، مش 90 (CdS art. 142).
+873461ce9e	False: motorcycles may travel at 90 km/h on secondary extra-urban roads (CdS art. 142).	غلط: الموتوسيكلات تقدر تمشي 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+1e45341d21	False: on secondary extra-urban roads the car limit is 90 km/h, not 100 (CdS art. 142).	غلط: على الطرق بره المدن الثانوية حد العربيات الملاكي 90 كم/س، مش 100 (CdS art. 142).
+eb8460a5fe	False: a car towing a caravan is limited to 70 km/h on extra-urban roads, not 80 (CdS art. 142).	غلط: العربية اللي بتجر كرافان حدها 70 كم/س على الطرق بره المدن، مش 80 (CdS art. 142).
+4f9d9c2e1e	False: vehicles up to 3.5 t are limited to 90 km/h on secondary extra-urban roads (CdS art. 142).	غلط: العربيات لحد 3,5 طن حدها 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+6df47d66b8	False: with a luggage trailer the car keeps the 90 km/h limit on secondary extra-urban roads (CdS art. 142).	غلط: مع عربة الشنط الصغيرة العربية بتفضل بحد 90 كم/س على الطرق بره المدن الثانوية (CdS art. 142).
+7602ffdafb	True: speed limit discs are applied to the rear of certain vehicle categories, such as heavy vehicles and some buses.	صح: أقراص حدود السرعة بتتحط على ضهر أنواع معينة من العربيات، زي العربيات التقيلة وبعض الأوتوبيسات.
+4c419ee5a8	True: the discs show the maximum speeds allowed for the vehicle carrying them on the various road types.	صح: الأقراص بتبين أقصى سرعات مسموحة للعربية اللي عليها على أنواع الطرق المختلفة.
+1ac0174f21	True: these discs are applied to some buses, as well as to other heavy vehicles.	صح: الأقراص دي بتتحط على بعض الأوتوبيسات، وكمان على عربيات تقيلة تانية.
+9e4cacbfb8	True: in mixed traffic, with slow and fast vehicles, animals or pedestrians on the road, speed must be reduced.	صح: في المرور المختلط، فيه عربيات بطيئة وسريعة وحيوانات أو مشاة على الطريق، لازم تهدي.
+e9b0a79e0f	True: speed must be adapted to the road surface, e.g. potholes, uneven surfaces or wet leaves (CdS art. 141).	صح: السرعة لازم تتظبط حسب سطح الطريق، زي الحفر أو الطريق المكسر أو ورق الشجر المبلول (CdS art. 141).

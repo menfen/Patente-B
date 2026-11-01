@@ -1,0 +1,100 @@
+4839397798	True: the bicycle sign crossed by a red diagonal bar marks the end of a route reserved for bicycles.	صح: علامة العجلة المتشطبة بشرطة حمرا مايلة بتحدد نهاية طريق مخصص للعجل.
+78b8d6aec1	True: it is placed where a lane reserved for cyclists ends.	صح: بتتحط في المكان اللي حارة العجل المخصصة بتخلص فيه.
+6c3fc51db3	True: it marks the end of a cycle path.	صح: بتحدد نهاية ممر العجل.
+933c12e969	False: it is not a parking ban; it marks the end of the cycle path.	غلط: دي مش منع ركن؛ بتحدد نهاية ممر العجل.
+b602c98bcd	False: it bans nothing; it only ends the reserved cycle path.	غلط: مش بتمنع حاجة؛ بتنهي ممر العجل المخصص بس.
+fa24106921	False: the end of a shared pedestrian and cycle path shows both a pedestrian and a bicycle.	غلط: نهاية الممر المشترك للمشاة والعجل بيبقى فيها شخص وعجلة.
+a1fdfb6618	False: cyclists may still ride on the normal road; only the reserved path ends.	غلط: راكبي العجل لسه يقدروا يمشوا في الطريق العادي؛ الممر المخصص بس هو اللي خلص.
+6969a69c18	False: it does not start a ban on bicycles; it ends the cycle path.	غلط: مش بتبدأ منع للعجل؛ بتنهي ممر العجل.
+a9f1c84d82	True: this round blue sign, split into a bicycle side and a pedestrian side, marks a cycle path running alongside a pavement.	صح: العلامة الدايرية الزرقا دي، المقسومة نص عجلة ونص مشاة، بتحدد ممر عجل جنب رصيف.
+a61ce429ac	True: it marks a lane for bicycles next to a separate pedestrian path.	صح: بتحدد حارة للعجل جنب ممر مشاة منفصل.
+e7c9b4c6a4	True: it marks a cycle track flanked by a pedestrian walkway, each with its own space.	صح: بتحدد ممر عجل جنبه ممر مشاة، كل واحد ليه مكانه.
+046691e4ff	True: it marks a cycle path running beside a pedestrian path.	صح: بتحدد ممر عجل ماشي جنب ممر مشاة.
+1ac2165b65	True: the paths are reserved for cyclists and pedestrians, so motor vehicles may not use them.	صح: الممرات مخصصة للعجل والمشاة، فالمركبات بالموتور ماتدخلهاش.
+da46577abb	False: here the two paths are separate; a shared path has the pedestrian and bicycle drawn together without a dividing line.	غلط: هنا الممرين منفصلين؛ الممر المشترك بيبقى فيه الشخص والعجلة مع بعض من غير خط فاصل.
+b8ac9f0038	False: it is not a mixed path; cyclists and pedestrians have separate spaces.	غلط: ده مش ممر مختلط؛ العجل والمشاة ليهم أماكن منفصلة.
+4b004e5138	False: it marks the start of the paths; the end has a red diagonal bar.	غلط: بتحدد بداية الممرات؛ النهاية فيها شرطة حمرا مايلة.
+dc22aa1f40	False: cyclists may ride on their side; it does not require pushing the bike.	غلط: راكبي العجل يقدروا يركبوا في ناحيتهم؛ مش بتلزمهم يزقوا العجلة.
+b8bb7ff6ea	False: it does not require parking the bicycle; it gives cyclists their own path.	غلط: مش بتلزمك تركن العجلة؛ بتدي العجل ممر خاص بيه.
+04799fb0ea	True: the round blue sign with a pedestrian and a bicycle together marks a shared path for pedestrians and cyclists.	صح: العلامة الدايرية الزرقا اللي فيها شخص وعجلة مع بعض بتحدد ممر مشترك للمشاة والعجل.
+b0aab0a045	True: it marks a mixed path used by both pedestrians and cyclists.	صح: بتحدد ممر مختلط بيستخدمه المشاة والعجل الاتنين.
+7dc092bc68	True: the route is reserved only for pedestrians and cyclists.	صح: الطريق مخصص للمشاة والعجل بس.
+f58953f67a	False: separate side-by-side paths use the split sign; this one is a single shared path.	غلط: الممرات المنفصلة جنب بعض ليها العلامة المقسومة؛ دي ممر واحد مشترك.
+529432cb64	False: it is one shared path, not a cycle track beside a pedestrian path.	غلط: ده ممر واحد مشترك، مش ممر عجل جنب ممر مشاة.
+ea1e32bb1c	False: it does not mark separate areas; pedestrians and cyclists share the same path.	غلط: مش بتحدد أماكن منفصلة؛ المشاة والعجل بيستخدموا نفس الممر.
+e317e85ec1	False: there is no divider; the path is shared by both.	غلط: مفيش فاصل؛ الممر مشترك بين الاتنين.
+eff5a02422	False: cyclists may ride on the shared path, with care for pedestrians.	غلط: راكبي العجل يقدروا يركبوا في الممر المشترك، مع مراعاة المشاة.
+5097e38339	True: the split sign crossed by a red bar marks the end of the cycle path next to the pavement.	صح: العلامة المقسومة المتشطبة بشرطة حمرا بتحدد نهاية ممر العجل اللي جنب الرصيف.
+7e7eefdf4a	True: it marks the end of the cycle track beside the pedestrian path.	صح: بتحدد نهاية ممر العجل اللي جنب ممر المشاة.
+ed88eabff7	True: it also marks the end of the pedestrian path running alongside the cycle track.	صح: بتحدد كمان نهاية ممر المشاة اللي ماشي جنب ممر العجل.
+3322961c0d	True: both the pedestrian path and the cycle path beside it end here.	صح: ممر المشاة وممر العجل اللي جنبه الاتنين بيخلصوا هنا.
+c87cb01cc6	False: it bans nothing; it only ends the reserved paths.	غلط: مش بتمنع حاجة؛ بتنهي الممرات المخصصة بس.
+9dbc1f9f81	False: it does not alternate use by day; it marks the end of the paths.	غلط: مش بتبدل الاستخدام بالأيام؛ بتحدد نهاية الممرات.
+329dd3e291	False: it bans nobody; it ends the reserved paths.	غلط: مش بتمنع حد؛ بتنهي الممرات المخصصة.
+29964e63d4	True: the shared path sign crossed by a red bar marks the end of the shared pedestrian and cycle path.	صح: علامة الممر المشترك المتشطبة بشرطة حمرا بتحدد نهاية الممر المشترك للمشاة والعجل.
+e649bf3ec1	True: it marks the end of a mixed path used by both pedestrians and cyclists.	صح: بتحدد نهاية ممر مختلط للمشاة والعجل.
+c7044c57fc	True: it is placed where mixed pedestrian and cycle traffic on the reserved path ends.	صح: بتتحط في المكان اللي المرور المختلط للمشاة والعجل في الممر المخصص بيخلص فيه.
+0ca7dfcb97	False: it marks the end, not the start, of the shared path.	غلط: بتحدد النهاية مش البداية للممر المشترك.
+1e99b2223f	False: it ends the whole shared path, not only the cycle track.	غلط: بتنهي الممر المشترك كله، مش ممر العجل بس.
+e2aeabfc2e	False: it bans nothing; it ends the shared path.	غلط: مش بتمنع حاجة؛ بتنهي الممر المشترك.
+23154b1a10	False: it ends the shared path for both pedestrians and cyclists, not only for pedestrians.	غلط: بتنهي الممر المشترك للمشاة والعجل، مش للمشاة بس.
+1a51e8fed1	True: the round blue sign with a rider marks a path reserved for riding and pack animals, closed to vehicles.	صح: العلامة الدايرية الزرقا اللي فيها خيال بتحدد ممر مخصص لحيوانات الركوب والحمل، ممنوع على المركبات.
+5cb99f2604	True: bicycles are vehicles, so they may not use it.	صح: العجل مركبات، فماينفعش يستخدمه.
+d945c70352	True: electric vehicles are vehicles and may not use it.	صح: المركبات الكهربا مركبات ومش مسموح لها تدخله.
+d217ea79be	True: it marks the start of a path reserved for riding animals.	صح: بتحدد بداية ممر مخصص لحيوانات الركوب.
+5adabbc222	True: it is also reserved for pack animals.	صح: مخصص كمان لحيوانات الحمل.
+4478603a01	False: it does not indicate a riding school; it is a mandatory sign for a reserved path.	غلط: مش معناها مدرسة فروسية؛ دي علامة إلزام لممر مخصص.
+c4465e0ad6	False: it is the opposite: the path is reserved for those animals.	غلط: بالعكس: الممر مخصص للحيوانات دي.
+34c36d2152	False: stray animals are warned of by triangular signs; this is a reserved path.	غلط: الحيوانات السايبة بيتحذر منها بعلامات مثلثة؛ ده ممر مخصص.
+21d61bd372	False: it is not about animals crossing; it reserves a path for riding and pack animals.	غلط: مش عن حيوانات بتعدي؛ بتخصص ممر لحيوانات الركوب والحمل.
+ca2c4adfa9	True: the rider sign crossed by a red bar marks the end of the path for pack animals.	صح: علامة الخيال المتشطبة بشرطة حمرا بتحدد نهاية ممر حيوانات الحمل.
+2eb6a94e44	True: it marks the end of the path for riding animals.	صح: بتحدد نهاية ممر حيوانات الركوب.
+160612539b	True: it marks the end of the path reserved for pack and riding animals.	صح: بتحدد نهاية الممر المخصص لحيوانات الحمل والركوب.
+53e53f4372	False: it has nothing to do with racecourses; it ends a reserved path.	غلط: مالهاش علاقة بسباق الخيل؛ بتنهي ممر مخصص.
+a59d835927	False: it bans nothing; it ends the path for riding and pack animals.	غلط: مش بتمنع حاجة؛ بتنهي ممر حيوانات الركوب والحمل.
+6f177f45f5	False: it ends a path reserved for horses, not a ban on them.	غلط: بتنهي ممر مخصص للخيل، مش منع ليها.
+59f819dc66	False: the path was for riding and pack animals in general, not racehorses.	غلط: الممر كان لحيوانات الركوب والحمل عمومًا، مش خيول السباق.
+3f4c77fe2b	True: the round 'dogana' stop sign requires you to stop at the customs post.	صح: علامة الوقوف 'dogana' الدايرية بتلزمك تقف عند الجمرك.
+1db27eb3e4	True: it obliges you to stop at the border for customs checks.	صح: بتلزمك تقف عند الحدود للتفتيش الجمركي.
+38884d227e	True: you must slow down and stop at customs.	صح: لازم تهدّي وتقف عند الجمرك.
+053f4b1a6c	True: it marks a customs post where stopping is compulsory.	صح: بتحدد نقطة جمرك الوقوف فيها إجباري.
+2afc489997	False: it concerns customs, not a police station.	غلط: هي عن الجمرك، مش قسم بوليس.
+b0aa24059e	False: stopping is compulsory for everyone, whether or not you have goods to declare.	غلط: الوقوف إجباري للكل، سواء معاك حاجة تعلن عنها أو لأ.
+d1efa012b2	False: it is a customs stop, not a Carabinieri station.	غلط: دي وقفة جمرك، مش نقطة كارابينييري.
+66cae09c73	False: it can be found at any customs post, not only at borders with EU countries.	غلط: ممكن تلاقيها عند أي جمرك، مش بس على حدود دول الاتحاد الأوروبي.
+11b970a267	True: the 'alt polizia' sign announces a police roadblock.	صح: علامة 'alt polizia' بتنبه لكمين بوليس.
+fcdea2384a	True: it obliges you to stop at the police roadblock.	صح: بتلزمك تقف عند كمين البوليس.
+dafdf869e2	True: stopping at the police roadblock is compulsory.	صح: الوقوف عند كمين البوليس إجباري.
+056c158bde	True: it marks a police roadblock where you must stop.	صح: بتحدد كمين بوليس لازم تقف عنده.
+8bf76abb34	True: it is placed at a suitable distance before the roadblock and repeated at the stopping point.	صح: بتتحط على مسافة مناسبة قبل الكمين وبتتكرر عند مكان الوقوف.
+8be1470e28	False: stopping is compulsory, not only if signalled by officers.	غلط: الوقوف إجباري، مش بس لو العسكري شاورلك.
+2acc7e62ee	False: a state border has the customs stop sign; this one is a police roadblock.	غلط: الحدود ليها علامة وقفة الجمرك؛ دي كمين بوليس.
+01f94f527c	False: motorway toll stations have the 'alt stazione' sign; this one is a police roadblock.	غلط: محطات الأوتوستراد ليها علامة 'alt stazione'؛ دي كمين بوليس.
+da85851ca6	False: you must stop at the roadblock, not give way to police vehicles.	غلط: لازم تقف عند الكمين، مش تدي أولوية لعربيات البوليس.
+dc47bd8219	False: it concerns a police roadblock, not customs.	غلط: هي عن كمين بوليس، مش جمرك.
+328e490e59	True: the 'stazione' stop sign requires stopping at a controlled motorway entrance.	صح: علامة وقفة 'stazione' بتلزمك تقف عند مدخل الأوتوستراد المراقب.
+0fe2d3512c	True: you must slow down and stop for toll payment.	صح: لازم تهدّي وتقف عشان تدفع الكارتة.
+b15e31a2a3	True: it marks a motorway station where stopping is compulsory.	صح: بتحدد محطة أوتوستراد الوقوف فيها إجباري.
+ca0beb02de	True: you must stop at the toll booth for toll operations.	صح: لازم تقف عند الكارتة عشان الدفع.
+1399ed62c3	True: it is placed at controlled motorway entrances where you must stop.	صح: بتتحط عند مداخل الأوتوستراد المراقبة اللي لازم تقف فيها.
+adcecc70f2	False: it concerns a motorway toll station, not a Carabinieri roadblock.	غلط: هي عن كارتة أوتوستراد، مش كمين كارابينييري.
+3ced0048f9	False: it concerns motorway stations, not railway stations.	غلط: هي عن محطات الأوتوستراد، مش محطات القطر.
+ee3b3d33cd	False: it is not an access ban; it requires stopping at the toll station.	غلط: دي مش منع دخول؛ بتلزمك تقف عند الكارتة.
+083c2bc498	False: it has nothing to do with loading cars on trains.	غلط: مالهاش علاقة بتحميل العربيات على القطر.
+905b5535a9	False: it is used at motorway stations, not ferry piers.	غلط: بتتحط في محطات الأوتوستراد، مش أرصفة المعديات.
+95bcbc1aa9	True: this advance sign shows that lorries over 3.5 t must turn right at the next intersection.	صح: العلامة المسبقة دي بتوضح إن عربيات النقل فوق 3.5 طن لازم تلف يمين في التقاطع الجاي.
+8e458811d1	True: lorries over 3.5 t may not continue straight ahead.	صح: عربيات النقل فوق 3.5 طن ماينفعش تكمل على طول.
+931d5496dd	True: the obligation to turn right concerns the vehicles drawn on the sign.	صح: إلزام اللف يمين بيخص المركبات المرسومة على العلامة.
+d8946d1f70	True: since they must turn right, lorries over 3.5 t may not turn left.	صح: عشان لازم يلفوا يمين، عربيات النقل فوق 3.5 طن ماينفعش تلف شمال.
+3c06d41d06	True: it announces a compulsory turn for the vehicles shown.	صح: بتنبه للفة إجبارية للمركبات المرسومة.
+65f195b70d	True: lorries over 3.5 t must turn in the direction of the arrow.	صح: عربيات النقل فوق 3.5 طن لازم تلف في اتجاه السهم.
+c4d86d4583	False: it does not announce a fuel station; it imposes a turn for heavy lorries.	غلط: مش بتنبه لبنزينة؛ بتفرض لفة على عربيات النقل التقيلة.
+e3ac91c89a	False: the turn is compulsory, not recommended.	غلط: اللفة إجبارية، مش منصوح بيها.
+d89f527daa	False: it is the opposite: the vehicles shown must turn right.	غلط: بالعكس: المركبات المرسومة لازم تلف يمين.
+f614a6fb79	False: it does not announce a lorry park.	غلط: مش بتنبه لمكان ركن عربيات نقل.
+d5638a5e0b	False: it concerns a right turn and only lorries over 3.5 t, not a left turn for all lorries.	غلط: هي عن لفة يمين ولعربيات النقل فوق 3.5 طن بس، مش لفة شمال لكل عربيات النقل.
+472e5f8ddf	False: bends have triangular warning signs; this one imposes a compulsory turn.	غلط: المنحنيات ليها علامات تحذير مثلثة؛ دي بتفرض لفة إجبارية.
+6c90be27fc	True: the inverted triangle 'dare precedenza' belongs to the right-of-way signs (CdS art. 39).	صح: المثلث المقلوب 'dare precedenza' من علامات الأولوية (CdS art. 39).
+7065f5d262	True: you must give way to vehicles coming from both right and left on the road you are entering (CdS art. 145).	صح: لازم تدي الأولوية للعربيات الجاية من اليمين والشمال في الطريق اللي داخل عليه (CdS art. 145).
+2f4db1f8b4	True: you must give way to traffic on the road you are crossing or joining.	صح: لازم تدي الأولوية للعربيات اللي في الطريق اللي بتعديه أو داخل عليه.
+8cd471f082	True: it is placed on the minor road, which has no right of way.	صح: بتتحط على الطريق الفرعي اللي مالوش أولوية.

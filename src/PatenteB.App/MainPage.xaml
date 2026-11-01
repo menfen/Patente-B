@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PatenteB.App.MainPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="#0B6E4F">
+
+    <!-- The whole learning app is the shared web UI from PatenteB.Web/wwwroot. -->
+    <HybridWebView x:Name="AppView"
+                   HybridRoot="wwwroot"
+                   DefaultFile="index.html" />
+
+</ContentPage>

@@ -1,0 +1,100 @@
+e800c501e0	True: L comes from A's right, so A must give way to L before crossing (CdS art. 145).	صح: L جاي من يمين A، فA لازم يدّي الأولوية لـL قبل ما يعدّي (CdS art. 145).
+682cb2793c	True: A and C come from the same road and their paths do not conflict, so after L (on their right) has passed they may cross together.	صح: A وC جايين من نفس الشارع وطرقهم مش بتتقاطع، فبعد ما L (اللي على يمينهم) يعدّي يقدروا يعدّوا مع بعض.
+ca914551dc	True: A comes from D's right, so A has priority over D (CdS art. 145).	صح: A جاي من يمين D، فA ليه الأولوية على D (CdS art. 145).
+cdb2a19fed	False: the order of passage is decided by the right-of-way rules, not by speed; here L passes first because its right is free.	غلط: ترتيب العبور بيتحدد بقواعد الأولوية مش بالسرعة؛ هنا L بيعدّي الأول عشان يمينه فاضي.
+6183ef1aea	False: A is not last; after L, A crosses together with C, and D (which has them on its right) passes last.	غلط: A مش الآخر؛ بعد L، A بيعدّي مع C، وD (اللي هم على يمينه) بيعدّي الآخر.
+550b33803b	False: L passes first because its right is free; the order is L, then A and C together, then D.	غلط: L بيعدّي الأول عشان يمينه فاضي؛ الترتيب L وبعدين A وC مع بعض وبعدين D.
+fab58f602c	False: C cannot pass before L, which is on its right; the order is L, A and C, D.	غلط: C مينفعش يعدّي قبل L اللي على يمينه؛ الترتيب L وبعدين A وC وبعدين D.
+56983d3ff8	False: D must give way to A and C, which are on its right, so D passes last, not before A.	غلط: D لازم يدّي الأولوية لـA وC اللي على يمينه، فD بيعدّي الآخر مش قبل A.
+0c11889333	False: A gives way only to L, on its right; it has priority over D.	غلط: A بيدّي الأولوية لـL بس اللي على يمينه؛ وليه الأولوية على D.
+6d80054a37	False: in the intersection shown A is not the last to pass; applying the right-hand rule, other vehicles must give way to it.	غلط: في التقاطع اللي في الصورة A مش آخر واحد؛ بتطبيق قاعدة اليمين فيه عربيات تانية لازم تدّيله الأولوية.
+5ee2aecf29	True: applying the right-hand rule to each vehicle, the order is H, D, B, L (CdS art. 145).	صح: بتطبيق قاعدة اليمين على كل عربية، الترتيب H، D، B، L (CdS art. 145).
+ea3d27fa4e	True: H has no vehicle on its right that it must give way to, so it passes first (CdS art. 145).	صح: H مفيش عربية على يمينه لازم يدّيها الأولوية، فبيعدّي الأول (CdS art. 145).
+0fdeec2b14	True: B is on L's right, so B passes before L (CdS art. 145).	صح: B على يمين L، فB بيعدّي قبل L (CdS art. 145).
+1f7446a388	True: H is on D's right, so D must give way to H (CdS art. 145).	صح: H على يمين D، فD لازم يدّي الأولوية لـH (CdS art. 145).
+eb287f1b0e	True: B comes from L's right, so L must give way to B (CdS art. 145).	صح: B جاي من يمين L، فL لازم يدّي الأولوية لـB (CdS art. 145).
+552905eb04	True: L has B on its right, which waits for D, which waits for H, so L passes last (order H, D, B, L).	صح: L عنده B على يمينه، وB بيستنى D، وD بيستنى H، فL الآخر (الترتيب H، D، B، L).
+fbd141de2a	True: D is on B's right, so D passes before B (CdS art. 145).	صح: D على يمين B، فD بيعدّي قبل B (CdS art. 145).
+066c46082c	False: B waits only for H and D; it passes before L, which has B on its right.	غلط: B بيستنى H وD بس؛ وبيعدّي قبل L اللي B على يمينه.
+f2664b2ff3	False: H passes first; it is D and B that must wait for H.	غلط: H بيعدّي الأول؛ D وB هم اللي بيستنوا H.
+8854421cc6	False: L and D do not pass together; D is second and L is last.	غلط: L وD مش بيعدّوا مع بعض؛ D التاني وL الآخر.
+b7cf38cb2d	False: L must give way to B, which is on its right; the order is H, D, B, L.	غلط: L لازم يدّي الأولوية لـB اللي على يمينه؛ الترتيب H، D، B، L.
+9cd166ebba	False: turning left does not remove all priority: B still has priority over L, which comes from B's left.	غلط: إنك بتحوّد شمال مش بيلغي كل أولويتك: B لسه ليه الأولوية على L اللي جاي من شماله.
+429341e4ba	False: going straight does not give priority; the right-hand rule applies, so the order is H, D, B, L.	غلط: إنك ماشي دوغري مش بيديك أولوية؛ بتتطبق قاعدة اليمين، فالترتيب H، D، B، L.
+c541c90984	True: R is on N's right, so N passes after R (CdS art. 145).	صح: R على يمين N، فN بيعدّي بعد R (CdS art. 145).
+a117cde706	True: B, turning left, moves to the centre and must let N (oncoming, going straight) pass before completing the turn.	صح: B وهو بيحوّد شمال بيوصل لنص التقاطع ولازم يسيب N (اللي جاي عكسه دوغري) يعدّي قبل ما يكمل الحوّدة.
+de0f783fb4	True: R is on D's right, so D passes after R (CdS art. 145).	صح: R على يمين D، فD بيعدّي بعد R (CdS art. 145).
+69bec0463f	True: B has a free right and moves to the centre of the intersection first; R then passes.	صح: B يمينه فاضي وبيدخل لنص التقاطع الأول؛ وبعدين R بيعدّي.
+d50b9e1a06	True: D and N come from the same road with non-conflicting paths, so they pass together after R, which is on their right.	صح: D وN جايين من نفس الشارع وطرقهم مش بتتقاطع، فبيعدّوا مع بعض بعد R اللي على يمينهم.
+04affd3b4a	True: B, turning left, enters first but must stop at the centre to let N pass before completing the turn.	صح: B وهو بيحوّد شمال بيدخل الأول بس لازم يقف في النص ويسيب N يعدّي قبل ما يكمل.
+de1df748c2	True: B turning left must give way to N, which comes from the opposite direction going straight.	صح: B وهو بيحوّد شمال لازم يدّي الأولوية لـN اللي جاي من الاتجاه العكسي دوغري.
+5ef034a4c1	True: B's right is free when it arrives, so it enters the intersection (moving to the centre) before R.	صح: يمين B فاضي وهو داخل، فبيدخل التقاطع (لحد النص) قبل R.
+c997de3317	True: B may complete its left turn only after N, oncoming, has passed.	صح: B يقدر يكمل الحوّدة شمال بس بعد ما N اللي جاي عكسه يعدّي.
+39c2b9017b	True: once at the centre of the intersection, B must wait for N to pass before finishing the turn.	صح: لما B يوصل لنص التقاطع، لازم يستنى N يعدّي قبل ما يكمل الحوّدة.
+0f62f56cf5	False: it is B, not R, that enters first and stops at the centre; R goes straight across after B has moved to the centre.	غلط: B هو اللي بيدخل الأول ويقف في النص، مش R؛ R بيعدّي دوغري بعد ما B يوصل للنص.
+e16fa132fc	False: N has R on its right and must wait for it, so N does not pass first.	غلط: N عنده R على يمينه ولازم يستناه، فN مش الأول.
+44aaebcc1f	False: D has R on its right and must wait for it, so D does not pass first.	غلط: D عنده R على يمينه ولازم يستناه، فD مش الأول.
+a214a0e170	False: D does not have to give way to B; B, turning left, completes its manoeuvre last.	غلط: D مش لازم يدّي الأولوية لـB؛ B وهو بيحوّد شمال بيكمل مناورته الآخر.
+f1a4b83ca6	False: B's left turn does not cross D's path in a way that requires giving way to D; B must give way to N, the oncoming vehicle.	غلط: حوّدة B شمال مش بتقطع طريق D بشكل يخليه يدّيله الأولوية؛ B لازم يدّي الأولوية لـN اللي جاي عكسه.
+1b8853228c	False: B's right is free only when entering; to complete the turn it must give way to N, oncoming.	غلط: يمين B فاضي بس وهو داخل؛ عشان يكمل الحوّدة لازم يدّي الأولوية لـN اللي جاي عكسه.
+385c81ee55	False: turning left does not make B the last to enter; it enters first, stops at the centre and completes the turn after N.	غلط: الحوّدة شمال مش بتخلي B آخر واحد يدخل؛ هو بيدخل الأول ويقف في النص ويكمل بعد N.
+e00d42f96b	False: R comes from B's left, so B does not have to give way to R; B enters first.	غلط: R جاي من شمال B، فB مش لازم يدّيله الأولوية؛ B بيدخل الأول.
+197ac540b0	True: applying the right-hand rule, the order is C, A, P (CdS art. 145).	صح: بتطبيق قاعدة اليمين، الترتيب C، A، P (CdS art. 145).
+e37849d0f9	True: C is on A's right, so A passes after C (CdS art. 145).	صح: C على يمين A، فA بيعدّي بعد C (CdS art. 145).
+2658f59251	True: P must give way to the vehicles with priority over it, so it passes last (order C, A, P).	صح: P لازم يدّي الأولوية للعربيات اللي ليها أولوية عليه، فبيعدّي الآخر (الترتيب C، A، P).
+093ea22bdf	False: P passes last, not first; the order is C, A, P.	غلط: P بيعدّي الآخر مش الأول؛ الترتيب C، A، P.
+7f8ebdeab8	False: P passes after C (and after A), being the last.	غلط: P بيعدّي بعد C (وبعد A)، وهو الآخر.
+a379954d06	False: P does not have a free right and passes last; the order is C, A, P.	غلط: P يمينه مش فاضي وبيعدّي الآخر؛ الترتيب C، A، P.
+bb47100d20	True: applying the right-hand rule, the order is S, N, C (CdS art. 145).	صح: بتطبيق قاعدة اليمين، الترتيب S، N، C (CdS art. 145).
+798830dd2e	True: C must give way to the others, so it passes last (order S, N, C).	صح: C لازم يدّي الأولوية للباقيين، فبيعدّي الآخر (الترتيب S، N، C).
+57dfe06988	True: N passes after S, which has priority over it, and before C (order S, N, C).	صح: N بيعدّي بعد S اللي ليه أولوية عليه، وقبل C (الترتيب S، N، C).
+779d968dae	False: C passes last, not first; the order is S, N, C.	غلط: C بيعدّي الآخر مش الأول؛ الترتيب S، N، C.
+7b68cf4050	False: N passes after S but before C.	غلط: N بيعدّي بعد S بس قبل C.
+5a8a74f4c5	False: C is the last to pass; S passes first.	غلط: C آخر واحد يعدّي؛ S بيعدّي الأول.
+d87ed85087	True: T has no vehicle it must give way to, so it crosses first (order T, then L and A, then C).	صح: T مفيش عربية لازم يدّيها الأولوية، فبيعدّي الأول (الترتيب T، وبعدين L وA، وبعدين C).
+6f39d60aec	True: T passes first; then L and A, whose paths do not conflict, pass together; C passes last.	صح: T بيعدّي الأول؛ وبعدين L وA اللي طرقهم مش بتتقاطع بيعدّوا مع بعض؛ وC الآخر.
+a9507c05f1	True: applying the right-hand rule to each vehicle, the order is C, A, L, R, E (CdS art. 145).	صح: بتطبيق قاعدة اليمين على كل عربية، الترتيب C، A، L، R، E (CdS art. 145).
+de24b44e9f	True: C has no vehicle it must give way to, so it crosses first (order C, A, L, R, E).	صح: C مفيش عربية لازم يدّيها الأولوية، فبيعدّي الأول (الترتيب C، A، L، R، E).
+c8023e8c81	True: A passes immediately after C, which has priority over it.	صح: A بيعدّي على طول بعد C اللي ليه أولوية عليه.
+0e58b9ca18	True: E must give way to R and L, and passes last (order C, A, L, R, E).	صح: E لازم يدّي الأولوية لـR وL، وبيعدّي الآخر (الترتيب C، A، L، R، E).
+01129475ad	True: A passes before L in the order C, A, L, R, E.	صح: A بيعدّي قبل L في الترتيب C، A، L، R، E.
+6bdab9e865	True: L passes before R in the order C, A, L, R, E.	صح: L بيعدّي قبل R في الترتيب C، A، L، R، E.
+eb607760fa	True: L passes after A, which has priority over it (order C, A, L, R, E).	صح: L بيعدّي بعد A اللي ليه أولوية عليه (الترتيب C، A، L، R، E).
+787b643c71	False: E does not give way to A because of a conflict between them; E must give way to R and L, and passes last.	غلط: E مش بيدّي الأولوية لـA بسبب تقاطع بينهم؛ E لازم يدّي الأولوية لـR وL، وبيعدّي الآخر.
+5eb0fa8dc1	False: E passes last, not first; the order is C, A, L, R, E.	غلط: E بيعدّي الآخر مش الأول؛ الترتيب C، A، L، R، E.
+20541a5d7e	False: A passes second, right after C; E passes last, so A does not wait for E.	غلط: A بيعدّي التاني بعد C على طول؛ E بيعدّي الآخر، فA مش بيستنى E.
+3931af0d42	False: vehicles must enter the intersection in the order set by the right-of-way rules and only if they can clear it; stopping in the middle is not a free choice.	غلط: العربيات لازم تدخل التقاطع بالترتيب اللي بتحدده قواعد الأولوية وبس لو تقدر تفضّيه؛ الوقوف في النص مش اختيار حر.
+eae592afc0	False: C passes first, before A; R passes fourth, so C and R do not pass together.	غلط: C بيعدّي الأول قبل A؛ R بيعدّي الرابع، فC وR مش بيعدّوا مع بعض.
+e339370983	True: applying the right-hand rule to each vehicle, they clear the intersection in the order A, E, V, H, C (CdS art. 145).	صح: بتطبيق قاعدة اليمين على كل عربية، بيخرجوا من التقاطع بالترتيب A، E، V، H، C (CdS art. 145).
+4fd1237b09	True: V has priority over H, which must wait for it (order A, E, V, H, C).	صح: V ليه الأولوية على H اللي لازم يستناه (الترتيب A، E، V، H، C).
+02985e229b	True: C must give way to H, and is the last to pass (order A, E, V, H, C).	صح: C لازم يدّي الأولوية لـH، وهو آخر واحد يعدّي (الترتيب A، E، V، H، C).
+8b564e78e5	True: E passes before H in the order A, E, V, H, C.	صح: E بيعدّي قبل H في الترتيب A، E، V، H، C.
+1ca21289ce	True: H passes after A, E and V, and before C.	صح: H بيعدّي بعد A وE وV، وقبل C.
+7fdaa7ed11	True: A has no vehicle it must give way to, so it passes first.	صح: A مفيش عربية لازم يدّيها الأولوية، فبيعدّي الأول.
+3596562a9c	False: H must wait for E and V; the correct order is A, E, V, H, C.	غلط: H لازم يستنى E وV؛ الترتيب الصح A، E، V، H، C.
+4e12cb99a9	False: C passes last, after V and H; the order is A, E, V, H, C.	غلط: C بيعدّي الآخر بعد V وH؛ الترتيب A، E، V، H، C.
+fd25f1e914	False: V waits for A and E but not for H, over which it has priority.	غلط: V بيستنى A وE بس مش H، اللي V ليه أولوية عليه.
+a346ee86c5	False: A, V and C do not pass together: A is first, V third and C last.	غلط: A وV وC مش بيعدّوا مع بعض: A الأول وV التالت وC الآخر.
+3d77cff319	False: V passes before H and C, not after them.	غلط: V بيعدّي قبل H وC، مش بعدهم.
+221749d426	True: L and H travel on the road with priority and their paths do not conflict, so they pass first together.	صح: L وH ماشيين في الطريق اللي ليه الأولوية وطرقهم مش بتتقاطع، فبيعدّوا مع بعض الأول.
+6ada019d7b	True: L and H, on the main road, pass first together; then B; O, which must give way to all, passes last.	صح: L وH في الطريق الرئيسي بيعدّوا مع بعض الأول؛ وبعدين B؛ وO اللي لازم يدّي الأولوية للكل بيعدّي الآخر.
+85ad30903f	True: B must wait for L and H, which have priority over it.	صح: B لازم يستنى L وH اللي ليهم الأولوية عليه.
+c8698d9c14	True: O comes from a road with a Give Way sign and must give way to all, so it passes last.	صح: O جاي من شارع عليه علامة أدّي الأولوية ولازم يدّي الأولوية للكل، فبيعدّي الآخر.
+3165c67bf4	True: B passes after L and H and before O (order L and H, B, O).	صح: B بيعدّي بعد L وH وقبل O (الترتيب L وH، B، O).
+fc9d30b64d	True: the Give Way sign on O's road obliges it to give way to all the other vehicles.	صح: علامة أدّي الأولوية في شارع O بتلزمه يدّي الأولوية لكل العربيات التانية.
+0313d2483e	False: O must give way to all, so it passes after H and L, last.	غلط: O لازم يدّي الأولوية للكل، فبيعدّي بعد H وL، الآخر.
+c3a4422532	False: O passes after all others, including H.	غلط: O بيعدّي بعد كل الباقيين، ومنهم H.
+26c26a55a8	False: B passes after L and H, which pass first together.	غلط: B بيعدّي بعد L وH اللي بيعدّوا مع بعض الأول.
+7353de03a5	False: H passes first together with L; O, with the Give Way sign, passes last.	غلط: H بيعدّي الأول مع L؛ وO اللي عنده علامة أدّي الأولوية بيعدّي الآخر.
+031173d18b	False: the order is L and H, then B, then O; B is not first and O is not before H.	غلط: الترتيب L وH، وبعدين B، وبعدين O؛ B مش الأول وO مش قبل H.
+6fed559f73	False: O, facing a Give Way sign, must wait for all the others and may not enter first.	غلط: O قدامه علامة أدّي الأولوية، فلازم يستنى الكل ومينفعش يدخل الأول.
+a8119c918e	True: S has priority over R, which passes last (order S, A, E, R).	صح: S ليه الأولوية على R اللي بيعدّي الآخر (الترتيب S، A، E، R).
+f945f310f7	True: S has no vehicle it must give way to, so it passes before all the others (order S, A, E, R).	صح: S مفيش عربية لازم يدّيها الأولوية، فبيعدّي قبل الكل (الترتيب S، A، E، R).
+48d367383d	True: applying the signs and the right-hand rule, the order is S, A, E, R.	صح: بتطبيق العلامات وقاعدة اليمين، الترتيب S، A، E، R.
+8e0afa2529	True: A must give way to S, which passes first.	صح: A لازم يدّي الأولوية لـS اللي بيعدّي الأول.
+ad095d0593	True: R must give way to all the others, so it passes last (order S, A, E, R).	صح: R لازم يدّي الأولوية لكل الباقيين، فبيعدّي الآخر (الترتيب S، A، E، R).
+75f6bea3a5	False: E does not wait for R; R must give way and passes after E.	غلط: E مش بيستنى R؛ R لازم يدّي الأولوية وبيعدّي بعد E.
+999351982d	False: R must give way to all and passes last; it cannot enter first and stop at the centre.	غلط: R لازم يدّي الأولوية للكل وبيعدّي الآخر؛ مينفعش يدخل الأول ويقف في النص.
+acf38b0619	False: A passes before E, right after S (order S, A, E, R).	غلط: A بيعدّي قبل E، بعد S على طول (الترتيب S، A، E، R).
+2830b2d050	False: A passes second; R is the last.	غلط: A بيعدّي التاني؛ R هو الآخر.
+6ba7d01dd9	False: S passes first and R last; the correct order is S, A, E, R.	غلط: S بيعدّي الأول وR الآخر؛ الترتيب الصح S، A، E، R.

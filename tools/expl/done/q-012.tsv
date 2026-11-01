@@ -1,0 +1,100 @@
+3253571261	False: the fire danger sign warns of areas beside the road at risk of fire; strong side wind is announced by a different sign showing a windsock.	غلط: علامة خطر الحريق بتحذر من أماكن جنب الطريق معرضة للحريق؛ الريح الجانبية القوية ليها علامة تانية فيها كم ريح.
+cdda1580ab	True: the roundabout sign warns of an intersection, also of extra-urban roads, where traffic flows around a central island in the direction of the arrows (anticlockwise).	صح: علامة الدوران بتحذر من تقاطع، حتى لو طرق بره المدن، العربيات فيه بتلف حوالين جزيرة في النص في اتجاه الأسهم (عكس عقارب الساعة).
+36d930f253	True: it announces an intersection of several roads organised as a roundabout, where you must drive in the direction shown by the arrows.	صح: بتنبه لتقاطع كذا طريق متنظم كدوران، ولازم تمشي فيه في اتجاه الأسهم.
+6355d3713b	True: the roundabout warning sign can be used both outside and inside built-up areas.	صح: علامة التحذير من الدوران ممكن تتحط بره المدن وجوه المنطقة السكنية كمان.
+0b76137910	False: it is a warning sign, not a prohibition; it announces a roundabout ahead and forbids no turns.	غلط: دي علامة تحذير مش منع؛ بتنبه لدوران قدامك ومش بتمنع أي لفة.
+8de8171ebe	False: a dead end is shown by a square blue sign with a red bar; this sign announces a roundabout.	غلط: الطريق المقفول ليه علامة مربعة زرقا فيها شرطة حمرا؛ العلامة دي بتنبه لدوران.
+d6f669c328	False: it does not impose any compulsory turn; it warns of a roundabout where traffic circulates in the direction of the arrows.	غلط: مش بتفرض لفة إجبارية؛ بتحذر من دوران العربيات بتلف فيه في اتجاه الأسهم.
+aede40ea87	True: the 'other danger' sign (exclamation mark) is used for hazards that have no specific sign of their own (CdS art. 39).	صح: علامة 'خطر آخر' (علامة التعجب) بتتحط للمخاطر اللي مالهاش علامة مخصوصة (CdS art. 39).
+643478ca12	True: like every danger sign, it warns that a hazard is near and requires extra caution.	صح: زي أي علامة خطر، بتنبهك إن فيه خطر قريب ولازم تحرص زيادة.
+54046d24bf	True: with a supplementary panel describing the hazard (such as ice), the general danger sign warns of that specific danger, here possible ice formation.	صح: لما يكون معاها لوحة إضافية بتوصف الخطر (زي التلج)، علامة الخطر العام بتحذر من الخطر ده، هنا احتمال تكوّن تلج.
+958c2349bd	True: in emergencies the exclamation mark sign may be used alone, without a panel, to signal a generic danger.	صح: في حالات الطوارئ علامة التعجب ممكن تتحط لوحدها من غير لوحة عشان تنبه لخطر عام.
+5d95750092	True: the general danger sign with a panel can warn of shunting tracks crossing the road near industrial plants.	صح: علامة الخطر العام مع لوحة ممكن تحذر من قضبان مناورة بتعدي الطريق قرب المصانع.
+23fb3be8bb	True: with the appropriate panel, the general danger sign can warn of snowploughs working on the road.	صح: مع اللوحة المناسبة، علامة الخطر العام ممكن تحذر من كاسحات تلج شغالة على الطريق.
+7f19223a32	False: going straight ahead is imposed by a round blue mandatory sign; this triangular sign warns of a generic danger.	غلط: الإلزام بالمشي على طول بيبقى بعلامة دايرية زرقا؛ العلامة المثلثة دي بتحذر من خطر عام.
+9de71364d6	False: a steep climb has its own sign with a slope and percentage; the exclamation mark indicates another danger.	غلط: الطلعة الشديدة ليها علامة خاصة فيها منحدر ونسبة؛ علامة التعجب معناها خطر تاني.
+1d02c8cfd4	False: a level crossing without barriers has its own sign with a steam locomotive, not the general danger sign with a panel.	غلط: المزلقان اللي من غير بوابات ليه علامة خاصة فيها قطر بخاري، مش علامة الخطر العام مع لوحة.
+4298380005	False: in this question the panel does not describe military vehicles; the general danger sign means exactly the hazard written on its panel.	غلط: في السؤال ده اللوحة مش بتوصف عربيات جيش؛ علامة الخطر العام معناها بالظبط الخطر المكتوب على اللوحة اللي معاها.
+f64c948321	True: this sign warns of a soft verge (banchina cedevole), which may give way under the weight of a vehicle.	صح: العلامة دي بتحذر من كتف طريق ضعيف (banchina cedevole) ممكن يهبط تحت وزن العربية.
+b6cb91d7c7	True: the soft verge sign means the verge cannot be used safely by vehicles, even for stopping.	صح: علامة الكتف الضعيف معناها إن الكتف ماينفعش العربيات تستخدمه بأمان، حتى للوقوف.
+dabc1951d6	True: if wheels go onto the soft verge it can collapse, with the risk of sliding into the roadside ditch.	صح: لو العجل نزل على الكتف الضعيف ممكن يهبط، وفيه خطر إن العربية تنزلق في القناية اللي جنب الطريق.
+bc3738822a	True: the sign announces a dangerous verge that is not firm enough to bear vehicles.	صح: العلامة بتنبه لكتف طريق خطر ومش متماسك كفاية يشيل العربيات.
+589480c37f	True: to avoid putting wheels on the weak verge, keep away from the right edge of the road.	صح: عشان ماتنزلش بالعجل على الكتف الضعيف، ابعد عن حافة الطريق اليمين.
+8a42b413c1	False: danger signs do not require a speed limit sign; the soft verge sign is valid on its own.	غلط: علامات الخطر مش لازم يبقى معاها علامة حد سرعة؛ علامة الكتف الضعيف صالحة لوحدها.
+49291f315e	False: it is a triangular danger sign, not an information sign, which are usually rectangular.	غلط: دي علامة خطر مثلثة مش علامة إرشاد، وعلامات الإرشاد غالبًا مستطيلة.
+64e5a55c2c	False: it does not prohibit continuing on the road; it only warns that the verge is soft.	غلط: مش بتمنعك تكمل في الطريق؛ هي بس بتحذر إن الكتف ضعيف.
+1d52eb5e61	False: an uneven road surface has the 'strada deformata' sign; this one concerns the verge, not the carriageway.	غلط: الطريق المكسر ليه علامة 'strada deformata'؛ دي عن كتف الطريق مش نهر الطريق.
+886ef293eb	False: loose gravel has the 'materiale instabile' sign; this one warns of a soft verge.	غلط: الزلط السايب ليه علامة 'materiale instabile'؛ دي بتحذر من كتف ضعيف.
+a429bec29f	False: it does not warn of flooding; it warns that the verge at the edge of the road is soft and unsafe.	غلط: مش بتحذر من غرق الطريق؛ بتحذر إن الكتف اللي على حافة الطريق ضعيف ومش آمن.
+17e0cd9e96	False: a pier or quay has its own sign with a car falling into water; this one warns of a soft verge.	غلط: الرصيف أو الميناء ليه علامة خاصة فيها عربية بتقع في المية؛ دي بتحذر من كتف ضعيف.
+00d3f233e3	True: this version of the sign shows the lights side by side, warning of traffic lights arranged horizontally.	صح: النسخة دي من العلامة فيها الأنوار جنب بعض، يعني إشارة أنوارها مترتبة أفقي.
+27d762a49f	True: approaching a traffic light you must slow down so you can stop if the light requires it (CdS art. 141).	صح: وانت قرب من إشارة لازم تهدّي عشان تقدر تقف لو الإشارة طلبت كده (CdS art. 141).
+ae09f422fe	True: on extra-urban roads danger signs are normally placed about 150 m before the hazard, here the traffic light.	صح: على الطرق اللي بره المدن علامات الخطر عادة بتتحط على بعد حوالي 150 متر قبل الخطر، هنا الإشارة.
+a5e0d2f1ae	False: it does not impose a stop at a police roadblock; it warns of traffic lights ahead. Police checkpoints have the 'alt polizia' sign.	غلط: مش بتفرض وقوف عند كمين بوليس؛ بتحذر من إشارة قدامك. الكمين ليه علامة 'alt polizia'.
+490dc314bd	False: it has nothing to do with ferry piers; it warns of traffic lights ahead.	غلط: مالهاش علاقة برصيف المعدية؛ بتحذر من إشارة مرور قدامك.
+8754d79967	False: level crossings with half-barriers are announced by the fence (gate) sign; this one indicates traffic lights.	غلط: المزلقان بنص بوابات ليه علامة السور؛ العلامة دي معناها إشارة مرور.
+c5f1a3188d	False: reversible lanes have specific lane signals; this sign warns of a traffic light.	غلط: الحارات اللي اتجاهها بيتغير ليها إشارات حارات خاصة؛ العلامة دي بتحذر من إشارة مرور.
+b1a73a4ab3	False: a cycle crossing has its own sign with a bicycle; this one warns of traffic lights.	غلط: عبور العجل ليه علامة فيها عجلة؛ دي بتحذر من إشارة مرور.
+70b122f45a	False: snowploughs at work are not indicated by this sign; it warns of traffic lights ahead.	غلط: كاسحات التلج مش العلامة دي؛ دي بتحذر من إشارة مرور قدامك.
+d34cdd64a9	True: the 'divieto di transito' sign (white disc with red border) prohibits traffic in both directions for all vehicles.	صح: علامة 'divieto di transito' (دايرة بيضا بإطار أحمر) بتمنع المرور في الاتجاهين لكل المركبات.
+7ef96e39b0	True: the no vehicles sign forbids passage to all vehicles, motorised or not, in both directions.	صح: علامة منع المرور بتمنع كل المركبات، بموتور أو من غير، في الاتجاهين.
+085dd23092	True: since it applies to all vehicles, motor quadricycles are also prohibited.	صح: عشان بتنطبق على كل المركبات، الكوادريسيكل بالموتور ممنوع كمان.
+04c67c2e01	True: because traffic is banned in both directions, the sign is placed at both entrances of the road.	صح: عشان المرور ممنوع في الاتجاهين، العلامة بتتحط على المدخلين بتوع الطريق.
+0d7a683132	True: lorries are vehicles, so they too are prohibited by the no vehicles sign.	صح: عربيات النقل مركبات، فهي كمان ممنوعة بعلامة منع المرور.
+707b372e3f	True: a supplementary panel may limit the prohibition to certain times or days.	صح: لوحة إضافية ممكن تحدد المنع بأوقات أو أيام معينة.
+9d67e0bfa4	True: the ban applies to vehicles only; pedestrians are not vehicles and may pass.	صح: المنع للمركبات بس؛ المشاة مش مركبات ويقدروا يعدّوا.
+18e0d6a5f6	True: mopeds are vehicles, so they are prohibited too.	صح: الموتوبيكان مركبات، فهي ممنوعة كمان.
+1690d3b189	True: the white disc with a red border is the DIVIETO DI TRANSITO (no vehicles in both directions) sign.	صح: الدايرة البيضا بالإطار الأحمر هي علامة DIVIETO DI TRANSITO (ممنوع مرور المركبات في الاتجاهين).
+9157307c55	False: bicycles are vehicles, so they are also prohibited unless a panel exempts them.	غلط: العجل مركبات، فهي ممنوعة كمان إلا لو فيه لوحة بتستثنيها.
+2fd6d1c880	False: the ban covers all vehicles, including bicycles and animal-drawn vehicles, not only motor vehicles.	غلط: المنع بيشمل كل المركبات حتى العجل والعربيات اللي بتجرها حيوانات، مش المركبات بالموتور بس.
+50aae430ae	False: the sign forbids entering the road for any reason, including parking or loading, unless a panel allows exceptions.	غلط: العلامة بتمنع دخول الطريق لأي سبب، حتى الركن أو التحميل، إلا لو فيه لوحة بتسمح باستثناءات.
+b88df89953	False: it bans traffic in both directions; entry only is banned by the 'senso vietato' sign (red disc with white bar).	غلط: بتمنع المرور في الاتجاهين؛ منع الدخول بس ليه علامة 'senso vietato' (دايرة حمرا فيها شرطة بيضا).
+fa3d46e727	False: one-way streets are shown by blue rectangular signs with an arrow; this sign bans all vehicles.	غلط: الشارع الاتجاه الواحد ليه علامات زرقا مستطيلة فيها سهم؛ العلامة دي بتمنع كل المركبات.
+1773a72bb2	False: electric cars are vehicles like any other and are banned too.	غلط: العربيات الكهربا مركبات زي أي مركبة تانية وممنوعة كمان.
+3eea63f777	False: it is a round prohibition sign, not a triangular danger sign.	غلط: دي علامة منع دايرية، مش علامة خطر مثلثة.
+83715702c1	False: the no vehicles sign has no 'end' version crossed out; the ban ends at the next intersection or where the road ends.	غلط: علامة منع المرور مالهاش نسخة 'نهاية' متشطبة؛ المنع بيخلص عند التقاطع اللي بعده أو آخر الطريق.
+4531bc8a66	True: the no entry sign is placed at the exit end of a one-way road, forbidding entry from that side while the road is open from the other end.	صح: علامة ممنوع الدخول بتتحط عند آخر شارع اتجاه واحد، بتمنع الدخول من الناحية دي والشارع مفتوح من الناحية التانية.
+660a98d055	True: vehicles without an engine, such as bicycles, must also obey the no entry sign.	صح: المركبات اللي من غير موتور زي العجل لازم كمان تحترم علامة ممنوع الدخول.
+fb0300e932	True: taxis have no exemption from the no entry sign.	صح: التاكسي مالوش أي استثناء من علامة ممنوع الدخول.
+81ea0d5cc9	True: motor quadricycles are vehicles and must obey the no entry ban.	صح: الكوادريسيكل بالموتور مركبة ولازم تحترم منع الدخول.
+dbe35c7407	True: the ban is valid at all hours, including at night, unless a panel states otherwise.	صح: المنع ساري طول اليوم حتى بالليل، إلا لو فيه لوحة بتقول غير كده.
+67df972fce	True: no entry is placed at the end of one-way streets, to stop vehicles entering against the flow.	صح: ممنوع الدخول بيتحط في آخر الشوارع الاتجاه الواحد، عشان يمنع العربيات تدخل عكس السير.
+6328b51b8b	True: the red disc with a horizontal white bar is the SENSO VIETATO (no entry) sign.	صح: الدايرة الحمرا بالشرطة البيضا الأفقية هي علامة SENSO VIETATO (ممنوع الدخول).
+bdffc9dbfd	False: motorcycles are also forbidden from entering; the ban applies to all vehicles.	غلط: الموتوسيكلات ممنوعة تدخل كمان؛ المنع لكل المركبات.
+f3ca45c520	False: mopeds are vehicles and may not enter either.	غلط: الموتوبيكان مركبات ومش مسموح لها تدخل برضه.
+883c5e5ad1	False: vehicles can travel on that road, but only in the permitted direction, entering from the other end.	غلط: العربيات تقدر تمشي في الطريق ده، بس في الاتجاه المسموح وتدخل من الناحية التانية.
+d2dfc29ecf	False: it is placed on one-way roads, not on two-way carriageways.	غلط: بتتحط على طرق اتجاه واحد، مش على نهر طريق اتجاهين.
+f9ea50bc4c	False: it forbids entry; no parking and no stopping have their own blue-and-red signs.	غلط: بتمنع الدخول؛ ممنوع الركن وممنوع الوقوف ليهم علامات زرقا وحمرا خاصة.
+3039aa2884	False: overtaking bans use the sign with a red and a black car; this one forbids entry.	غلط: منع التخطي ليه علامة فيها عربية حمرا وعربية سودا؛ دي بتمنع الدخول.
+010208a291	False: no entry concerns a one-way road; nobody, including local traffic, may enter from that end.	غلط: ممنوع الدخول خاص بطريق اتجاه واحد؛ محدش، حتى أهل المنطقة، يدخل من الناحية دي.
+9c2165e5be	False: the ban is valid at all times, not only from 8:00 to 20:00.	غلط: المنع ساري في كل الأوقات، مش من 8 الصبح لـ 8 بالليل بس.
+d949fee802	False: this is SENSO VIETATO (no entry); DIVIETO DI TRANSITO is the white disc with red border.	غلط: دي SENSO VIETATO (ممنوع الدخول)؛ DIVIETO DI TRANSITO هي الدايرة البيضا بالإطار الأحمر.
+60fe185115	True: the no overtaking sign forbids overtaking motor vehicles other than motorcycles and mopeds, so a car may overtake a motorcycle (CdS art. 148).	صح: علامة ممنوع التخطي بتمنع تخطي المركبات بالموتور غير الموتوسيكلات والموتوبيكان، فالعربية تقدر تتخطى موتوسيكل (CdS art. 148).
+062ceedcab	True: the no overtaking sign can be used on both urban and extra-urban roads.	صح: علامة ممنوع التخطي ممكن تتحط في طرق المدن والطرق اللي بره.
+b6bb19aa44	True: the sign may be repeated after each intersection with a panel showing the remaining length of the ban.	صح: العلامة ممكن تتكرر بعد كل تقاطع مع لوحة بتوضح الطول الباقي من المنع.
+abec37667f	True: lorries are motor vehicles other than two-wheelers, so overtaking them is forbidden.	صح: عربيات النقل مركبات بموتور مش بعجلتين، فتخطيها ممنوع.
+4e1de4a11c	True: mopeds may be overtaken despite the sign, as the ban does not cover two-wheelers.	صح: الموتوبيكان ينفع تتخطاه رغم العلامة، لأن المنع مش بيشمل العجلتين.
+e63c263b03	True: the ban applies even if the overtaking could be done without leaving your half of the carriageway.	صح: المنع ساري حتى لو التخطي ممكن يتعمل من غير ما تطلع من نص الطريق بتاعك.
+610e917d53	True: the ban does not protect motorcycles, so a lorry may overtake one where it is safe.	صح: المنع مش بيشمل الموتوسيكلات، فعربية النقل تقدر تتخطى موتوسيكل لو آمن.
+af73ec06bc	True: a car may overtake a moped under this sign, since mopeds are excluded from the ban.	صح: العربية تقدر تتخطى موتوبيكان مع العلامة دي، لأن الموتوبيكان مستثنى من المنع.
+28bc98d5e2	True: it is an overtaking ban, not a transit ban, so road trains and articulated vehicles may still use the road.	صح: دي منع تخطي مش منع مرور، فالتريلات والمقطورات تقدر تمشي في الطريق عادي.
+16d967a182	True: the ban covers all motor vehicles other than two-wheelers, whatever their mass, including those under 3.5 t.	صح: المنع بيشمل كل المركبات بالموتور غير العجلتين مهما كان وزنها، حتى اللي أقل من 3.5 طن.
+6e52783cbe	True: under this sign you may not overtake motor vehicles other than motorcycles and mopeds (CdS art. 148).	صح: مع العلامة دي ماينفعش تتخطى مركبات بموتور غير الموتوسيكلات والموتوبيكان (CdS art. 148).
+540dd3cd6f	True: animal-drawn vehicles are not motor vehicles, so they may be overtaken.	صح: العربيات اللي بتجرها حيوانات مش مركبات بموتور، فينفع تتخطاها.
+d8cab4fa6f	True: two-wheeled mopeds are excluded from the ban and may be overtaken.	صح: الموتوبيكان بعجلتين مستثنى من المنع وينفع تتخطاه.
+1b59ea3c8d	True: overtaking motorcycles is permitted under this sign.	صح: تخطي الموتوسيكلات مسموح مع العلامة دي.
+cbf16cae3a	True: bicycles have no engine, so overtaking them is allowed.	صح: العجل ملهوش موتور، فتخطيه مسموح.
+1b51b5ed52	True: the ban concerns only motor vehicles, so vehicles without an engine may be overtaken.	صح: المنع للمركبات بالموتور بس، فالمركبات اللي من غير موتور ينفع تتخطاها.
+2d7856f873	True: hand-pushed carts are not motor vehicles and may be overtaken.	صح: العربيات اللي بتتزق بالإيد مش مركبات بموتور وينفع تتخطاها.
+1f5d4c0ddc	True: horse-drawn carriages are not motor vehicles, so overtaking them is allowed.	صح: الحناطير مش مركبات بموتور، فتخطيها مسموح.
+a5b995a0ee	False: the ban applies to all drivers, including motorcyclists, so a motorcycle may not overtake a car.	غلط: المنع على كل السواقين حتى أصحاب الموتوسيكلات، فالموتوسيكل ماينفعش يتخطى عربية.
+a7ac6db4ec	False: it does not reserve the right lane for slow vehicles; it forbids overtaking motor vehicles other than two-wheelers.	غلط: مش بتخصص الحارة اليمين للعربيات البطيئة؛ بتمنع تخطي المركبات بالموتور غير العجلتين.
+0300e1ab94	False: overtaking a car is forbidden under this sign even without crossing a continuous line.	غلط: تخطي العربية ممنوع مع العلامة دي حتى لو مش هتعدي خط متصل.
+ee6287d5b2	False: bicycles are not motor vehicles, so a motorcycle may overtake them.	غلط: العجل مش مركبات بموتور، فالموتوسيكل يقدر يتخطاه.
+b911fd9364	False: the sign alone forbids overtaking between cars, with or without a continuous line.	غلط: العلامة لوحدها بتمنع التخطي بين العربيات، بخط متصل أو من غيره.
+20afe6abc7	False: lorries are motor vehicles other than two-wheelers, so a car may not overtake them.	غلط: عربيات النقل مركبات بموتور مش عجلتين، فالعربية ماينفعش تتخطاها.
+4f777847bb	False: it can be found on any type of road, urban or extra-urban.	غلط: ممكن تلاقيها على أي نوع طريق، جوه المدن أو بره.
+7e42d7f7cb	False: you may still overtake motorcycles, mopeds, bicycles and non-motor vehicles.	غلط: لسه تقدر تتخطى الموتوسيكلات والموتوبيكان والعجل والمركبات اللي من غير موتور.
+52454861d1	False: it forbids overtaking, not transit; cars may still drive on the road.	غلط: بتمنع التخطي مش المرور؛ العربيات تقدر تمشي في الطريق عادي.
+21375d4f60	False: giving way in alternating one-way traffic has the 'dare precedenza nel senso unico alternato' sign; this one forbids overtaking.	غلط: الأولوية في الطريق الضيق اللي بيتعدى بالدور ليها علامة خاصة؛ دي بتمنع التخطي.
+74b7a0c693	False: a bus is a motor vehicle, so nobody, including a motorcyclist, may overtake it under this sign.	غلط: الأتوبيس مركبة بموتور، فمحدش حتى الموتوسيكل يقدر يتخطاه مع العلامة دي.

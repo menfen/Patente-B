@@ -1,0 +1,100 @@
+1cf37159a6	False: the one-way direction sign only shows that the road in the direction of the arrow is one-way; it does not forbid going straight on.	غلط: علامة الاتجاه الواحد بتبيّن بس إن الطريق اللي في اتجاه السهم اتجاه واحد؛ مش بتمنعك تكمّل دغري.
+76c378addd	False: it indicates a one-way road; it does not oblige you to drive in parallel rows.	غلط: بتبيّن شارع اتجاه واحد؛ مش بتلزمك تمشي في صفوف جنب بعض.
+2889999399	False: the sign says nothing about parking; it only shows that the road is one-way.	غلط: العلامة مش بتقول حاجة عن الركن؛ بتبيّن بس إن الطريق اتجاه واحد.
+0040dc5af0	False: it indicates a one-way road, not a free car park; parking is shown by the blue P sign.	غلط: بتبيّن شارع اتجاه واحد، مش جراج ببلاش؛ الركن ليه علامة P الزرقا.
+b9ceb86da8	True: this motorway sign shows the distance to the exit junction for the town indicated.	صح: علامة الأوتوستراد دي بتبيّن المسافة لحد مخرج البلد المكتوبة.
+b69be9bc62	True: progressive distance signs with exit distance are placed along motorways.	صح: علامات المسافة التراكمية ومسافة المخرج بتتحط على طول الأوتوستراد.
+8683528a6d	True: on the left it shows the progressive distance, on the right the distance to the Piacenza exit.	صح: على الشمال بتبيّن المسافة التراكمية، وعلى اليمين المسافة لمخرج Piacenza.
+8f6ec4e1e1	True: the left number is the progressive distance from the start of the motorway.	صح: الرقم اللي على الشمال هو المسافة التراكمية من أول الأوتوستراد.
+f898e4cb59	True: it indicates that the Piacenza exit is 4 km ahead.	صح: بتبيّن إن مخرج Piacenza بعد 4 كيلو.
+1bbdffe148	True: it belongs to the information signs (segnali di indicazione).	صح: دي من علامات الإرشاد (segnali di indicazione).
+58add81fd0	False: 54 is the progressive kilometre of the motorway; the Piacenza exit is 4 km away.	غلط: 54 هو الكيلو التراكمي على الأوتوستراد؛ مخرج Piacenza بعد 4 كيلو.
+5f3b9d96ae	False: 54 is the progressive distance, not the motorway number.	غلط: 54 المسافة التراكمية، مش رقم الأوتوستراد.
+47649d65bd	False: the left number is the progressive distance in km, not a recommended speed.	غلط: الرقم اللي على الشمال المسافة التراكمية بالكيلو، مش سرعة منصوح بيها.
+23991e5f6c	False: the 4 km are still to be covered to reach the Piacenza exit, not already travelled from Piacenza.	غلط: الـ 4 كيلو دول لسه قدامك لحد مخرج Piacenza، مش مشيتهم من Piacenza.
+a80560eb90	False: the start of a built-up area is shown only by the specific white sign with the town's name and a black border; this sign does not have that meaning.	غلط: بداية المنطقة السكنية بتتبيّن بس بالعلامة البيضا اللي فيها اسم البلد وإطار أسود؛ العلامة دي مالهاش المعنى ده.
+2299b97d44	True: the TAXI sign indicates a stopping area for taxis in service.	صح: علامة TAXI بتبيّن مكان وقوف للتاكسي اللي شغال.
+98d0191e7f	True: the area is for the exclusive use of taxis in service.	صح: المكان ده مخصوص للتاكسي اللي شغال بس.
+a4d7142b86	True: it indicates parking reserved for taxis in service.	صح: بتبيّن ركن مخصوص للتاكسي اللي شغال.
+e26d300bd6	True: the taxi area is marked by yellow lines with the word TAXI.	صح: مكان التاكسي بيتعلّم بخطوط صفرا وكلمة TAXI.
+c347fe5d8c	False: it indicates a taxi rank, not a ban on overtaking for taxis.	غلط: بتبيّن موقف تاكسي، مش منع تخطي للتاكسي.
+5223982988	False: it reserves an area for taxis; it does not forbid the road to them.	غلط: بتخصص مكان للتاكسي؛ مش بتمنعهم من الطريق.
+1279d14932	False: it indicates a taxi rank, not a device for calling a taxi.	غلط: بتبيّن موقف تاكسي، مش جهاز لطلب تاكسي.
+4b9f15c948	False: it indicates a taxi rank, not a taxi radio station.	غلط: بتبيّن موقف تاكسي، مش محطة راديو للتاكسي.
+55eb5bf1ae	False: it is an ordinary sign without its own lighting.	غلط: دي علامة عادية من غير نور خاص بيها.
+efff4669bb	False: it indicates a taxi rank on the road, not a garage.	غلط: بتبيّن موقف تاكسي على الطريق، مش جراج.
+b3cdc0d6b5	True: this sign indicates a public telephone nearby.	صح: العلامة دي بتبيّن إن فيه تليفون عمومي قريب.
+426115b9ab	True: it means you are near a public telephone.	صح: معناها إنك قريب من تليفون عمومي.
+281d1f0840	True: it indicates that a short distance ahead you can call from a public telephone.	صح: بتبيّن إن بعد مسافة قصيرة تقدر تتصل من تليفون عمومي.
+33a99143a9	True: on extra-urban roads it indicates a public telephone along the road.	صح: على الطرق بره المدن بتبيّن تليفون عمومي على الطريق.
+dea9699ec1	False: it indicates a public telephone, not a mobile phone shop.	غلط: بتبيّن تليفون عمومي، مش محل موبايلات.
+e6a8b600ff	False: it indicates a public telephone; first aid has its own sign.	غلط: بتبيّن تليفون عمومي؛ الإسعاف ليه علامة خاصة.
+0531e8ad30	False: it indicates a public telephone, not a phone charging point.	غلط: بتبيّن تليفون عمومي، مش مكان لشحن الموبايلات.
+22b4a7c777	False: it is an information sign, not a ban on mobile phones.	غلط: دي علامة إرشاد، مش منع للموبايلات.
+9a8a05edc0	False: it indicates a public telephone, not mobile network coverage.	غلط: بتبيّن تليفون عمومي، مش تغطية شبكة الموبايل.
+76d1bbe89c	False: it indicates a public telephone; it does not regulate phone use while driving.	غلط: بتبيّن تليفون عمومي؛ مش بتنظم استخدام الموبايل وإنت سايق.
+8c192c8c93	True: the fuel pump sign indicates a refuelling point.	صح: علامة طرمبة البنزين بتبيّن محطة بنزين.
+8ac1ed7321	True: it indicates a fuel distribution point nearby.	صح: بتبيّن إن فيه محطة بنزين قريبة.
+9e03287e5e	True: it indicates that you can refuel a short distance ahead.	صح: بتبيّن إنك تقدر تموّن بنزين بعد مسافة قصيرة.
+68bc6fa331	True: it indicates a fuel station a short distance ahead.	صح: بتبيّن محطة بنزين بعد مسافة قصيرة.
+adcce064f5	True: it indicates a fuel pump along the road a short distance ahead.	صح: بتبيّن محطة بنزين على الطريق بعد مسافة قصيرة.
+c633a0d021	False: it indicates a fuel station; mechanical assistance has a spanner sign.	غلط: بتبيّن محطة بنزين؛ الورشة ليها علامة فيها مفتاح.
+231293d060	False: a public telephone has a telephone sign; this is a fuel station.	غلط: التليفون العمومي ليه علامة فيها تليفون؛ دي محطة بنزين.
+bf15737110	False: a parking area has the P sign; this is a fuel station.	غلط: مكان الركن ليه علامة P؛ دي محطة بنزين.
+862afce819	False: it indicates a normal fuel station; LPG has a specific sign.	غلط: بتبيّن محطة بنزين عادية؛ الغاز (GPL) ليه علامة خاصة.
+b4c89da5d2	False: it indicates a fuel station, not a refinery.	غلط: بتبيّن محطة بنزين، مش معمل تكرير.
+006a07bd66	False: it is an information sign, not a ban on vehicles carrying fuel.	غلط: دي علامة إرشاد، مش منع للعربيات اللي شايلة وقود.
+c908a73ac4	True: this yellow sign is an advance warning of a temporary diversion.	صح: العلامة الصفرا دي إنذار مسبق بتحويلة مؤقتة.
+0f3c8dd7a1	True: it announces that a road is closed because of roadworks.	صح: بتعلن إن فيه طريق مقفول بسبب شغل.
+824f82a2e3	True: it is one of the temporary signs for roadworks, which have a yellow background.	صح: دي من العلامات المؤقتة للشغل في الطريق، اللي أرضيتها صفرا.
+7fd8e63b68	True: the lower part shows the length of the diversion.	صح: الجزء اللي تحت بيبيّن طول التحويلة.
+24ce434a8e	False: Novara can still be reached by following the diversion.	غلط: Novara تقدر توصلها برضه لو مشيت في التحويلة.
+9e62324deb	False: it does not oblige you to turn back; you follow the diversion.	غلط: مش بتلزمك ترجع؛ بتمشي في التحويلة.
+0aa2a4761a	False: it indicates a diversion, not a lay-by.	غلط: بتبيّن تحويلة، مش مكان وقوف.
+60b1b920ab	False: it indicates a diversion, not the distance to a service area.	غلط: بتبيّن تحويلة، مش مسافة لمنطقة خدمة.
+67fe462d0b	False: the 2 km is the length of the diversion, not of the worksite.	غلط: الـ 2 كيلو دول طول التحويلة، مش طول منطقة الشغل.
+8ddb624866	False: the panel indicates the diversion is 2 km long, not that it begins 2 km away.	غلط: اللوحة بتقول إن التحويلة طولها 2 كيلو، مش إنها بتبتدي بعد 2 كيلو.
+4b62afc0da	False: it is not placed 2 km from the roadworks sign; the 2 km is the length of the diversion.	غلط: مش متحطة على بعد 2 كيلو من علامة الشغل؛ الـ 2 كيلو طول التحويلة.
+526494c94c	True: the white background shows this is an advance direction sign for an urban junction.	صح: الأرضية البيضا بتبيّن إن دي علامة إنذار مسبق لاتجاهات تقاطع جوه المدينة.
+4f279535ed	True: it shows the names of places reachable from the urban junction.	صح: فيها أسماء الأماكن اللي تقدر توصلها من التقاطع جوه المدينة.
+b7f038b5d1	True: it announces that you turn right to reach the railway station.	صح: بتقولك تدخل يمين عشان توصل لمحطة القطر.
+d6790ce10f	True: it announces that you turn right to reach the town centre.	صح: بتقولك تدخل يمين عشان توصل لوسط البلد.
+5588ae3ed6	True: it indicates going straight on to reach Sora.	صح: بتقولك كمّل دغري عشان توصل Sora.
+a264baa79e	True: it indicates going straight on to reach Napoli.	صح: بتقولك كمّل دغري عشان توصل Napoli.
+edce1098ff	False: the white background means an urban sign; on extra-urban roads direction signs are blue.	غلط: الأرضية البيضا معناها علامة جوه المدينة؛ على الطرق بره المدن علامات الاتجاه زرقا.
+faff2f4dc8	False: turning right leads to the town centre, not out of the built-up area.	غلط: الدخول يمين بيوديك لوسط البلد، مش لبرّه المنطقة السكنية.
+2d18c09241	False: to reach the centre you turn right, not go back.	غلط: عشان توصل لوسط البلد تدخل يمين، مش ترجع.
+77f12c4526	False: it shows destinations, not a parking area on the right.	غلط: بتبيّن أماكن، مش مكان ركن على اليمين.
+64d751eaeb	False: it is a direction sign, not a warning of a level crossing.	غلط: دي علامة اتجاهات، مش تحذير من مزلقان.
+015e113f00	True: this sign announces two junctions close to each other.	صح: العلامة دي بتعلن عن تقاطعين قريبين من بعض.
+bc599eb490	True: the diagram shows no left exit at the first junction, so you cannot turn left there.	صح: الرسمة مش فيها دخلة شمال في التقاطع الأول، فماتقدرش تدخل شمال هناك.
+706fc03de6	True: it indicates turning left at the second junction for the hospital.	صح: بتقولك تدخل شمال في التقاطع التاني عشان المستشفى.
+47a3317d53	True: it indicates turning right at the first junction for via Gemona.	صح: بتقولك تدخل يمين في التقاطع الأول عشان via Gemona.
+e52fa642cb	True: it indicates turning right at the second junction for the town centre.	صح: بتقولك تدخل يمين في التقاطع التاني عشان وسط البلد.
+9d5569c94d	True: it indicates turning right at the second junction towards Trieste.	صح: بتقولك تدخل يمين في التقاطع التاني ناحية Trieste.
+32db724b99	True: it indicates turning left at the second junction to reach Austria.	صح: بتقولك تدخل شمال في التقاطع التاني عشان توصل النمسا.
+98e52db85f	True: the white background shows two close junctions on an urban road.	صح: الأرضية البيضا بتبيّن تقاطعين قريبين على طريق جوه المدينة.
+7594ee8e49	False: it is a direction sign, it gives no parking instructions.	غلط: دي علامة اتجاهات، مش بتدّي تعليمات ركن.
+9660fdbb16	False: for Austria you turn left at the second junction, not go back.	غلط: عشان النمسا تدخل شمال في التقاطع التاني، مش ترجع.
+781067c5c8	False: the first junction has no left turn, so turning left there is not possible.	غلط: التقاطع الأول مفيهوش دخلة شمال، فالدخول شمال هناك مش ممكن.
+ca84f58fc6	False: it shows directions at road junctions, not how to leave a shopping centre.	غلط: بتبيّن اتجاهات في تقاطعات طرق، مش إزاي تخرج من مول.
+90bf158b72	False: it shows urban destinations at two junctions, not motorway entrances.	غلط: بتبيّن أماكن جوه المدينة في تقاطعين، مش مداخل أوتوستراد.
+3aa0070008	True: it is an advance sign of an urban junction with a roundabout.	صح: دي علامة إنذار مسبق لتقاطع جوه المدينة فيه دوّار.
+558033bbb2	True: it indicates taking the first exit on the right to go to Forlì.	صح: بتقولك تاخد أول خروج يمين عشان تروح Forlì.
+34277a157e	True: it indicates taking the second exit to reach the ring road (tangenziale).	صح: بتقولك تاخد الخروج التاني عشان توصل للطريق الدائري (tangenziale).
+c6e507c539	True: the sign contains the diagram of the roundabout.	صح: العلامة فيها رسمة الدوّار.
+f3a1aecee1	True: it shows the names of reachable destinations.	صح: فيها أسماء الأماكن اللي تقدر توصلها.
+2b3874c88f	False: it shows the exits of a roundabout, not a closed road.	غلط: بتبيّن مخارج دوّار، مش طريق مقفول.
+9f72cc42ba	False: it announces a roundabout, not a pedestrian area with green spaces.	غلط: بتعلن عن دوّار، مش منطقة مشاة فيها جناين.
+a7fe92e73c	False: it is a direction sign, not a ban on motor vehicles.	غلط: دي علامة اتجاهات، مش منع للعربيات.
+fc2d6da800	True: it is an advance sign of an urban junction.	صح: دي علامة إنذار مسبق لتقاطع جوه المدينة.
+13e2bf0cfb	True: the prohibition symbol in the straight-ahead panel forbids lorries over 3.5 t laden mass to continue straight for Avezzano.	صح: علامة المنع اللي في جزء دغري بتمنع عربيات النقل اللي وزنها بالحمولة أكتر من 3,5 طن تكمّل دغري لـ Avezzano.
+d40222e886	True: the ban concerns only heavy lorries, so cars may continue straight for Pescara.	صح: المنع بيخص عربيات النقل التقيلة بس، فالعربيات الملاكي تقدر تكمّل دغري لـ Pescara.
+fcd18f5b26	True: it indicates turning left to reach the Roma-L'Aquila motorway.	صح: بتقولك تدخل شمال عشان توصل لأوتوستراد Roma-L'Aquila.
+165bff3173	True: lorries over 3.5 t laden mass may not continue straight towards the town centre.	صح: عربيات النقل اللي أكتر من 3,5 طن بالحمولة ممنوع تكمّل دغري ناحية وسط البلد.
+681c583286	False: the ban shown concerns lorries over 3.5 t, not buses.	غلط: المنع اللي في العلامة بيخص عربيات النقل أكتر من 3,5 طن، مش الأتوبيسات.
+8602a3c180	False: advance direction signs are used on any road, not only one-way roads.	غلط: علامات الإنذار المسبق للاتجاهات بتتحط على أي طريق، مش الاتجاه الواحد بس.
+90c6b59641	False: it is an urban junction sign, not a motorway entry sign.	غلط: دي علامة تقاطع جوه المدينة، مش علامة مدخل أوتوستراد.
+2bcc131325	False: it shows directions, not a closed central lane.	غلط: بتبيّن اتجاهات، مش حارة نص مقفولة.
+089da80589	False: it is an information (direction) sign, not a priority sign.	غلط: دي علامة إرشاد (اتجاهات)، مش علامة أولوية.
+ba78c24c3f	True: the blue background shows an advance sign of a junction on an extra-urban road.	صح: الأرضية الزرقا بتبيّن علامة إنذار مسبق لتقاطع على طريق بره المدن.

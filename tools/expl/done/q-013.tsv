@@ -1,0 +1,100 @@
+c3da5a1a23	False: electric cars are motor vehicles like any other, so the no overtaking sign forbids overtaking them; only two-wheelers and non-motor vehicles may be overtaken (CdS art. 148).	غلط: العربيات الكهربا مركبات بموتور زي أي واحدة، فعلامة ممنوع التخطي بتمنع تخطيها؛ المسموح بس تتخطى العجلتين والمركبات اللي من غير موتور (CdS art. 148).
+312eb3632b	False: agricultural machines are motor vehicles other than two-wheelers, so overtaking them is forbidden under this sign.	غلط: الماكينات الزراعية مركبات بموتور مش عجلتين، فتخطيها ممنوع مع العلامة دي.
+1be505eed1	False: operating machines (e.g. excavators) are motor vehicles, so they may not be overtaken under this sign.	غلط: ماكينات الأشغال (زي الحفارات) مركبات بموتور، فماينفعش تتخطاها مع العلامة دي.
+0656489705	False: the ban applies whatever the speed of the vehicle in front; slow motor vehicles other than two-wheelers may not be overtaken.	غلط: المنع ساري مهما كانت سرعة العربية اللي قدامك؛ المركبات البطيئة بالموتور غير العجلتين ماينفعش تتخطاها.
+7b6d4b1771	False: the ban covers every motor vehicle other than two-wheelers, whatever it is signalling; a vehicle about to turn right is no exception.	غلط: المنع بيشمل كل مركبة بموتور غير العجلتين مهما كانت مدية إشارة إيه؛ العربية اللي هتلف يمين مش استثناء.
+33c0823f72	True: the minimum distance sign requires keeping at least the distance shown, here 70 m, from the vehicle in front.	صح: علامة المسافة الدنيا بتلزمك تسيب على الأقل المسافة المكتوبة، هنا 70 متر، من العربية اللي قدامك.
+1b6c25ac0e	True: 80 m is more than the minimum of 70 m, so travelling at that distance is allowed.	صح: 80 متر أكتر من الحد الأدنى 70 متر، فإنك تمشي على المسافة دي مسموح.
+4a72d23bf4	True: the sign forbids following the vehicle in front at less than 70 m.	صح: العلامة بتمنعك تمشي ورا العربية اللي قدامك بأقل من 70 متر.
+2ccd80f77c	True: the minimum distance sign applies to all vehicles, motorcycles included.	صح: علامة المسافة الدنيا بتنطبق على كل المركبات، الموتوسيكلات كمان.
+d7b127e8d0	True: the minimum distance must be kept at any speed, even when driving slowly.	صح: المسافة الدنيا لازم تتحافظ عليها بأي سرعة، حتى لو ماشي بالراحة.
+4181ad29cc	True: it is a prohibition sign that obliges drivers to keep at least the minimum distance shown.	صح: دي علامة منع بتلزم السواقين يسيبوا على الأقل المسافة المكتوبة.
+7739650bc4	False: it requires a distance of at least 70 m, not less than 70 m.	غلط: بتطلب مسافة 70 متر على الأقل، مش أقل من 70.
+7fb7af1981	False: the obligation is on the following vehicle, which must stay at least 70 m behind the one in front.	غلط: الإلزام على العربية اللي ورا، لازم تفضل على الأقل 70 متر ورا اللي قدامها.
+dd1035f7fd	False: it shows a minimum distance, not a maximum, and applies wherever the sign is placed, not only in no-overtaking stretches.	غلط: بتوضح مسافة دنيا مش قصوى، وبتنطبق في أي مكان العلامة فيه، مش بس في أماكن منع التخطي.
+0e8d7aa182	False: it does not announce a ban on cars; it sets the minimum distance between vehicles.	غلط: مش بتنبه لمنع العربيات؛ هي بتحدد أقل مسافة بين العربيات.
+0c736316e9	False: it is not a speed limit; speed limits show the number without the 'm' and the two vehicles.	غلط: دي مش حد سرعة؛ حد السرعة بيبقى فيه الرقم بس من غير 'm' والعربيتين.
+7baf4d5847	False: it has nothing to do with tow ropes; it sets the minimum following distance.	غلط: مالهاش علاقة بحبل السحب؛ بتحدد أقل مسافة بين عربية واللي قدامها.
+0bc94097f0	True: the speed limit sign (white disc with red border and number) is a prohibition sign.	صح: علامة حد السرعة (دايرة بيضا بإطار أحمر ورقم) علامة منع.
+5df9091620	True: the sign forbids exceeding 80 km/h from the point where it is placed (CdS art. 142).	صح: العلامة بتمنعك تعدي 80 كم/س من المكان اللي هي فيه (CdS art. 142).
+013b6714c9	True: speed limit signs can be used on motorways too, to lower the limit on certain stretches.	صح: علامات حد السرعة ممكن تتحط على الأوتوستراد كمان عشان تقلل الحد في حتت معينة.
+87d44840a9	True: like all prohibition signs, the limit applies right from the sign onwards.	صح: زي كل علامات المنع، الحد بيبدأ من عند العلامة على طول.
+49f65a8627	True: the sign requires a speed of 80 km/h or less.	صح: العلامة بتلزمك بسرعة 80 كم/س أو أقل.
+b486b73b15	True: prohibition signs belong to the regulatory (prescrizione) signs, together with mandatory and right-of-way signs (CdS art. 39).	صح: علامات المنع من علامات الإلزام والتنظيم (prescrizione)، مع علامات الإجبار والأولوية (CdS art. 39).
+967b471811	True: it forbids vehicles from exceeding the speed shown.	صح: بتمنع المركبات إنها تعدي السرعة المكتوبة.
+b10e72b727	True: it imposes a maximum speed limit (CdS art. 142).	صح: بتفرض حد أقصى للسرعة (CdS art. 142).
+ae927b3aec	True: the number shows the maximum speed vehicles may travel at.	صح: الرقم بيوضح أقصى سرعة مسموح للمركبات تمشي بيها.
+98acefef52	True: it requires travelling at no more than 80 km/h.	صح: بتلزمك ماتعديش 80 كم/س.
+a62b9a14a7	True: the number on the sign is the maximum permitted speed in km/h.	صح: الرقم اللي على العلامة هو أقصى سرعة مسموحة بالكم/س.
+c949055260	True: it is a maximum limit, so you may drive slower, adapting speed to conditions (CdS art. 141).	صح: ده حد أقصى، فتقدر تمشي أبطأ وتظبط سرعتك على حسب الظروف (CdS art. 141).
+e2442b78fd	False: it is a speed limit; a minimum distance sign shows two vehicles and a distance in metres.	غلط: دي حد سرعة؛ علامة المسافة الدنيا فيها عربيتين ومسافة بالمتر.
+0c9ab61788	False: the speed limit applies to all vehicles, motorcycles included.	غلط: حد السرعة بينطبق على كل المركبات، الموتوسيكلات كمان.
+c8f0c59813	False: the recommended speed is shown on a square blue sign; the red-bordered disc is a compulsory maximum.	غلط: السرعة المنصوح بيها بتبقى على علامة مربعة زرقا؛ الدايرة بالإطار الأحمر حد أقصى إجباري.
+09f8afac6c	False: the limit also applies when overtaking; you may never exceed 80 km/h, not even to overtake.	غلط: الحد بينطبق وانت بتتخطى كمان؛ ماينفعش تعدي 80 كم/س أبدًا حتى عشان تتخطى.
+1d0e8a1d1c	False: mass limits are shown in tonnes with a 't'; this sign shows a speed limit in km/h.	غلط: حدود الوزن بتتكتب بالطن وجنبها 't'؛ العلامة دي حد سرعة بالكم/س.
+9a3f7bca6c	False: it imposes a maximum limit; a minimum speed is shown by a round blue sign.	غلط: بتفرض حد أقصى؛ السرعة الدنيا ليها علامة دايرية زرقا.
+2454adeaa9	False: it does not ban slow vehicles; it only forbids going faster than the number shown.	غلط: مش بتمنع العربيات البطيئة؛ بتمنع بس إنك تعدي الرقم المكتوب.
+0925d4c709	False: it applies to all vehicles, not only motor vehicles.	غلط: بتنطبق على كل المركبات، مش العربيات بس.
+e7c538f5d8	False: a minimum speed is imposed by a round blue sign; this red-bordered sign sets a maximum.	غلط: السرعة الدنيا بتتفرض بعلامة دايرية زرقا؛ العلامة دي بالإطار الأحمر بتحدد حد أقصى.
+c00aca6a4c	False: it does not assign lanes; it simply sets a maximum speed of 80 km/h for everyone.	غلط: مش بتحدد حارات؛ بتحط حد أقصى 80 كم/س للكل وبس.
+ff950bfc52	False: the limit takes effect immediately at the sign, not 150 m after it.	غلط: الحد بيبدأ عند العلامة على طول، مش بعدها بـ 150 متر.
+e0c9ed79f6	False: mass limits are shown in tonnes; this sign shows a speed in km/h.	غلط: حدود الوزن بتتكتب بالطن؛ العلامة دي فيها سرعة بالكم/س.
+e3006eb054	False: the speed limit is valid at all times unless a panel limits it to certain hours.	غلط: حد السرعة ساري في كل الأوقات إلا لو فيه لوحة بتحدده بساعات معينة.
+9d7e4cf87e	True: the no horn sign forbids using the horn from the point where it is placed (CdS art. 156).	صح: علامة ممنوع الكلاكس بتمنع استخدامه من مكان العلامة (CdS art. 156).
+e1828bcb60	True: it forbids sound signals, i.e. using the horn.	صح: بتمنع الإشارات الصوتية، يعني الكلاكس.
+bce04a7d9c	True: under this sign the horn may be used only in case of immediate danger (CdS art. 156).	صح: مع العلامة دي الكلاكس مسموح بس لو فيه خطر مباشر (CdS art. 156).
+1d166a97c3	True: it marks the start of a zone where sounding the horn is forbidden.	صح: بتحدد بداية منطقة ممنوع فيها الكلاكس.
+af6d7b09a9	True: when carrying injured or seriously ill people in an emergency, the horn may be used to warn others (CdS art. 156).	صح: لما تكون شايل مصابين أو عيانين جدًا في حالة طوارئ، ينفع تستخدم الكلاكس تنبه الناس (CdS art. 156).
+b7dd17fcfc	False: under this sign the horn is banned; it may be used only in case of immediate danger.	غلط: مع العلامة دي الكلاكس ممنوع؛ مسموح بس في حالة خطر مباشر.
+af2a736950	False: the ban is valid at all hours, not only at night.	غلط: المنع ساري طول اليوم، مش بالليل بس.
+181c59a56a	False: it does not warn of a fire station; it forbids using the horn.	غلط: مش بتحذر من مطافي؛ بتمنع استخدام الكلاكس.
+9d9a0d37e5	False: it does not warn of a narrowing; it is the no horn prohibition sign.	غلط: مش بتحذر من ضيق؛ دي علامة منع الكلاكس.
+7a50a18289	False: traffic jams are not an emergency; the horn may be used only for immediate danger.	غلط: الزحمة مش حالة طوارئ؛ الكلاكس مسموح بس لخطر مباشر.
+d4b81ef3d8	False: this is the start of the horn ban; the end of the ban is shown by a sign with a black diagonal band.	غلط: دي بداية منع الكلاكس؛ نهاية المنع ليها علامة فيها خط أسود مايل.
+c7ab4da22a	True: this sign forbids goods vehicles with a maximum laden mass over 3.5 t from overtaking any motor vehicle, motorcycles included; vehicles for carrying people are excluded.	صح: العلامة دي بتمنع عربيات النقل اللي وزنها بالحمولة أكتر من 3.5 طن إنها تتخطى أي مركبة بموتور، حتى الموتوسيكلات.
+b919aa8f36	True: the mass that counts is the maximum laden mass in the registration document; if it exceeds 3.5 t, the lorry may not overtake motor vehicles.	صح: الوزن اللي بيتحسب هو أقصى وزن بالحمولة المكتوب في الرخصة؛ لو أكتر من 3.5 طن عربية النقل ماينفعش تتخطى مركبات بموتور.
+3284d864d0	True: the ban applies only to goods vehicles over 3.5 t, so a lighter lorry may overtake an articulated lorry.	صح: المنع بس لعربيات النقل فوق 3.5 طن، فالعربية الأخف تقدر تتخطى تريلا.
+d373c02bc4	True: buses carry people, so the ban does not apply to them whatever their mass.	صح: الأتوبيس بيشيل ناس، فالمنع مش بينطبق عليه مهما كان وزنه.
+d07f9ffad4	True: a car under 3.5 t, even towing a small trailer, is not affected by the lorry overtaking ban.	صح: عربية ملاكي أقل من 3.5 طن، حتى لو بتجر مقطورة صغيرة، مش داخلة في منع تخطي عربيات النقل.
+19cdac04eb	True: the ban concerns only heavy goods vehicles, so a car may overtake a road train.	صح: المنع للنقل التقيل بس، فالعربية الملاكي تقدر تتخطى تريلا.
+dc70542f3f	True: a motor caravan is not a goods vehicle, so it may overtake even if it weighs 4 t.	صح: الكرفان مش عربية نقل بضاعة، فتقدر تتخطى حتى لو وزنها 4 طن.
+53e2961256	True: heavy lorries may not overtake any motor vehicle, motorcycles included.	صح: عربيات النقل التقيلة ماينفعش تتخطى أي مركبة بموتور، حتى الموتوسيكل.
+6dba5e28cd	False: a goods vehicle over 3.5 t may not overtake motor vehicles, motorcycles included, with or without a trailer.	غلط: عربية النقل فوق 3.5 طن ماينفعش تتخطى مركبات بموتور، حتى الموتوسيكل، بمقطورة أو من غيرها.
+7c8d4cf624	False: motor caravans are not goods vehicles, so the ban does not apply to them even over 3.5 t.	غلط: الكرفانات مش عربيات نقل بضاعة، فالمنع مش عليها حتى لو فوق 3.5 طن.
+9e6f9c07db	False: lorries over 3.5 t may not overtake any motor vehicle, including motorcycles.	غلط: عربيات النقل فوق 3.5 طن ماينفعش تتخطى أي مركبة بموتور، حتى الموتوسيكلات.
+0c7bfabbe1	False: the sign does not allow overtaking on the right; overtaking must normally be done on the left (CdS art. 148).	غلط: العلامة مش بتسمح بالتخطي من اليمين؛ التخطي عادة بيبقى من الشمال (CdS art. 148).
+1d33b52c7f	False: articulated buses carry people, so the lorry overtaking ban does not apply to them.	غلط: الأتوبيسات المفصلية بتشيل ناس، فمنع تخطي عربيات النقل مش عليها.
+1c2baaa434	False: a motor caravan is not a goods vehicle, so it may overtake even at 6 t.	غلط: الكرفان مش عربية نقل بضاعة، فتقدر تتخطى حتى لو 6 طن.
+159c732d20	False: a lorry of 3 t is under the 3.5 t threshold, so it may overtake.	غلط: عربية نقل 3 طن أقل من حد 3.5 طن، فتقدر تتخطى.
+ce575a324b	False: vehicles for passenger transport are excluded; the ban concerns only goods vehicles over 3.5 t.	غلط: المركبات اللي بتشيل ناس مستثناة؛ المنع بس لعربيات النقل فوق 3.5 طن.
+ddb71893a6	True: this sign forbids transit to animal-drawn vehicles.	صح: العلامة دي بتمنع مرور العربيات اللي بتجرها حيوانات.
+379ce93468	True: horse-drawn vehicles are animal-drawn, so they are banned.	صح: العربيات اللي بتجرها خيول من العربيات اللي بتجرها حيوانات، فممنوعة.
+922a54e1b2	True: horse-drawn carriages are animal-drawn vehicles and are prohibited.	صح: الحناطير عربيات بتجرها حيوانات وممنوعة.
+576bdf58b7	True: donkey carts are animal-drawn vehicles too, so they are banned.	صح: عربيات الحمير كمان عربيات بتجرها حيوانات، فممنوعة.
+2e04598248	True: the ban concerns only animal-drawn vehicles; motorcycles may pass.	صح: المنع للعربيات اللي بتجرها حيوانات بس؛ الموتوسيكلات تعدي عادي.
+9af65fd7c8	True: motor vehicles are not affected and may pass.	صح: العربيات بالموتور مش داخلة في المنع وتعدي.
+1530717676	False: it bans only animal-drawn vehicles, not motor vehicles.	غلط: بتمنع بس العربيات اللي بتجرها حيوانات، مش المركبات بالموتور.
+931d303dd0	False: it is valid at all hours unless a panel limits it.	غلط: سارية في كل الأوقات إلا لو فيه لوحة بتحددها.
+bc0ebed692	False: the type of wheels makes no difference; all animal-drawn vehicles are banned.	غلط: نوع العجل مالوش دعوة؛ كل العربيات اللي بتجرها حيوانات ممنوعة.
+62afca2621	False: it is a prohibition, not a reserved road; it bans animal-drawn vehicles.	غلط: دي منع مش طريق مخصص؛ بتمنع العربيات اللي بتجرها حيوانات.
+0a69ddb398	False: hand carts have their own prohibition sign; this one bans animal-drawn vehicles.	غلط: عربيات الإيد ليها علامة منع خاصة؛ دي بتمنع العربيات اللي بتجرها حيوانات.
+29aead7056	False: it does not ban all non-motor vehicles, such as bicycles; only animal-drawn ones.	غلط: مش بتمنع كل المركبات اللي من غير موتور زي العجل؛ بس اللي بتجرها حيوانات.
+c716a99782	True: this sign forbids pedestrians from walking on that road.	صح: العلامة دي بتمنع المشاة يمشوا في الطريق ده.
+85dadb1298	True: the ban concerns only pedestrians; motor vehicles may pass.	صح: المنع للمشاة بس؛ العربيات تعدي عادي.
+98c83028d6	True: motorcycles are not affected by the pedestrian ban.	صح: الموتوسيكلات مش داخلة في منع المشاة.
+91f6f8588b	True: motor quadricycles may pass, as only pedestrians are banned.	صح: الكوادريسيكل بالموتور يعدي، لأن المنع للمشاة بس.
+c908f28069	True: bicycles are vehicles, not pedestrians, so they may pass.	صح: العجل مركبات مش مشاة، فتعدي.
+61d4e4980f	False: mopeds are vehicles, so the pedestrian ban does not affect them.	غلط: الموتوبيكان مركبات، فمنع المشاة مش عليها.
+2685300dd5	False: the ban is valid at all hours unless a panel says otherwise.	غلط: المنع ساري طول اليوم إلا لو فيه لوحة بتقول غير كده.
+19e6786498	False: it is not a playground sign; it forbids pedestrians.	غلط: دي مش علامة ملاهي أطفال؛ بتمنع المشاة.
+8a930621ca	False: it forbids pedestrians altogether; it does not tell them which side to walk on.	غلط: بتمنع المشاة خالص؛ مش بتقولهم يمشوا في أنهي ناحية.
+5cd36dc9d0	False: a pedestrian path is shown by a round blue sign; this red-bordered one bans pedestrians.	غلط: ممر المشاة ليه علامة دايرية زرقا؛ دي بالإطار الأحمر بتمنع المشاة.
+de7f0ee3b4	True: this sign forbids bicycles from using the road.	صح: العلامة دي بتمنع العجل من الطريق ده.
+2420398294	True: only bicycles are banned; two-wheeled mopeds may pass.	صح: العجل بس هو الممنوع؛ الموتوبيكان بعجلتين يعدي.
+944b78452a	True: pedal quadricycles are cycles too, so they are banned.	صح: الكوادريسيكل بالبدال من العجل برضه، فممنوع.
+370e7d3f92	True: tandems are bicycles, so they are prohibited.	صح: العجلة التاندم عجلة، فممنوعة.
+f34ab90efc	False: the ban is valid day and night unless a panel says otherwise.	غلط: المنع ساري بالليل والنهار إلا لو فيه لوحة بتقول غير كده.
+1d51c915e2	False: motorcycles are not banned by the no bicycles sign; they have their own sign.	غلط: الموتوسيكلات مش ممنوعة بعلامة منع العجل؛ ليها علامة خاصة.
+c786fd0a89	False: it is a ban, not a reserved lane; cycle lanes are shown by round blue signs.	غلط: دي منع مش حارة مخصصة؛ حارات العجل ليها علامات دايرية زرقا.
+af63c83090	False: bicycle parking is shown by a blue information sign; this one bans bicycles.	غلط: ركن العجل ليه علامة إرشاد زرقا؛ دي بتمنع العجل.
+2d0dcae3ed	True: this sign forbids motorcycles from using the road.	صح: العلامة دي بتمنع الموتوسيكلات من الطريق ده.
