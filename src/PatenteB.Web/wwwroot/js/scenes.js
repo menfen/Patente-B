@@ -21,6 +21,7 @@
   // Scene text in the current language (see i18n.js); English when no translation exists.
   const tl = s => (window.I18N ? window.I18N.tl(s) : s);
   const tx = (en, ar) => (window.I18N ? window.I18N.tx(en, ar) : en);
+  const cleanText = s => String(s).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
   // Voice and sound on/off, shared with Settings in app.js.
   const audioOn = () => !window.AppSettings || window.AppSettings.get('sceneAudio') !== false;
 
@@ -38,11 +39,7 @@
     const ctx = audioCtx();
     if (!ctx) return null;
     const out = ctx.createGain(); out.gain.value = 0.9; out.connect(ctx.destination);
-    // engine: low sawtooth through a low-pass filter, louder and higher when vehicles move faster
-    const eng = ctx.createOscillator(); eng.type = 'sawtooth'; eng.frequency.value = 48;
-    const lp = ctx.createBiquadFilter(); lp.type = 'lowpass'; lp.frequency.value = 260;
-    const eg = ctx.createGain(); eg.gain.value = 0;
-    eng.connect(lp); lp.connect(eg); eg.connect(out); eng.start();
+    // No engine drone: a continuous synthetic engine sounds like a buzz under the narration.
     // siren: Italian two-tone ("bitonale")
     const sir = ctx.createOscillator(); sir.type = 'triangle'; sir.frequency.value = 440;
     const sg = ctx.createGain(); sg.gain.value = 0;
@@ -50,8 +47,6 @@
     const ramp = (p, v) => p.setTargetAtTime(v, ctx.currentTime, 0.06);
     return {
       update(engine, speed, siren, sirenHigh) {
-        ramp(eg.gain, engine ? Math.min(0.07, 0.015 + speed * 0.0004) : 0);
-        ramp(eng.frequency, 42 + Math.min(70, speed * 0.25));
         ramp(sg.gain, siren ? 0.045 : 0);
         sir.frequency.setTargetAtTime(sirenHigh ? 660 : 440, ctx.currentTime, 0.01);
       },
@@ -68,8 +63,8 @@
         g.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + 0.35);
         o.connect(g); g.connect(out); o.start(); o.stop(ctx.currentTime + 0.4);
       },
-      silence() { ramp(eg.gain, 0); ramp(sg.gain, 0); },
-      close() { try { eng.stop(); sir.stop(); out.disconnect(); } catch { /* already stopped */ } },
+      silence() { ramp(sg.gain, 0); },
+      close() { try { sir.stop(); out.disconnect(); } catch { /* already stopped */ } },
     };
   }
 
@@ -605,15 +600,17 @@
     }
     // Reads the caption of step i aloud. While it is being read the animation waits at the start of the
     // next step, so voice and picture stay together (with a time limit in case the voice never reports back).
+    // Each caption has a recording made with tools/narration (audio/narration/<lang>/<key>.mp3);
+    // the device's own voice is only used if a recording is missing or can't play.
     function narrate(i) {
       spoken = i;
-      if (!audioOn() || !window.Native || !Native.canSpeak || !steps[i]) return;
-      const text = tl(steps[i].text).replace(/<[^>]+>/g, ' ');
-      const lang = window.I18N && window.I18N.ar && text !== steps[i].text.replace(/<[^>]+>/g, ' ') ? 'ar' : 'en';
+      if (!audioOn() || !steps[i]) return;
+      const text = cleanText(tl(steps[i].text));
+      const lang = window.I18N && window.I18N.ar && text !== cleanText(steps[i].text) ? 'ar' : 'en';
       if (sound && i > 0) sound.chime();
       talking = true;
       talkUntil = performance.now() + 4000 + text.length * 110;
-      Native.speak(text, lang, () => { if (spoken === i) talking = false; });
+      Native.play(`audio/narration/${lang}/${Native.clipKey(text)}.mp3`, text, lang, () => { if (spoken === i) talking = false; });
     }
     function frame(now) {
       if (destroyed) return;

@@ -141,7 +141,10 @@
     const text = what === 'q' ? q.t : what === 'tr' ? T.e : T.w;
     saying = key;
     markSaying(key);
-    Native.speak(text, lang, () => { if (saying === key) { saying = ''; markSaying(''); } });
+    const done = () => { if (saying === key) { saying = ''; markSaying(''); } };
+    // The Italian question has a recording in natural Italian (tools/narration); the rest uses the device voice.
+    if (what === 'q') Native.play(`audio/questions/${Native.clipKey(text)}.ogg`, text, lang, done);
+    else Native.speak(text, lang, done);
   }
   function markSaying(key) {
     document.querySelectorAll('[data-act="say"]').forEach(b => b.classList.toggle('speaking', !!key && key.endsWith('/' + b.dataset.what)));
@@ -493,8 +496,8 @@
             '<b>الخصوصية:</b> التطبيق ده مش بيجمع أي بيانات شخصية. مفيش حساب ولا إعلانات ولا تتبّع ولا إنترنت؛ تقدّمك وإعداداتك بيفضلوا على الجهاز ده بس. القراية بصوت بتستخدم محرّك الكلام اللي على جهازك.')}</p>
           <p>${tx('<b>Not an official app.</b> It is not affiliated with or endorsed by the Italian Ministry of Infrastructure and Transport (MIT) or the Motorizzazione Civile. The questions come from the public ministerial list; for official information see',
             '<b>ده مش تطبيق رسمي.</b> مالوش علاقة بوزارة البنية التحتية والنقل الإيطالية (MIT) ولا بالـ Motorizzazione Civile. الأسئلة من القايمة الوزارية العامة؛ للمعلومات الرسمية شوف')} <a href="https://www.ilportaledellautomobilista.it" target="_blank" rel="noopener">ilportaledellautomobilista.it</a> ${tx('and', 'و')} <a href="https://www.mit.gov.it" target="_blank" rel="noopener">mit.gov.it</a>.</p>
-          <p>${tx('<b>Study aid only.</b> Translations, lessons and the "why, according to the law" explanations were written with the help of AI and may contain mistakes. They are not legal advice. Rules change: always check the current Codice della Strada.',
-            '<b>مساعدة للمذاكرة بس.</b> الترجمات والدروس وشرح "القانون بيقول إيه" اتكتبوا بمساعدة الذكاء الاصطناعي وممكن يكون فيهم غلط. دي مش استشارة قانونية. القواعد بتتغير: راجع دايمًا الـ Codice della Strada الحالي.')}</p>
+          <p>${tx('<b>Study aid only.</b> Translations, lessons and the "why, according to the law" explanations were written with the help of AI and may contain mistakes. They are not legal advice. Rules change: always check the current Codice della Strada. The scenario narration voices are AI-generated (Chatterbox, open source).',
+            '<b>مساعدة للمذاكرة بس.</b> الترجمات والدروس وشرح "القانون بيقول إيه" اتكتبوا بمساعدة الذكاء الاصطناعي وممكن يكون فيهم غلط. دي مش استشارة قانونية. القواعد بتتغير: راجع دايمًا الـ Codice della Strada الحالي. الأصوات اللي بتشرح السيناريوهات معمولة بالذكاء الاصطناعي (Chatterbox، مفتوح المصدر).')}</p>
           <p>${tx('Full privacy policy and licences:', 'سياسة الخصوصية الكاملة والتراخيص:')} <a href="privacy.html" target="_blank" rel="noopener">privacy.html</a> · <a href="licenses.html" target="_blank" rel="noopener">${tx('Licences', 'التراخيص')}</a></p>
         </details>
         <div class="row" style="margin-top:16px;justify-content:flex-end"><button class="btn" data-s="close">${tx('Close', 'اقفل')}</button></div>

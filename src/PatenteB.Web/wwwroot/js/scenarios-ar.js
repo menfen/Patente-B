@@ -184,7 +184,7 @@ window.SCENES_AR = {
   "Coffee, fresh air or food do <b>not</b> lower the level – only time does. Drugs are always forbidden.": "القهوة أو الهوا أو الأكل <b>مش</b> بيقللوا النسبة – الوقت بس هو اللي بيقللها. والمخدرات ممنوعة دايمًا.",
   "Bonus-malus insurance classes": "درجات التأمين bonus-malus",
   "<b>RCA</b> third-party insurance is <b>compulsory</b>: it pays for damage you cause to other people and their property.": "تأمين <b>RCA</b> ضد الغير <b>إجباري</b>: بيدفع تمن الضرر اللي بتعمله للناس التانية وحاجتهم.",
-  "With <b>bonus-malus</b>, every year without a claim where you are at fault moves you <b>down one class</b> → cheaper.": "مع <b>bonus-malus</b>، كل سنة من غير حادثة إنت غلطان فيها بتنزّلك <b>درجة</b> ← أرخص.",
+  "Under the <b>bonus-malus</b> system, every year without a claim where you are at fault moves you <b>down one class</b> → cheaper.": "في نظام <b>bonus-malus</b>، كل سنة من غير حادثة إنت غلطان فيها بتنزّلك <b>درجة</b> ← أرخص.",
   "A claim mainly your fault moves you <b>up two classes</b> → more expensive.": "حادثة معظم الغلط فيها عليك بتطلّعك <b>درجتين</b> ← أغلى.",
   "Victims of unidentified or uninsured vehicles are paid by the <b>Fondo di garanzia vittime della strada</b>.": "ضحايا العربيات المجهولة أو اللي مش متأمن عليها بيصرف لهم <b>Fondo di garanzia vittime della strada</b>.",
   "Smooth driving saves fuel": "السواقة الهادية بتوفّر بنزين",

@@ -4,7 +4,7 @@
 (function () {
   const inApp = location.hostname === '0.0.0.1';
   const LOCALES = { it: 'it-IT', en: 'en-GB', ar: 'ar-EG' };
-  let onEnd = null, ready = !inApp, run = 0;
+  let onEnd = null, ready = !inApp, run = 0, clip = null;
   const pending = [];
 
   if (inApp) {
@@ -51,7 +51,35 @@
         speechSynthesis.speak(u);
       });
     },
+    // Plays a recording made with tools/narration; if it is missing or the browser can't play it,
+    // speaks the text with the device voice instead.
+    play(url, text, lang, end) {
+      this.stop();
+      onEnd = end || null;
+      this.speaking = true;
+      const a = new Audio(url);
+      clip = a;
+      a.onended = () => { if (clip === a) { clip = null; finish(); } };
+      const fallback = () => {
+        if (clip !== a) return;
+        clip = null;
+        const f = onEnd;
+        onEnd = null;
+        this.speaking = false;
+        this.speak(text, lang, f);
+      };
+      a.onerror = fallback;
+      a.play().catch(fallback);
+    },
+    // File name of a recording: FNV-1a hash of its text with tags removed (same as tools/narration/key.mjs).
+    clipKey(text) {
+      text = String(text).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+      let h = 0x811c9dc5;
+      for (const ch of text) h = Math.imul(h ^ ch.codePointAt(0), 0x01000193) >>> 0;
+      return h.toString(16).padStart(8, '0');
+    },
     stop() {
+      if (clip) { const c = clip; clip = null; c.onended = c.onerror = null; c.pause(); }
       const was = this.speaking;
       if (inApp) { if (was) post('stop'); } else if (window.speechSynthesis) speechSynthesis.cancel();
       run++;

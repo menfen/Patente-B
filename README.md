@@ -89,6 +89,24 @@ The legal explanations come from `tools/expl/done/*.tsv` (keyed by a hash of the
 `node tools/expl-export.mjs` lists the questions still missing one in `tools/expl/todo/`, and `node tools/expl-check.cjs q-001 …` validates a batch.
 If the source questions change, `node tools/ar-export.mjs` lists the texts that still need translating in `tools/ar/todo/`.
 
+### Scenario narration
+
+The scenario captions are read by recorded voices in `wwwroot/audio/narration/<en|ar>/<key>.mp3`. The key is a hash of the caption text.
+They are made with [Chatterbox](https://github.com/resemble-ai/chatterbox) (MIT), an open-source speech model.
+Every take is transcribed back with Whisper, and garbled takes are recorded again.
+
+After changing a caption in `scenarios.js` or `scenarios-ar.js`:
+
+```bash
+node tools/narration/export.mjs
+python tools/narration/make-audio.py
+```
+
+`make-audio.py` needs Python 3.11 and an NVIDIA GPU; its first lines show how to install the requirements. It records only the missing clips.
+A caption without a recording falls back to the device's own voice.
+
+`node tools/licenses.mjs` rebuilds `licenses.html`.
+
 ## Sources and licences
 
 - Questions and pictures: [Ed0ardo/QuizPatenteB](https://github.com/Ed0ardo/QuizPatenteB) (MIT), the official ministry list as of 2023.

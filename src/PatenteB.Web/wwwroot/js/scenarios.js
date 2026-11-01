@@ -702,7 +702,7 @@
     },
     steps: [
       { t: 0, text: '<b>RCA</b> third-party insurance is <b>compulsory</b>: it pays for damage you cause to other people and their property.' },
-      { t: 2.5, text: 'With <b>bonus-malus</b>, every year without a claim where you are at fault moves you <b>down one class</b> → cheaper.' },
+      { t: 2.5, text: 'Under the <b>bonus-malus</b> system, every year without a claim where you are at fault moves you <b>down one class</b> → cheaper.' },
       { t: 7.5, text: 'A claim mainly your fault moves you <b>up two classes</b> → more expensive.' },
       { t: 9, text: 'Victims of unidentified or uninsured vehicles are paid by the <b>Fondo di garanzia vittime della strada</b>.' },
     ],

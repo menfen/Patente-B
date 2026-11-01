@@ -1,0 +1,3104 @@
+[
+ {
+  "lang": "en",
+  "key": "10985376",
+  "text": "The part of the road used by vehicles is the carriageway ( carreggiata ). A road can have one or more carriageways.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "The part of the road used by vehicles is the carriageway"
+   },
+   {
+    "lang": "it",
+    "text": "carreggiata"
+   },
+   {
+    "lang": "en",
+    "text": ". A road can have one or more carriageways."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "e6e18ac3",
+  "text": "الجزء من الطريق اللي بتمشي عليه العربيات اسمه نهر الطريق ( carreggiata ). الطريق ممكن يبقى فيه نهر واحد أو أكتر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الجزء من الطريق اللي بتمشي عليه العربيات اسمه نهر الطريق"
+   },
+   {
+    "lang": "it",
+    "text": "carreggiata"
+   },
+   {
+    "lang": "ar",
+    "text": ". الطريق ممكن يبقى فيه نهر واحد أو أكتر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "8cab0530",
+  "text": "The carriageway is divided into lanes ( corsie ). In Italy you drive on the right , in your own lane.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "The carriageway is divided into lanes"
+   },
+   {
+    "lang": "it",
+    "text": "corsie"
+   },
+   {
+    "lang": "en",
+    "text": ". In Italy you drive on the right , in your own lane."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "50bf748b",
+  "text": "نهر الطريق متقسّم لـ حارات ( corsie ). في إيطاليا بتسوق على اليمين ، في الحارة بتاعتك.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "نهر الطريق متقسّم لـ حارات"
+   },
+   {
+    "lang": "it",
+    "text": "corsie"
+   },
+   {
+    "lang": "ar",
+    "text": ". في إيطاليا بتسوق على اليمين ، في الحارة بتاعتك."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "541fe5e4",
+  "text": "Pavements ( marciapiedi ) are for pedestrians. The strip beyond the edge line is the banchina (verge/shoulder) – not a lane for normal driving.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Pavements"
+   },
+   {
+    "lang": "it",
+    "text": "marciapiedi"
+   },
+   {
+    "lang": "en",
+    "text": "are for pedestrians. The strip beyond the edge line is the"
+   },
+   {
+    "lang": "it",
+    "text": "banchina"
+   },
+   {
+    "lang": "en",
+    "text": "(verge/shoulder) – not a lane for normal driving."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "95bb5857",
+  "text": "الرصيف ( marciapiedi ) للمشاة. الشريط اللي بعد خط الحافة اسمه banchina (جنب الطريق) – ومش حارة للسواقة العادية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الرصيف"
+   },
+   {
+    "lang": "it",
+    "text": "marciapiedi"
+   },
+   {
+    "lang": "ar",
+    "text": "للمشاة. الشريط اللي بعد خط الحافة اسمه"
+   },
+   {
+    "lang": "it",
+    "text": "banchina"
+   },
+   {
+    "lang": "ar",
+    "text": "(جنب الطريق) – ومش حارة للسواقة العادية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "f014289b",
+  "text": "At a pedestrian crossing pedestrians who are crossing or about to cross have priority: slow down and stop.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "At a pedestrian crossing pedestrians who are crossing or about to cross have priority: slow down and stop."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "859cc444",
+  "text": "عند عبور المشاة ، المشاة اللي بيعدّوا أو هيعدّوا ليهم الأولوية: هدّي ووقّف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "عند عبور المشاة ، المشاة اللي بيعدّوا أو هيعدّوا ليهم الأولوية: هدّي ووقّف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "d01253e1",
+  "text": "Once the pedestrian has crossed completely, continue carefully.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Once the pedestrian has crossed completely, continue carefully."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "99b15305",
+  "text": "أول ما الماشي يعدّي خالص، كمّل بحذر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "أول ما الماشي يعدّي خالص، كمّل بحذر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "f0788871",
+  "text": "Warning signs ( segnali di pericolo ) are triangles with a red border. They tell you what danger is coming, not what to do.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Warning signs"
+   },
+   {
+    "lang": "it",
+    "text": "segnali di pericolo"
+   },
+   {
+    "lang": "en",
+    "text": "are triangles with a red border. They tell you what danger is coming, not what to do."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ba173eb2",
+  "text": "علامات التحذير ( segnali di pericolo ) مثلثات بحرف أحمر. بتقولك إيه الخطر اللي جاي، مش تعمل إيه.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "علامات التحذير"
+   },
+   {
+    "lang": "it",
+    "text": "segnali di pericolo"
+   },
+   {
+    "lang": "ar",
+    "text": "مثلثات بحرف أحمر. بتقولك إيه الخطر اللي جاي، مش تعمل إيه."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "fc71e0a5",
+  "text": "Outside built-up areas they are placed about 150 m before the danger (nearer inside towns). If the distance is different, a panel shows it.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Outside built-up areas they are placed about 150 m before the danger (nearer inside towns). If the distance is different, a panel shows it."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "074b8bc7",
+  "text": "بره المدن بتتحط حوالي 150 متر قبل الخطر (وأقرب جوه المدن). لو المسافة مختلفة، لوحة تحتها بتوضحها.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بره المدن بتتحط حوالي 150 متر قبل الخطر (وأقرب جوه المدن). لو المسافة مختلفة، لوحة تحتها بتوضحها."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "409127b0",
+  "text": "Your job: slow down , pay extra attention and be ready to stop.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Your job: slow down , pay extra attention and be ready to stop."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ee1f9122",
+  "text": "شغلتك: هدّي السرعة ، خد بالك زيادة، وخليك جاهز توقف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "شغلتك: هدّي السرعة ، خد بالك زيادة، وخليك جاهز توقف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c90c9414",
+  "text": "A pedestrian steps onto the crossing: you stop and let them cross.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A pedestrian steps onto the crossing: you stop and let them cross."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "6d7b39ba",
+  "text": "ماشي نزل على العبور: بتوقف وتسيبه يعدّي.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "ماشي نزل على العبور: بتوقف وتسيبه يعدّي."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "ab82a71a",
+  "text": "Round signs with a red border are prohibitions . Two cars (left one red) = no overtaking of motor vehicles. The continuous centre line also forbids it.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Round signs with a red border are prohibitions . Two cars (left one red) = no overtaking of motor vehicles. The continuous centre line also forbids it."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "9af1f115",
+  "text": "العلامات المدورة بحرف أحمر ممنوعات . عربيتين (الشمال حمرا) = ممنوع تخطي العربيات. الخط المتصل في النص كمان بيمنعه.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العلامات المدورة بحرف أحمر ممنوعات . عربيتين (الشمال حمرا) = ممنوع تخطي العربيات. الخط المتصل في النص كمان بيمنعه."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "8f569484",
+  "text": "Even behind a slow truck you must stay in your lane. An oncoming car shows why: you cannot see far enough.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Even behind a slow truck you must stay in your lane. An oncoming car shows why: you cannot see far enough."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "bea9563b",
+  "text": "حتى ورا تريلا بطيئة لازم تفضل في حارتك. العربية اللي جاية عكسك بتوضح ليه: مش شايف لبعيد كفاية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "حتى ورا تريلا بطيئة لازم تفضل في حارتك. العربية اللي جاية عكسك بتوضح ليه: مش شايف لبعيد كفاية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "b2eb8dcc",
+  "text": "A white sign with a black diagonal bar marks the end of the ban. The centre line becomes broken.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A white sign with a black diagonal bar marks the end of the ban. The centre line becomes broken."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "f1061e13",
+  "text": "علامة بيضا عليها شريطة سودا مايلة معناها نهاية المنع. الخط اللي في النص بيبقى متقطع.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "علامة بيضا عليها شريطة سودا مايلة معناها نهاية المنع. الخط اللي في النص بيبقى متقطع."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "54c79c5d",
+  "text": "Check the mirror, signal left and overtake, leaving enough space at the side.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Check the mirror, signal left and overtake, leaving enough space at the side."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "cea48690",
+  "text": "بص في المراية، اشّر شمال واتخطّى، وسيب مسافة كفاية على الجنب.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بص في المراية، اشّر شمال واتخطّى، وسيب مسافة كفاية على الجنب."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "035e6c1c",
+  "text": "Signal right and move back to your lane gradually, without cutting in front of the truck.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal right and move back to your lane gradually, without cutting in front of the truck."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ca2164e5",
+  "text": "اشّر يمين وارجع حارتك بالراحة، من غير ما تكسر على التريلا.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر يمين وارجع حارتك بالراحة، من غير ما تكسر على التريلا."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "e03deab8",
+  "text": "Round blue signs are obligations ( segnali di obbligo ). This one: you must turn right. Going straight is a no-entry street.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Round blue signs are obligations"
+   },
+   {
+    "lang": "it",
+    "text": "segnali di obbligo"
+   },
+   {
+    "lang": "en",
+    "text": ". This one: you must turn right. Going straight is a no-entry street."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "860d3391",
+  "text": "العلامات المدورة الزرقا إلزامية ( segnali di obbligo ). دي معناها: لازم تلف يمين. الشارع اللي قدّام ممنوع الدخول.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العلامات المدورة الزرقا إلزامية"
+   },
+   {
+    "lang": "it",
+    "text": "segnali di obbligo"
+   },
+   {
+    "lang": "ar",
+    "text": ". دي معناها: لازم تلف يمين. الشارع اللي قدّام ممنوع الدخول."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "9661ea8b",
+  "text": "Signal right in good time and keep close to the right edge of the road.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal right in good time and keep close to the right edge of the road."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "4278f783",
+  "text": "اشّر يمين بدري وخليك قريب من حافة الطريق اليمين.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر يمين بدري وخليك قريب من حافة الطريق اليمين."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3ea84506",
+  "text": "While turning, give way to pedestrians crossing the road you are entering.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "While turning, give way to pedestrians crossing the road you are entering."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "82f5a8ca",
+  "text": "وإنت بتلف، ادّي الأولوية للمشاة اللي بيعدّوا الشارع اللي داخل فيه.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "وإنت بتلف، ادّي الأولوية للمشاة اللي بيعدّوا الشارع اللي داخل فيه."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "445e59f3",
+  "text": "When the crossing is free, complete the turn.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "When the crossing is free, complete the turn."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "0d3ff244",
+  "text": "لما العبور يفضى، كمّل اللفة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لما العبور يفضى، كمّل اللفة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "e79ec8ae",
+  "text": "The octagonal STOP sign: you must stop completely at the stop line, even if the road looks empty.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "The octagonal STOP sign: you must stop completely at the stop line, even if the road looks empty."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "6f34fb29",
+  "text": "علامة STOP اللي على شكل مثمّن: لازم توقف خالص عند خط الوقوف، حتى لو الطريق باين فاضي.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "علامة ستوب اللي على شكل مثمّن: لازم توقف خالص عند خط الوقوف، حتى لو الطريق باين فاضي."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "cd088431",
+  "text": "Stopped. Now give way to vehicles coming from both directions on the main road.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Stopped. Now give way to vehicles coming from both directions on the main road."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b54ba666",
+  "text": "وقفت. دلوقتي ادّي الأولوية للعربيات الجاية من الاتجاهين على الطريق الرئيسي.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "وقفت. دلوقتي ادّي الأولوية للعربيات الجاية من الاتجاهين على الطريق الرئيسي."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "ab20dbca",
+  "text": "Look left and right again – a car is coming from the right.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Look left and right again – a car is coming from the right."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "f8460297",
+  "text": "بص شمال ويمين تاني – فيه عربية جاية من اليمين.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بص شمال ويمين تاني – فيه عربية جاية من اليمين."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "76edd665",
+  "text": "When it is clear, move off and turn.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "When it is clear, move off and turn."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "de70b9dd",
+  "text": "لما الطريق يفضى، اتحرك ولف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لما الطريق يفضى، اتحرك ولف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "563da2d5",
+  "text": "White broken line ( striscia discontinua ): you may cross it to overtake or turn, when it is safe. Car A overtakes the cyclist.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "White broken line"
+   },
+   {
+    "lang": "it",
+    "text": "striscia discontinua"
+   },
+   {
+    "lang": "en",
+    "text": ": you may cross it to overtake or turn, when it is safe. Car A overtakes the cyclist."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ad9fe5a5",
+  "text": "الخط الأبيض المتقطع ( striscia discontinua ): ممكن تعدّيه عشان تتخطى أو تلف، لو ده آمن. العربية A بتتخطى العجلة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الخط الأبيض المتقطع"
+   },
+   {
+    "lang": "it",
+    "text": "striscia discontinua"
+   },
+   {
+    "lang": "ar",
+    "text": ": ممكن تعدّيه عشان تتخطى أو تلف، لو ده آمن. العربية إيه بتتخطى العجلة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "b25a087f",
+  "text": "Car B also reaches the cyclist…",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Car B also reaches the cyclist…"
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "f6f3145d",
+  "text": "العربية B كمان وصلت للعجلة…",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العربية بي كمان وصلت للعجلة…"
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "7f2e99c5",
+  "text": "…but here the line is continuous ( striscia continua ): it must not be crossed or driven on. B stays behind, keeping a safe distance.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "…but here the line is continuous"
+   },
+   {
+    "lang": "it",
+    "text": "striscia continua"
+   },
+   {
+    "lang": "en",
+    "text": ": it must not be crossed or driven on. B stays behind, keeping a safe distance."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "87aed6ab",
+  "text": "…بس هنا الخط متصل ( striscia continua ): ممنوع تعدّيه أو تمشي عليه. B بتفضل ورا وسايبة مسافة أمان.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "…بس هنا الخط متصل"
+   },
+   {
+    "lang": "it",
+    "text": "striscia continua"
+   },
+   {
+    "lang": "ar",
+    "text": ": ممنوع تعدّيه أو تمشي عليه. بي بتفضل ورا وسايبة مسافة أمان."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "36b3344a",
+  "text": "Remember: yellow lines are temporary (roadworks) and override white ones. With a double line (one broken, one continuous) you may cross only from the broken side.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Remember: yellow lines are temporary (roadworks) and override white ones. With a double line (one broken, one continuous) you may cross only from the broken side."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d060bde2",
+  "text": "افتكر: الخطوط الصفرا مؤقتة (أعمال طرق) وبتلغي البيضا. في الخط المزدوج (واحد متقطع وواحد متصل) تقدر تعدّي من ناحية المتقطع بس.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "افتكر: الخطوط الصفرا مؤقتة (أعمال طرق) وبتلغي البيضا. في الخط المزدوج (واحد متقطع وواحد متصل) تقدر تعدّي من ناحية المتقطع بس."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "aa640fef",
+  "text": "Green : you may go – but only if you can clear the junction without stopping inside it.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Green : you may go – but only if you can clear the junction without stopping inside it."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b6e07ee3",
+  "text": "الأخضر : ممكن تمشي – بس لو تقدر تعدّي التقاطع من غير ما تقف جوّاه.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الأخضر : ممكن تمشي – بس لو تقدر تعدّي التقاطع من غير ما تقف جوّاه."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "a1977dae",
+  "text": "Amber ( giallo ): stop, unless you are so close that you cannot stop safely. Car B is too close, so it continues.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Amber"
+   },
+   {
+    "lang": "it",
+    "text": "giallo"
+   },
+   {
+    "lang": "en",
+    "text": ": stop, unless you are so close that you cannot stop safely. Car B is too close, so it continues."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "9e8d94d4",
+  "text": "الأصفر ( giallo ): وقّف، إلا لو إنت قريب أوي ومش هتعرف توقف بأمان. العربية B قريبة أوي، فبتكمّل.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الأصفر"
+   },
+   {
+    "lang": "it",
+    "text": "giallo"
+   },
+   {
+    "lang": "ar",
+    "text": ": وقّف، إلا لو إنت قريب أوي ومش هتعرف توقف بأمان. العربية بي قريبة أوي، فبتكمّل."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c5a6acc3",
+  "text": "Car C is further back: it must brake and stop.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Car C is further back: it must brake and stop."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "fa19110d",
+  "text": "العربية C ورا شوية: لازم تفرمل وتوقف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العربية سي ورا شوية: لازم تفرمل وتوقف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "4b569452",
+  "text": "Red : stop behind the stop line. Cross traffic gets green.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Red : stop behind the stop line. Cross traffic gets green."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "eb5316e1",
+  "text": "الأحمر : وقّف ورا خط الوقوف. الاتجاه التاني بياخد أخضر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الأحمر : وقّف ورا خط الوقوف. الاتجاه التاني بياخد أخضر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c2149874",
+  "text": "Green again for C. Always give way to pedestrians still crossing.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Green again for C. Always give way to pedestrians still crossing."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "83ff8c6e",
+  "text": "أخضر تاني لـ C. دايمًا ادّي الأولوية للمشاة اللي لسه بيعدّوا.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "أخضر تاني لـ سي. دايمًا ادّي الأولوية للمشاة اللي لسه بيعدّوا."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "5bc9dae0",
+  "text": "Officer with arms outstretched: traffic coming from the sides of the arms (east–west) may go – like green.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Officer with arms outstretched: traffic coming from the sides of the arms (east–west) may go – like green."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "bfe7821b",
+  "text": "العسكري فاتح دراعاته: العربيات الجاية من ناحية الدراعات (شرق–غرب) تمشي – زي الأخضر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العسكري فاتح دراعاته: العربيات الجاية من ناحية الدراعات (شرق–غرب) تمشي – زي الأخضر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "46772bbe",
+  "text": "Traffic facing the officer's chest or back (north–south) must stop – like red.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Traffic facing the officer's chest or back (north–south) must stop – like red."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "6272e9d5",
+  "text": "العربيات اللي في وش صدر أو ضهر العسكري (شمال–جنوب) لازم توقف – زي الأحمر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العربيات اللي في وش صدر أو ضهر العسكري (شمال–جنوب) لازم توقف – زي الأحمر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "ab629941",
+  "text": "The officer turns 90°: now north–south traffic goes and east–west traffic stops.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "The officer turns 90°: now north–south traffic goes and east–west traffic stops."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "409e72cd",
+  "text": "العسكري لف 90°: دلوقتي شمال–جنوب تمشي وشرق–غرب توقف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العسكري لف 90°: دلوقتي شمال–جنوب تمشي وشرق–غرب توقف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3dd1aab6",
+  "text": "Arm raised vertically = like amber: clear the junction or stop. Officer signals override traffic lights, signs and normal rules.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Arm raised vertically = like amber: clear the junction or stop. Officer signals override traffic lights, signs and normal rules."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "1e578117",
+  "text": "الدراع مرفوع لفوق = زي الأصفر: فضّي التقاطع أو وقّف. إشارات العسكري أقوى من الإشارات والعلامات والقواعد العادية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الدراع مرفوع لفوق = زي الأصفر: فضّي التقاطع أو وقّف. إشارات العسكري أقوى من الإشارات والعلامات والقواعد العادية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "9d2781cb",
+  "text": "Green background: directions on a motorway ( autostrada ).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Green background: directions on a motorway"
+   },
+   {
+    "lang": "it",
+    "text": "autostrada"
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d58d1ba6",
+  "text": "خلفية خضرا : اتجاهات على الأوتوستراد ( autostrada ).",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "خلفية خضرا : اتجاهات على الأوتوستراد"
+   },
+   {
+    "lang": "it",
+    "text": "autostrada"
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "28f96c99",
+  "text": "Blue : directions on extra-urban roads (outside towns).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Blue : directions on extra-urban roads (outside towns)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "bda62b56",
+  "text": "زرقا : اتجاهات على الطرق اللي بره المدن .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "زرقا : اتجاهات على الطرق اللي بره المدن ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c8d8e992",
+  "text": "White : directions on urban roads (inside towns).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "White : directions on urban roads (inside towns)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "0ce90a96",
+  "text": "بيضا : اتجاهات على الطرق اللي جوه المدن .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بيضا : اتجاهات على الطرق اللي جوه المدن ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "34090483",
+  "text": "Brown : places of tourist or cultural interest.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Brown : places of tourist or cultural interest."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "c7da2434",
+  "text": "بني : أماكن سياحية أو ثقافية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بني : أماكن سياحية أو ثقافية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "b83b2c3d",
+  "text": "Yellow : temporary signs, e.g. diversions for roadworks.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Yellow : temporary signs, e.g. diversions for roadworks."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "430724e6",
+  "text": "صفرا : علامات مؤقتة، زي التحويلات بسبب أعمال الطرق.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "صفرا : علامات مؤقتة، زي التحويلات بسبب أعمال الطرق."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "0b9ab1ee",
+  "text": "White sign with the town name = start of built-up area (urban rules and 50 km/h). With a red bar = end.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "White sign with the town name = start of built-up area (urban rules and 50 km/h). With a red bar = end."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "733af9d6",
+  "text": "علامة بيضا عليها اسم البلد = بداية منطقة سكنية (قواعد المدينة و50 كم/س). ولو عليها شريطة حمرا = النهاية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "علامة بيضا عليها اسم البلد = بداية منطقة سكنية (قواعد المدينة و50 كم/س). ولو عليها شريطة حمرا = النهاية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "8bd998cf",
+  "text": "A yellow triangle = roadworks. Yellow signs and markings are temporary and take priority over the normal white ones.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A yellow triangle = roadworks. Yellow signs and markings are temporary and take priority over the normal white ones."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b2e2ae7c",
+  "text": "المثلث الأصفر = أعمال طرق. العلامات والخطوط الصفرا مؤقتة وليها الأولوية على البيضا العادية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "المثلث الأصفر = أعمال طرق. العلامات والخطوط الصفرا مؤقتة وليها الأولوية على البيضا العادية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "864569db",
+  "text": "The panel shows the right lane is closed . Slow down, signal and change lane early – don't wait until the cones.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "The panel shows the right lane is closed . Slow down, signal and change lane early – don't wait until the cones."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "253ed37c",
+  "text": "اللوحة بتقول إن الحارة اليمين مقفولة . هدّي، اشّر وغيّر حارتك بدري – متستناش لحد الأقماع.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اللوحة بتقول إن الحارة اليمين مقفولة . هدّي، اشّر وغيّر حارتك بدري – متستناش لحد الأقماع."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "97616370",
+  "text": "Let other vehicles merge too. Never drive between cones or into the works area.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Let other vehicles merge too. Never drive between cones or into the works area."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b14b4c0b",
+  "text": "سيب العربيات التانية تدخل هي كمان. أوعى تسوق بين الأقماع أو جوه منطقة الشغل.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "سيب العربيات التانية تدخل هي كمان. أوعى تسوق بين الأقماع أو جوه منطقة الشغل."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "07d51b73",
+  "text": "Respect lower speed limits near works: there may be workers and machines on the road.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Respect lower speed limits near works: there may be workers and machines on the road."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "860a6f3b",
+  "text": "التزم بالسرعات الأقل جنب الشغل: ممكن يبقى فيه عمال ومعدات على الطريق.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "التزم بالسرعات الأقل جنب الشغل: ممكن يبقى فيه عمال ومعدات على الطريق."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "e1d458cf",
+  "text": "Small white rectangles under a sign are additional panels ( pannelli integrativi ). They complete the meaning of the sign.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Small white rectangles under a sign are additional panels"
+   },
+   {
+    "lang": "it",
+    "text": "pannelli integrativi"
+   },
+   {
+    "lang": "en",
+    "text": ". They complete the meaning of the sign."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "88054727",
+  "text": "المستطيلات البيضا الصغيرة اللي تحت العلامة اسمها لوحات إضافية ( pannelli integrativi ). بتكمّل معنى العلامة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "المستطيلات البيضا الصغيرة اللي تحت العلامة اسمها لوحات إضافية"
+   },
+   {
+    "lang": "it",
+    "text": "pannelli integrativi"
+   },
+   {
+    "lang": "ar",
+    "text": ". بتكمّل معنى العلامة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "fd30b392",
+  "text": "This panel gives the distance : the traffic lights are 300 m ahead, not the usual 150 m.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "This panel gives the distance : the traffic lights are 300 m ahead, not the usual 150 m."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "44bbbbb6",
+  "text": "اللوحة دي بتدّي المسافة : الإشارة على بعد 300 متر، مش الـ 150 متر المعتادين.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اللوحة دي بتدّي المسافة : الإشارة على بعد 300 متر، مش الـ 150 متر المعتادين."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "b4c745b6",
+  "text": "You arrive prepared and stop at the red light.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "You arrive prepared and stop at the red light."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "c3b64193",
+  "text": "بتوصل وإنت جاهز وبتقف عند الأحمر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بتوصل وإنت جاهز وبتقف عند الأحمر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "5b552035",
+  "text": "Other panels show times when a rule applies, its extent (how long it lasts), or which vehicles it concerns or exempts.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Other panels show times when a rule applies, its extent (how long it lasts), or which vehicles it concerns or exempts."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "fd9495ab",
+  "text": "لوحات تانية بتوضح المواعيد اللي القاعدة شغالة فيها، أو امتدادها (طولها قد إيه)، أو أنهي عربيات تخصها أو مستثناة منها.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لوحات تانية بتوضح المواعيد اللي القاعدة شغالة فيها، أو امتدادها (طولها قد إيه)، أو أنهي عربيات تخصها أو مستثناة منها."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "d9cbe271",
+  "text": "Inside a built-up area : max 50 km/h (some urban roads may allow up to 70 if signed).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Inside a built-up area : max 50 km/h (some urban roads may allow up to 70 if signed)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "0ccf6a45",
+  "text": "جوه المنطقة السكنية : أقصى حاجة 50 كم/س (بعض شوارع المدينة ممكن تسمح لحد 70 لو فيه علامة).",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "جوه المنطقة السكنية : أقصى حاجة 50 كم/س (بعض شوارع المدينة ممكن تسمح لحد 70 لو فيه علامة)."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "2f55df91",
+  "text": "Secondary extra-urban roads: max 90 km/h .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Secondary extra-urban roads: max 90 km/h ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "1acde986",
+  "text": "الطرق الثانوية بره المدن : أقصى حاجة 90 كم/س .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الطرق الثانوية بره المدن : أقصى حاجة 90 كم/س ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "180a5307",
+  "text": "Main extra-urban roads (separate carriageways): max 110 km/h .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Main extra-urban roads (separate carriageways): max 110 km/h ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "119a1c73",
+  "text": "الطرق الرئيسية بره المدن (نهرين منفصلين): أقصى حاجة 110 كم/س .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الطرق الرئيسية بره المدن (نهرين منفصلين): أقصى حاجة 110 كم/س ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "2779deaa",
+  "text": "Motorway : max 130 km/h .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Motorway : max 130 km/h ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "5a88ac4d",
+  "text": "الأوتوستراد : أقصى حاجة 130 كم/س .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الأوتوستراد : أقصى حاجة 130 كم/س ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "20327347",
+  "text": "New drivers (first 3 years): max 100 km/h on motorways and 90 km/h on main extra-urban roads.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "New drivers (first 3 years): max 100 km/h on motorways and 90 km/h on main extra-urban roads."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d7e4f702",
+  "text": "السواقين الجداد (أول 3 سنين): أقصى حاجة 100 كم/س على الأوتوستراد و90 كم/س على الطرق الرئيسية بره المدن.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "السواقين الجداد (أول 3 سنين): أقصى حاجة 100 كم/س على الأوتوستراد و90 كم/س على الطرق الرئيسية بره المدن."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "0fa43eb3",
+  "text": "In rain or snow : 110 on motorways, 90 on main extra-urban roads. In fog with visibility under 100 m: max 50. Limits are maximums – always adapt to conditions.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "In rain or snow : 110 on motorways, 90 on main extra-urban roads. In fog with visibility under 100 m: max 50. Limits are maximums – always adapt to conditions."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "5ad4a5d2",
+  "text": "في المطر أو التلج : 110 على الأوتوستراد، و90 على الطرق الرئيسية بره المدن. في الشبورة والرؤية أقل من 100 متر: أقصى حاجة 50. الحدود دي أقصى حاجة – دايمًا ظبّط سرعتك على الظروف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "في المطر أو التلج : 110 على الأوتوستراد، و90 على الطرق الرئيسية بره المدن. في الشبورة والرؤية أقل من 100 متر: أقصى حاجة 50. الحدود دي أقصى حاجة – دايمًا ظبّط سرعتك على الظروف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "59d04a00",
+  "text": "Keep a safety distance ( distanza di sicurezza ) so you can stop if the vehicle ahead brakes suddenly.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Keep a safety distance"
+   },
+   {
+    "lang": "it",
+    "text": "distanza di sicurezza"
+   },
+   {
+    "lang": "en",
+    "text": "so you can stop if the vehicle ahead brakes suddenly."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "378455a4",
+  "text": "سيب مسافة أمان ( distanza di sicurezza ) عشان تعرف توقف لو العربية اللي قدّامك فرملت فجأة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "سيب مسافة أمان"
+   },
+   {
+    "lang": "it",
+    "text": "distanza di sicurezza"
+   },
+   {
+    "lang": "ar",
+    "text": "عشان تعرف توقف لو العربية اللي قدّامك فرملت فجأة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "e98ba09a",
+  "text": "Car 1 brakes hard. You need about 1 second to react – during that time your car keeps going at full speed.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Car 1 brakes hard. You need about 1 second to react – during that time your car keeps going at full speed."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "7d4a7bad",
+  "text": "العربية 1 فرملت جامد. إنت محتاج حوالي ثانية عشان تاخد رد فعل – وفي الوقت ده عربيتك ماشية بنفس السرعة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العربية 1 فرملت جامد. إنت محتاج حوالي ثانية عشان تاخد رد فعل – وفي الوقت ده عربيتك ماشية بنفس السرعة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "989594f2",
+  "text": "Now you brake: the car needs a braking distance to stop.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Now you brake: the car needs a braking distance to stop."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "5882e3b5",
+  "text": "دلوقتي بتفرمل: العربية محتاجة مسافة فرملة عشان توقف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "دلوقتي بتفرمل: العربية محتاجة مسافة فرملة عشان توقف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "268ce4f7",
+  "text": "Stopping distance = reaction distance + braking distance. In 1 s you travel about (speed ÷ 10) × 3 metres: 15 m at 50 km/h, 27 m at 90 km/h.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Stopping distance = reaction distance + braking distance. In 1 s you travel about (speed ÷ 10) × 3 metres: 15 m at 50 km/h, 27 m at 90 km/h."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b4346bdc",
+  "text": "مسافة الوقوف = مسافة رد الفعل + مسافة الفرملة. في ثانية واحدة بتمشي حوالي (السرعة ÷ 10) × 3 متر: 15 متر على 50 كم/س، و27 متر على 90 كم/س.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "مسافة الوقوف = مسافة رد الفعل + مسافة الفرملة. في ثانية واحدة بتمشي حوالي (السرعة ÷ 10) × 3 متر: 15 متر على 50 كم/س، و27 متر على 90 كم/س."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "31d7a9fa",
+  "text": "Double the speed = about four times the braking distance. Increase the gap in rain, fog, with worn tyres, a heavy load or when tired.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Double the speed = about four times the braking distance. Increase the gap in rain, fog, with worn tyres, a heavy load or when tired."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "3b5b3b8e",
+  "text": "لو السرعة اتضاعفت = مسافة الفرملة بتبقى حوالي أربع أضعاف . زوّد المسافة في المطر، والشبورة، ولو الكاوتش دايب، أو الحمولة تقيلة، أو إنت تعبان.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لو السرعة اتضاعفت = مسافة الفرملة بتبقى حوالي أربع أضعاف . زوّد المسافة في المطر، والشبورة، ولو الكاوتش دايب، أو الحمولة تقيلة، أو إنت تعبان."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "49f1a857",
+  "text": "Always keep to the right . To turn left on a two-way road, signal early and move as close as possible to the centre line .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Always keep to the right . To turn left on a two-way road, signal early and move as close as possible to the centre line ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "cde71cd3",
+  "text": "خليك دايمًا على اليمين . عشان تلف شمال في طريق اتجاهين، اشّر بدري وقرّب على قد ما تقدر من الخط اللي في النص .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "خليك دايمًا على اليمين . عشان تلف شمال في طريق اتجاهين، اشّر بدري وقرّب على قد ما تقدر من الخط اللي في النص ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "00107c9e",
+  "text": "A must give way to oncoming vehicle B, which is going straight on.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A must give way to oncoming vehicle B, which is going straight on."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "8eb8f51c",
+  "text": "A لازم يدّي الأولوية للعربية الجاية عكسه B، اللي ماشية على طول.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "إيه لازم يدّي الأولوية للعربية الجاية عكسه بي، اللي ماشية على طول."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "f6f76987",
+  "text": "Then A turns near the centre of the junction , keeping it on its right, and enters the correct lane.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Then A turns near the centre of the junction , keeping it on its right, and enters the correct lane."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b95e5f19",
+  "text": "بعد كده A بيلف قريب من نص التقاطع ، وسايبه على يمينه، ويدخل الحارة الصح.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بعد كده إيه بيلف قريب من نص التقاطع ، وسايبه على يمينه، ويدخل الحارة الصح."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "b8145878",
+  "text": "To turn right : signal, keep close to the right edge and make a tight turn (car C).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "To turn right : signal, keep close to the right edge and make a tight turn (car C)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "4bcf7b64",
+  "text": "عشان تلف يمين : اشّر، خليك قريب من حافة الطريق اليمين واعمل لفة ضيقة (العربية C).",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "عشان تلف يمين : اشّر، خليك قريب من حافة الطريق اليمين واعمل لفة ضيقة (العربية سي)."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "f853ae78",
+  "text": "A junction with no signs, lights or officer. The general rule: give way to vehicles coming from your right .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A junction with no signs, lights or officer. The general rule: give way to vehicles coming from your right ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d110f10f",
+  "text": "تقاطع من غير علامات ولا إشارات ولا عسكري. القاعدة العامة: ادّي الأولوية للعربيات الجاية من يمينك .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "تقاطع من غير علامات ولا إشارات ولا عسكري. القاعدة العامة: ادّي الأولوية للعربيات الجاية من يمينك ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "4acb2566",
+  "text": "Who has nobody on their right? C (coming from the east): it goes first.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Who has nobody on their right? C (coming from the east): it goes first."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "5438660c",
+  "text": "مين مفيش حد على يمينه؟ C (جاي من الشرق): هو اللي يعدّي الأول.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "مين مفيش حد على يمينه؟ سي (جاي من الشرق): هو اللي يعدّي الأول."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "74befde8",
+  "text": "Now nobody is on A's right any more: A goes second.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Now nobody is on A's right any more: A goes second."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "95a792b6",
+  "text": "دلوقتي مبقاش فيه حد على يمين A: A يعدّي التاني.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "دلوقتي مبقاش فيه حد على يمين إيه: إيه يعدّي التاني."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "92912b51",
+  "text": "Finally B . Exam tip: in the intersection pictures, apply this rule one vehicle at a time.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Finally B . Exam tip: in the intersection pictures, apply this rule one vehicle at a time."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "53c77f15",
+  "text": "وفي الآخر B . نصيحة للامتحان: في صور التقاطعات، طبّق القاعدة دي على عربية عربية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "وفي الآخر بي . نصيحة للامتحان: في صور التقاطعات، طبّق القاعدة دي على عربية عربية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "e2319abf",
+  "text": "Approaching a roundabout, slow down. Usually a give way sign means vehicles already in the roundabout have priority .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Approaching a roundabout, slow down. Usually a give way sign means vehicles already in the roundabout have priority ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "62ceb7f0",
+  "text": "وإنت قرّبت من الدوّار، هدّي. عادةً علامة إعطاء الأولوية معناها إن العربيات اللي جوه الدوّار ليها الأولوية .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "وإنت قرّبت من الدوّار، هدّي. عادةً علامة إعطاء الأولوية معناها إن العربيات اللي جوه الدوّار ليها الأولوية ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "92511e7c",
+  "text": "Wait at the give-way line while a car is circulating.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Wait at the give-way line while a car is circulating."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "848c7284",
+  "text": "استنى عند خط إعطاء الأولوية طول ما فيه عربية بتلف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "استنى عند خط إعطاء الأولوية طول ما فيه عربية بتلف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "639cdd09",
+  "text": "Enter when it is clear, turning right. In Italy you go round anticlockwise .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Enter when it is clear, turning right. In Italy you go round anticlockwise ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "34df287b",
+  "text": "ادخل لما الطريق يفضى، ولف يمين. في إيطاليا بتلف عكس عقارب الساعة .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "ادخل لما الطريق يفضى، ولف يمين. في إيطاليا بتلف عكس عقارب الساعة ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "feaed7e9",
+  "text": "Signal right before your exit and watch for pedestrians and cyclists.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal right before your exit and watch for pedestrians and cyclists."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b63c773f",
+  "text": "اشّر يمين قبل المخرج بتاعك وخد بالك من المشاة وأصحاب العجل.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر يمين قبل المخرج بتاعك وخد بالك من المشاة وأصحاب العجل."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "4addcc9f",
+  "text": "An ambulance comes with blue flashing light and siren together: you must give way.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "An ambulance comes with blue flashing light and siren together: you must give way."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "0068c6af",
+  "text": "إسعاف جاية بنور أزرق بيلمع وسارينة مع بعض: لازم تدّيها الأولوية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "إسعاف جاية بنور أزرق بيلمع وسارينة مع بعض: لازم تدّيها الأولوية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "30dd306e",
+  "text": "Signal, move to the right and slow down or stop to leave it room. Oncoming traffic does the same.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal, move to the right and slow down or stop to leave it room. Oncoming traffic does the same."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ad29c5c3",
+  "text": "اشّر، روح على اليمين وهدّي أو وقّف عشان تسيبلها مكان. العربيات الجاية عكسك بتعمل نفس الحاجة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر، روح على اليمين وهدّي أو وقّف عشان تسيبلها مكان. العربيات الجاية عكسك بتعمل نفس الحاجة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c3ed2e21",
+  "text": "Don't follow it closely to take advantage of the free road.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Don't follow it closely to take advantage of the free road."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ec63d059",
+  "text": "متمشيش وراها لازق عشان تستغل إن الطريق فاضي.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "متمشيش وراها لازق عشان تستغل إن الطريق فاضي."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "348a2812",
+  "text": "When it has passed, check the mirror and move off carefully.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "When it has passed, check the mirror and move off carefully."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ef6b7333",
+  "text": "لما تعدّي، بص في المراية واتحرك بحذر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لما تعدّي، بص في المراية واتحرك بحذر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "81784cbd",
+  "text": "Before overtaking ask: is it allowed here (no ban, no continuous line, not near a crest, bend, junction or zebra crossing)?",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Before overtaking ask: is it allowed here (no ban, no continuous line, not near a crest, bend, junction or zebra crossing)?"
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "e1c7a289",
+  "text": "قبل ما تتخطى اسأل نفسك: هو مسموح هنا (مفيش منع، مفيش خط متصل، مش قريب من مطلع، أو منحنى، أو تقاطع، أو عبور مشاة)؟",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "قبل ما تتخطى اسأل نفسك: هو مسموح هنا (مفيش منع، مفيش خط متصل، مش قريب من مطلع، أو منحنى، أو تقاطع، أو عبور مشاة)؟"
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "7413aa45",
+  "text": "Is the road ahead clear for long enough? An oncoming car is coming: wait .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Is the road ahead clear for long enough? An oncoming car is coming: wait ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "9cc991db",
+  "text": "الطريق اللي قدّام فاضي لمسافة كفاية؟ فيه عربية جاية عكسك: استنى .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الطريق اللي قدّام فاضي لمسافة كفاية؟ فيه عربية جاية عكسك: استنى ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3aa00633",
+  "text": "Check the mirror : nobody behind you must already be overtaking you. The vehicle ahead must not be signalling to overtake.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Check the mirror : nobody behind you must already be overtaking you. The vehicle ahead must not be signalling to overtake."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "db57289b",
+  "text": "بص في المراية : مفيش حد وراك لازم يكون بدأ يتخطاك. والعربية اللي قدّامك متكونش مشاورة إنها هتتخطى.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بص في المراية : مفيش حد وراك لازم يكون بدأ يتخطاك. والعربية اللي قدّامك متكونش مشاورة إنها هتتخطى."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3e912c43",
+  "text": "Signal left and pull out. Overtake on the left , leaving enough side space.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal left and pull out. Overtake on the left , leaving enough side space."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "447a4b09",
+  "text": "اشّر شمال واطلع. اتخطى من الشمال ، وسيب مسافة كفاية على الجنب.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر شمال واطلع. اتخطى من الشمال ، وسيب مسافة كفاية على الجنب."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "8f41d47b",
+  "text": "Signal right and return gradually to the right lane, without forcing the overtaken vehicle to brake.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal right and return gradually to the right lane, without forcing the overtaken vehicle to brake."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "23f06369",
+  "text": "اشّر يمين وارجع بالراحة للحارة اليمين، من غير ما تخلي العربية اللي اتخطيتها تفرمل.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر يمين وارجع بالراحة للحارة اليمين، من غير ما تخلي العربية اللي اتخطيتها تفرمل."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "0223c0a0",
+  "text": "Sosta = parking: leaving the vehicle for a longer time; the driver may go away.",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "Sosta"
+   },
+   {
+    "lang": "en",
+    "text": "= parking: leaving the vehicle for a longer time; the driver may go away."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ce714c60",
+  "text": "Sosta = ركن: بتسيب العربية لمدة أطول؛ والسواق ممكن يمشي.",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "Sosta"
+   },
+   {
+    "lang": "ar",
+    "text": "= ركن: بتسيب العربية لمدة أطول؛ والسواق ممكن يمشي."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "114c783e",
+  "text": "Fermata = a brief stop to let people get in or out. The driver stays ready to move.",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "Fermata"
+   },
+   {
+    "lang": "en",
+    "text": "= a brief stop to let people get in or out. The driver stays ready to move."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "daecb99d",
+  "text": "Fermata = وقفة قصيرة عشان ناس تركب أو تنزل. السواق بيفضل جاهز يتحرك.",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "Fermata"
+   },
+   {
+    "lang": "ar",
+    "text": "= وقفة قصيرة عشان ناس تركب أو تنزل. السواق بيفضل جاهز يتحرك."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "fee91f31",
+  "text": "Arresto = stopping because traffic requires it (red light, queue, give way).",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "Arresto"
+   },
+   {
+    "lang": "en",
+    "text": "= stopping because traffic requires it (red light, queue, give way)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "2a3d02bf",
+  "text": "Arresto = وقوف عشان المرور بيفرض كده (إشارة حمرا، طابور، إعطاء أولوية).",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "Arresto"
+   },
+   {
+    "lang": "ar",
+    "text": "= وقوف عشان المرور بيفرض كده (إشارة حمرا، طابور، إعطاء أولوية)."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "a66d2c97",
+  "text": "Parking is forbidden within 5 m of a junction , on zebra crossings, in front of driveways, at bus stops and on pavements.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Parking is forbidden within 5 m of a junction , on zebra crossings, in front of driveways, at bus stops and on pavements."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d5b13d5b",
+  "text": "الركن ممنوع في حدود 5 متر من التقاطع ، وعلى عبور المشاة، وقدّام المداخل، وفي محطات الأتوبيس، وعلى الرصيف.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الركن ممنوع في حدود 5 متر من التقاطع ، وعلى عبور المشاة، وقدّام المداخل، وفي محطات الأتوبيس، وعلى الرصيف."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "970953c6",
+  "text": "Enter using the acceleration lane ( corsia di accelerazione ).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Enter using the acceleration lane"
+   },
+   {
+    "lang": "it",
+    "text": "corsia di accelerazione"
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "76ef8945",
+  "text": "ادخل من حارة التسارع ( corsia di accelerazione ).",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "ادخل من حارة التسارع"
+   },
+   {
+    "lang": "it",
+    "text": "corsia di accelerazione"
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "ac5245e5",
+  "text": "Use it to reach a speed similar to the traffic on the motorway.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Use it to reach a speed similar to the traffic on the motorway."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "3b2c6110",
+  "text": "استخدمها عشان توصل لسرعة قريبة من سرعة العربيات اللي على الأوتوستراد.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "استخدمها عشان توصل لسرعة قريبة من سرعة العربيات اللي على الأوتوستراد."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "7bd0ad23",
+  "text": "Signal left , check mirrors and blind spot. Vehicles already on the motorway have priority.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Signal left , check mirrors and blind spot. Vehicles already on the motorway have priority."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "507c80ef",
+  "text": "اشّر شمال ، بص في المرايات وفي النقطة العميا. العربيات اللي على الأوتوستراد أصلًا ليها الأولوية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اشّر شمال ، بص في المرايات وفي النقطة العميا. العربيات اللي على الأوتوستراد أصلًا ليها الأولوية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "0011b903",
+  "text": "Merge into the right lane. Never reverse or make U-turns on a motorway.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Merge into the right lane. Never reverse or make U-turns on a motorway."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "4e2843c8",
+  "text": "ادخل في الحارة اليمين. أوعى ترجع لورا أو تعمل يوتيرن على الأوتوستراد.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "ادخل في الحارة اليمين. أوعى ترجع لورا أو تعمل يوتيرن على الأوتوستراد."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "30f82db4",
+  "text": "Breakdown: switch on the hazard lights ( quattro frecce ) and move into the emergency lane .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Breakdown: switch on the hazard lights"
+   },
+   {
+    "lang": "it",
+    "text": "quattro frecce"
+   },
+   {
+    "lang": "en",
+    "text": "and move into the emergency lane ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "0849777b",
+  "text": "عطل: شغّل الفلاشر ( quattro frecce ) وادخل حارة الطوارئ .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "عطل: شغّل الفلاشر"
+   },
+   {
+    "lang": "it",
+    "text": "quattro frecce"
+   },
+   {
+    "lang": "ar",
+    "text": "وادخل حارة الطوارئ ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "12d08018",
+  "text": "Put on the high-visibility vest before getting out of the car.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Put on the high-visibility vest before getting out of the car."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "8cd15e77",
+  "text": "البس السديري العاكس قبل ما تنزل من العربية.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "البس السديري العاكس قبل ما تنزل من العربية."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "69db173a",
+  "text": "Place the warning triangle at least 50 m behind the vehicle, visible from at least 100 m.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Place the warning triangle at least 50 m behind the vehicle, visible from at least 100 m."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "65ba11a0",
+  "text": "حط مثلث التحذير على الأقل 50 متر ورا العربية، ويكون باين من 100 متر على الأقل.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "حط مثلث التحذير على الأقل 50 متر ورا العربية، ويكون باين من 100 متر على الأقل."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "251fca70",
+  "text": "Then get behind the guard rail, away from traffic, and call for help.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Then get behind the guard rail, away from traffic, and call for help."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "92ab0993",
+  "text": "بعد كده اقف ورا الحاجز، بعيد عن العربيات، واطلب المساعدة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بعد كده اقف ورا الحاجز، بعيد عن العربيات، واطلب المساعدة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "24147de2",
+  "text": "Outside built-up areas at night, high beams light the road far ahead – use them when you won't dazzle anyone.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Outside built-up areas at night, high beams light the road far ahead – use them when you won't dazzle anyone."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "840afa78",
+  "text": "بره المدن بالليل، النور العالي بينوّر الطريق لبعيد – استخدمه لما متكونش هتبهر حد.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "بره المدن بالليل، النور العالي بينوّر الطريق لبعيد – استخدمه لما متكونش هتبهر حد."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "1d90c767",
+  "text": "A vehicle is coming towards you: switch to dipped beams in good time so you don't dazzle its driver.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A vehicle is coming towards you: switch to dipped beams in good time so you don't dazzle its driver."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "c287830d",
+  "text": "فيه عربية جاية عكسك: حوّل على النور الواطي بدري عشان متبهرش السواق.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "فيه عربية جاية عكسك: حوّل على النور الواطي بدري عشان متبهرش السواق."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "1a0bc775",
+  "text": "Also use dipped beams when following close behind another vehicle, and inside towns.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Also use dipped beams when following close behind another vehicle, and inside towns."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "7f45c588",
+  "text": "استخدم النور الواطي كمان لما تكون ماشي قريب ورا عربية تانية، وجوه المدن.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "استخدم النور الواطي كمان لما تكون ماشي قريب ورا عربية تانية، وجوه المدن."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "82a3671a",
+  "text": "Once it has passed you may use high beams again. Rear fog light only with visibility under 50 m.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Once it has passed you may use high beams again. Rear fog light only with visibility under 50 m."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b8cfacac",
+  "text": "أول ما تعدّي ممكن ترجع للنور العالي. نور الشبورة الخلفي بس لما الرؤية تبقى أقل من 50 متر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "أول ما تعدّي ممكن ترجع للنور العالي. نور الشبورة الخلفي بس لما الرؤية تبقى أقل من 50 متر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "f2a4ae1e",
+  "text": "Two identical cars travel at 50 km/h .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Two identical cars travel at 50 km/h ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "461d70b5",
+  "text": "عربيتين زي بعض ماشيين 50 كم/س .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "عربيتين زي بعض ماشيين 50 كم/س ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "5736cbdf",
+  "text": "Crash: the car stops in a fraction of a second. The belted driver is held in the seat.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Crash: the car stops in a fraction of a second. The belted driver is held in the seat."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "5c79b8ce",
+  "text": "حادثة: العربية بتقف في جزء من الثانية. السواق اللي لابس الحزام بيفضل ماسك في الكرسي.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "حادثة: العربية بتقف في جزء من الثانية. السواق اللي لابس الحزام بيفضل ماسك في الكرسي."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "2677daad",
+  "text": "Without a belt the body keeps moving at 50 km/h and hits the steering wheel and windscreen – like falling from about the 3rd floor (≈10 m).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Without a belt the body keeps moving at 50 km/h and hits the steering wheel and windscreen – like falling from about the 3rd floor (≈10 m)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "3997fe7d",
+  "text": "من غير حزام الجسم بيكمّل بسرعة 50 كم/س ويخبط في الدركسيون والإزاز – زي ما تقع من حوالي الدور التالت (≈10 متر).",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "من غير حزام الجسم بيكمّل بسرعة 50 كم/س ويخبط في الدركسيون والإزاز – زي ما تقع من حوالي الدور التالت (≈10 متر)."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "659210bf",
+  "text": "Belts are compulsory front and rear . Children under 1.50 m need a suitable child seat. Never fit a rear-facing child seat in front of an active airbag.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Belts are compulsory front and rear . Children under 1.50 m need a suitable child seat. Never fit a rear-facing child seat in front of an active airbag."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "ac9c86f7",
+  "text": "الحزام إجباري قدّام وورا . الأطفال اللي أقل من 1.50 متر محتاجين كرسي أطفال مناسب. أوعى تركّب كرسي أطفال ضهره للطريق قدّام إيرباج شغال.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الحزام إجباري قدّام وورا . الأطفال اللي أقل من 1.50 متر محتاجين كرسي أطفال مناسب. أوعى تركّب كرسي أطفال ضهره للطريق قدّام إيرباج شغال."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "6e3dc371",
+  "text": "Your licence starts with 20 points .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Your licence starts with 20 points ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "142befa2",
+  "text": "رخصتك بتبدأ بـ 20 نقطة .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "رخصتك بتبدأ بـ 20 نقطة ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "2b713716",
+  "text": "Offences remove points (the exact number depends on the offence). For new drivers in their first 3 years, points lost are doubled .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Offences remove points (the exact number depends on the offence). For new drivers in their first 3 years, points lost are doubled ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "f112f0c3",
+  "text": "المخالفات بتشيل نقط (العدد بالظبط على حسب المخالفة). للسواقين الجداد في أول 3 سنين، النقط اللي بتروح بتتضاعف .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "المخالفات بتشيل نقط (العدد بالظبط على حسب المخالفة). للسواقين الجداد في أول 3 سنين، النقط اللي بتروح بتتضاعف ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "badffaa3",
+  "text": "Driving without offences gives points back: +2 every 2 years (new drivers: +1 per clean year for the first 3 years).",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Driving without offences gives points back: +2 every 2 years (new drivers: +1 per clean year for the first 3 years)."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d30cca33",
+  "text": "السواقة من غير مخالفات بترجّع نقط: +2 كل سنتين (السواقين الجداد: +1 كل سنة نضيفة في أول 3 سنين).",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "السواقة من غير مخالفات بترجّع نقط: +2 كل سنتين (السواقين الجداد: +1 كل سنة نضيفة في أول 3 سنين)."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c1996aeb",
+  "text": "You can reach up to 30 points .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "You can reach up to 30 points ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "8e634a83",
+  "text": "تقدر توصل لحد 30 نقطة .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "تقدر توصل لحد 30 نقطة ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "5c5bd059",
+  "text": "If you reach 0 , your licence goes to revisione : you must pass the exams again.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "If you reach 0 , your licence goes to"
+   },
+   {
+    "lang": "it",
+    "text": "revisione"
+   },
+   {
+    "lang": "en",
+    "text": ": you must pass the exams again."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "4e56d095",
+  "text": "لو وصلت صفر ، رخصتك بتروح revisione : لازم تنجح في الامتحانات تاني.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لو وصلت صفر ، رخصتك بتروح"
+   },
+   {
+    "lang": "it",
+    "text": "revisione"
+   },
+   {
+    "lang": "ar",
+    "text": ": لازم تنجح في الامتحانات تاني."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "03e86021",
+  "text": "You come across an accident.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "You come across an accident."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "9b71f909",
+  "text": "لقيت حادثة قدّامك.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "لقيت حادثة قدّامك."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "c6535952",
+  "text": "Slow down, stop safely, switch on the hazard lights and put on the high-visibility vest .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Slow down, stop safely, switch on the hazard lights and put on the high-visibility vest ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b4c98961",
+  "text": "هدّي، وقّف في مكان آمن، شغّل الفلاشر والبس السديري العاكس .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "هدّي، وقّف في مكان آمن، شغّل الفلاشر والبس السديري العاكس ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "47023613",
+  "text": "Warn approaching traffic with the warning triangle .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Warn approaching traffic with the warning triangle ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b6d6f29e",
+  "text": "نبّه العربيات الجاية بـ مثلث التحذير .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "نبّه العربيات الجاية بـ مثلث التحذير ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "037d0e13",
+  "text": "Call 112 : say where you are, how many vehicles and injured people there are.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Call 112 : say where you are, how many vehicles and injured people there are."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "417f471b",
+  "text": "اتصل بـ 112 : قول إنت فين، وكام عربية وكام مصاب.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "اتصل بـ 112 : قول إنت فين، وكام عربية وكام مصاب."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "98c91615",
+  "text": "Help the injured. Don't move them unless they are in immediate danger (e.g. fire). Don't give them anything to drink.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Help the injured. Don't move them unless they are in immediate danger (e.g. fire). Don't give them anything to drink."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "79189283",
+  "text": "ساعد المصابين. متحركهمش إلا لو في خطر فوري (زي حريقة). متدّيهمش حاجة يشربوها.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "ساعد المصابين. متحركهمش إلا لو في خطر فوري (زي حريقة). متدّيهمش حاجة يشربوها."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "e1e6c8a2",
+  "text": "The legal limit is 0.5 g/l . For drivers in their first 3 years , under 21 or professional drivers it is zero .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "The legal limit is 0.5 g/l . For drivers in their first 3 years , under 21 or professional drivers it is zero ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "781e4a1a",
+  "text": "الحد القانوني 0.5 جم/لتر . للسواقين في أول 3 سنين ، واللي أقل من 21 سنة، والسواقين المحترفين هو صفر .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الحد القانوني 0.5 جم/لتر . للسواقين في أول 3 سنين ، واللي أقل من 21 سنة، والسواقين المحترفين هو صفر ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3d1dc117",
+  "text": "Even a small amount slows your reactions , narrows your field of vision and makes you overconfident.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Even a small amount slows your reactions , narrows your field of vision and makes you overconfident."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "460949e5",
+  "text": "حتى كمية صغيرة بتبطّأ رد فعلك ، وبتضيّق مجال رؤيتك ، وبتخليك واثق في نفسك زيادة عن اللزوم.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "حتى كمية صغيرة بتبطّأ رد فعلك ، وبتضيّق مجال رؤيتك ، وبتخليك واثق في نفسك زيادة عن اللزوم."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "08f2ded9",
+  "text": "Above 0.5 g/l: fines, suspension of the licence and loss of points. Above 0.8 g/l it is a crime .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Above 0.5 g/l: fines, suspension of the licence and loss of points. Above 0.8 g/l it is a crime ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "11765640",
+  "text": "فوق 0.5 جم/لتر: غرامات، وسحب الرخصة مؤقتًا، وخصم نقط. وفوق 0.8 جم/لتر تبقى جريمة .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "فوق 0.5 جم/لتر: غرامات، وسحب الرخصة مؤقتًا، وخصم نقط. وفوق 0.8 جم/لتر تبقى جريمة ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3367bbc8",
+  "text": "Coffee, fresh air or food do not lower the level – only time does. Drugs are always forbidden.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Coffee, fresh air or food do not lower the level – only time does. Drugs are always forbidden."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "cfecdf9c",
+  "text": "القهوة أو الهوا أو الأكل مش بيقللوا النسبة – الوقت بس هو اللي بيقللها. والمخدرات ممنوعة دايمًا.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "القهوة أو الهوا أو الأكل مش بيقللوا النسبة – الوقت بس هو اللي بيقللها. والمخدرات ممنوعة دايمًا."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3b2499f4",
+  "text": "RCA third-party insurance is compulsory : it pays for damage you cause to other people and their property.",
+  "segments": [
+   {
+    "lang": "it",
+    "text": "RCA"
+   },
+   {
+    "lang": "en",
+    "text": "third-party insurance is compulsory : it pays for damage you cause to other people and their property."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "d9c999d3",
+  "text": "تأمين RCA ضد الغير إجباري : بيدفع تمن الضرر اللي بتعمله للناس التانية وحاجتهم.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "تأمين"
+   },
+   {
+    "lang": "it",
+    "text": "RCA"
+   },
+   {
+    "lang": "ar",
+    "text": "ضد الغير إجباري : بيدفع تمن الضرر اللي بتعمله للناس التانية وحاجتهم."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "74057b3a",
+  "text": "Under the bonus-malus system, every year without a claim where you are at fault moves you down one class → cheaper.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Under the"
+   },
+   {
+    "lang": "it",
+    "text": "bonus-malus"
+   },
+   {
+    "lang": "en",
+    "text": "system, every year without a claim where you are at fault moves you down one class → cheaper."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "107d27e0",
+  "text": "في نظام bonus-malus ، كل سنة من غير حادثة إنت غلطان فيها بتنزّلك درجة ← أرخص.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "في نظام"
+   },
+   {
+    "lang": "it",
+    "text": "bonus-malus"
+   },
+   {
+    "lang": "ar",
+    "text": "، كل سنة من غير حادثة إنت غلطان فيها بتنزّلك درجة ← أرخص."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "d31a0827",
+  "text": "A claim mainly your fault moves you up two classes → more expensive.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "A claim mainly your fault moves you up two classes → more expensive."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "e985a796",
+  "text": "حادثة معظم الغلط فيها عليك بتطلّعك درجتين ← أغلى.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "حادثة معظم الغلط فيها عليك بتطلّعك درجتين ← أغلى."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "3bf3a6f1",
+  "text": "Victims of unidentified or uninsured vehicles are paid by the Fondo di garanzia vittime della strada .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Victims of unidentified or uninsured vehicles are paid by the"
+   },
+   {
+    "lang": "it",
+    "text": "Fondo di garanzia vittime della strada"
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "0bd7c863",
+  "text": "ضحايا العربيات المجهولة أو اللي مش متأمن عليها بيصرف لهم Fondo di garanzia vittime della strada .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "ضحايا العربيات المجهولة أو اللي مش متأمن عليها بيصرف لهم"
+   },
+   {
+    "lang": "it",
+    "text": "Fondo di garanzia vittime della strada"
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "35f2e13a",
+  "text": "Both cars arrive at about the same time, but the aggressive driver uses much more fuel and pollutes more.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Both cars arrive at about the same time, but the aggressive driver uses much more fuel and pollutes more."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "90388b7b",
+  "text": "العربيتين بيوصلوا تقريبًا في نفس الوقت، بس السواق العنيف بيصرف بنزين أكتر بكتير وبيلوّث أكتر.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "العربيتين بيوصلوا تقريبًا في نفس الوقت، بس السواق العنيف بيصرف بنزين أكتر بكتير وبيلوّث أكتر."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "ea2c8e23",
+  "text": "Drive at a steady speed, change up early, anticipate traffic and avoid sudden acceleration or braking.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Drive at a steady speed, change up early, anticipate traffic and avoid sudden acceleration or braking."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "4eddde16",
+  "text": "سوق بسرعة ثابتة، غيّر للسرعة الأعلى بدري، توقّع حركة المرور، وابعد عن الدوس والفرملة المفاجئة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "سوق بسرعة ثابتة، غيّر للسرعة الأعلى بدري، توقّع حركة المرور، وابعد عن الدوس والفرملة المفاجئة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "0e1d3239",
+  "text": "Keep tyres at the right pressure, remove roof racks when not needed, don't keep the engine running when stopped for a long time.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Keep tyres at the right pressure, remove roof racks when not needed, don't keep the engine running when stopped for a long time."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "b2fc95c9",
+  "text": "خلي الكاوتش على الضغط الصح، شيل الشبكة اللي فوق العربية لو مش محتاجها، ومتسيبش الموتور شغال لو واقف مدة طويلة.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "خلي الكاوتش على الضغط الصح، شيل الشبكة اللي فوق العربية لو مش محتاجها، ومتسيبش الموتور شغال لو واقف مدة طويلة."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "92e5e56a",
+  "text": "Regular maintenance (filters, injectors, catalytic converter) reduces pollution. Never dump oil or batteries.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Regular maintenance (filters, injectors, catalytic converter) reduces pollution. Never dump oil or batteries."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "24100a42",
+  "text": "الصيانة المنتظمة (الفلاتر، البخاخات، الشكمان الحفّاز) بتقلل التلوث. أوعى ترمي زيت أو بطاريات.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الصيانة المنتظمة (الفلاتر، البخاخات، الشكمان الحفّاز) بتقلل التلوث. أوعى ترمي زيت أو بطاريات."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "165ba5af",
+  "text": "Grip ( aderenza ) depends on the tyres , the road surface and the speed . Here two cars go at the same speed, one on a wet road.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Grip"
+   },
+   {
+    "lang": "it",
+    "text": "aderenza"
+   },
+   {
+    "lang": "en",
+    "text": "depends on the tyres , the road surface and the speed . Here two cars go at the same speed, one on a wet road."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "f0f21314",
+  "text": "التماسك ( aderenza ) بيعتمد على الكاوتش ، و سطح الطريق ، و السرعة . هنا عربيتين ماشيين بنفس السرعة، واحدة على طريق مبلول.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "التماسك"
+   },
+   {
+    "lang": "it",
+    "text": "aderenza"
+   },
+   {
+    "lang": "ar",
+    "text": "بيعتمد على الكاوتش ، و سطح الطريق ، و السرعة . هنا عربيتين ماشيين بنفس السرعة، واحدة على طريق مبلول."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "2d46b35b",
+  "text": "Both brake at the same point…",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "Both brake at the same point…"
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "e9a914e5",
+  "text": "الاتنين بيفرملوا في نفس النقطة…",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "الاتنين بيفرملوا في نفس النقطة…"
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "888f66bf",
+  "text": "…on a wet road the braking distance can be about twice as long .",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "…on a wet road the braking distance can be about twice as long ."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "518a5f85",
+  "text": "…على الطريق المبلول مسافة الفرملة ممكن تبقى حوالي الضعف .",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "…على الطريق المبلول مسافة الفرملة ممكن تبقى حوالي الضعف ."
+   }
+  ]
+ },
+ {
+  "lang": "en",
+  "key": "f038cc9a",
+  "text": "In heavy rain, worn tyres can aquaplane (float on water). Minimum tread depth: 1.6 mm . Check tyre pressure when the tyres are cold.",
+  "segments": [
+   {
+    "lang": "en",
+    "text": "In heavy rain, worn tyres can aquaplane (float on water). Minimum tread depth: 1.6 mm . Check tyre pressure when the tyres are cold."
+   }
+  ]
+ },
+ {
+  "lang": "ar",
+  "key": "409cdc26",
+  "text": "في المطر الجامد، الكاوتش الدايب ممكن يتزحلق على الميه (aquaplaning). أقل عمق للمداس: 1.6 مم . اكشف على ضغط الكاوتش وهو بارد.",
+  "segments": [
+   {
+    "lang": "ar",
+    "text": "في المطر الجامد، الكاوتش الدايب ممكن يتزحلق على الميه"
+   },
+   {
+    "lang": "it",
+    "text": "aquaplaning"
+   },
+   {
+    "lang": "ar",
+    "text": ". أقل عمق للمداس: 1.6 مم . اكشف على ضغط الكاوتش وهو بارد."
+   }
+  ]
+ }
+]
