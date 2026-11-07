@@ -1,0 +1,15 @@
+{
+  "_": "Corrections to the English of the downloaded question source, keyed by the Italian text. ar is given where the existing Arabic was wrong too; otherwise the existing Arabic is kept (see en-fixes.tsv in tools/ar/questions).",
+  "Il segnale raffigurato preannuncia un tratto di strada pericoloso a causa di una cunetta": { "e": "The sign shown warns of a dangerous stretch of road because of a dip in the roadbed." },
+  "Il segnale raffigurato preannuncia una corsia riservata per l'ingresso in aeroporto": { "e": "The sign shown warns in advance of a reserved lane for entry into an airport." },
+  "Il segnale raffigurato consente ad un motociclo di superare un autobus": { "e": "The sign shown allows a motorcycle to pass a bus." },
+  "In presenza del segnale raffigurato è sempre prevista la rimozione forzata del veicolo": { "e": "In the presence of the sign shown, forced removal of the vehicle is always provided for." },
+  "Il segnale raffigurato indica presenza di un deposito con probabile uscita di mezzi per pulizia meccanica delle strade": { "e": "The sign shown indicates the presence of a depot with vehicles for mechanical street cleaning probably coming out." },
+  "Il segnale raffigurato impone di arrestarsi perché il transito è vietato": { "e": "The sign shown requires you to stop because passage is prohibited." },
+  "Quando il vigile si dispone con le braccia aperte verso la nostra direzione come in figura è vietato il passaggio": { "e": "When the traffic officer stands with arms outstretched facing our direction as shown, passage is prohibited." },
+  "Sono previste sanzioni per chi, pur facendo uso della cintura di sicurezza, ne alteri o ostacoli il normale funzionamento": { "e": "Penalties are provided for anyone who, even while using a seat belt, alters it or hinders its normal operation." },
+  "Soccorrere un ferito della strada non è un obbligo imposto dalla legge, ma solo un dovere morale": { "e": "Helping an injured road casualty is not a legal obligation, only a moral duty.", "ar": "مساعدة مصاب في حادثة طريق مش إلزام قانوني، ده واجب أخلاقي بس." },
+  "Non è obbligatorio soccorrere un ferito della strada, per non mettere a repentaglio la propria sicurezza": { "e": "It is not obligatory to help an injured road casualty, so as not to endanger your own safety.", "ar": "مساعدة مصاب في حادثة طريق مش إجبارية، عشان متعرّضش أمانك للخطر." },
+  "Durante un intervento di primo soccorso non bisogna mai toccare il ferito se non è ancora arrivata la polizia": { "e": "During first aid, you must never touch the injured person if the police have not yet arrived.", "ar": "وإنت بتعمل إسعافات أولية، عمرك ما تلمس المصاب طول ما البوليس لسه موصلش." },
+  "Se un infortunato della strada ha una ferita sanguinante non bisogna coprirla, per facilitare l'arresto spontaneo del sangue": { "e": "If a road casualty has a bleeding wound, you must not cover it, to help the bleeding stop on its own.", "ar": "لو مصاب في حادثة طريق عنده جرح بينزف، متغطيهوش عشان الدم يقف لوحده." }
+}

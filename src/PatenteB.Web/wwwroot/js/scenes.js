@@ -399,7 +399,7 @@
 
   // ---------- player ----------
   let fullPlayer = null;   // exits the player that is full screen, if any
-  function create(container, sc) {
+  function create(container, sc, opts = {}) {
     container.innerHTML = '';
     container.classList.add('scene');
     const stage = document.createElement('div');
@@ -419,7 +419,7 @@
 
     const timed = [];
     const lights = [];
-    const helpers = { el, svg, layers, W, H, COL, drawSign, signShape, state: {} };
+    const helpers = { tl, el, svg, layers, W, H, COL, drawSign, signShape, state: {} };
     for (const x of sc.extras || []) {
       let node = null;
       const layer = x.layer ? layers[x.layer] : (x.type === 'label' || x.type === 'measure' || x.type === 'arrow' ? layers.labels : layers.marks);
@@ -610,7 +610,7 @@
       if (sound && i > 0) sound.chime();
       talking = true;
       talkUntil = performance.now() + 4000 + text.length * 110;
-      Native.play(`audio/narration/${lang}/${Native.clipKey(text)}.mp3`, text, lang, () => { if (spoken === i) talking = false; });
+      Native.play(sc.audioDir ? `audio/${sc.audioDir}/${lang}/${Native.clipKey(text)}.ogg` : `audio/narration/${lang}/${Native.clipKey(text)}.mp3`, text, lang, () => { if (spoken === i) talking = false; });
     }
     function frame(now) {
       if (destroyed) return;
@@ -622,7 +622,9 @@
         const nextT = steps[spoken + 1] ? steps[spoken + 1].t : null;
         if (talking && nextT !== null && nt >= nextT - 0.02) nt = Math.max(t, nextT - 0.02);
         t = nt;
-        if (t >= sc.duration) { t = sc.duration; setPlaying(false); }
+        // the last caption finishes before the scenario ends
+        if (talking && !nextT && nt >= sc.duration - 0.02) t = sc.duration - 0.02;
+        if (t >= sc.duration) { t = sc.duration; setPlaying(false); if (opts.onEnd) opts.onEnd(); }
         render();
       }
       raf = requestAnimationFrame(frame);
@@ -714,6 +716,7 @@
     setPlaying(false);
     last = performance.now();
     raf = requestAnimationFrame(frame);
+    if (opts.autoplay) setPlaying(true);
     return {
       destroy() {
         destroyed = true; cancelAnimationFrame(raf);

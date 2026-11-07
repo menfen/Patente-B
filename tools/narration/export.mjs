@@ -17,11 +17,12 @@ const www = f => fs.readFileSync(path.join(root, 'src/PatenteB.Web/wwwroot', f),
 const ctx = { window: {}, document: {}, performance: { now: () => 0 } };
 ctx.window.window = ctx.window;
 vm.createContext(ctx);
-for (const f of ['js/scenes.js', 'js/scenarios.js', 'js/scenarios-ar.js', 'data/questions.js']) vm.runInContext(www(f), ctx, { filename: f });
+for (const f of ['js/scenes.js', 'js/scenarios.js', 'js/scenarios-ar.js', 'data/questions.js', 'data/questions-ar.js', 'js/topic-scenes.js']) vm.runInContext(www(f), ctx, { filename: f });
+for (const ch of ctx.window.QDATA.chapters) vm.runInContext(www(`js/topics/${ch.id}.js`), ctx, { filename: ch.id });
 
 const clean = s => String(s).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
 // Italian terms in the English captions that are not in <i>…</i>.
-const ITALIAN = ['fondo di garanzia vittime della strada', 'bonus-malus', 'banchina', 'sosta', 'fermata', 'arresto', 'revisione', 'RCA'];
+const ITALIAN = ['extraurbana principale', 'extraurbana secondaria', 'urbana di scorrimento', 'urbana di quartiere', 'strada locale', 'autostrada', 'fondo di garanzia vittime della strada', 'bonus-malus', 'banchina', 'sosta', 'fermata', 'arresto', 'revisione', 'RCA'];
 const IT_START = '\u0001', IT_END = '\u0002';
 
 // Splits marked text into [{ lang, text }] segments, dropping the brackets around Italian terms.
@@ -48,10 +49,10 @@ function englishSegments(raw) {
 }
 
 function arabicSegments(raw) {
-  // In the Arabic captions every Latin-script run is an Italian term, except the car labels and STOP,
-  // which the Arabic voice reads.
-  const said = { A: 'إيه', B: 'بي', C: 'سي', STOP: 'ستوب' };
-  const s = raw.replace(/<[^>]+>/g, ' ').replace(/\b(A|B|C|STOP)\b/g, m => said[m]).replace(/[A-Za-zÀ-ÖØ-öø-ÿ](?:[A-Za-zÀ-ÖØ-öø-ÿ'’\-/ ]*[A-Za-zÀ-ÖØ-öø-ÿ])?/g, m => `${IT_START}${m}${IT_END}`);
+  // In the Arabic captions every Latin-script run is an Italian term, except single letters, licence categories (A1, AM)
+  // and STOP, which the Arabic voice reads: the voice can't say a letter on its own as a separate Italian part.
+  const said = { A: 'إيه', B: 'بي', C: 'سي', D: 'دي', E: 'إي', F: 'إف', G: 'جي', H: 'إتش', L: 'إل', M: 'إم', N: 'إن', O: 'أو', P: 'بي', R: 'آر', S: 'إس', T: 'تي', V: 'في', X: 'إكس' };
+  const s = raw.replace(/<[^>]+>/g, ' ').replace(/(?<![A-Za-zÀ-ÿ'’])(?:STOP|([A-Z]{1,2})(\d?))(?![A-Za-zÀ-ÿ'’])/g, (m, code, n) => code ? [...code].map(c => said[c] || c).join(' ') + (n ? ' ' + n : '') : 'ستوب').replace(/[A-Za-zÀ-ÖØ-öø-ÿ](?:[A-Za-zÀ-ÖØ-öø-ÿ'’\-/ ]*[A-Za-zÀ-ÖØ-öø-ÿ])?/g, m => `${IT_START}${m}${IT_END}`);
   return segments(s, 'ar');
 }
 
@@ -73,9 +74,24 @@ fs.writeFileSync(path.join(root, 'tools/narration/lines.json'), JSON.stringify(o
 const questions = new Map();
 for (const ch of ctx.window.QDATA.chapters) for (const sub of ch.subs) for (const q of sub.qs) {
   const it = clean(q.t);
-  if (it && !questions.has(it)) questions.set(it, { lang: 'it', key: narrationKey(it), text: it, segments: [{ lang: 'it', text: it }] });
+  if (it && !questions.has(it)) questions.set(it, { lang: 'it', ch: ch.id, key: narrationKey(it), text: it, segments: [{ lang: 'it', text: it }] });
 }
 fs.writeFileSync(path.join(root, 'tools/narration/questions.json'), JSON.stringify([...questions.values()], null, 1));
+
+// The topic animations (js/topics/*.js): every caption, in English and Arabic, for audio/topics/<lang>/<key>.ogg.
+const topicLines = new Map();
+for (const ch of ctx.window.QDATA.chapters) for (const sub of ctx.window.TopicScenes.list(ch)) {
+  for (const step of ctx.window.TopicScenes.scenarioFor(ch.id, sub).steps) {
+    const en = clean(step.text);
+    if (!topicLines.has('en:' + en)) topicLines.set('en:' + en, { lang: 'en', ch: ch.id, key: narrationKey(en), text: en, segments: englishSegments(step.text) });
+    if (AR[step.text]) {
+      const ar = clean(AR[step.text]);
+      if (!topicLines.has('ar:' + ar)) topicLines.set('ar:' + ar, { lang: 'ar', ch: ch.id, key: narrationKey(ar), text: ar, segments: arabicSegments(AR[step.text]) });
+    }
+  }
+}
+fs.writeFileSync(path.join(root, 'tools/narration/topics.json'), JSON.stringify([...topicLines.values()], null, 1));
+console.log(`${topicLines.size} topic captions`);
 
 const withIt = out.filter(l => l.segments.some(s => s.lang === 'it')).length;
 console.log(`${out.filter(l => l.lang === 'en').length} English and ${out.filter(l => l.lang === 'ar').length} Arabic captions (${withIt} with Italian terms), ${questions.size} questions`);

@@ -2,6 +2,7 @@
 
     python tools/narration/make-audio.py narration [en|ar]   # scenario captions -> wwwroot/audio/narration/<lang>/<key>.mp3
     python tools/narration/make-audio.py questions           # exam questions    -> wwwroot/audio/questions/<key>.ogg (Opus)
+    python tools/narration/make-audio.py topics [en|ar]      # topic animations  -> wwwroot/audio/topics/<lang>/<key>.ogg (Opus)
 
 Input comes from export.mjs. Each line is made of segments; English and Arabic segments use the
 English and the multilingual model, Italian segments (the Italian terms in a caption, and every
@@ -9,7 +10,8 @@ question) use the multilingual model in Italian, so learners hear the real pronu
 Every segment is transcribed back with Whisper and recorded again (up to TRIES times) when the
 transcript doesn't match the text. Existing files are skipped; delete one to redo it.
 Set NARRATION_LIMIT=n to record only the first n missing lines, and NARRATION_SHARD=i/n to split
-the work between n processes running at the same time (each writes its own report).
+the work between n processes running at the same time (each writes its own report), and
+NARRATION_CHAPTER=<chapter id> to record one chapter. record-by-chapter.sh uses all three: long runs get slower.
 
 Needs Python 3.11 and an NVIDIA GPU:
     pip install chatterbox-tts openai-whisper soundfile "setuptools<81" --extra-index-url https://download.pytorch.org/whl/cu124
@@ -34,11 +36,59 @@ FADE = 0.01  # seconds faded in and out at each segment edge, so joins don't cli
 
 # Signs and units the voice would misread, written out as said.
 SAID = {
-    "en": [(r"\s*=\s*", " equals "), (r"\s\+\s", " plus "), (r"\s*÷\s*", " divided by "), (r"\s*×\s*", " times "),
+    "en": [(r"^(The|A)$", "The road type"), (r"^,?\s*([B-F])$", r"type \1"),  # the voice fails on one short word alone
+           (r"\s*=\s*", " equals "), (r"\s\+\s", " plus "), (r"\s*÷\s*", " divided by "), (r"\s*×\s*", " times "),
            (r"km/h", "kilometres per hour"), (r"(\d) s\b", r"\1 second"), (r"(\d) m\b", r"\1 metres")],
     "ar": [(r"\s*=\s*", " تساوي "), (r"\s\+\s", " زائد "), (r"\s*÷\s*", " على "), (r"\s*×\s*", " في "),
-           (r"كم/س", "كيلومتر في الساعة"), (r"جم/لتر", "جرام في اللتر"), (r"0\.5", "نص")],
+           (r"^و$", "وكمان"), (r"كم/س", "كيلومتر في الساعة"), (r"جم/لتر", "جرام في اللتر"), (r"0\.5", "نص")],
 }
+
+
+IT_ONES = "zero uno due tre quattro cinque sei sette otto nove dieci undici dodici tredici quattordici quindici sedici diciassette diciotto diciannove".split()
+IT_TENS = "venti trenta quaranta cinquanta sessanta settanta ottanta novanta".split()
+IT_CODES = {"A1": "a uno", "A2": "a due", "B1": "bi uno", "C1": "ci uno", "AM": "a emme", "BE": "bi e", "BS": "bi esse", "CE": "ci e", "PL": "pi elle",
+            "GPL": "gi pi elle", "ABS": "a bi esse", "RCA": "erre ci a", "ASL": "a esse elle", "LSD": "elle esse di"}
+IT_LETTERS = {"B": "bi", "C": "ci", "D": "di", "F": "effe", "G": "gi", "H": "acca", "L": "elle", "M": "emme", "N": "enne", "P": "pi", "Q": "cu",
+              "R": "erre", "S": "esse", "T": "ti", "V": "vu", "X": "ics", "Z": "zeta"}
+
+
+def it_number(n: int) -> str:
+    if n < 20:
+        return IT_ONES[n]
+    if n < 100:
+        tens, one = IT_TENS[n // 10 - 2], n % 10
+        return (tens[:-1] if one in (1, 8) else tens) + ("" if not one else "tré" if one == 3 else IT_ONES[one])
+    if n < 1000:
+        rest = n % 100
+        words = ("cento" if n < 200 else IT_ONES[n // 100] + "cento") + (it_number(rest) if rest else "")
+        return words.replace("centoott", "centott")
+    if n < 1000000:
+        rest = n % 1000
+        return ("mille" if n < 2000 else it_number(n // 1000) + "mila") + (it_number(rest) if rest else "")
+    return str(n)
+
+
+def said_italian(text: str) -> str:
+    """Italian as it is said: the voice misreads digits ("8.00" as eight thousand), units and letters on their own."""
+    for sign, said in [(r"km/h", "chilometri orari"), (r"cm3", "centimetri cubici"), (r"kW/kg", "chilowatt per chilogrammo"), (r"kW/t", "chilowatt per tonnellata"),
+                       (r"(\d) ?x ?(\d)", r"\1 per \2"), (r"\bmm\b", "millimetri"), (r"\bkW\b", "chilowatt"), (r"\bkm\b", "chilometri"), (r"\bcm\b", "centimetri"), (r"\bkg\b", "chilogrammi"), (r"\bm\.? ?(\d[\d.,]*)", r"\1 metri"),
+                       (r"(\d)\s*m\b", r"\1 metri"), (r"(\d)\s*t\b", r"\1 tonnellate"), (r"\s*%", " per cento"), (r"\bn\. ?(\d)", r"numero \1"), (r"\bS\. ?ANDREA", "Sant'Andrea")]:
+        text = re.sub(sign, said, text)
+    text = re.sub(r"\b[A-Z]{1,3}\d?\b(?!['’.])", lambda m: IT_CODES.get(m[0], IT_LETTERS.get(m[0], m[0])), text)
+    text = re.sub(r"\b(\d{1,3})\.(\d{3})\b", r"\1\2", text)  # 1.000
+    text = re.sub(r"\b(\d{1,2})\.(\d{2})\b|\bore (\d{1,2}),(\d{2})\b",  # 7.30, 8.00
+                  lambda m: ("ore " if m[3] else "") + it_number(int(m[1] or m[3])) + ("" if (m[2] or m[4]) == "00" else " e " + it_number(int(m[2] or m[4]))), text)
+    text = re.sub(r"(\d+),(\d+)", lambda m: it_number(int(m[1])) + " virgola " + " ".join(["zero"] * (len(m[2]) - len(m[2].lstrip("0"))) + ([it_number(int(m[2]))] if int(m[2]) else [])), text)
+    return re.sub(r"\d+", lambda m: it_number(int(m[0])), text)
+
+
+NUMBER_WORDS = {"".join(c for c in it_number(i).replace("é", "e")) for i in [*range(3001), *range(3000, 100000, 500)]} - {"uno", "sei"}
+
+
+def spoken_numbers(text: str) -> list:
+    """The numbers in Italian text, to compare what was written with what was said. Leaves out uno and sei, which are also ordinary words."""
+    words = re.split(r"[^\wàèéìòù]+", said_italian(text).lower().replace("é", "e"))
+    return [w for w in words if w in NUMBER_WORDS]
 
 
 def speakable(text: str, last: bool = True, lang: str = "en") -> str:
@@ -50,6 +100,8 @@ def speakable(text: str, last: bool = True, lang: str = "en") -> str:
     text = re.sub(r"\s+([,.:;!?،])", r"\1", text)
     for sign, said in SAID.get(lang, []):
         text = re.sub(sign, said, text)
+    if lang == "it":
+        text = said_italian(text)
     text = text.replace(" – ", ", ").replace("–", ", ").replace("=", ":")
     text = re.sub(r"\s+", " ", text).strip(" ,،").lstrip(".:;)").strip()
     if re.search(r"[.!?…]$", text):
@@ -191,7 +243,10 @@ class Voices:
                 s, heard = 0.0, "(too long)"
             else:
                 heard = self.hear(wav, lang)
-                s = score(text, heard, lang)
+                # Whisper writes numbers and units as digits and signs: compare them as said
+                s = score(text, said_italian(heard) if lang == "it" else heard, lang)
+                if lang == "it" and spoken_numbers(text) != spoken_numbers(heard):  # a wrong number is worse than a garbled word
+                    s = min(s, threshold(text, lang) - 0.01)
             if not best or s > best[0]:
                 best = (s, wav, heard)
             if s >= threshold(text, lang):
@@ -202,8 +257,11 @@ class Voices:
 def main():
     kind = sys.argv[1] if len(sys.argv) > 1 else "narration"
     langs = sys.argv[2:] or ["en", "ar", "it"]
-    lines = json.loads((ROOT / f"tools/narration/{'questions' if kind == 'questions' else 'lines'}.json").read_text("utf-8"))
-    dest = (lambda l: WWW / "questions" / f'{l["key"]}.ogg') if kind == "questions" else (lambda l: WWW / "narration" / l["lang"] / f'{l["key"]}.mp3')
+    lines = json.loads((ROOT / f"tools/narration/{ {'questions': 'questions', 'topics': 'topics'}.get(kind, 'lines') }.json").read_text("utf-8"))
+    dest = {
+        "questions": lambda l: WWW / "questions" / f'{l["key"]}.ogg',
+        "topics": lambda l: WWW / "topics" / l["lang"] / f'{l["key"]}.ogg',
+    }.get(kind, lambda l: WWW / "narration" / l["lang"] / f'{l["key"]}.mp3')
     shard = os.environ.get("NARRATION_SHARD")  # "i/n": record every n-th line from the i-th, to run several at once
     if shard:
         # by position in the whole list, so a restarted process still takes the same lines
@@ -211,7 +269,8 @@ def main():
         lines_ = lines[i::n]
     else:
         lines_ = lines
-    todo = [l for l in lines_ if l["lang"] in langs and not dest(l).exists()]
+    chapter = os.environ.get("NARRATION_CHAPTER")
+    todo = [l for l in lines_ if l["lang"] in langs and not dest(l).exists() and (not chapter or l.get("ch") == chapter)]
     if os.environ.get("NARRATION_LIMIT"):
         todo = todo[: int(os.environ["NARRATION_LIMIT"])]
     print(f"{len(todo)} of {len(lines)} {kind} lines to record", flush=True)

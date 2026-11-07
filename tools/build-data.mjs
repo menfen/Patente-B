@@ -16,6 +16,8 @@ const ed = JSON.parse(fs.readFileSync(path.join(dl, 'ed', 'quiz.json'), 'utf8'))
 const mkcSrc = fs.readFileSync(path.join(dl, 'mkc', 'questions.js'), 'utf8')
   .replace(/^\s*window\.QUESTIONS\s*=\s*/, '').replace(/;\s*$/, '');
 const mkc = JSON.parse(mkcSrc);
+// Corrections to the source's English, by Italian text; the source files themselves stay as downloaded.
+const enFixes = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'en-fixes.json'), 'utf8'));
 const topicsEn = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'topics-en.json'), 'utf8'));
 const imgSrcDir = path.join(dl, 'ed_zip', 'QuizPatenteB-main', 'img_sign');
 
@@ -74,10 +76,10 @@ const chapters = Object.entries(ed).map(([chId, subs]) => ({
           matched++;
           if (found.fuzzy) fuzzy++;
           const m = found.q;
-          if (m.en) item.e = m.en;
+          if (m.en) item.e = enFixes[q.q]?.e || m.en;
           if (m.trick) item.x = m.trick;
           if (m.sign) item.s = m.sign;
-          const kw = (m.keywords || []).filter(k => k.phrase).map(k => [k.phrase, k.why || '']);
+          const kw = (m.keywords || []).filter(k => k.phrase).map(k => [k.phrase, (k.why || '').replace('المرور/passage', 'passage').replace('المرور/access', 'passage/access')]);
           if (kw.length) item.k = kw;
         }
         const ex = expl.get(explHash(q.q, q.a));

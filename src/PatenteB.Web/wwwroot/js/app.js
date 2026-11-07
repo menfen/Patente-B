@@ -89,6 +89,38 @@
     clearInterval(timerId);
     Native.stop();
   }
+  // The chapter's topic animations: a list, with one player open at a time because each runs an animation loop.
+  let topicPlayer = null;
+  async function renderTopicScenes(ch, openId) {
+    const box = document.getElementById('topicScenes');
+    if (!box) return;
+    box.innerHTML = `<p class="muted small">${tx('Loading…', 'بيحمّل…')}</p>`;
+    await window.TopicScenes.load(ch.id);
+    if (I.ar) await loadArabic();
+    if (document.getElementById('topicScenes') !== box) return;
+    const subs = window.TopicScenes.list(ch);
+    const open = (i, autoplay) => {
+      if (topicPlayer) { topicPlayer.destroy(); activePlayers = activePlayers.filter(p => p !== topicPlayer); topicPlayer = null; }
+      box.querySelectorAll('.topic-player').forEach(n => n.remove());
+      box.querySelectorAll('.topic.on').forEach(n => n.classList.remove('on'));
+      if (i >= subs.length) return;
+      const row = box.querySelector(`[data-ts="${i}"]`);
+      row.classList.add('on');
+      const host = document.createElement('div');
+      host.className = 'scene-host topic-player';
+      row.after(host);
+      topicPlayer = window.Scenes.create(host, window.TopicScenes.scenarioFor(ch.id, subs[i]), { autoplay, onEnd: () => setTimeout(() => { if (row.isConnected && host.isConnected) open(i + 1, true); }, 900) });
+      activePlayers.push(topicPlayer);
+      row.scrollIntoView({ block: 'start', behavior: 'smooth' });
+    };
+    box.innerHTML = subs.map((s, i) => `<button class="topic" data-ts="${i}">
+        ${s.img ? imgTag(s.img) : '<span class="noimg">🎬</span>'}
+        <span class="grow"><div class="t">${i + 1}. ${esc(I.ar && s.ar ? s.ar : subName(ch, s))}</div><div class="it"><span dir="ltr">${esc(s.it)}</span></div></span>
+        <span class="play-mark">▶</span>
+      </button>`).join('');
+    box.onclick = e => { const b = e.target.closest('[data-ts]'); if (b) open(+b.dataset.ts, true); };
+    if (openId) { const i = subs.findIndex(s => s.id === openId); if (i >= 0) open(i, false); }
+  }
   function topbar(text, backTo) {
     return `<header class="topbar">
       ${backTo ? `<button class="icon-btn" data-go="${backTo}" aria-label="${tx('Back', 'رجوع')}">${back()}</button>` : '<img class="logo" src="img/icon.svg" alt="" width="34" height="34">'}
@@ -215,7 +247,7 @@
     const L = ch.lesson, A = lessonAr(L);
     store.last = id; store.seen[id] = true; save();
     const nsc = L.scenarios.length;
-    const tabs = [['learn', `📖 ${tx('Learn', 'اتعلّم')}`, tx('lesson', 'الدرس')], ['watch', `🎬 ${tx('Watch', 'اتفرّج')}`, tx(`${nsc} scenario${nsc > 1 ? 's' : ''}`, `${nsc} سيناريو`)], ['practice', `✅ ${tx('Practise', 'اتمرّن')}`, tx(`${ch.ids.length} questions`, `${ch.ids.length} سؤال`)]];
+    const tabs = [['learn', `📖 ${tx('Learn', 'اتعلّم')}`, tx('lesson', 'الدرس')], ['watch', `🎬 ${tx('Watch', 'اتفرّج')}`, tx(`${ch.subs.length} topics`, `${ch.subs.length} موضوع`)], ['practice', `✅ ${tx('Practise', 'اتمرّن')}`, tx(`${ch.ids.length} questions`, `${ch.ids.length} سؤال`)]];
     let body = '';
     if (tab === 'learn') {
       body = `
@@ -231,7 +263,7 @@
         return sc ? `<div class="scene-title"><h3>${i + 1}. ${esc(tl(sc.title))}</h3></div>
           <div class="scene-host" data-scene="${sid}"></div>
           <details class="steps"><summary>${tx('Read all steps', 'اقرا كل الخطوات')}</summary><ol>${sc.steps.map(s => `<li>${tl(s.text)}</li>`).join('')}</ol></details>` : '';
-      }).join('') + `<div class="next-row"><button class="btn" data-go="#/ch/${id}/practice">${tx('Next: practise the questions', 'اللي بعده: اتمرّن على الأسئلة')} ✅</button></div>`;
+      }).join('') + `<h3 class="topic-head">${tx('Topic by topic', 'موضوع موضوع')}</h3><p class="muted small" style="margin-top:-4px">${tx('One short animation for each topic of this chapter, ending with what the exam asks. They play one after another.', 'رسمة متحركة قصيرة لكل موضوع في الفصل، وفي الآخر اللي بيتسأل في الامتحان. بيشتغلوا ورا بعض.')}</p><div class="topics" id="topicScenes"></div><div class="next-row"><button class="btn" data-go="#/ch/${id}/practice">${tx('Next: practise the questions', 'اللي بعده: اتمرّن على الأسئلة')} ✅</button></div>`;
     } else {
       const mm = mastered(ch.ids);
       body = `
@@ -265,7 +297,10 @@
         <nav class="tabs">${tabs.map(([k, label, sub]) => `<button class="${k === tab ? 'on' : ''}" data-go="#/ch/${id}/${k}">${label}<small>${sub}</small></button>`).join('')}</nav>
         ${body}
       </main>`;
-    if (tab === 'watch') document.querySelectorAll('.scene-host').forEach(host => activePlayers.push(window.Scenes.create(host, SCENARIOS[host.dataset.scene])));
+    if (tab === 'watch') {
+      document.querySelectorAll('.scene-host').forEach(host => activePlayers.push(window.Scenes.create(host, SCENARIOS[host.dataset.scene])));
+      renderTopicScenes(ch);
+    }
     window.scrollTo(0, 0);
   }
 

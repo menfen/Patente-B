@@ -105,6 +105,21 @@ python tools/narration/make-audio.py
 `make-audio.py` needs Python 3.11 and an NVIDIA GPU; its first lines show how to install the requirements. It records only the missing clips.
 A caption without a recording falls back to the device's own voice.
 
+### Topic animations
+
+Every topic in the question bank has its own short animation in the chapter's Watch tab. The templates are in `wwwroot/js/topic-scenes.js`, and each chapter's scripts (English and Egyptian Arabic) are in `wwwroot/js/topics/<chapter id>.js`. Each topic ends with one true and one false statement taken from the question bank.
+
+Their voices live in `wwwroot/audio/topics/<en|ar>/<key>.ogg`. After changing a script:
+
+```bash
+node tools/narration/export.mjs
+python tools/narration/make-audio.py topics
+```
+
+To record everything, run `tools/narration/record-by-chapter.sh` (set `PY` to the Python that has the requirements). It works one chapter at a time with two jobs, because a third fills a 24 GB GPU and all of them stall, and it restarts them every 150 clips, because a long run gets slower. Progress goes to `tools/narration/log-progress.txt`.
+
+The voice misreads digits, units and lone letters, so `make-audio.py` writes them out before recording (`said_italian` and `SAID`), and a take whose numbers don't match the text is recorded again. To redo a clip after changing these rules, delete its file: existing clips are skipped.
+
 `node tools/licenses.mjs` rebuilds `licenses.html`.
 
 ## Sources and licences
