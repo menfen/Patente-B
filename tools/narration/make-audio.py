@@ -13,6 +13,11 @@ Set NARRATION_LIMIT=n to record only the first n missing lines, and NARRATION_SH
 the work between n processes running at the same time (each writes its own report), and
 NARRATION_CHAPTER=<chapter id> to record one chapter. record-by-chapter.sh uses all three: long runs get slower.
 
+Our own Egyptian voice for the Arabic: set EGY_T3 to the fine-tuned T3 checkpoint (F:/tts-train/ckpt/egy4_ep1.safetensors)
+and EGY_VOICE to the reference recording of the voice to copy. Arabic lines are then read by that model in that voice,
+from the تشكيل version of each segment in tashkeel-ar.json (ق kept as written); their Italian terms use the base model
+in the same voice. English lines are unchanged. The fine-tune data is licensed for non-commercial use only.
+
 Needs Python 3.11 and an NVIDIA GPU:
     pip install chatterbox-tts openai-whisper soundfile "setuptools<81" --extra-index-url https://download.pytorch.org/whl/cu124
 """
@@ -28,7 +33,7 @@ import soundfile as sf
 import torch
 
 ROOT = Path(__file__).resolve().parents[2]
-WWW = ROOT / "src/PatenteB.Web/wwwroot/audio"
+WWW = Path(os.environ.get("AUDIO_OUT") or ROOT / "src/PatenteB.Web/wwwroot/audio")  # AUDIO_OUT: record somewhere else, e.g. to test
 TRIES = 8
 SR = 24000
 FADE = 0.01  # seconds faded in and out at each segment edge, so joins don't click
@@ -213,6 +218,22 @@ def level(wav: np.ndarray, target_rms: float = 0.08) -> np.ndarray:
     return wav * (target_rms / rms)
 
 
+EGY_T3, EGY_VOICE = os.environ.get("EGY_T3"), os.environ.get("EGY_VOICE")
+EGY_SETTINGS = dict(exaggeration=0.5, cfg_weight=0.3, temperature=0.7)  # what the listening tests used
+
+
+def egy_text(text: str) -> str:
+    """The تشكيل version of an Arabic segment, as the Egyptian model was tested on: no punctuation inside, a full stop at the end."""
+    t = TASHKEEL.get(text.strip(), text)
+    t = re.sub(r"\([^)]*[A-Za-z][^)]*\)", " ", t)
+    t = re.sub(r"[A-Za-zÀ-ÿ]+", " ", t)
+    t = re.sub(r"[:؛;،,()\"«»؟?!.]", " ", t)
+    return re.sub(r"\s+", " ", t).strip() + "."
+
+
+TASHKEEL = json.loads((ROOT / "tools/narration/tashkeel-ar.json").read_text("utf-8")) if EGY_T3 else {}
+
+
 class Voices:
     def __init__(self):
         import whisper
@@ -221,20 +242,33 @@ class Voices:
         # One multilingual model for English, Arabic and Italian: the same speaker says every part of
         # a caption, so the Italian terms sound like the narrator pronouncing them, not a second voice.
         self.mtl = ChatterboxMultilingualTTS.from_pretrained(device="cuda")
+        self.base_t3, self.default_conds = self.mtl.t3, self.mtl.conds
+        if EGY_T3:
+            import copy
+            from safetensors.torch import load_file
+            self.egy_t3 = copy.deepcopy(self.base_t3)
+            self.egy_t3.load_state_dict(load_file(EGY_T3))
+            self.egy_t3.eval()
+            self.mtl.prepare_conditionals(EGY_VOICE, exaggeration=EGY_SETTINGS["exaggeration"])
+            self.egy_conds, self.mtl.conds = self.mtl.conds, self.default_conds
 
     def hear(self, wav: np.ndarray, lang: str) -> str:
         import torchaudio.functional as F
         audio = F.resample(torch.from_numpy(wav).float(), SR, 16000).numpy()
         return self.asr.transcribe(audio, language=lang, fp16=True)["text"]
 
-    def say(self, text: str, lang: str, last: bool = True):
-        """Best take of one segment: (score, wav, transcript)."""
+    def say(self, text: str, lang: str, last: bool = True, egy: bool = False):
+        """Best take of one segment: (score, wav, transcript). egy: a segment of an Arabic line read in our Egyptian voice."""
+        spoken = egy_text(text) if egy and lang == "ar" else None
         text = speakable(text, last, lang)
+        self.mtl.conds = self.egy_conds if egy else self.default_conds
+        self.mtl.t3 = self.egy_t3 if spoken else self.base_t3
+        settings = EGY_SETTINGS if spoken else dict(exaggeration=0.4, cfg_weight=0.5)
         best = None
         for attempt in range(TRIES):
-            torch.manual_seed(1000 + attempt)
+            torch.manual_seed(int(os.environ.get("SEED", 1000)) + attempt)
             try:
-                wav = self.mtl.generate(text, language_id=lang, exaggeration=0.4, cfg_weight=0.5)
+                wav = self.mtl.generate(spoken or text, language_id=lang, **settings)
             except IndexError:  # the model's alignment check fails on some very short texts; try another seed
                 continue
             wav = trim(wav.squeeze().cpu().numpy().astype(np.float32))
@@ -263,14 +297,13 @@ def main():
         "topics": lambda l: WWW / "topics" / l["lang"] / f'{l["key"]}.ogg',
     }.get(kind, lambda l: WWW / "narration" / l["lang"] / f'{l["key"]}.mp3')
     shard = os.environ.get("NARRATION_SHARD")  # "i/n": record every n-th line from the i-th, to run several at once
-    if shard:
-        # by position in the whole list, so a restarted process still takes the same lines
-        i, n = map(int, shard.split("/"))
-        lines_ = lines[i::n]
-    else:
-        lines_ = lines
     chapter = os.environ.get("NARRATION_CHAPTER")
-    todo = [l for l in lines_ if l["lang"] in langs and not dest(l).exists() and (not chapter or l.get("ch") == chapter)]
+    todo = [l for l in lines if l["lang"] in langs and not dest(l).exists() and (not chapter or l.get("ch") == chapter)]
+    if shard:
+        # every n-th of the lines still missing: processes started together see the same list, so they never overlap.
+        # (Splitting the whole list instead left one process idle when lines alternate English / Arabic.)
+        i, n = map(int, shard.split("/"))
+        todo = todo[i::n]
     if os.environ.get("NARRATION_LIMIT"):
         todo = todo[: int(os.environ["NARRATION_LIMIT"])]
     print(f"{len(todo)} of {len(lines)} {kind} lines to record", flush=True)
@@ -284,7 +317,7 @@ def main():
         parts, notes, prev = [], [], None
         segs = line["segments"]
         for i, seg in enumerate(segs):
-            s, wav, heard = voices.say(seg["text"], seg["lang"], last=i == len(segs) - 1)
+            s, wav, heard = voices.say(seg["text"], seg["lang"], last=i == len(segs) - 1, egy=bool(EGY_T3) and line["lang"] == "ar")
             if prev is not None:
                 gap = max(pause_before(seg["text"]), pause_before(prev["text"][-1:]))
                 parts.append(np.zeros(int(gap * SR), np.float32))

@@ -12,7 +12,7 @@ ef8a2b6ba4	True: it forbids parking but allows stopping.	صح: بتمنع الر
 85896002dc	True: it marks places where leaving a vehicle parked is forbidden.	صح: بتحدد الأماكن اللي ممنوع تسيب فيها عربيتك راكنة.
 8340043673	True: outside built-up areas, without panels, the ban is permanent, 24 hours a day.	صح: بره المدن، من غير لوحات، المنع دايم 24 ساعة.
 a57c2d4c3e	True: with the 'zona' panel it marks a whole area where parking is forbidden.	صح: مع لوحة 'zona' بتحدد منطقة كاملة الركن فيها ممنوع.
-6a4d2f3cf8	True: the ban applies only on the side of the road where the sign is placed.	صح: المنع بس على ناحية الطريق اللي العلامة متحطوطة فيها.
+6a4d2f3cf8	True: the ban applies only on the side of the road where the sign is placed.	صح: المنع بس على ناحية الطريق اللي العلامة محطوطة فيها.
 58b6e760b4	True: with the panel shown (working-day symbol), the ban applies only on working days.	صح: مع اللوحة اللي في الصورة (رمز أيام الشغل)، المنع بيبقى في أيام الشغل بس.
 7cf8dcebeb	True: with the tow truck panel, it indicates a tow-away zone where offending vehicles are removed.	صح: مع لوحة الونش، معناها منطقة سحب إجباري والعربيات المخالفة بتتشال.
 9fad6c5e0a	True: with the tow-away panel, parked vehicles are removed by force.	صح: مع لوحة الونش، العربيات الراكنة بتتشال بالونش.

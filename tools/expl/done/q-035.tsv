@@ -37,7 +37,7 @@ b8c5a55747	True: the chevrons warn the driver to take the bend carefully and at 
 eec67a8a4b	False: the chevrons point to the left, so the board marks a dangerous left bend, not a right one.	غلط: الأسهم ناحية الشمال، فاللوحة بتبين منحنى خطر على الشمال، مش اليمين.
 abe6412108	False: chevrons mark a bend; approaching level crossings are marked by panels with red diagonal bars.	غلط: الأسهم بتبين منحنى؛ قرب المزلقان بيتبين بلوحات عليها شرط حمرا مايلة.
 3078a48873	False: chevron boards are used on any type of road with dangerous bends, not only main extra-urban roads.	غلط: لوحات الأسهم بتستعمل على أي نوع طريق فيه منحنيات خطرة، مش الطرق بره المدن الرئيسية بس.
-8df454ee20	True: the board with chevrons pointing both ways, placed at the end of the road, shows that you must turn right or left.	صح: اللوحة اللي عليها أسهم للناحيتين، واللي متحطوطة في آخر الطريق، بتبين إنك لازم تلف يمين أو شمال.
+8df454ee20	True: the board with chevrons pointing both ways, placed at the end of the road, shows that you must turn right or left.	صح: اللوحة اللي عليها أسهم للناحيتين، واللي محطوطة في آخر الطريق، بتبين إنك لازم تلف يمين أو شمال.
 02cbd404e8	True: the arrowheads on the board point to the directions in which you can go.	صح: رؤوس الأسهم اللي على اللوحة بتشاور على الاتجاهات اللي تقدر تروحها.
 01073602d5	True: this marker is installed at T-junctions, opposite the road you arrive from.	صح: العلامة دي بتتحط عند التقاطعات اللي على شكل T، قصاد الطريق اللي جاي منه.
 9481198167	True: it is placed where you cannot continue straight on, so you must turn.	صح: بتتحط في المكان اللي متقدرش تكمل فيه على طول، فلازم تلف.
