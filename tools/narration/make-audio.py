@@ -75,7 +75,7 @@ def it_number(n: int) -> str:
 
 def said_italian(text: str) -> str:
     """Italian as it is said: the voice misreads digits ("8.00" as eight thousand), units and letters on their own."""
-    for sign, said in [(r"km/h", "chilometri orari"), (r"cm3", "centimetri cubici"), (r"kW/kg", "chilowatt per chilogrammo"), (r"kW/t", "chilowatt per tonnellata"),
+    for sign, said in [(r"bonus-malus", "bonus malus"), (r"km/h", "chilometri orari"), (r"cm3", "centimetri cubici"), (r"kW/kg", "chilowatt per chilogrammo"), (r"kW/t", "chilowatt per tonnellata"),
                        (r"(\d) ?x ?(\d)", r"\1 per \2"), (r"\bmm\b", "millimetri"), (r"\bkW\b", "chilowatt"), (r"\bkm\b", "chilometri"), (r"\bcm\b", "centimetri"), (r"\bkg\b", "chilogrammi"), (r"\bm\.? ?(\d[\d.,]*)", r"\1 metri"),
                        (r"(\d)\s*m\b", r"\1 metri"), (r"(\d)\s*t\b", r"\1 tonnellate"), (r"\s*%", " per cento"), (r"\bn\. ?(\d)", r"numero \1"), (r"\bS\. ?ANDREA", "Sant'Andrea")]:
         text = re.sub(sign, said, text)
